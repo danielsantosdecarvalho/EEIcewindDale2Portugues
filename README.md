@@ -2,12 +2,13 @@
 
 ## Habilidade de Classes e Raça ## 
 
-## 🌑 Raça / Habilidades Gerais
+## 🌑 Raça / Habilidades Gerais / Etc
 
 | Inglês        | Português           |
 |---------------|---------------------|
 | Darkvision    | Visão no Escuro     |
 | Stonecunning  | Ligação com Pedras  |
+| Kensei  		| Kensai  			  |
 
 
 ## 🪓 Bárbaro
