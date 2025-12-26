@@ -2,113 +2,173 @@
 
 ##Habilidade de Classes##
 
+## 🌑 Raça / Habilidades Gerais
 
-Darkvision				Visão no Escuro
-Stonecunning			Ligação com Pedras
+```markdown
+| Inglês        | Português           |
+|---------------|---------------------|
+| Darkvision    | Visão no Escuro     |
+| Stonecunning  | Ligação com Pedras  |
+```
 
-Barbaro
-Fast movement			Movimento Rápido
-illiteracy				analfabetismo
-rage 1/day				fúria 1/dia
-Uncanny dodge			Esquiva sobrenatural
-Trap sense +1			Sentir armadilhas +1
-Improved uncanny dodge	Esquiva sobrenatural aprimorada
-Damage reduction 1/—	Redução de dano 1/
-Greater rage			Fúria maior
-Indomitable will		Vontade inabalável
-Tireless rage			Fúria incansável
-Mighty rage				Fúria poderosa
-										
+---
 
-Bard
-Bardic music			Música de bardo
-bardic knowledge		conhecimento de bardo
-countersong				música de proteção
-fascinate				fascinar
-inspire courage +1		inspirar coragem +1
-Inspire competence		Inspirar competência
-Suggestion				Sugestão
-Inspire greatness		Inspirar grandeza
-Song of freedom			Melodia da libertação
-Inspire heroics			Inspirar heroísmo
-Mass suggestion			Sugestão em massa
+## 🪓 Bárbaro
 
-Druida
-Animal companion,		Companheiro animal
-nature sense, 			senso da natureza
-wild empathy			empatia com a natureza
-Woodland stride			Caminho da Floresta
-Trackless step			Rastro Invisível
-Resist nature’s lure	Resistir à tentação da natureza
-Wild shape				Forma selvagem 
-Venom immunity			Imunidade a venenos
-A thousand faces		Mil faces
-Timeless body			Corpo atemporal
+```markdown
+| Inglês                     | Português                          |
+|----------------------------|------------------------------------|
+| Fast movement              | Movimento Rápido                   |
+| Illiteracy                 | Analfabetismo                      |
+| Rage 1/day                 | Fúria 1/dia                        |
+| Uncanny dodge              | Esquiva sobrenatural               |
+| Trap sense +1              | Sentir armadilhas +1               |
+| Improved uncanny dodge     | Esquiva sobrenatural aprimorada    |
+| Damage reduction 1/—       | Redução de dano 1/—                |
+| Greater rage               | Fúria maior                        |
+| Indomitable will           | Vontade inabalável                 |
+| Tireless rage              | Fúria incansável                   |
+| Mighty rage                | Fúria poderosa                     |
+```
 
-Rogue Ladino
-Sneak attack +1d6		Ataque furtivo +1d6,
-trapfinding	 			encontrar armadilhas
-Evasion					Evasão
-Trap sense +1			Sentir armadilhas 
-Uncanny dodge			Esquiva sobrenatural
-Improved uncanny dodge	Esquiva sobrenatural aprimorada
-Special ability			Habilidade especial
-Crippling Strike 		Ataque lncapacitante
-Defensive Roll			Amortecer Impacto
-Improved Evasion		Evasão Aprimorada
-Opportunist				Oportunismo
-Skill Mastery			Maestria em Perícia
-Slippery Mind			Mente Escorregadia
+---
 
-Mago
-Summon familiar			Invocar familiar
-Scribe Scroll			Escrever pergaminho
-Bonus feat				Talento Adicional
+## 🎵 Bardo
 
-Monk (livro original)
-flurry of blows			Rajada de golpes
-unarmed strike			Ataque desarmado
-Still mind				Mente tranqüila
-Ki strike				Ataque chi 
-slow fall 20 ft			queda suave 6 m
-Purity of body			Pureza corporal
-Wholeness of body		Integridade corporal
-Diamond body			Corpo de diamante
-greater flurry			rajada maior
-Abundant step			Passo etéreo
-Diamond soul			Alma de diamante
-Quivering palm			Mão vibrante
-Timeless body			Corpo atemporal
-tongue of the sun and moon	 idiomas do sol e da lua
-Empty body				Corpo vazio
-Perfect self			Auto-perfeição
+```markdown
+| Inglês              | Português                     |
+|---------------------|-------------------------------|
+| Bardic music        | Música de bardo               |
+| Bardic knowledge    | Conhecimento de bardo         |
+| Countersong         | Música de proteção            |
+| Fascinate           | Fascinar                      |
+| Inspire courage +1  | Inspirar coragem +1           |
+| Inspire competence  | Inspirar competência          |
+| Suggestion          | Sugestão                      |
+| Inspire greatness   | Inspirar grandeza             |
+| Song of freedom     | Melodia da libertação         |
+| Inspire heroics     | Inspirar heroísmo             |
+| Mass suggestion     | Sugestão em massa             |
+```
 
-Paladin
-Aura of good			Aura do bem, 
-detect evil				detectar o mal
-smite evil 1/day		destruir o mal 1/dia
-Divine grace			Graça divina
-lay on hands			cura pelas mãos
-Aura of courage			Aura de coragem
-divine health			saúde divina
-Turn undead				Expulsar mortos-vivos
-special mount			montaria especial
-Remove disease 1/week	Remover doença 1/semana
+---
 
-Ranger
-1st favored enemy		1° inimigo predileto
-Track					rastrear
-wild empathy			empatia com a natureza
-Combat style			Estilo de Combate
-Endurance				Tolerância
-Animal companion		Companheiro animal
-Improved combat style	Estilo de Combate Aprimorado
-Woodland stride			Caminho da floresta 
-Swift tracker			Rastreador Eficaz
-Evasion					Evasão
-Combat style mastery	Domínio do Estilo de Combate
-Camouflage				Camuflagem
-Hide in plain sight		Mimetismo
+## 🌿 Druida
+
+```markdown
+| Inglês                   | Português                          |
+|--------------------------|------------------------------------|
+| Animal companion         | Companheiro animal                 |
+| Nature sense             | Senso da natureza                  |
+| Wild empathy             | Empatia com a natureza             |
+| Woodland stride          | Caminho da floresta                |
+| Trackless step           | Rastro invisível                   |
+| Resist nature’s lure     | Resistir à tentação da natureza    |
+| Wild shape               | Forma selvagem                     |
+| Venom immunity           | Imunidade a venenos                |
+| A thousand faces         | Mil faces                          |
+| Timeless body            | Corpo atemporal                    |
+```
+
+---
+
+## 🗡️ Ladino (Rogue)
+
+```markdown
+| Inglês                     | Português                          |
+|----------------------------|------------------------------------|
+| Sneak attack +1d6          | Ataque furtivo +1d6                |
+| Trapfinding                | Encontrar armadilhas               |
+| Evasion                    | Evasão                             |
+| Trap sense +1              | Sentir armadilhas +1               |
+| Uncanny dodge              | Esquiva sobrenatural               |
+| Improved uncanny dodge     | Esquiva sobrenatural aprimorada    |
+| Special ability            | Habilidade especial                |
+| Crippling strike           | Ataque incapacitante               |
+| Defensive roll             | Amortecer impacto                  |
+| Improved evasion           | Evasão aprimorada                  |
+| Opportunist                | Oportunismo                        |
+| Skill mastery              | Maestria em perícia                |
+| Slippery mind              | Mente escorregadia                 |
+```
+
+---
+
+## 🧙‍♂️ Mago
+
+```markdown
+| Inglês           | Português              |
+|------------------|------------------------|
+| Summon familiar  | Invocar familiar       |
+| Scribe scroll    | Escrever pergaminho    |
+| Bonus feat       | Talento adicional      |
+```
+
+---
+
+## 🥋 Monge (Livro Original)
+
+```markdown
+| Inglês                          | Português                         |
+|---------------------------------|-----------------------------------|
+| Flurry of blows                 | Rajada de golpes                  |
+| Unarmed strike                  | Ataque desarmado                  |
+| Still mind                      | Mente tranquila                   |
+| Ki strike                       | Ataque chi                        |
+| Slow fall 20 ft                 | Queda suave (6 m)                 |
+| Purity of body                  | Pureza corporal                   |
+| Wholeness of body               | Integridade corporal              |
+| Diamond body                    | Corpo de diamante                 |
+| Greater flurry                  | Rajada maior                      |
+| Abundant step                   | Passo etéreo                     |
+| Diamond soul                    | Alma de diamante                  |
+| Quivering palm                  | Mão vibrante                      |
+| Timeless body                   | Corpo atemporal                   |
+| Tongue of the sun and moon      | Idiomas do sol e da lua           |
+| Empty body                      | Corpo vazio                       |
+| Perfect self                    | Auto-perfeição                    |
+```
+
+---
+
+## 🛡️ Paladino
+
+```markdown
+| Inglês                 | Português                         |
+|------------------------|-----------------------------------|
+| Aura of good           | Aura do bem                       |
+| Detect evil            | Detectar o mal                    |
+| Smite evil 1/day       | Destruir o mal 1/dia              |
+| Divine grace           | Graça divina                      |
+| Lay on hands           | Cura pelas mãos                   |
+| Aura of courage        | Aura de coragem                   |
+| Divine health          | Saúde divina                      |
+| Turn undead            | Expulsar mortos-vivos             |
+| Special mount          | Montaria especial                 |
+| Remove disease 1/week  | Remover doença 1/semana           |
+```
+
+---
+
+## 🏹 Ranger
+
+```markdown
+| Inglês                     | Português                          |
+|----------------------------|------------------------------------|
+| 1st favored enemy          | 1º inimigo predileto               |
+| Track                      | Rastrear                           |
+| Wild empathy               | Empatia com a natureza             |
+| Combat style               | Estilo de combate                  |
+| Endurance                  | Tolerância                         |
+| Animal companion           | Companheiro animal                 |
+| Improved combat style      | Estilo de combate aprimorado       |
+| Woodland stride            | Caminho da floresta                |
+| Swift tracker              | Rastreador eficaz                  |
+| Evasion                    | Evasão                             |
+| Combat style mastery       | Domínio do estilo de combate       |
+| Camouflage                 | Camuflagem                         |
+| Hide in plain sight        | Mimetismo                          |
+```
 
 
 ##Skill e Perícias##
