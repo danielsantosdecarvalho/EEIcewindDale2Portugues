@@ -7073,7 +7073,7 @@ Encantamento: +1
 Tipo de Dano: Contusão
 Especial:
   Resistência: 10/- Resistência a Frio
-  Círculo Menor de Calor: Todas as outras criaturas num raio de 3 metros ganham 5/- Resistência a Frio
+  Círculo Menor de Calor: Todas as outras criaturas num raio de 3 metros (10 pés) ganham 5/- Resistência a Frio
 Peso: 1,5 kg (3 lb).
 Requisito de Talento: Arma Simples, Maça
 Tipo: Uma Mão~
@@ -10299,14 +10299,14 @@ Peso: 0 kg.~
 
 ESTATÍSTICAS:
 
-Ao ser arremessado, o crânio paira no ponto alvo até que uma criatura se aproxime, momento em que explode, causando 10d8 de dano mágico, causando dano a todos em um raio de 3 metros (Reflexos CD 25 para metade).
+Ao ser arremessado, o crânio paira no ponto alvo até que uma criatura se aproxime, momento em que explode, causando 10d8 de dano mágico, causando dano a todos em um raio de 3 metros (10 pés) (Reflexos CD 25 para metade).
 Peso: 0,5 kg (1 lb)~
 @12049 = ~Crânio Detonante de Xainlaphar~ // HoF
 @12050 = ~Xainlaphar, um Mago Vermelho insano de Thay, era conhecido por transformar os crânios de seus inimigos mortos em armas. Sua arma mais comum era conhecida como "Crânio Detonador". Em essência, o item não é muito diferente do feitiço Armadilha de Crânios. Xainlaphar morreu em 913 CV, muito antes de ter tempo de usar metade de seus crânios encantados. Eles foram reivindicados por seus inimigos, um paladino e sacerdote de Helm. Eles pretendiam destruir os itens, mas pelo menos quarenta foram roubados por ladrões astutos no caminho de volta para Sembia.
 
 ESTATÍSTICAS:
 
-Ao ser arremessado, o crânio paira no ponto alvo até que uma criatura se aproxime, momento em que explode, causando 20d8 de dano mágico, causando dano a todos em um raio de 3 metros (Reflexos CD 35 para metade).
+Ao ser arremessado, o crânio paira no ponto alvo até que uma criatura se aproxime, momento em que explode, causando 20d8 de dano mágico, causando dano a todos em um raio de 3 metros (10 pés) (Reflexos CD 35 para metade).
 Peso: 0,5 kg (1 lb).~
 //@12051 = ~Amuleto do Lobo Uivante~
 @12052 = ~Este é um pequeno amuleto prateado em forma de cabeça de lobo, do tipo às vezes confeccionado pelos xamãs Rashemen da Tribo do Lobo. Segurando o amuleto com força e uivando para os céus, pode-se invocar um feroz lobo cinzento para ajudá-lo na batalha. Diz-se que tais amuletos desbotam à medida que seu poder diminui e, eventualmente, se desintegram em pó prateado quando o restante de sua energia de invocação é consumido.
@@ -10452,7 +10452,7 @@ Peso: 0,5 kg (1 lb)~
 ESTATÍSTICAS:
 
 Dano: 6D6 (Reflexos CD 18 para metade)
-Área: raio de 6 metros
+Área: raio de 6 metros (20 pés)
 Peso: 0,5 kg (1 lb).~
 //@12095 = ~Frasco de Braehg~
 @12096 = ~Braehg é uma mistura vil de sangue de javali misturado com leite e um pouco de ervas raras. Beber um frasco inteiro de uma só vez dá ao bravo bebedor uma explosão de poder físico... mas é quase certo que também o deixará enjoado.
@@ -11141,7 +11141,7 @@ ESTATÍSTICAS:
 
 Especial: Faz os inimigos correrem de medo, a menos que façam um teste de Vontade (CD 15).
 Alcance: 30 metros (100 pés)
-Área: 3 metros de raio
+Área: 3 metros de raio (10 pés)
 Duração: 15 rodadas
 Peso: 0,5 kg (1 lb)~
 //@12235 = ~Varinha de Mísseis Mágicos~
@@ -11173,7 +11173,7 @@ Habilidade 1:
 Efeito: Dispara uma Bola de Fogo
 Dano: 6d6 (Reflexos CD 17)
 Alcance: 30 metros (100 pés)
-Área: 10 metros de raio
+Área: 10 metros de raio (30 pés)
 
 Habilidade 2:
 Efeito: Queimador de Agannazar
@@ -11203,7 +11203,7 @@ ESTATÍSTICAS:
 Efeito: Coluna de Chamas
 Dano: 9d6 (Reflexos CD 18)
 Alcance: 36 metros (120 pés)
-Área: Raio de 3 m
+Área: Raio de 3 metros (10 pés)
 Peso: 0,5 kg (1 lb)~
 //@12249 = ~Varinha de Detecção de Armadilhas~
 //@12250 = ~A descrição do item pode permanecer a mesma; se precisar de uma nova descrição, coloque-a aqui~
@@ -12978,7 +12978,7 @@ Peso: 0,5 kg (1 lb)~
 ESTATÍSTICAS:
 
 Dano: 15d6 (Reflexos CD 30 para metade)
-Área: raio de 6 metros
+Área: raio de 6 metros (20 pés)
 Peso: 0,5 kg (1 lb)~
 //@12665 = ~Proteção contra Ácido~
 @12666 = ~Um pergaminho de Proteção contra Ácido oferece proteção ao alvo contra todas as formas de ácido, sejam elas de natureza natural ou mágica. O efeito não é permanente, no entanto, e desaparecerá após 24 horas.

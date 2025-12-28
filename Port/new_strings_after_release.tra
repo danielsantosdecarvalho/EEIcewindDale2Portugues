@@ -1049,7 +1049,7 @@ Tempo de Conjuração: 7
 Área de Efeito: Raio de 3 metros (10 pés)
 Teste de Resistência: Nenhum
 
-Quando esta magia é conjurada, todas as criaturas em um raio de 3 metros são afetadas individualmente por Proteção contra o Mal, concedendo-lhes +2 de CA e +2 em Testes de Resistência contra criaturas malignas, além de imunidade a efeitos de encantamento e dominação dessas criaturas. ~
+Quando esta magia é conjurada, todas as criaturas em um raio de 3 metros (10 pés) são afetadas individualmente por Proteção contra o Mal, concedendo-lhes +2 de CA e +2 em Testes de Resistência contra criaturas malignas, além de imunidade a efeitos de encantamento e dominação dessas criaturas. ~
 @32523 = ~Carga Estática
 (Transmutação)
 Nível: Drd 5, Rgr 6, Talos 4
@@ -2372,7 +2372,7 @@ Tempo de Conjuração: 7
 Área de Efeito: Raio de 3 metros (10 pés)
 Teste de Resistência: Nenhum
 
-Quando esta magia é conjurada, todas as criaturas em um raio de 3 metros são afetadas individualmente por Proteção contra o Mal, concedendo às criaturas malignas uma penalidade de -2 para acertá-las e reduzindo a CD de resistência de magias e habilidades de criaturas malignas que as atingiriam em 2, além de imunidade a efeitos de encantamento e dominação.~
+Quando esta magia é conjurada, todas as criaturas em um raio de 3 metros (10 pés) são afetadas individualmente por Proteção contra o Mal, concedendo às criaturas malignas uma penalidade de -2 para acertá-las e reduzindo a CD de resistência de magias e habilidades de criaturas malignas que as atingiriam em 2, além de imunidade a efeitos de encantamento e dominação.~
 @36454 = ~Pedrinhas em Rochas
 (Transmutação)
 Nível: Clr 5, Drd 4, Rgr 4
@@ -2455,7 +2455,7 @@ Tipo de Dano: Cortante
 Especial:
 Considera-se uma arma de prata
 Cada acerto tem 10% de chance de criar uma Fruta Boa em um dos espaços de item rápido do portador, ou em um espaço de inventário normal se não houver espaços de item rápido vazios.
-Peso: 1,8 kg
+Peso: 2 Kg (4 lb).
 Requisito de Talento: Arma Marcial, Espada Grande
 Tipo: Uma mão~
 @10974 = ~O arquidruida Caernach era conhecido por carregar muitos itens encantados, a maioria dos quais ele mesmo forjava. Os mais famosos eram suas botas, "Sopro da Vida", que faziam brotar flores e pequenas mudas da terra por onde Caernach passava. Ainda assim, os "pertences menores" do arquidruida não eram desprezíveis - veja, por exemplo, sua foice de prata, feita para colher visco sagrado e as cabeças de inimigos. Esta arma incomum é, na verdade, um cruzamento entre uma foice e uma espada propriamente dita, assemelhando-se mais a uma cimitarra. Tanto o cabo de carvalho quanto a lâmina de prata são gravados com espirais e padrões decorativos.
@@ -2469,7 +2469,7 @@ Tipo de Dano: Cortante
 Especial:
 Conta como uma arma de prata
 Cada acerto tem 20% de chance de criar uma Fruta Boa em um dos espaços de item rápido do portador, ou em um espaço de inventário normal se não houver espaços de item rápido vazios.
-Peso: 1,8 kg
+Peso: 2 Kg (4 lb).
 Requisito de Talento: Arma Marcial, Espada Grande
 Tipo: Uma mão~
 @11080 = ~Delnar era um mago tímido que nunca foi dado a aventuras. Passou a maior parte da vida estudando em silêncio, morando com a mãe e tentando aprender a arte de criar itens mágicos. Infelizmente, sua mãe tinha o hábito de interrompê-lo em momentos cruciais do processo de encantamento, muitas vezes com resultados desastrosos. O Delícia de Delnar recebeu esse nome devido à ausência de interrupções durante sua criação (e pode muito bem ser o único item feito por Delnar que funciona como deveria).
@@ -2508,7 +2508,7 @@ ESTATÍSTICAS:
 Classe de Armadura: +3 (armadura)
 Especial:
 O dano de frio e mágico causado pelos feitiços e habilidades do usuário é aumentado em 20%.
-Peso: 1,4 kg~
+Peso: 1,5 Kg (3 lb)~
 @12694 = ~Dizem que essas magníficas braçadeiras foram forjadas na Espinha Dorsal das Montanhas do Mundo, e não faz muito tempo. Na costa do Mar de Gelo Movediço, vivia Prashnak, um abjurador — e um teimoso, diga-se de passagem. Aparentemente, Prashnak estava tendo muita dificuldade para repelir uma horda implacável de trolls, que sem dúvida estavam interessados ??apenas em seu abrigo escavado e bem posicionado. Prashnak usava tempestades de ácido para manter os trolls à distância. No entanto, o jovem mago estava se cansando dos ataques constantes, e os trolls estavam se tornando mais ousados.
 
 Após meses estudando os diversos efeitos da magia de murchamento, invocação de elementais e métodos mágicos de congelamento, Prashnak finalmente estava pronto para testar seu experimento. Depois de invocar um elemental da água, Prashnak evaporou componentes corporais selecionados e então congelou a infeliz criatura. Isso levou à criação de esculturas de gelo verdadeiramente horripilantes. Os trolls, por mais ingênuos que sejam, se ofenderam profundamente com esses totens e, segundo relatos, fugiram da área. O experimento foi um sucesso estrondoso, e o exultante Prashnak continua seus estudos lamentáveis ??até hoje. Não se sabe que tipo de ladrão se apoderou das braçadeiras, mas elas estão desaparecidas há vários anos.
@@ -2518,7 +2518,7 @@ ESTATÍSTICAS:
 Classe de Armadura: +7 (armadura)
 Especial:
 O dano de frio e mágico causado pelos feitiços e habilidades do usuário é aumentado em 40%.
-Peso: 1,4 kg~
+Peso: 1,5 Kg (3 lb)~
 @10147 = ~Este anel parece ser feito de gelo, mas não derrete. Um leve brilho interno sob a superfície revela a natureza mágica deste anel.
 
 ESTATÍSTICAS:
@@ -2544,7 +2544,7 @@ ESTATÍSTICAS:
 
 O dano de fogo causado por feitiços e habilidades do usuário é aumentado em 30%.
 Resistência: 25/- Resistência ao Fogo
-Peso: 1,4 kg~
+Peso: 1,5 Kg (3 lb)~
 @10049 = ~O fogo pode ser o portador da vida ou o ceifador da morte. Com o Talismã da Dança das Chamas, ambos os cenários são verdadeiros. Criado por um feiticeiro desconhecido, porém astuto, o Talismã da Dança das Chamas concedia ao seu portador proteção adicional contra todos os tipos de ataques corpo a corpo e o poder de lançar uma bola de fogo três vezes ao dia contra possíveis atacantes.
 
 ESTATÍSTICAS:
@@ -2570,21 +2570,21 @@ ESTATÍSTICAS:
 
 Resistência: 20/- Resistência ao Frio
 Todo o dano de frio causado pelas magias e habilidades do personagem é aumentado em 20%
-Peso: 1,4 kg (3 lb)~
+Peso: 1,5 Kg (3 lb)~
 @10398 = ~Devido à natureza extremamente volátil da maioria das magias, Vestes de Mago com Resistência ao Fogo não são incomuns entre jovens acólitos e seus tutores magos.
 
 ESTATÍSTICAS:
 
 Resistência: 20/- Resistência ao Fogo
 Todo o dano de fogo causado pelas magias e habilidades do personagem é aumentado em 20%
-Peso: 1,4 kg (3 lb)~
+Peso: 1,5 Kg (3 lb)~
 @10400 = ~Embora sejam vistos com menos frequência do que outros Mantos de Mago, os de Resistência Elétrica dificilmente podem ser considerados uma raridade. Alguns são usados ??por paranoicos que buscam proteção contra uma tempestade nas montanhas, mas muitos mais são usados ??por magos que buscam se proteger das intrigas de outros de sua espécie.
 
 ESTATÍSTICAS:
 
 Resistência: 20/- Resistência Elétrica
 Todo o dano elétrico causado pelas magias e habilidades do personagem é aumentado em 20%.
-Peso: 1,4 kg (3 lb)~
+Peso: 1,5 Kg (3 lb)~
 @562 = ~PALADINO DE MYSTRA:
 
 Os paladinos de Mystra garantem que os poderes da deusa da magia não sejam usados ??para o mal. Eles buscam conjuradores malignos por toda Faerûn para proteger a civilização e os magos benevolentes das consequências do uso irresponsável da magia.
@@ -2734,7 +2734,7 @@ Bônus Genérico de Armadura: +5
 Resistência a Magia: Definida para 25 se menor
 Teste de Resistência: +3 de bônus
 As magias do usuário recebem +3 na CD
-Peso: 2,7 kg~
+Peso: 3 kg (6 lb).~
 @10394 = ~Este poderoso Manto de Mago oferece proteção contra todas as formas de ataque físico, ao mesmo tempo que aumenta a resistência mágica e os testes de resistência. Devido à natureza de seu encantamento, ele só pode ser usado por aqueles de alinhamento neutro.
 
 ESTATÍSTICAS:
@@ -2743,7 +2743,7 @@ Bônus Genérico de Armadura: +5
 Resistência a Magia: Definida para 25 se menor
 Teste de Resistência: +3 de bônus
 As magias do usuário recebem +3 na CD
-Peso: 2,7 kg~
+Peso: 3 kg (6 lb).~
 @10396 = ~Este poderoso Manto de Mago oferece proteção contra todas as formas de ataque físico, ao mesmo tempo que aumenta a resistência mágica e os testes de resistência. Devido à natureza de seu encantamento, ele só pode ser usado por aqueles de alinhamento.
 
 ESTATÍSTICAS:
@@ -2752,7 +2752,7 @@ Bônus Genérico de Armadura: +5
 Resistência a Magia: Definida para 25 se menor
 Teste de Resistência: +3 de bônus
 As magias do usuário recebem +3 na CD
-Peso: 2,7 kg~
+Peso: 3 kg (6 lb).~
 @10454 = ~A armadura de couro, apesar da crença popular, não é macia e flexível como o couro usado para fazer as botas de um ranger ou o manto de um druida. Esse tipo de couro não oferece mais proteção do que roupas comuns. Encantamentos mágicos aprimoram as capacidades protetoras dessa armadura de couro.
 
 ESTATÍSTICAS:
@@ -2840,7 +2840,7 @@ Especial:
 Resistência a Magia: Definida para 30 se menor
 Vingador Sagrado: +2d6 de dano mágico contra criaturas malignas. Este dano bônus é dobrado contra demônios e mortos-vivos. Conta como uma arma de alinhamento bom.
 Dissipar: Dissipa magia no alvo a cada acerto (Vontade CD 21). Acertar um aliado dissipa a magia nele sem teste de resistência.
-Peso: 2,3 kg
+Peso: 2,5 kg (5 lb).
 Requisito de Talento: Arma Marcial, Espada Grande
 Tipo: Uma mão.~
 //@10895 = ~Luz de Cera Sumat~
@@ -2880,7 +2880,7 @@ Especial:
 Resistência a Magia: Definida para 40 se menor
 Vingador Sagrado: +4d6 de dano mágico contra criaturas malignas. Este dano bônus é dobrado contra demônios e mortos-vivos. Conta como uma arma de tendência boa.
 Dissipar: Dissipa magia no alvo a cada acerto (Vontade CD 32). Acertar um aliado dissipa a magia nele sem teste de resistência.
-Peso: 2,3 kg
+Peso: 2,5 kg (5 lb).
 Requisito de Talento: Arma Marcial, Espada Grande
 Tipo: Uma mão.~
 @11060 = ~O bastão, a mais simples e humilde das armas de haste, é um pedaço de madeira que varia de seis a nove pés de comprimento. Bastões de obra-prima são feitos de carvalho robusto e possuem ponteiras de metal em ambas as extremidades. Este é particularmente especial, pois foi imbuído de propriedades mágicas.
@@ -2948,7 +2948,7 @@ Resistência a Magia: +3
 Imunidade à cegueira e confusão
 Poder Mágico: Pode conjurar Visão da Verdade 1 vez por dia
 Quando conjuradas pelo usuário, as magias Fúria de Malavon e Névoa Corrosiva de Malavon não ferem aliados
-Peso: 1,4 kg.~
+Peso: 1,5 Kg (3 lb).~
 @12852 = ~Feito para um mago elfo negro de Rilauven, o Manto do Observador é reconhecido entre os drows como um símbolo de grande poder. Tradicionalmente, é usado pelo praticante mais talentoso de magia de adivinhação na academia de feitiçaria de Rilauven. Malavon recebeu o manto quando ainda gozava de boa reputação em sua cidade. Ele o imbuíu com encantamentos adicionais para criar sinergia com seus feitiços pessoais. A Resistência a Magia concedida pelo manto funciona melhor para fortalecer um usuário que já possua resistência a magia, como um drow.
 
 ESTATÍSTICAS:
@@ -2958,7 +2958,7 @@ Resistência a Magia: +5
 Imunidade à cegueira e confusão
 Poder Mágico: Pode conjurar Visão da Verdade 1 vez por dia
 Quando conjuradas pelo usuário, as magias Fúria de Malavon e Névoa Corrosiva de Malavon causam dano máximo e não ferem aliados.
-Peso: 1,4 kg (3 lb).~
+Peso: 1,5 Kg (3 lb).~
 @544 = ~SENHOR DA TEMPESTADE DE TALOS:
 
 Talos, o Destruidor, é o deus das tempestades e da destruição. A ruína de muitos guardiões e druidas, Talos espalha seu mal através de seus sacerdotes, os Senhores da Tempestade. Os Senhores da Tempestade aterrorizam comunidades agrícolas por toda Faerûn com ameaças de destruição iminente caso não apaziguem o Destruidor. Eles são conhecidos por seu terrorismo abusivo e sua natureza temerária.
