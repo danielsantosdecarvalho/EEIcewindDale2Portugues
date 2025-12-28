@@ -1142,7 +1142,7 @@ Metamorfose Própria permite que o conjurador assuma a forma de uma criatura de p
 
 * Gigante Fomoriano (pode arremessar pedras a longa distância)
 * Troll (regenera 1 PV por segundo)
-* Tríbulo Brutal (inimigos próximos devem fazer um teste de Vontade a cada rodada ou ficarão confusos)
+* Umber Hulk (inimigos próximos devem fazer um teste de Vontade a cada rodada ou ficarão confusos)
 * Wyvern (pode voar e cada acerto envenena o alvo em caso de falha no teste de Fortitude) ~
 @38955 = ~ Névoa Corrosiva de Malavon
 (Conjuração)
@@ -2293,7 +2293,7 @@ Quando escolhido pela segunda vez, o talento também permite que você esquive aut
 
 Use esta perícia para identificar magias enquanto são conjuradas ou magias já em vigor.~
 @55369=~cortante~
-@55816=~Não pode usar item. (Requer <EXIUVAL1> Usar Dispositivo Mágico)~
+@55816=~Não pode usar item. (Requer <EXIUVAL1> Usar Intrumento Mágico)~
 @55817=~Você não pode armar armadilhas enquanto houver inimigos por perto.~
 @55818=~Você não pode armar mais armadilhas nesta área.~
 @55819=~Ataque Furtivo com Golpe Incapacitante (-<EXCRPEN1> For)~
@@ -2308,12 +2308,12 @@ Classe de Armadura: +5 contra dano contundente
 Bônus em Testes de Resistência: +5 em testes de Vontade
 Magias Seguras: Quando o usuário conjura uma magia de área de efeito, os aliados fazem testes de resistência contra a magia com CD reduzida em -5.
 Peso: 2 kg (4 lb).~
-@841 = ~USAR DISPOSITIVO MÁGICO (Carisma; Apenas Treinado; Apenas Bardo e Ladino):
+@841 = ~USAR INSTRUMENTO MÁGICO (Carisma; Apenas Treinado; Apenas Bardo e Ladino):
 
 Esta perícia permite que um bardo ou ladino use itens normalmente proibidos para eles. Se a perícia do personagem for maior ou igual ao limite indicado na descrição do item, o personagem pode usá-lo mesmo que não atenda aos requisitos de classe, raça, alinhamento ou pontuação de habilidade. O limite depende do preço base do item e de outros fatores.
 
 Varinhas e pergaminhos são uma exceção; Se o personagem não puder usá-los normalmente, em vez de usar o sistema de limiar como acima, ele deve fazer um teste com esta perícia. Se o personagem falhar ao ativar o item, a carga é destruída e o usuário sofre de 1 a 6 pontos de dano mágico por nível do efeito que estava tentando invocar.~
-@56036=~Limite de Uso de Dispositivo Mágico:~
+@56036=~Limite de Uso de Intrumento Mágico:~
 @732 = ~Canção de Bardo Aprimorada~
 @733 = ~CANÇÃO DE BARDO APRIMORADA:
 
@@ -2456,7 +2456,7 @@ Especial:
 Considera-se uma arma de prata
 Cada acerto tem 10% de chance de criar uma Fruta Boa em um dos espaços de item rápido do portador, ou em um espaço de inventário normal se não houver espaços de item rápido vazios.
 Peso: 2 Kg (4 lb).
-Requisito de Talento: Arma Marcial, Espada Grande
+Requisito de Talento: Arma Marcial, Lâmina Grande
 Tipo: Uma mão~
 @10974 = ~O arquidruida Caernach era conhecido por carregar muitos itens encantados, a maioria dos quais ele mesmo forjava. Os mais famosos eram suas botas, "Sopro da Vida", que faziam brotar flores e pequenas mudas da terra por onde Caernach passava. Ainda assim, os "pertences menores" do arquidruida não eram desprezíveis - veja, por exemplo, sua foice de prata, feita para colher visco sagrado e as cabeças de inimigos. Esta arma incomum é, na verdade, um cruzamento entre uma foice e uma espada propriamente dita, assemelhando-se mais a uma cimitarra. Tanto o cabo de carvalho quanto a lâmina de prata são gravados com espirais e padrões decorativos.
 
@@ -2470,7 +2470,7 @@ Especial:
 Conta como uma arma de prata
 Cada acerto tem 20% de chance de criar uma Fruta Boa em um dos espaços de item rápido do portador, ou em um espaço de inventário normal se não houver espaços de item rápido vazios.
 Peso: 2 Kg (4 lb).
-Requisito de Talento: Arma Marcial, Espada Grande
+Requisito de Talento: Arma Marcial, Lâmina Grande
 Tipo: Uma mão~
 @11080 = ~Delnar era um mago tímido que nunca foi dado a aventuras. Passou a maior parte da vida estudando em silêncio, morando com a mãe e tentando aprender a arte de criar itens mágicos. Infelizmente, sua mãe tinha o hábito de interrompê-lo em momentos cruciais do processo de encantamento, muitas vezes com resultados desastrosos. O Delícia de Delnar recebeu esse nome devido à ausência de interrupções durante sua criação (e pode muito bem ser o único item feito por Delnar que funciona como deveria).
 
@@ -2841,7 +2841,7 @@ Resistência a Magia: Definida para 30 se menor
 Vingador Sagrado: +2d6 de dano mágico contra criaturas malignas. Este dano bônus é dobrado contra demônios e mortos-vivos. Conta como uma arma de alinhamento bom.
 Dissipar: Dissipa magia no alvo a cada acerto (Vontade CD 21). Acertar um aliado dissipa a magia nele sem teste de resistência.
 Peso: 2,5 kg (5 lb).
-Requisito de Talento: Arma Marcial, Espada Grande
+Requisito de Talento: Arma Marcial, Lâmina Grande
 Tipo: Uma mão.~
 //@10895 = ~Luz de Cera Sumat~
 @10896 = ~O vingador sagrado é a arma suprema do paladino contra as forças do mal. Existem poucas criaturas nos Planos Inferiores que não hesitariam em confrontar um guerreiro sagrado empunhando tal arma... e esta, talvez mais do que outras.
@@ -2881,7 +2881,7 @@ Resistência a Magia: Definida para 40 se menor
 Vingador Sagrado: +4d6 de dano mágico contra criaturas malignas. Este dano bônus é dobrado contra demônios e mortos-vivos. Conta como uma arma de tendência boa.
 Dissipar: Dissipa magia no alvo a cada acerto (Vontade CD 32). Acertar um aliado dissipa a magia nele sem teste de resistência.
 Peso: 2,5 kg (5 lb).
-Requisito de Talento: Arma Marcial, Espada Grande
+Requisito de Talento: Arma Marcial, Lâmina Grande
 Tipo: Uma mão.~
 @11060 = ~O bastão, a mais simples e humilde das armas de haste, é um pedaço de madeira que varia de seis a nove pés de comprimento. Bastões de obra-prima são feitos de carvalho robusto e possuem ponteiras de metal em ambas as extremidades. Este é particularmente especial, pois foi imbuído de propriedades mágicas.
 
@@ -2978,7 +2978,7 @@ Pontos de Vida por Nível: 1-6
 
 Vantagens:
 * Proficiente com todas as armas simples, arcos e armaduras leves.
-* Ladinos recebem um número maior de pontos de perícia por nível do que qualquer outra classe de personagem. Eles podem usar esses pontos de habilidade extras para comprar habilidades de classe como Desativar Dispositivo para remover armadilhas, Esconder-se, Furtar e Usar Dispositivo Mágico.
+* Ladinos recebem um número maior de pontos de perícia por nível do que qualquer outra classe de personagem. Eles podem usar esses pontos de habilidade extras para comprar habilidades de classe como Desativar Mecanismo para remover armadilhas, Esconder-se, Furtar e Usar Dispositivo Mágico.
 * Ataque Furtivo: Ladinos podem realizar ataques furtivos em inimigos para causar 1d6 de dano adicional, mais 1d6 a cada 2 níveis após o nível 1. Um ataque conta como um ataque furtivo se atingir um inimigo pelas costas, se ocorrer dentro de 2 segundos após sair do modo furtivo ou invisível, ou se o alvo estiver paralisado, imobilizado, atordoado, dormindo, confuso, debilitado mentalmente, agarrado ou sob efeito de finta. Espadas curtas, adagas de arremesso, dardos, arcos curtos, arcos curtos compostos, bestas leves, fundas, clavas e ataques desarmados causam um dado extra de dano de ataque furtivo. Adagas de combate corpo a corpo causam dois dados extras de dano de ataque furtivo.
 * 2º nível: Evasão. Quando um ladino atinge o 2º nível, ele ou ela ganha a habilidade de evadir dano de magias de área de efeito. Sempre que um ladino obtiver sucesso em um teste de Reflexos contra uma magia de área que permite um teste de Reflexos para reduzir o dano à metade, ele não sofre dano.
 * 3º nível: Esquiva Sobrenatural. Ladinos mantêm seu bônus de Destreza na Classe de Armadura se forem atacados por inimigos invisíveis.

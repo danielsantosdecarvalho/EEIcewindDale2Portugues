@@ -9,9 +9,9 @@
 @150 = ~Garra de Horror de Gancho~
 @151 = ~Chifre de Besouro Rinoceronte~
 @152 = ~Relâmpago de Fogo-Fátuo~
-@153 = ~Espada Larga de Gelo +1~
-@154 = ~Espada Larga de Fogo +2~
-@155 = ~Espada Larga de Relâmpago +3~
+@153 = ~Montante de Gelo +1~
+@154 = ~Montante de Fogo +2~
+@155 = ~Montante de Relâmpago +3~
 @156 = ~Garra de Dragão~
 @157 = ~Ramo de Ente~
 @158 = ~Destruição Rastejante~
@@ -936,9 +936,9 @@ Vantagens:
 * Toque Suavizante 1 vez por dia (cura 2d8+5 pontos de vida e cura veneno, doenças, ferimentos de sangramento e efeitos de dor)
 * Nível 6: Pode lançar Resistência de Ilmater 1 vez por dia (permite que um aliado não maligno suporte muito mais dor, mas também sofra mais dor, concedendo-lhe um bônus de +20 em Constituição e uma vulnerabilidade de -3 ao dano físico por 8 horas)~
 
-@543 = ~HALFLING ESPECTRAL:
+@543 = ~HALFLING SÁBIO FANTASMA:
 
-Halflings espectrais são os primos selvagens e reclusos dos halflings pés-leves e corações-fortes. Eles são encontrados com mais frequência nas florestas do sul dos Reinos, vivendo em pequenas comunidades. Halflings espectrais raramente são vistos em grandes cidades, mas ocasionalmente partem para explorar o mundo por razões conhecidas apenas por eles. Visitantes de assentamentos espectrais frequentemente relatam que os halflings têm uma conexão tão estreita com seus semelhantes que podem se comunicar sem falar.
+Halflings sábio fantasma são os primos selvagens e reclusos dos halflings pés-leves e corações-fortes. Eles são encontrados com mais frequência nas florestas do sul dos Reinos, vivendo em pequenas comunidades. Halflings sábio fantasma raramente são vistos em grandes cidades, mas ocasionalmente partem para explorar o mundo por razões conhecidas apenas por eles. Visitantes de assentamentos espectrais frequentemente relatam que os halflings têm uma conexão tão estreita com seus semelhantes que podem se comunicar sem falar.
 
 Classe Favorecida: Bárbaro
 
@@ -1280,9 +1280,9 @@ Normal: Um personagem que usa uma arma sem ser proficiente com ela sofre uma pen
 
 Especial: Bárbaros, guerreiros, paladinos e rangers são proficientes com todas as armas marciais. Você pode ganhar esse talento múltiplas vezes.
 ~
-@678 = ~PROFICIÊNCIA EM ARMAS MARCIAIS, ESPADA LARGA:
+@678 = ~PROFICIÊNCIA EM ARMAS MARCIAIS, MONTANTE:
 
-Esse talento permitirá que você seja proficiente com Espada Largas. Também conhecido como Montante ou Espada de Duas Mãos.
+Esse talento permitirá que você seja proficiente com Montantes. Também conhecido como Espada Largas ou Espada de Duas Mãos.
 
 Benefícios: Você faz as jogadas de ataque com a arma normalmente. Duas classificações nesse talento é Foco em Arma, o que concede +2 em ataque e dano. Três classificações nesse talento é Especialização em Arma, o que concede +5 em ataque e dano. Somente personagens com quatro ou mais níveis de Guerreiro podem pegar Especialização em Arma.
 
@@ -1367,7 +1367,7 @@ Normal: Um personagem que usa uma arma sem ser proficiente com ela sofre uma pen
 
 Ao longo dos anos, alguns entre seu povo se expõem cuidadosamente a venenos em doses controladas para desenvolver imunidade aos seus efeitos. Alguns acabam enfraquecendo, mas os mais fortes se ajustam.
 
-Pré-requisito: Anão cinza, meio-orc
+Pré-requisito: Anão cinzento, meio-orc
 
 Benefício: Você recebe um bônus de +4 em testes de resistência contra veneno. Além disso, a cada segundo que você tomaria dano de veneno, o dano é reduzido em 1.
 
@@ -1561,9 +1561,9 @@ Normal: Um personagem que usa uma arma sem ser proficiente com ela sofre uma pen
 
 Especial: Bárbaros, guerreiros, paladinos e rangers são proficientes com todas as armas marciais. Você pode adquirir essa habilidade várias vezes.
 ~
-@720 = ~PROFICIÊNCIA EM ARMAS MARCIAIS, ESPADA LARGA:
+@720 = ~PROFICIÊNCIA EM ARMAS MARCIAIS, MONTANTE:
 
-Esse talento permitirá que você seja proficiente com Espada Largas. Também conhecido como Montante ou Espada de Duas Mãos.
+Esse talento permitirá que você seja proficiente com Montante. Também conhecido como Espada Largas ou Espada de Duas Mãos.
 
 Benefício: Você faz as rolagens de ataque com a arma normalmente. Dois graus nesta habilidade representam Foco em Arma, que concede +1 no ataque. Um Guerreiro de nível 4 pode adquirir um terceiro grau nesta habilidade para Especialização em Arma, que concede +2 de dano. Um Guerreiro de nível 8 pode adquirir um quarto grau nesta habilidade para Maior Foco em Arma, que concede +1 no ataque. Um Guerreiro de nível 12 pode adquirir um quinto grau nesta habilidade para Maior Especialização em Arma, que concede +2 de dano.
 
@@ -1893,8 +1893,8 @@ Vantagens:
 Desvantagens:
 * -2 em Destreza.
 ~
-@807 = ~Anão Cinza~
-@808 = ~ANÃO CINZA:
+@807 = ~Anão Cinzento~
+@808 = ~ANÃO CINZENTO:
 
 Também conhecidos como duergar, os anões cinzas dos Reinos Esquecidos vivem ainda mais profundamente sob a terra do que seus parentes anões escudos e anões dourados. Os duergar têm pouco em comum com outros anões e praticam a escravidão em suas monstruosas cidades subterrâneas. Frequentemente motivados pela ganância e pela sede de poder, os anões cinzas são conhecidos por toda a Terra como guerreiros traiçoeiros e eficientes. Os duergar quase sempre têm cabelos e pele grisalhos.
 
@@ -1977,14 +1977,14 @@ Um mago especializado em criar criaturas e objetos para ajudá-lo.
 
 Desvantagens:
 * Conjuradores não podem aprender magias da escola de Necromancia.~
-@819 = ~Divinatore~
-@820 = ~DIVINADOR:
+@819 = ~Adivinhador~
+@820 = ~ADIVINHADOR:
 
 Um mago especializado em detecção e magias de adivinhação.
 
 * Divinadores podem memorizar uma magia adicional por nível de magia que conhecem.
-* Magias de Divinação lançadas por um divinatore ganham +2 de CD.
-* Magias de Divinação lançadas por um divinatore duram 20% a mais.
+* Magias de Adivinhação lançadas por um adivinhador ganham +2 de CD.
+* Magias de Adivinhação lançadas por um adivinhador duram 20% a mais.
 
 Desvantagens:
 * Divinadores não podem aprender magias da escola de Ilusão.~
@@ -2100,7 +2100,7 @@ Desvantagens:
 * -2 em Constituição.
 * Cegueira à Luz: Penalidade circunstancial de -1 em todos os testes de ataque, resistência e perícias enquanto operando em luz intensa.
 ~
-@834 = ~ANÃO CINZA:
+@834 = ~ANÃO CINZENTO:
 
 Também conhecidos como duergar, os anões cinzas dos Reinos Esquecidos vivem ainda mais profundamente sob a terra do que seus primos anões de escudo e anões dourados. Os duergar têm pouco em comum com outros anões e praticam a escravidão em suas monstruosas cidades subterrâneas. Muitas vezes motivados pela ganância e sede de poder, os anões cinzas são conhecidos por sua astúcia e eficiência como guerreiros. Os duergar quase sempre têm cabelo e pele cinza.
 
@@ -2407,7 +2407,7 @@ Nível 29: +12 em Força e Constituição e +6 em testes de Vontade.~
 
 Com essa habilidade, o monge pode recuperar pontos de vida iguais ao seu nível de monge multiplicado pelo seu modificador de Sabedoria.~
 @980 = ~Se você deixar cair algo no chão em vez de deixar em um compartimento, ele eventualmente desaparecerá após várias horas. Itens chave não desaparecerão dessa forma.~
-@981 = ~Em situações de combate apertadas, use lanças, alabardas, bordões, espada largas (montantes) e machados de duas mãos para atacar os inimigos à distância. As lanças, em particular, têm o maior alcance entre essas armas.~
+@981 = ~Em situações de combate apertadas, use lanças, alabardas, cajados, espada largas (montantes) e machados de duas mãos para atacar os inimigos à distância. As lanças, em particular, têm o maior alcance entre essas armas.~
 @982 = ~Se você tiver dificuldade em uma batalha, tente usar magias como Abençoar, Graça da Gata, Velocidade e Emoção: Esperança antes de enfrentar o inimigo.~
 @983 = ~Clique com o botão direito no botão de inventário para alternar para o quickloot, que permite pegar itens muito mais rápido.~
 @984 = ~~

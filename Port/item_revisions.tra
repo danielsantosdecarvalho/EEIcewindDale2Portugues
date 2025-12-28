@@ -2035,7 +2035,7 @@ Especial:
   Resistência: 5/- Resistência ao Fogo
   Resistência: 5/- Resistência a Ácido
 Peso: 25 kg (50 lb).~
-//@10485 = ~Placa de Tríbulo Brutal~
+//@10485 = ~Placa de Umber Hulk~
 @10486 = ~As placas rígidas que protegem os tríbulos brutais são razoavelmente fáceis de transformar em armaduras humanoides. Esta armadura escura foi moldada em placas completas por ferreiros duergar. Os anões negros, habilidosos no manuseio de exoesqueletos de tríbulos brutais, curaram e reforçaram a armadura.
 
 Armadura Pesada
@@ -2045,9 +2045,9 @@ Bônus Máximo de Destreza: +1
 Penalidade de Teste com Armadura: -6
 Falha de Feitiço Arcano: 35%
 Especial:
-  Proteção contra Tríbulo Brutal: Imune ao olhar de tríbulo brutal e outras formas de confusão
+  Proteção contra Umber Hulk: Imune ao olhar de Umber Hulk e outras formas de confusão
 Peso: 20 kg (40 lb).~
-@10487 = ~Placa de Tríbulo Brutal Ancião~
+@10487 = ~Placa de Umber Hulk Ancião~
 @10488 = ~As placas rígidas que protegem os cascos  tríbulos brutais anciões são razoavelmente fáceis de transformar em armaduras humanoides. Esta armadura escura foi moldada em placas completas por ferreiros duergar. Os anões negros, habilidosos no manuseio de exoesqueletos de cascos umber anciões, curaram e reforçaram a armadura.
 
 Armadura Pesada
@@ -2057,7 +2057,7 @@ Bônus Máximo de Destreza: +1
 Penalidade de Teste com Armadura: -6
 Falha de Feitiço Arcano: 35%
 Especial:
-  Proteção contra Tríbulo Brutal: Imune ao olhar de tríbulo brutal e outras formas de confusão
+  Proteção contra Umber Hulk: Imune ao olhar de Umber Hulk e outras formas de confusão
 Peso: 15 kg (30 lb).~
 //@10489 = ~Escama de Dragão Negro~
 @10490 = ~Esta armadura foi criada pelos ferreiros e sacerdotes anões do Clã Martelo de Batalha quando um deles, Bruenhal, liderou um bando de heróis na derrota de um dragão negro bem ao sul. Alguns anões torcem o nariz para a ideia de usar uma armadura feita com os restos mortais de um dragão, mas Bruenhal a usou com orgulho até o fim de seus dias.
@@ -4976,22 +4976,22 @@ Requisito de Talento: Arma Marcial, Lâmina Grande
 Tipo: Uma Mão~
 
 
-//@10979 = ~Espada Larga~
+//@10979 = ~Montante~
 //@10980 = ~Descrição do item pode permanecer a mesma; caso seja necessário, coloque a nova descrição aqui~
-//@10981 = ~Espada Larga de Mestre~
+//@10981 = ~Montante de Mestre~
 //@10982 = ~Descrição do item pode permanecer a mesma; caso seja necessário, coloque a nova descrição aqui~
-//@10983 = ~Espada Larga +1~
+//@10983 = ~Montante +1~
 //@10984 = ~Descrição do item pode permanecer a mesma; caso seja necessário, coloque a nova descrição aqui~
-//@10985 = ~Espada Larga +5~
+//@10985 = ~Montante +5~
 //@10986 = ~Descrição do item pode permanecer a mesma; caso seja necessário, coloque a nova descrição aqui~
-//@10987 = ~Espada Larga +4~
+//@10987 = ~Montante +4~
 //@10988 = ~Descrição do item pode permanecer a mesma; caso seja necessário, coloque a nova descrição aqui~
-//@10989 = ~Espada Larga +3~
+//@10989 = ~Montante +3~
 //@10990 = ~Descrição do item pode permanecer a mesma; caso seja necessário, coloque a nova descrição aqui~
-//@10991 = ~Espada Larga +2~
+//@10991 = ~Montante +2~
 //@10992 = ~Descrição do item pode permanecer a mesma; caso seja necessário, coloque a nova descrição aqui~
-//@10993 = ~Espada Larga Abençoada +2~
-@10994 = ~A espada larga é um derivado da espada longa. Os armeiros sempre buscaram maneiras de aprimorar as armas existentes. Em um esforço para aprimorar a espada longa, a lâmina foi alongada. Eventualmente, o cabo teve que ser estendido e duas mãos se tornaram necessárias para brandir a espada corretamente. A função principal das espadas largas é cortar cavaleiros montados e desmantelar formações de lanças. Esta é particularmente boa em sua função, pois foi encantada com algumas propriedades mágicas.
+//@10993 = ~Montante Abençoado +2~
+@10994 = ~A espada larga (montante) é um derivado da espada longa. Os armeiros sempre buscaram maneiras de aprimorar as armas existentes. Em um esforço para aprimorar a espada longa, a lâmina foi alongada. Eventualmente, o cabo teve que ser estendido e duas mãos se tornaram necessárias para brandir a espada corretamente. A função principal das espadas largas é cortar cavaleiros montados e desmantelar formações de lanças. Esta é particularmente boa em sua função, pois foi encantada com algumas propriedades mágicas.
 
 ESTATÍSTICAS:
 
@@ -5005,11 +5005,11 @@ Especial:
 Peso: 6 kg (12 lb).
 Requisito de Talento: Arma Marcial, Montante
 Tipo: Duas mãos~
-//@10995 = ~Espada Larga das Chamas +1~
+//@10995 = ~Montante das Chamas +1~
 //@10996 = ~A descrição do item pode permanecer a mesma; se for necessária uma nova descrição, coloque-a aqui~
-//@10997 = ~Espada Larga do Golpe Certeiro~
+//@10997 = ~Montante do Golpe Certeiro~
 //@10998 = ~A descrição do item pode permanecer a mesma; se for necessária uma nova descrição, coloque-a aqui~
-//@10999 = ~Espada Larga dos Sem Alma +5~
+//@10999 = ~Montante dos Sem Alma +5~
 @11000 = ~Os Cavaleiros Matadores de Xvim são considerados um dos guerreiros mais mortais de qualquer reino. Uma das coisas que os torna tão mortais, além de serem parentes demoníacos, é sua habilidade com suas Espada Largas especialmente forjadas; a Espada Larga dos Sem Alma. Sendo a arma comum dos cavaleiros, a função primária das Espada Largas é cortar cavaleiros montados e desmantelar formações de lanças. No entanto, nas mãos eficientes de um Cavaleiro Matador de Xvim, esta Espada Larga em particular cortará os corpos de seus alvos e literalmente sugará o sangue vital deles. A Espada Larga dos Sem Alma é a arma primária dos Cavaleiros Matadores de Xvim.
 
 ESTATÍSTICAS:
@@ -5024,7 +5024,7 @@ Especial:
 Peso: 6 kg (12 lb).
 Requisito de Talento: Arma Marcial, Montante
 Tipo: Duas mãos~
-@11001 = ~Espada Larga da Devoradora +5~
+@11001 = ~Montante da Devoradora +5~
 @11002 = ~Os Cavaleiros Matadores de Xvim são considerados um dos guerreiros mais mortais de qualquer reino. Uma das coisas que os torna tão mortais, além de serem parentes demoníacos, é sua habilidade com suas espadas largas especialmente forjadas; a Espada Larga Devoradora. Sendo a arma comum dos cavaleiros, a função primária das espadas largas é cortar cavaleiros montados e desmantelar formações de lanças. No entanto, nas mãos eficientes de um Cavaleiro Matador de Xvim, esta espada larga em particular cortará os corpos de seus alvos e literalmente sugará o sangue vital deles. A Espada Larga Devoradora é a arma primária dos Cavaleiros Matadores de Xvim.
 
 ESTATÍSTICAS:
@@ -5039,7 +5039,7 @@ Especial:
 Peso: 6 kg (12 lb).
 Requisito de Talento: Arma Marcial, Montante
 Tipo: Duas mãos~
-//@11003 = ~Espada Larga da Fúria +5~
+//@11003 = ~Montante da Fúria +5~
 @11004 = ~A espada larga é um derivado da espada longa. Os armeiros sempre buscaram maneiras de aprimorar as armas existentes. Em um esforço para aprimorar a espada longa, a lâmina foi alongada. Eventualmente, o cabo teve que ser estendido e duas mãos se tornaram necessárias para brandir a espada corretamente. A função principal das espadas largas é cortar cavaleiros montados e desmantelar formações de lanças. Esta é particularmente boa em sua função, pois foi encantada com algumas propriedades mágicas.
 
 ESTATÍSTICAS:
@@ -5053,7 +5053,7 @@ Especial:
 Peso: 6 kg (12 lb).
 Requisito de Talento: Arma Marcial, Montante
 Tipo: Duas mãos~
-@11005 = ~Espada Larga da Retidão~
+@11005 = ~Montante da Retidão~
 @11006 = ~A espada larga é um derivado da espada longa. Os armeiros sempre buscaram maneiras de aprimorar as armas existentes. Em um esforço para aprimorar a espada longa, a lâmina foi alongada. Eventualmente, o cabo teve que ser estendido e duas mãos se tornaram necessárias para brandir a espada corretamente. A função principal das espadas largas é cortar cavaleiros montados e desmantelar formações de lanças. Esta é particularmente boa em sua função, pois foi encantada com algumas propriedades mágicas.
 
 ESTATÍSTICAS:
@@ -5069,7 +5069,7 @@ Peso: 6 kg (12 lb).
 Requisito de Talento: Arma Marcial, Montante
 Tipo: Duas mãos
 Força mínima de 18 necessária~
-@11007 = ~Espada Larga da Perfeição~
+@11007 = ~Montante da Perfeição~
 @11008 = ~A espada larga é um derivado da espada longa. Os armeiros sempre buscaram maneiras de aprimorar as armas existentes. Em um esforço para aprimorar a espada longa, a lâmina foi alongada. Eventualmente, o cabo teve que ser estendido e duas mãos se tornaram necessárias para brandir a espada corretamente. A função principal das espadas largas é cortar cavaleiros montados e desmantelar formações de lanças. Esta é particularmente boa em sua função, pois foi encantada com algumas propriedades mágicas.
 
 ESTATÍSTICAS:
@@ -5083,7 +5083,7 @@ Especial:
 Peso: 6 kg (12 lb).
 Requisito de Talento: Arma Marcial, Montante
 Tipo: Duas mãos~
-//@11009 = ~Espada Larga: Defensor da Geada~
+//@11009 = ~Montante: Defensor da Geada~
 @11010 = ~A espada larga é um derivado da espada longa. Os armeiros sempre buscaram maneiras de aprimorar as armas existentes. Em um esforço para aprimorar a espada longa, a lâmina foi alongada. Eventualmente, o cabo teve que ser estendido e duas mãos se tornaram necessárias para brandir a espada corretamente. A função principal das espadas largas é cortar cavaleiros montados e desmantelar formações de lanças. Esta é particularmente boa em sua função, pois foi encantada com algumas propriedades mágicas.
 
 ESTATÍSTICAS:
@@ -5100,9 +5100,9 @@ Peso: 6 kg (12 lb).
 Requisito de Talento: Arma Marcial, Montante
 Tipo: Duas mãos
 Força mínima de 16 necessária~
-//@11011 = ~Espada Larga das Chamas +3~
+//@11011 = ~Montante das Chamas +3~
 //@11012 = ~A descrição do item pode permanecer a mesma; se for necessária uma nova descrição, coloque-a aqui~
-//@11013 = ~Espada Larga do Defensor~
+//@11013 = ~Montante do Defensor~
 @11014 = ~A espada larga é um derivado da espada longa. Os armeiros sempre buscaram maneiras de aprimorar as armas existentes. Em um esforço para aprimorar a espada longa, a lâmina foi alongada. Eventualmente, o cabo teve que ser estendido e duas mãos se tornaram necessárias para brandir a espada corretamente. A função principal das espadas largas é cortar cavaleiros montados e desmantelar formações de lanças. Esta é particularmente boa em sua função, pois foi encantada com algumas propriedades mágicas.
 
 ESTATÍSTICAS:
@@ -11943,7 +11943,7 @@ Penalidade de Teste com Armadura: -0
 Falha de Feitiço Arcano: 10%
 Especial:
   Bônus de Armadura Genérica: +3
-  Sombrio: +15 na habilidade de Ocultar
+  Sombrio: +15 na habilidade de Esconder-se
 Peso: 2,5 kg (5 lb) ~
 @12489 = ~Armadura de Couro da Invisibilidade +4~
 @12490 = ~À primeira vista, parece uma armadura de couro comum; uma inspeção mais detalhada revela indícios sutis de vários aprimoramentos arcanos. Os rebites que prendem as várias peças brilham intensamente, como se fossem polidos. As peças de couro são macias e flexíveis ao toque, mas endurecem instantaneamente ao receberem um golpe forte. E, quando usadas, os rangidos e os estalos normalmente associados a tais armaduras estão misteriosamente ausentes.
@@ -12290,7 +12290,7 @@ Especial:
 Peso: 0,5 kg (1 lb)
 Requisito de Talento: Arma Exótica, Espada Bastarda
 Tipo: Uma Mão~
-@12551 = ~Espada Larga do Carrasco +5~
+@12551 = ~Montante do Carrasco +5~
 @12552 = ~A espada larga é um derivado da espada longa. Os armeiros sempre buscaram maneiras de aprimorar as armas existentes. Em um esforço para aprimorar a espada longa, a lâmina foi alongada. Eventualmente, o cabo teve que ser estendido e duas mãos se tornaram necessárias para brandi-la corretamente. A função principal das espadas largas é cortar cavaleiros montados e desmantelar formações de lanças. Esta é particularmente boa em sua função, pois foi encantada com algumas propriedades mágicas.
 
 ESTATÍSTICAS:
