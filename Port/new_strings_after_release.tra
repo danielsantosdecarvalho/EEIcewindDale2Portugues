@@ -103,7 +103,7 @@ ESTATÍSTICAS:
 Faz com que uma criatura receba 30% a mais de dano de fogo, frio, eletricidade e ácido por 20 rodadas (sem teste de resistência, não cumulativo)
 Alcance: 30 metros (100 pés)
 Peso: 0,5 kg (1 lb).~
-@12639 = ~Balas de Destruição +5~
+@12639 = ~Balas de Estilhaçamento +5~
 @12640 = ~Correntes mágicas são incorporadas nesta bala para que ela pareça um pouco mais equilibrada e leve ao saltar em direção ao oponente.
 
 ESTATÍSTICAS:
@@ -1337,7 +1337,7 @@ Teste de Resistência: Nenhum
 Uma alternativa duvidosa à ressurreição, esta magia cria uma duplicata inerte de um membro do grupo. Após a magia ser lançada, o clone precisa de 8 horas para se tornar um substituto adequado para o personagem original. Passado esse tempo, se o personagem original morrer (ou já estiver morto) enquanto estiver na mesma área que o clone, sua alma será transferida para o clone, que se juntará ao grupo com exatamente os mesmos atributos e habilidades do personagem original. Um membro do grupo não pode ter mais de um clone inerte na mesma área ao mesmo tempo.
 
 O clone pode ser lançado em um membro vivo do grupo ou pode ser lançado visando o retrato de um personagem morto. ~
-@94 = ~Adicione os sistemas de Aprendizado de Magia de Mago PnP e Substituição de Magia de Bardo/Feiticeiro ~
+@94 = ~Adicione os sistemas de Aprendizado de Magia de Mago PnP e Substituicao de Magia de Bardo/Feiticeiro ~
 @570 = ~BARD:
 
 A força do bardo é sua personalidade agradável e charmosa. Com ela e sua inteligência, ele abre seu caminho pelo mundo. Um bardo é um músico talentoso e um depósito ambulante de fofocas, contos fantásticos e conhecimento. Ele aprende um pouco sobre tudo que cruza seu caminho; ele é um faz-tudo, mas mestre em nada. Embora muitos bardos sejam canalhas, suas histórias e canções são bem-vindas em quase todos os lugares.
@@ -2350,7 +2350,7 @@ Tempo de Conjuração: 1
 Área de Efeito: Conjurador
 Teste de Resistência: Nenhum
 
-Esta magia aprimora os projéteis de funda do conjurador. Qualquer projétil lançado pelo conjurador causará 1d4+1 de dano adicional, e projéteis não mágicos serão tratados como armas +1. A magia termina quando o conjurador tiver lançado um certo número de projéteis: cinco mais um por nível de conjurador (máximo de 15 no nível 10).
+Esta magia aprimora as balas de funda do conjurador. Qualquer bala lançado pelo conjurador causará 1d4+1 de dano adicional, e balas não mágicas serão tratados como armas +1. A magia termina quando o conjurador tiver lançado um certo número de projéteis: cinco mais um por nível de conjurador (máximo de 15 no nível 10).
 
 Embora os rangers normalmente lancem magias com metade do seu nível de conjurador, Pedra Mágica será lançada com o nível de conjurador completo do ranger.~
 @32107 = ~Proteção contra o Mal
@@ -2382,7 +2382,7 @@ Tempo de Conjuração: 4
 Área de Efeito: Conjurador
 Teste de Resistência: Nenhum
 
-Esta magia transforma os projéteis do estilingue do conjurador em rochas. Enquanto a magia estiver ativa, se o conjurador lançar um projétil, ele se transforma instantaneamente em uma grande rocha que mantém a velocidade do projétil original. A rocha inflige 7d4 de dano adicional se acertar (além do dano anterior do projétil). Apenas um número limitado de balas pode ser transformado em pedregulhos antes do término da magia: até um a cada 3 níveis.
+Esta magia transforma as baldas da funda do conjurador em rochas. Enquanto a magia estiver ativa, se o conjurador lançar uma bala, ele se transforma instantaneamente em uma grande rocha que mantém a velocidade do projétil original. A rocha inflige 7d4 de dano adicional se acertar (além do dano anterior do projétil). Apenas um número limitado de balas pode ser transformado em pedregulhos antes do término da magia: até um a cada 3 níveis.
 
 Embora os rangers normalmente conjurarem magias com metade do seu nível de conjurador, Pedras em Pedregulhos será conjurado com o nível de conjurador completo do ranger.~
 @1685 = ~Garra da Besta

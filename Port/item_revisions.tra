@@ -7319,16 +7319,16 @@ Requisito de Talento: Arma Simples, Maça
 Tipo: Uma mão~
 
 
-//@11441 = ~Estrela da Manhã~
+//@11441 = ~Maça-Estrela~
 //@11442 = ~A descrição do item pode permanecer a mesma; se precisar de uma nova descrição, coloque-a aqui~
-//@11443 = ~Estrela da Manhã - Obra-prima~
+//@11443 = ~Maça-Estrela - Obra-prima~
 //@11444 = ~A descrição do item pode permanecer a mesma; se precisar de uma nova descrição, coloque-a aqui~
-//@11445 = ~Estrela da Manhã +1~
+//@11445 = ~Maça-Estrela +1~
 //@11446 = ~A descrição do item pode permanecer a mesma; se precisar de uma nova descrição, coloque-a aqui~
-//@11447 = ~Estrela do Relâmpago +1~
+//@11447 = ~Maça-Estrela de Relâmpago +1~
 //@11448 = ~A descrição do item pode permanecer a mesma; se precisar de uma nova descrição, coloque-a aqui~
-//@11449 = ~Estrela da Manhã dos Espinhos Envenenados~
-@11450 = ~A Morningstar é uma haste de madeira encimada por uma cabeça de metal feita de uma bainha de ferro com pontas. As Morningstars têm um comprimento total de cerca de 1,20 m. Esta em particular é montada com uma cabeça dourada que foi magicamente aprimorada para melhorar o desempenho e escapar da maleabilidade do ouro.
+//@11449 = ~Maça-Estrela dos Espinhos Envenenados~
+@11450 = ~A Maça-Estrela é uma haste de madeira encimada por uma cabeça de metal feita de uma bainha de ferro com pontas. As Maça-Estrelas têm um comprimento total de cerca de 1,20 m. Esta em particular é montada com uma cabeça dourada que foi magicamente aprimorada para melhorar o desempenho e escapar da maleabilidade do ouro.
 
 ESTATÍSTICAS:
 
@@ -7339,18 +7339,18 @@ Especial:
 Peso: 4 kg (8 lb).
 Requisito de Talento: Arma Simples, Maça
 Tipo: Uma mão~
-//@11451 = ~Estrela da Manhã da Glória~
+//@11451 = ~Maça-Estrela da Glória~
 //@11452 = ~A descrição do item pode permanecer a mesma; se precisar de uma nova descrição, coloque-a aqui~
-//@11453 = ~Estrela da Manhã +5~
+//@11453 = ~Maça-Estrela +5~
 //@11454 = ~A descrição do item pode permanecer a mesma; se precisar de uma nova descrição, coloque-a aqui~
-//@11455 = ~Estrela da Manhã +4~
+//@11455 = ~Maça-Estrela +4~
 //@11456 = ~A descrição do item pode permanecer a mesma; se precisar de uma nova descrição, coloque-a aqui~
-//@11457 = ~Estrela da Manhã +3~
+//@11457 = ~Maça-Estrela +3~
 //@11458 = ~A descrição do item pode permanecer a mesma; se precisar de uma nova descrição, coloque-a aqui~
-//@11459 = ~Estrela da Manhã +2~
+//@11459 = ~Maça-Estrela +2~
 //@11460 = ~A descrição do item pode permanecer a mesma; Se precisar de uma nova descrição, coloque-a aqui~
-@11461 = ~Estrela Impressionante da Velocidade +4~
-@11462 = ~A Morningstar é uma haste de madeira encimada por uma cabeça de metal feita de uma bainha de ferro com pontas. As Morningstars têm um comprimento total de cerca de 1,20 m. Esta em particular é montada com uma cabeça dourada que foi magicamente aprimorada para melhorar o desempenho e escapar da maleabilidade do ouro.
+@11461 = ~Maça-Estrela Atordoante da Velocidade +4~
+@11462 = ~A Maça-Estrela é uma haste de madeira encimada por uma cabeça de metal feita de uma bainha de ferro com pontas. A Maça-Estrela têm um comprimento total de cerca de 1,20 m. Esta em particular é montada com uma cabeça dourada que foi magicamente aprimorada para melhorar o desempenho e escapar da maleabilidade do ouro.
 
 ESTATÍSTICAS:
 
@@ -7364,7 +7364,7 @@ Especial:
 Peso: 4 kg (8 lb).
 Requisito de Talento: Arma Simples, Maça
 Tipo: Uma mão~
-@11463 = ~Estrela de Penas +2~
+@11463 = ~Maça-Estrela das Penas +2~
 @11464 = ~A Morningstar é uma haste de madeira encimada por uma cabeça de metal feita de uma bainha de ferro com pontas. As Morningstars têm um comprimento total de cerca de 1,20 m. Esta em particular é montada com uma cabeça dourada que foi magicamente aprimorada para melhorar o desempenho e escapar da maleabilidade do ouro.
 
 ESTATÍSTICAS:
@@ -7378,8 +7378,8 @@ Especial:
 Peso: 4 kg (8 lb).
 Requisito de Talento: Arma Simples, Maça
 Tipo: Uma mão~
-//@11465 = ~Estrela da Manhã do Eterno +3~
-@11466 = ~A estrela-da-manhã é uma haste de madeira encimada por uma cabeça de metal feita de uma bainha de ferro com pontas. As estrelas-da-manhã têm um comprimento total de cerca de 1,20 m. Esta em particular é montada com uma cabeça dourada que foi magicamente aprimorada para melhorar o desempenho e escapar da maleabilidade do ouro.
+//@11465 = ~Maça-Estrela do Eterno +3~
+@11466 = ~A Maça-Estrela é uma haste de madeira encimada por uma cabeça de metal feita de uma bainha de ferro com pontas. A Maça-Estrela têm um comprimento total de cerca de 1,20 m. Esta em particular é montada com uma cabeça dourada que foi magicamente aprimorada para melhorar o desempenho e escapar da maleabilidade do ouro.
 
 ESTATÍSTICAS:
 
@@ -7392,9 +7392,9 @@ Especial:
 Peso: 4 kg (8 lb).
 Requisito de Talento: Arma Simples, Maça
 Tipo: Uma mão~
-//@11467 = ~Estrela Corrosiva +2~
+//@11467 = ~Maça-Estrela Corrosiva +2~
 //@11468 = ~A descrição do item pode permanecer a mesma; se precisar de uma nova descrição, coloque-a aqui~
-//@11469 = ~Estrela da Manhã de Espinhos +1~
+//@11469 = ~Maça-Estrela de Espinhos +1~
 @11470 = ~A estrela-da-manhã é uma haste de madeira encimada por uma cabeça de metal feita de uma bainha de ferro com pontas. As estrelas-da-manhã têm um comprimento total de cerca de 1,20 m. Esta em particular é montada com uma cabeça dourada que foi magicamente aprimorada para melhorar o desempenho e escapar da maleabilidade do ouro.
 
 ESTATÍSTICAS:
@@ -10169,7 +10169,7 @@ Especial:
   O alvo deve realizar um teste de Reflexos (CD 35) ou ficará aprisionado na Esfera Resiliente de Otiluke por 10 rodadas.
 Peso: 0 kg.
 Lançador: Funda~
-//@12011 = ~Bala de Chamas Retorno +1~
+//@12011 = ~Bala de Chamas do Retorno +1~
 @12012 = ~Correntes mágicas são incorporadas nesta bala para que ela pareça um pouco mais equilibrada e leve ao saltar em direção ao oponente.
 
 ESTATÍSTICAS:
@@ -10183,7 +10183,7 @@ Especial:
   Chama: +1d6 de dano de fogo
 Peso: 0 kg.
 Lançador: Funda~
-@12013 = ~Balas de Desvio +1~
+@12013 = ~Balas de Expulsar Mortos-Vivos +1~
 @12014 = ~Correntes mágicas são incorporadas a esta bala para que ela pareça um pouco mais equilibrada e leve ao saltar em direção ao oponente.
 
 ESTATÍSTICAS:
@@ -10193,7 +10193,7 @@ Bônus de Ataque: +1
 Encantamento: +1
 Tipo de Dano: Projétil (Contusão)
 Especial:
-  Desvio: Ao atingir uma criatura morta-viva, esta bala faz com que ela seja desviada com base na habilidade do lançador de desvia-la.
+  Desvio: Ao atingir uma criatura morta-viva, esta bala faz com que ela seja expulsa com base na habilidade do lançador de desvia-la.
 Peso: 0 kg.
 Lançador: Funda~
 @12015 = ~Balas Atordoantes +1~
@@ -12434,7 +12434,7 @@ Especial:
   Vampírico: 2d4 pontos de vida drenados do alvo e temporariamente adicionados ao portador (Fortitude CD 24)
 Peso: 0 kg.
 Lançador: Funda~
-@12573 = ~Bala de Retorno Brilhante +5~
+@12573 = ~Bala Brilhante do Retorno +5~
 @12574 = ~Correntes mágicas são incorporadas a esta bala para que ela pareça um pouco mais equilibrada e leve ao saltar em direção ao oponente.
 
 ESTATÍSTICAS:
@@ -12828,7 +12828,7 @@ Especial:
 Peso: 0 kg.
 Lançador: Besta~
 @12639 = ~Balas de Estilhaçamento +5~
-@12640 = ~Correntes mágicas são incorporadas a este projétil, fazendo com que ele pareça um pouco mais equilibrado e leve ao saltar em direção ao oponente.
+@12640 = ~Correntes mágicas são incorporadas a esta bala, fazendo com que ele pareça um pouco mais equilibrado e leve ao saltar em direção ao oponente.
 
 ESTATÍSTICAS:
 
