@@ -850,26 +850,26 @@ ESTATÍSTICAS:
 Resistência: 2/- Resistência ao Frio
 Carisma: +1
 Peso: 0,5 kg (1 lb).~
-//@10244 = ~Bandas Descaradas~
-@10245 = ~Essas Bandas Descaradas são encantadas para atrair os golpes do inimigo, cancelando sua inércia, proporcionando assim proteção extra sem os inconvenientes que o uso de armaduras pesadas normalmente envolve.
+//@10244 = ~Braçadeiras de Latão~
+@10245 = ~Estas braçadeiras de latão são encantadas para atrair os golpes do inimigo, cancelando sua inércia e proporcionando proteção extra sem os inconvenientes que o uso de armaduras pesadas normalmente envolve.
 
 ESTATÍSTICAS:
 
 Bônus de Armadura Genérico: +3
 Peso: 0,5 kg (1 lb).~
-//@10246 = ~Bandas Indomáveis~
-@10247 = ~Essas Bandas Indomáveis são encantadas para atrair os golpes do inimigo, cancelando sua inércia, proporcionando assim proteção extra sem os inconvenientes que o uso de armaduras pesadas normalmente envolve.
+//@10246 = ~Braçadeiras Indomáveis~
+@10247 = ~Estas Braçadeiras Indomáveis são encantadas para atrair os golpes do inimigo, cancelando sua inércia e proporcionando proteção extra sem os inconvenientes que o uso de armaduras pesadas normalmente envolve.
 
 ESTATÍSTICAS:
 
 Bônus de Armadura Genérico: +5
 Peso: 0,5 kg (1 lb).~
-//@10248 = ~Bandas de Foco~
-@10249 = ~Nos ensinamentos remanescentes do Kamjin-Doh de Kara-Tur, está escrito que um verdadeiro mestre de armas não depende de couro, corrente ou placa, mas sim de aprimorar suas habilidades para nunca ser atingido... e isso significa que um mestre de armas deve conhecer os movimentos do inimigo como os movimentos da sua própria mão. Mas tal maestria reside em manter o foco no inimigo, mesmo no calor da batalha... e estas simples braçadeiras de couro foram projetadas para fazer exatamente isso.
+//@10248 = ~Braçadeiras do Foco~
+@10249 = ~Nos ensinamentos remanescentes do Kamjin-Doh de Kara-Tur, está escrito que um verdadeiro mestre de armas não depende de couro, corrente ou placa, mas sim de aprimorar suas habilidades para nunca ser atingido — o que significa que um mestre deve conhecer os movimentos do inimigo como os movimentos da própria mão. Tal maestria reside em manter o foco no oponente, mesmo no calor da batalha... e estas simples braçadeiras de couro foram projetadas para auxiliar exatamente nisso.
 
-Inicialmente usadas para ajudar no treinamento de estudantes do Kamjin-Doh, essas Bandas de Foco emitem um suave brilho de luar quando a luz do crepúsculo cai sobre elas. Enquanto usadas, elas exercem uma leve influência calmante sobre a mente do santo da espada que as empunha, aguçando as percepções e os sentidos do guerreiro, permitindo-lhe ler mais facilmente os movimentos dos oponentes. Na rara ocasião em que um inimigo atinge um santo da espada, essas bandas permitem que o portador ignore a dor (que nos ensinamentos do Kamjin-Doh é chamada de "distração") e mantenha a dor onde ela deve estar - em seu oponente.
+Inicialmente usadas para ajudar no treinamento de estudantes do Kamjin-Doh, essas Braçadeiras do Foco emitem um suave brilho de luar quando a luz do crepúsculo cai sobre elas. Enquanto usadas, elas exercem uma leve influência calmante sobre a mente do santo da espada que as empunha, aguçando as percepções e os sentidos do guerreiro, permitindo-lhe ler mais facilmente os movimentos dos oponentes. Na rara ocasião em que um inimigo atinge um santo da espada, essas bandas permitem que o portador ignore a dor (que nos ensinamentos do Kamjin-Doh é chamada de "distração") e mantenha a dor onde ela deve estar - em seu oponente.
 
-Muitas dessas bandas foram espalhadas por Faerûn após a destruição do Kamjin-Doh pelas mãos do Mestre das Lâminas. Há rumores de que o Mestre das Lâminas possuía um conjunto dessas bandas também, mas seu local permanece um mistério.
+Muitas dessas braçadeiras foram espalhadas por Faerûn após a destruição do Kamjin-Doh pelas mãos do Mestre das Lâminas. Há rumores de que o Mestre das Lâminas possuía um conjunto dessas bandas também, mas seu local permanece um mistério.
 
 ESTATÍSTICAS:
 
@@ -877,12 +877,12 @@ Redução de Dano 5/+1
 Foco: O usuário causa dano máximo com cada golpe
 Peso: 0,5 kg (1 lb).
 Sabedoria mínima de 14 necessária~
-//@10250 = ~Bandas do Mestre~
-@10251 = ~Quando o último kensei de Kamjin-Doh, o Mestre das Navalhas, foi morto nos campos do oeste de Kara-Tur, estas simples faixas de couro foram arrancadas de seus braços... e seus braços arrancados de seus ombros... como punição pela destruição de Kamjin-Doh. As identidades daqueles que o derrotaram são desconhecidas, mas os rumores em Kara-Tur eram de que seus assassinos eram os espíritos de três santos da espada de Kamjin-Doh, que retornaram da morte para pôr fim aos crimes do kensei renegado.
+//@10250 = ~Braçadeiras do Mestre~
+@10251 = ~Quando o último kensai de Kamjin-Doh, o Mestre das Navalhas, foi morto nos campos do oeste de Kara-Tur, estas simples braçadeiras de couro foram arrancadas de seus braços — e seus braços arrancados de seus ombros — como punição pela destruição de Kamjin-Doh. As identidades daqueles que o derrotaram são desconhecidas, mas os rumores em Kara-Tur eram de que seus assassinos seriam os espíritos de três santos da espada de Kamjin-Doh, que retornaram da morte para pôr fim aos crimes do kensai renegado.
 
-Descobriu-se que essas, que foram uma vez simples bandas de foco que o Mestre das Lâminas usava como estudante, estavam manchadas de sangue e vergonha, e já não brilhavam com a mesma luz que antes. À medida que o Mestre perdeu o foco, suas bandas de foco se corroeram, quase apodrecendo enquanto estavam enroladas em seus braços sangrentos. Mesmo assim, essas bandas esfarrapadas ainda possuem o poder, a força e a crueldade do Mestre das Lâminas... tornando quem as empunha muito mais mortal.
+Descobriu-se que essas, que foram uma vez simples braçadeiras de foco que o Mestre das Lâminas usava como estudante, estavam manchadas de sangue e vergonha, e já não brilhavam com a mesma luz que antes. À medida que o Mestre perdeu o foco, suas bandas de foco se corroeram, quase apodrecendo enquanto estavam enroladas em seus braços sangrentos. Mesmo assim, essas braçadeiras esfarrapadas ainda possuem o poder, a força e a crueldade do Mestre das Lâminas... tornando quem as empunha muito mais mortal.
 
-Se você usar essas bandas, nunca se esqueça de seu propósito, nunca se esqueça de seu foco, e nunca se esqueça do alcance de seu inimigo. Mantenha essas três coisas em seu coração, e elas servirão bem você na batalha.
+Se você usar essas braçadeiras, nunca se esqueça de seu propósito, nunca se esqueça de seu foco, e nunca se esqueça do alcance de seu inimigo. Mantenha essas três coisas em seu coração, e elas servirão bem você na batalha.
 
 ESTATÍSTICAS:
 
@@ -1379,7 +1379,7 @@ Peso: 0,5 kg (1 lb).~
 
 Agora, o fato de que o Capitão Aeryl Goldenbeard e seus valentes homens de The Bouncing Rhonda pirateavam com sucesso os navios não era tão incomum. Não, a parte incomum era que, após os homens de The Bouncing Rhonda tomarem um navio mercante, o Capitão Aeryl Goldenbeard pulava da cova do corvo, agarrava uma corda no meio do voo que estava amarrada ao mastro, balançava graciosamente para baixo e aterrissava elegantemente no convés do navio mercante. Quase no mesmo instante em que os pés do Capitão Aeryl Goldenbeard tocavam o convés do navio mercante, a tripulação capturada imediatamente gostava do capitão pirata. Na verdade, não era incomum que a maioria das tripulações capturadas implorassem por uma comissão em The Bouncing Rhonda. Porém, no instante em que o capitão pirata e sua tripulação deixavam o navio mercante (junto com sua carga), a tripulação restante do navio mercante imediatamente retomava seu ódio pelo capitão pirata.
 
-Ninguém sabia o porquê ou como o Capitão Aeryl Goldenbeard conseguia encantar suas vítimas tão bem. Isso é, até que um dia, enquanto o bom capitão pirata fazia uma de suas famosas entradas via corda e mastro, seu colorido bandana voou de sua cabeça quase careca. No segundo em que seu pé tocou o convés, todas as antigas tripulações mercantes que haviam se juntado ao navio pirata imediatamente voltaram à realidade e espancaram o capitão pirata até a morte. Não demorou muito para que os presentes percebessem que o bandana do capitão pirata possuía propriedades mágicas que o faziam parecer mais encantador.
+Ninguém sabia o porquê ou como o Capitão Aeryl Goldenbeard conseguia encantar suas vítimas tão bem. Isso é, até que um dia, enquanto o bom capitão pirata fazia uma de suas famosas entradas via corda e mastro, sua colorida bandana voou de sua cabeça quase careca. No segundo em que seu pé tocou o convés, todas as antigas tripulações mercantes que haviam se juntado ao navio pirata imediatamente voltaram à realidade e espancaram o capitão pirata até a morte. Não demorou muito para que os presentes percebessem que a bandana do capitão pirata possuía propriedades mágicas que o faziam parecer mais encantador.
 
 Infelizmente para a tripulação restante de piratas e mercantes, o bandana foi parar no mar. No entanto, de tempos em tempos, surgiam rumores de que um pirata particularmente galante tinha a habilidade sobrenatural de se encantar e escapar de problemas, e gostava de balançar nas cordas dos mastros - e que usava uma bandana muito colorida.
 
@@ -2035,7 +2035,7 @@ Especial:
   Resistência: 5/- Resistência ao Fogo
   Resistência: 5/- Resistência a Ácido
 Peso: 25 kg (50 lb).~
-//@10485 = ~Placa de Umber Hulk~
+//@10485 = ~Placa de Tríbulo Brutal~
 @10486 = ~As placas rígidas que protegem os tríbulos brutais são razoavelmente fáceis de transformar em armaduras humanoides. Esta armadura escura foi moldada em placas completas por ferreiros duergar. Os anões negros, habilidosos no manuseio de exoesqueletos de tríbulos brutais, curaram e reforçaram a armadura.
 
 Armadura Pesada
@@ -2045,9 +2045,9 @@ Bônus Máximo de Destreza: +1
 Penalidade de Teste com Armadura: -6
 Falha de Feitiço Arcano: 35%
 Especial:
-  Proteção contra Umber Hulk: Imune ao olhar de Umber Hulk e outras formas de confusão
+  Proteção contra Tríbulo Brutal: Imune ao olhar de tríbulo brutal e outras formas de confusão
 Peso: 20 kg (40 lb).~
-@10487 = ~Placa de Umber Hulk Ancião~
+@10487 = ~Placa de Tríbulo Brutal Ancião~
 @10488 = ~As placas rígidas que protegem os cascos  tríbulos brutais anciões são razoavelmente fáceis de transformar em armaduras humanoides. Esta armadura escura foi moldada em placas completas por ferreiros duergar. Os anões negros, habilidosos no manuseio de exoesqueletos de cascos umber anciões, curaram e reforçaram a armadura.
 
 Armadura Pesada
@@ -2057,7 +2057,7 @@ Bônus Máximo de Destreza: +1
 Penalidade de Teste com Armadura: -6
 Falha de Feitiço Arcano: 35%
 Especial:
-  Proteção contra Umber Hulk: Imune ao olhar de Umber Hulk e outras formas de confusão
+  Proteção contra Tríbulo Brutal: Imune ao olhar de tríbulo brutal e outras formas de confusão
 Peso: 15 kg (30 lb).~
 //@10489 = ~Escama de Dragão Negro~
 @10490 = ~Esta armadura foi criada pelos ferreiros e sacerdotes anões do Clã Martelo de Batalha quando um deles, Bruenhal, liderou um bando de heróis na derrota de um dragão negro bem ao sul. Alguns anões torcem o nariz para a ideia de usar uma armadura feita com os restos mortais de um dragão, mas Bruenhal a usou com orgulho até o fim de seus dias.
@@ -4976,22 +4976,22 @@ Requisito de Talento: Arma Marcial, Lâmina Grande
 Tipo: Uma Mão~
 
 
-//@10979 = ~Montante~
+//@10979 = ~Espada Larga~
 //@10980 = ~Descrição do item pode permanecer a mesma; caso seja necessário, coloque a nova descrição aqui~
-//@10981 = ~Montante de Mestre~
+//@10981 = ~Espada Larga de Mestre~
 //@10982 = ~Descrição do item pode permanecer a mesma; caso seja necessário, coloque a nova descrição aqui~
-//@10983 = ~Montante +1~
+//@10983 = ~Espada Larga +1~
 //@10984 = ~Descrição do item pode permanecer a mesma; caso seja necessário, coloque a nova descrição aqui~
-//@10985 = ~Montante +5~
+//@10985 = ~Espada Larga +5~
 //@10986 = ~Descrição do item pode permanecer a mesma; caso seja necessário, coloque a nova descrição aqui~
-//@10987 = ~Montante +4~
+//@10987 = ~Espada Larga +4~
 //@10988 = ~Descrição do item pode permanecer a mesma; caso seja necessário, coloque a nova descrição aqui~
-//@10989 = ~Montante +3~
+//@10989 = ~Espada Larga +3~
 //@10990 = ~Descrição do item pode permanecer a mesma; caso seja necessário, coloque a nova descrição aqui~
-//@10991 = ~Montante +2~
+//@10991 = ~Espada Larga +2~
 //@10992 = ~Descrição do item pode permanecer a mesma; caso seja necessário, coloque a nova descrição aqui~
-//@10993 = ~Montante Abençoado +2~
-@10994 = ~A espada larga (montante) é um derivado da espada longa. Os armeiros sempre buscaram maneiras de aprimorar as armas existentes. Em um esforço para aprimorar a espada longa, a lâmina foi alongada. Eventualmente, o cabo teve que ser estendido e duas mãos se tornaram necessárias para brandir a espada corretamente. A função principal das espadas largas é cortar cavaleiros montados e desmantelar formações de lanças. Esta é particularmente boa em sua função, pois foi encantada com algumas propriedades mágicas.
+//@10993 = ~Espada Larga Abençoada +2~
+@10994 = ~A espada larga é um derivado da espada longa. Os armeiros sempre buscaram maneiras de aprimorar as armas existentes. Em um esforço para aprimorar a espada longa, a lâmina foi alongada. Eventualmente, o cabo teve que ser estendido e duas mãos se tornaram necessárias para brandir a espada corretamente. A função principal das espadas largas é cortar cavaleiros montados e desmantelar formações de lanças. Esta é particularmente boa em sua função, pois foi encantada com algumas propriedades mágicas.
 
 ESTATÍSTICAS:
 
@@ -5005,11 +5005,11 @@ Especial:
 Peso: 6 kg (12 lb).
 Requisito de Talento: Arma Marcial, Montante
 Tipo: Duas mãos~
-//@10995 = ~Montante das Chamas +1~
+//@10995 = ~Espada Larga das Chamas +1~
 //@10996 = ~A descrição do item pode permanecer a mesma; se for necessária uma nova descrição, coloque-a aqui~
-//@10997 = ~Montante do Golpe Certeiro~
+//@10997 = ~Espada Larga do Golpe Certeiro~
 //@10998 = ~A descrição do item pode permanecer a mesma; se for necessária uma nova descrição, coloque-a aqui~
-//@10999 = ~Montante dos Sem Alma +5~
+//@10999 = ~Espada Larga dos Sem Alma +5~
 @11000 = ~Os Cavaleiros Matadores de Xvim são considerados um dos guerreiros mais mortais de qualquer reino. Uma das coisas que os torna tão mortais, além de serem parentes demoníacos, é sua habilidade com suas Espada Largas especialmente forjadas; a Espada Larga dos Sem Alma. Sendo a arma comum dos cavaleiros, a função primária das Espada Largas é cortar cavaleiros montados e desmantelar formações de lanças. No entanto, nas mãos eficientes de um Cavaleiro Matador de Xvim, esta Espada Larga em particular cortará os corpos de seus alvos e literalmente sugará o sangue vital deles. A Espada Larga dos Sem Alma é a arma primária dos Cavaleiros Matadores de Xvim.
 
 ESTATÍSTICAS:
@@ -5024,7 +5024,7 @@ Especial:
 Peso: 6 kg (12 lb).
 Requisito de Talento: Arma Marcial, Montante
 Tipo: Duas mãos~
-@11001 = ~Montante da Devoradora +5~
+@11001 = ~Espada Larga da Devoradora +5~
 @11002 = ~Os Cavaleiros Matadores de Xvim são considerados um dos guerreiros mais mortais de qualquer reino. Uma das coisas que os torna tão mortais, além de serem parentes demoníacos, é sua habilidade com suas espadas largas especialmente forjadas; a Espada Larga Devoradora. Sendo a arma comum dos cavaleiros, a função primária das espadas largas é cortar cavaleiros montados e desmantelar formações de lanças. No entanto, nas mãos eficientes de um Cavaleiro Matador de Xvim, esta espada larga em particular cortará os corpos de seus alvos e literalmente sugará o sangue vital deles. A Espada Larga Devoradora é a arma primária dos Cavaleiros Matadores de Xvim.
 
 ESTATÍSTICAS:
@@ -5039,7 +5039,7 @@ Especial:
 Peso: 6 kg (12 lb).
 Requisito de Talento: Arma Marcial, Montante
 Tipo: Duas mãos~
-//@11003 = ~Montante da Fúria +5~
+//@11003 = ~Espada Larga da Fúria +5~
 @11004 = ~A espada larga é um derivado da espada longa. Os armeiros sempre buscaram maneiras de aprimorar as armas existentes. Em um esforço para aprimorar a espada longa, a lâmina foi alongada. Eventualmente, o cabo teve que ser estendido e duas mãos se tornaram necessárias para brandir a espada corretamente. A função principal das espadas largas é cortar cavaleiros montados e desmantelar formações de lanças. Esta é particularmente boa em sua função, pois foi encantada com algumas propriedades mágicas.
 
 ESTATÍSTICAS:
@@ -5053,7 +5053,7 @@ Especial:
 Peso: 6 kg (12 lb).
 Requisito de Talento: Arma Marcial, Montante
 Tipo: Duas mãos~
-@11005 = ~Montante da Retidão~
+@11005 = ~Espada Larga da Retidão~
 @11006 = ~A espada larga é um derivado da espada longa. Os armeiros sempre buscaram maneiras de aprimorar as armas existentes. Em um esforço para aprimorar a espada longa, a lâmina foi alongada. Eventualmente, o cabo teve que ser estendido e duas mãos se tornaram necessárias para brandir a espada corretamente. A função principal das espadas largas é cortar cavaleiros montados e desmantelar formações de lanças. Esta é particularmente boa em sua função, pois foi encantada com algumas propriedades mágicas.
 
 ESTATÍSTICAS:
@@ -5069,7 +5069,7 @@ Peso: 6 kg (12 lb).
 Requisito de Talento: Arma Marcial, Montante
 Tipo: Duas mãos
 Força mínima de 18 necessária~
-@11007 = ~Montante da Perfeição~
+@11007 = ~Espada Larga da Perfeição~
 @11008 = ~A espada larga é um derivado da espada longa. Os armeiros sempre buscaram maneiras de aprimorar as armas existentes. Em um esforço para aprimorar a espada longa, a lâmina foi alongada. Eventualmente, o cabo teve que ser estendido e duas mãos se tornaram necessárias para brandir a espada corretamente. A função principal das espadas largas é cortar cavaleiros montados e desmantelar formações de lanças. Esta é particularmente boa em sua função, pois foi encantada com algumas propriedades mágicas.
 
 ESTATÍSTICAS:
@@ -5083,7 +5083,7 @@ Especial:
 Peso: 6 kg (12 lb).
 Requisito de Talento: Arma Marcial, Montante
 Tipo: Duas mãos~
-//@11009 = ~Montante: Defensor da Geada~
+//@11009 = ~Espada Larga: Defensor da Geada~
 @11010 = ~A espada larga é um derivado da espada longa. Os armeiros sempre buscaram maneiras de aprimorar as armas existentes. Em um esforço para aprimorar a espada longa, a lâmina foi alongada. Eventualmente, o cabo teve que ser estendido e duas mãos se tornaram necessárias para brandir a espada corretamente. A função principal das espadas largas é cortar cavaleiros montados e desmantelar formações de lanças. Esta é particularmente boa em sua função, pois foi encantada com algumas propriedades mágicas.
 
 ESTATÍSTICAS:
@@ -5100,9 +5100,9 @@ Peso: 6 kg (12 lb).
 Requisito de Talento: Arma Marcial, Montante
 Tipo: Duas mãos
 Força mínima de 16 necessária~
-//@11011 = ~Montante das Chamas +3~
+//@11011 = ~Espada Larga das Chamas +3~
 //@11012 = ~A descrição do item pode permanecer a mesma; se for necessária uma nova descrição, coloque-a aqui~
-//@11013 = ~Montante do Defensor~
+//@11013 = ~Espada Larga do Defensor~
 @11014 = ~A espada larga é um derivado da espada longa. Os armeiros sempre buscaram maneiras de aprimorar as armas existentes. Em um esforço para aprimorar a espada longa, a lâmina foi alongada. Eventualmente, o cabo teve que ser estendido e duas mãos se tornaram necessárias para brandir a espada corretamente. A função principal das espadas largas é cortar cavaleiros montados e desmantelar formações de lanças. Esta é particularmente boa em sua função, pois foi encantada com algumas propriedades mágicas.
 
 ESTATÍSTICAS:
@@ -7073,7 +7073,7 @@ Encantamento: +1
 Tipo de Dano: Contusão
 Especial:
   Resistência: 10/- Resistência a Frio
-  Círculo Menor de Calor: Todas as outras criaturas num raio de 3 metros (10 pés) ganham 5/- Resistência a Frio
+  Círculo Menor de Calor: Todas as outras criaturas num raio de 3 metros ganham 5/- Resistência a Frio
 Peso: 1,5 kg (3 lb).
 Requisito de Talento: Arma Simples, Maça
 Tipo: Uma Mão~
@@ -7319,16 +7319,16 @@ Requisito de Talento: Arma Simples, Maça
 Tipo: Uma mão~
 
 
-//@11441 = ~Maça-Estrela~
+//@11441 = ~Estrela da Manhã~
 //@11442 = ~A descrição do item pode permanecer a mesma; se precisar de uma nova descrição, coloque-a aqui~
-//@11443 = ~Maça-Estrela - Obra-prima~
+//@11443 = ~Estrela da Manhã - Obra-prima~
 //@11444 = ~A descrição do item pode permanecer a mesma; se precisar de uma nova descrição, coloque-a aqui~
-//@11445 = ~Maça-Estrela +1~
+//@11445 = ~Estrela da Manhã +1~
 //@11446 = ~A descrição do item pode permanecer a mesma; se precisar de uma nova descrição, coloque-a aqui~
-//@11447 = ~Maça-Estrela de Relâmpago +1~
+//@11447 = ~Estrela do Relâmpago +1~
 //@11448 = ~A descrição do item pode permanecer a mesma; se precisar de uma nova descrição, coloque-a aqui~
-//@11449 = ~Maça-Estrela dos Espinhos Envenenados~
-@11450 = ~A Maça-Estrela é uma haste de madeira encimada por uma cabeça de metal feita de uma bainha de ferro com pontas. As Maça-Estrelas têm um comprimento total de cerca de 1,20 m. Esta em particular é montada com uma cabeça dourada que foi magicamente aprimorada para melhorar o desempenho e escapar da maleabilidade do ouro.
+//@11449 = ~Estrela da Manhã dos Espinhos Envenenados~
+@11450 = ~A Morningstar é uma haste de madeira encimada por uma cabeça de metal feita de uma bainha de ferro com pontas. As Morningstars têm um comprimento total de cerca de 1,20 m. Esta em particular é montada com uma cabeça dourada que foi magicamente aprimorada para melhorar o desempenho e escapar da maleabilidade do ouro.
 
 ESTATÍSTICAS:
 
@@ -7339,18 +7339,18 @@ Especial:
 Peso: 4 kg (8 lb).
 Requisito de Talento: Arma Simples, Maça
 Tipo: Uma mão~
-//@11451 = ~Maça-Estrela da Glória~
+//@11451 = ~Estrela da Manhã da Glória~
 //@11452 = ~A descrição do item pode permanecer a mesma; se precisar de uma nova descrição, coloque-a aqui~
-//@11453 = ~Maça-Estrela +5~
+//@11453 = ~Estrela da Manhã +5~
 //@11454 = ~A descrição do item pode permanecer a mesma; se precisar de uma nova descrição, coloque-a aqui~
-//@11455 = ~Maça-Estrela +4~
+//@11455 = ~Estrela da Manhã +4~
 //@11456 = ~A descrição do item pode permanecer a mesma; se precisar de uma nova descrição, coloque-a aqui~
-//@11457 = ~Maça-Estrela +3~
+//@11457 = ~Estrela da Manhã +3~
 //@11458 = ~A descrição do item pode permanecer a mesma; se precisar de uma nova descrição, coloque-a aqui~
-//@11459 = ~Maça-Estrela +2~
+//@11459 = ~Estrela da Manhã +2~
 //@11460 = ~A descrição do item pode permanecer a mesma; Se precisar de uma nova descrição, coloque-a aqui~
-@11461 = ~Maça-Estrela Atordoante da Velocidade +4~
-@11462 = ~A Maça-Estrela é uma haste de madeira encimada por uma cabeça de metal feita de uma bainha de ferro com pontas. A Maça-Estrela têm um comprimento total de cerca de 1,20 m. Esta em particular é montada com uma cabeça dourada que foi magicamente aprimorada para melhorar o desempenho e escapar da maleabilidade do ouro.
+@11461 = ~Estrela Impressionante da Velocidade +4~
+@11462 = ~A Morningstar é uma haste de madeira encimada por uma cabeça de metal feita de uma bainha de ferro com pontas. As Morningstars têm um comprimento total de cerca de 1,20 m. Esta em particular é montada com uma cabeça dourada que foi magicamente aprimorada para melhorar o desempenho e escapar da maleabilidade do ouro.
 
 ESTATÍSTICAS:
 
@@ -7364,7 +7364,7 @@ Especial:
 Peso: 4 kg (8 lb).
 Requisito de Talento: Arma Simples, Maça
 Tipo: Uma mão~
-@11463 = ~Maça-Estrela das Penas +2~
+@11463 = ~Estrela de Penas +2~
 @11464 = ~A Morningstar é uma haste de madeira encimada por uma cabeça de metal feita de uma bainha de ferro com pontas. As Morningstars têm um comprimento total de cerca de 1,20 m. Esta em particular é montada com uma cabeça dourada que foi magicamente aprimorada para melhorar o desempenho e escapar da maleabilidade do ouro.
 
 ESTATÍSTICAS:
@@ -7378,8 +7378,8 @@ Especial:
 Peso: 4 kg (8 lb).
 Requisito de Talento: Arma Simples, Maça
 Tipo: Uma mão~
-//@11465 = ~Maça-Estrela do Eterno +3~
-@11466 = ~A Maça-Estrela é uma haste de madeira encimada por uma cabeça de metal feita de uma bainha de ferro com pontas. A Maça-Estrela têm um comprimento total de cerca de 1,20 m. Esta em particular é montada com uma cabeça dourada que foi magicamente aprimorada para melhorar o desempenho e escapar da maleabilidade do ouro.
+//@11465 = ~Estrela da Manhã do Eterno +3~
+@11466 = ~A estrela-da-manhã é uma haste de madeira encimada por uma cabeça de metal feita de uma bainha de ferro com pontas. As estrelas-da-manhã têm um comprimento total de cerca de 1,20 m. Esta em particular é montada com uma cabeça dourada que foi magicamente aprimorada para melhorar o desempenho e escapar da maleabilidade do ouro.
 
 ESTATÍSTICAS:
 
@@ -7392,9 +7392,9 @@ Especial:
 Peso: 4 kg (8 lb).
 Requisito de Talento: Arma Simples, Maça
 Tipo: Uma mão~
-//@11467 = ~Maça-Estrela Corrosiva +2~
+//@11467 = ~Estrela Corrosiva +2~
 //@11468 = ~A descrição do item pode permanecer a mesma; se precisar de uma nova descrição, coloque-a aqui~
-//@11469 = ~Maça-Estrela de Espinhos +1~
+//@11469 = ~Estrela da Manhã de Espinhos +1~
 @11470 = ~A estrela-da-manhã é uma haste de madeira encimada por uma cabeça de metal feita de uma bainha de ferro com pontas. As estrelas-da-manhã têm um comprimento total de cerca de 1,20 m. Esta em particular é montada com uma cabeça dourada que foi magicamente aprimorada para melhorar o desempenho e escapar da maleabilidade do ouro.
 
 ESTATÍSTICAS:
@@ -8132,7 +8132,7 @@ Peso: 3,5 kg (7 lb).
 Requisito de Talento: Arma Marcial, Martelo
 Tipo: Uma Mão~
 //@11591 = ~Martelo do Artesão~
-@11592 = ~Este martelo de cabeça pesada parece ter sido usado na construção da Palisade, e é possível que nenhum dos trabalhadores soubesse de sua natureza encantada. Embora esta arma seja um pouco mais lenta e pesada que um martelo de guerra, seu golpe é certeiro e causa mais dano ao atingir. Um único toque deste martelo produz uma nota clara e ressonante.
+@11592 = ~Este martelo de cabeça pesada parece ter sido usado na construção da Paliçada, e é possível que nenhum dos trabalhadores soubesse de sua natureza encantada. Embora esta arma seja um pouco mais lenta e pesada que um martelo de guerra, seu golpe é certeiro e causa mais dano ao atingir. Um único toque deste martelo produz uma nota clara e ressonante.
 
 ESTATÍSTICAS:
 
@@ -8144,7 +8144,7 @@ Peso: 4,5 kg (9 lb)
 Requisito de Talento: Arma Marcial, Martelo
 Tipo: Uma Mão~
 //@11593 = ~Lento e Firme~
-@11594 = ~Este martelo de cabeça pesada parece ter sido usado na construção da Palisade, e é possível que nenhum dos trabalhadores soubesse de sua natureza encantada. Embora esta arma seja um pouco mais lenta e pesada que um martelo de guerra, seu golpe é certeiro e causa mais dano ao atingir. Um único toque deste martelo produz uma nota clara e ressonante.
+@11594 = ~Este martelo de cabeça pesada parece ter sido usado na construção da Paliçada, e é possível que nenhum dos trabalhadores soubesse de sua natureza encantada. Embora esta arma seja um pouco mais lenta e pesada que um martelo de guerra, seu golpe é certeiro e causa mais dano ao atingir. Um único toque deste martelo produz uma nota clara e ressonante.
 
 ESTATÍSTICAS:
 
@@ -10169,7 +10169,7 @@ Especial:
   O alvo deve realizar um teste de Reflexos (CD 35) ou ficará aprisionado na Esfera Resiliente de Otiluke por 10 rodadas.
 Peso: 0 kg.
 Lançador: Funda~
-//@12011 = ~Bala de Chamas do Retorno +1~
+//@12011 = ~Bala de Chamas Retorno +1~
 @12012 = ~Correntes mágicas são incorporadas nesta bala para que ela pareça um pouco mais equilibrada e leve ao saltar em direção ao oponente.
 
 ESTATÍSTICAS:
@@ -10183,7 +10183,7 @@ Especial:
   Chama: +1d6 de dano de fogo
 Peso: 0 kg.
 Lançador: Funda~
-@12013 = ~Balas de Expulsar Mortos-Vivos +1~
+@12013 = ~Balas de Desvio +1~
 @12014 = ~Correntes mágicas são incorporadas a esta bala para que ela pareça um pouco mais equilibrada e leve ao saltar em direção ao oponente.
 
 ESTATÍSTICAS:
@@ -10193,7 +10193,7 @@ Bônus de Ataque: +1
 Encantamento: +1
 Tipo de Dano: Projétil (Contusão)
 Especial:
-  Desvio: Ao atingir uma criatura morta-viva, esta bala faz com que ela seja expulsa com base na habilidade do lançador de desvia-la.
+  Desvio: Ao atingir uma criatura morta-viva, esta bala faz com que ela seja desviada com base na habilidade do lançador de desvia-la.
 Peso: 0 kg.
 Lançador: Funda~
 @12015 = ~Balas Atordoantes +1~
@@ -10299,14 +10299,14 @@ Peso: 0 kg.~
 
 ESTATÍSTICAS:
 
-Ao ser arremessado, o crânio paira no ponto alvo até que uma criatura se aproxime, momento em que explode, causando 10d8 de dano mágico, causando dano a todos em um raio de 3 metros (10 pés) (Reflexos CD 25 para metade).
+Ao ser arremessado, o crânio paira no ponto alvo até que uma criatura se aproxime, momento em que explode, causando 10d8 de dano mágico, causando dano a todos em um raio de 3 metros (Reflexos CD 25 para metade).
 Peso: 0,5 kg (1 lb)~
 @12049 = ~Crânio Detonante de Xainlaphar~ // HoF
 @12050 = ~Xainlaphar, um Mago Vermelho insano de Thay, era conhecido por transformar os crânios de seus inimigos mortos em armas. Sua arma mais comum era conhecida como "Crânio Detonador". Em essência, o item não é muito diferente do feitiço Armadilha de Crânios. Xainlaphar morreu em 913 CV, muito antes de ter tempo de usar metade de seus crânios encantados. Eles foram reivindicados por seus inimigos, um paladino e sacerdote de Helm. Eles pretendiam destruir os itens, mas pelo menos quarenta foram roubados por ladrões astutos no caminho de volta para Sembia.
 
 ESTATÍSTICAS:
 
-Ao ser arremessado, o crânio paira no ponto alvo até que uma criatura se aproxime, momento em que explode, causando 20d8 de dano mágico, causando dano a todos em um raio de 3 metros (10 pés) (Reflexos CD 35 para metade).
+Ao ser arremessado, o crânio paira no ponto alvo até que uma criatura se aproxime, momento em que explode, causando 20d8 de dano mágico, causando dano a todos em um raio de 3 metros (Reflexos CD 35 para metade).
 Peso: 0,5 kg (1 lb).~
 //@12051 = ~Amuleto do Lobo Uivante~
 @12052 = ~Este é um pequeno amuleto prateado em forma de cabeça de lobo, do tipo às vezes confeccionado pelos xamãs Rashemen da Tribo do Lobo. Segurando o amuleto com força e uivando para os céus, pode-se invocar um feroz lobo cinzento para ajudá-lo na batalha. Diz-se que tais amuletos desbotam à medida que seu poder diminui e, eventualmente, se desintegram em pó prateado quando o restante de sua energia de invocação é consumido.
@@ -10452,7 +10452,7 @@ Peso: 0,5 kg (1 lb)~
 ESTATÍSTICAS:
 
 Dano: 6D6 (Reflexos CD 18 para metade)
-Área: raio de 6 metros (20 pés)
+Área: raio de 6 metros
 Peso: 0,5 kg (1 lb).~
 //@12095 = ~Frasco de Braehg~
 @12096 = ~Braehg é uma mistura vil de sangue de javali misturado com leite e um pouco de ervas raras. Beber um frasco inteiro de uma só vez dá ao bravo bebedor uma explosão de poder físico... mas é quase certo que também o deixará enjoado.
@@ -11141,7 +11141,7 @@ ESTATÍSTICAS:
 
 Especial: Faz os inimigos correrem de medo, a menos que façam um teste de Vontade (CD 15).
 Alcance: 30 metros (100 pés)
-Área: 3 metros de raio (10 pés)
+Área: 3 metros de raio
 Duração: 15 rodadas
 Peso: 0,5 kg (1 lb)~
 //@12235 = ~Varinha de Mísseis Mágicos~
@@ -11173,7 +11173,7 @@ Habilidade 1:
 Efeito: Dispara uma Bola de Fogo
 Dano: 6d6 (Reflexos CD 17)
 Alcance: 30 metros (100 pés)
-Área: 10 metros de raio (30 pés)
+Área: 10 metros de raio
 
 Habilidade 2:
 Efeito: Queimador de Agannazar
@@ -11203,7 +11203,7 @@ ESTATÍSTICAS:
 Efeito: Coluna de Chamas
 Dano: 9d6 (Reflexos CD 18)
 Alcance: 36 metros (120 pés)
-Área: Raio de 3 metros (10 pés)
+Área: Raio de 3 m
 Peso: 0,5 kg (1 lb)~
 //@12249 = ~Varinha de Detecção de Armadilhas~
 //@12250 = ~A descrição do item pode permanecer a mesma; se precisar de uma nova descrição, coloque-a aqui~
@@ -11943,7 +11943,7 @@ Penalidade de Teste com Armadura: -0
 Falha de Feitiço Arcano: 10%
 Especial:
   Bônus de Armadura Genérica: +3
-  Sombrio: +15 na habilidade de Esconder-se
+  Sombrio: +15 na habilidade de Ocultar
 Peso: 2,5 kg (5 lb) ~
 @12489 = ~Armadura de Couro da Invisibilidade +4~
 @12490 = ~À primeira vista, parece uma armadura de couro comum; uma inspeção mais detalhada revela indícios sutis de vários aprimoramentos arcanos. Os rebites que prendem as várias peças brilham intensamente, como se fossem polidos. As peças de couro são macias e flexíveis ao toque, mas endurecem instantaneamente ao receberem um golpe forte. E, quando usadas, os rangidos e os estalos normalmente associados a tais armaduras estão misteriosamente ausentes.
@@ -12290,7 +12290,7 @@ Especial:
 Peso: 0,5 kg (1 lb)
 Requisito de Talento: Arma Exótica, Espada Bastarda
 Tipo: Uma Mão~
-@12551 = ~Montante do Carrasco +5~
+@12551 = ~Espada Larga do Carrasco +5~
 @12552 = ~A espada larga é um derivado da espada longa. Os armeiros sempre buscaram maneiras de aprimorar as armas existentes. Em um esforço para aprimorar a espada longa, a lâmina foi alongada. Eventualmente, o cabo teve que ser estendido e duas mãos se tornaram necessárias para brandi-la corretamente. A função principal das espadas largas é cortar cavaleiros montados e desmantelar formações de lanças. Esta é particularmente boa em sua função, pois foi encantada com algumas propriedades mágicas.
 
 ESTATÍSTICAS:
@@ -12434,7 +12434,7 @@ Especial:
   Vampírico: 2d4 pontos de vida drenados do alvo e temporariamente adicionados ao portador (Fortitude CD 24)
 Peso: 0 kg.
 Lançador: Funda~
-@12573 = ~Bala Brilhante do Retorno +5~
+@12573 = ~Bala de Retorno Brilhante +5~
 @12574 = ~Correntes mágicas são incorporadas a esta bala para que ela pareça um pouco mais equilibrada e leve ao saltar em direção ao oponente.
 
 ESTATÍSTICAS:
@@ -12828,7 +12828,7 @@ Especial:
 Peso: 0 kg.
 Lançador: Besta~
 @12639 = ~Balas de Estilhaçamento +5~
-@12640 = ~Correntes mágicas são incorporadas a esta bala, fazendo com que ele pareça um pouco mais equilibrado e leve ao saltar em direção ao oponente.
+@12640 = ~Correntes mágicas são incorporadas a este projétil, fazendo com que ele pareça um pouco mais equilibrado e leve ao saltar em direção ao oponente.
 
 ESTATÍSTICAS:
 
@@ -12978,7 +12978,7 @@ Peso: 0,5 kg (1 lb)~
 ESTATÍSTICAS:
 
 Dano: 15d6 (Reflexos CD 30 para metade)
-Área: raio de 6 metros (20 pés)
+Área: raio de 6 metros
 Peso: 0,5 kg (1 lb)~
 //@12665 = ~Proteção contra Ácido~
 @12666 = ~Um pergaminho de Proteção contra Ácido oferece proteção ao alvo contra todas as formas de ácido, sejam elas de natureza natural ou mágica. O efeito não é permanente, no entanto, e desaparecerá após 24 horas.

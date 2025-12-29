@@ -2655,11 +2655,11 @@ Lançador: Arco~
 @30114 = ~Cajado de Feitiço (Orientação)~
 @30115 = ~Polimorfia: Gigante Fomoriano~
 @30116 = ~Polimorfia: Troll~
-@30117 = ~Polimorfia: Umber Hulk~
+@30117 = ~Polimorfia: Tríbulo Brutal~
 @30118 = ~Polimorfia: Wyvern~
 @30119 = ~Pedra de Gigante Fomoriano~
 @30120 = ~Ataque de Troll~
-@30121 = ~Ataque de Umber Hulk~
+@30121 = ~Ataque de Tríbulo Brutal~
 @30122 = ~Ferrão de Wyvern~
 @30123 = ~Pulo
 
@@ -2673,9 +2673,9 @@ O personagem se transforma em um gigante fomoriano. Enquanto estiver na forma de
 @30126 = ~Polimorfia: Troll
 
 O personagem se transforma em um troll. Enquanto estiver na forma de troll, o personagem regenera 1 ponto de vida por segundo, mas é vulnerável ao fogo e ao ácido.~
-@30127 = ~Polimorfia: Umber Hulk
+@30127 = ~Polimorfia: Tríbulo Brutal
 
-O personagem se transforma em um Umber Hulk. Enquanto estiver na forma de Umber Hulk, o olhar do personagem confunde inimigos próximos caso eles falhem em um teste de Vontade.~
+O personagem se transforma em um tríbulo brutal. Enquanto estiver na forma de tríbulo brutal, o olhar do personagem confunde inimigos próximos caso eles falhem em um teste de Vontade.~
 @30128 = ~Polimorfia: Wyvern
 
 O personagem se transforma em um wyvern. Enquanto estiver na forma de wyvern, os ataques do personagem envenenam o alvo em um teste de Fortitude fracassado.~
@@ -4637,7 +4637,7 @@ Metamorfose Pessoal permite ao conjurador assumir a forma de uma criatura de pod
 
 * Gigante Fomoriano (pode lançar pedras grandes a longa distância)
 * Troll (regenera 1 PV por segundo)
-* Umber Hulk (inimigos próximos devem fazer um teste de Vontade a cada rodada ou ficarão confusos)
+* Tríbulo Brutal (inimigos próximos devem fazer um teste de Vontade a cada rodada ou ficarão confusos)
 * Wyvern (pode voar, e cada golpe envenena o alvo em um teste de Fortitude falho)~
 @37456   = ~Imbuir com Habilidade Mágica~
 @38456   = ~Imbuir com Habilidade Mágica

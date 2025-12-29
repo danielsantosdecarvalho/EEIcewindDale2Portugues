@@ -95,7 +95,7 @@
 @55094=~efeitos vampíricos~
 @55095=~Sangue Ardente de Beltyn~
 @55096=~auras de salamandra~
-@55097=~olhar do Umber Hulk~
+@55097=~olhar do tríbulo brutal~
 @55098=~Fúria Animal~
 @55099=~Esfera Vitriólica~
 @55100=~Lamento da Harpia~
@@ -318,11 +318,11 @@
 @55607=~, jogada máxima de <EXRLVAL1>~
 
 @55701=~Falha na Magia: A função "Retroceder o Tempo" não havia sido inicializada para começar a registrar os efeitos neste personagem. Agora foi, então deve funcionar na próxima vez que o personagem conjurar a magia.~
-@55702=~Não ferido~
-@55703=~Quase não ferido~
-@55704=~Machucado~
-@55705=~Gravemente ferido~
-@55706=~Quase morto~
+@55702=~Sem Ferimentos~
+@55703=~Pouco Ferido(a)~
+@55704=~Ferido(a)~
+@55705=~Gravemente Ferido(a)~
+@55706=~Perto da morte~
 @55707=~Gravação apagada~
 @55708=~Gravando feitiços~
 @55709=~Gravação concluída~
@@ -369,15 +369,15 @@
 @55788=~Substituição de Feitiço: Nível 8~
 @55789=~Substituição de Feitiço: Nível 9~
 
-@55801=~Furto bem-sucedido e não foi detectado~
-@55802=~Furto bem-sucedido, mas foi detectado~
-@55803=~Furto falhou, mas não foi detectado~
-@55804=~Furto falhou e foi detectado~
-@55805=~Furto falhou porque o alvo não tem nada para roubar, mas você não foi detectado~
-@55806=~Furto falhou porque o alvo não tem nada para roubar, e você foi detectado~
-@55807=~Furto falhou porque o alvo não tem nada que você possa roubar com seu nível atual de habilidade, mas você não foi detectado~
-@55808=~Furto falhou porque o alvo não tem nada que você possa roubar com seu nível atual de habilidade, e você foi detectado~
-@55809=~Furto falhou porque o alvo não tem nada que você possa roubar com seu nível atual de habilidade~
+@55801=~Bater Carteira bem-sucedido e não foi detectado~
+@55802=~Bater Carteira bem-sucedido, mas foi detectado~
+@55803=~Bater Carteira falhou, mas não foi detectado~
+@55804=~Bater Carteira falhou e foi detectado~
+@55805=~Bater Carteira falhou porque o alvo não tem nada para roubar, mas você não foi detectado~
+@55806=~Bater Carteira falhou porque o alvo não tem nada para roubar, e você foi detectado~
+@55807=~Bater Carteira falhou porque o alvo não tem nada que você possa roubar com seu nível atual de habilidade, mas você não foi detectado~
+@55808=~Bater Carteira falhou porque o alvo não tem nada que você possa roubar com seu nível atual de habilidade, e você foi detectado~
+@55809=~Bater Carteira falhou porque o alvo não tem nada que você possa roubar com seu nível atual de habilidade~
 @55810=~O mecanismo que opera isso não possui uma fechadura convencional, mas ainda pode ser possível arrombá-lo.~
 @55811=~Esta porta é muito resistente para ser arrombada, mas a fechadura ainda pode ser arrombada.~
 @55812=~Este recipiente é muito resistente para ser arrombado, mas a fechadura ainda pode ser arrombada.~
