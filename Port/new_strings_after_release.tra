@@ -2072,7 +2072,7 @@ Tempo de Conjuração: 4
 Teste de Resistência: Reflexos reduz o dano à metade
 
 Ao concluir esta magia, um raio brilhante de calor escaldante desce do céu e queima a criatura alvo, causando 1d6 + 1 de dano de fogo por nível do conjurador (até um máximo de 1d6 + 15). Mortos-vivos, fungos, gosmas e drows e anões cinzentos sofrem 1d6 + 2 de dano de fogo por nível do conjurador (até um máximo de 1d6 + 30). As vítimas devem ser bem-sucedidas em um teste de Reflexos ou ficarão cegas por 3 rodadas. Drows e anões cinzentos ficam cegos pelo efeito da magia por 3 rodadas (sem direito a teste de resistência). Esta magia ignora a resistência a magia de criaturas como drows, que são vulneráveis ??a ela.~
-@32204 = ~Encantar Pessoa ou Animal
+@32204 = ~Enfeitiçar Pessoa ou Animal
 (Encantamento)
 Nível: Drd 2
 Alcance: Visão do Conjurador
@@ -2153,7 +2153,7 @@ Tempo de Conjuração: 7
 Teste de Resistência: Reflexos parcial
 
 Esta magia permite ao conjurador evocar feixes deslumbrantes de luz intensamente quente. A cada rodada, todas as criaturas no raio ficam cegas por 3 rodadas e sofrem 4d6 pontos de dano de fogo, ou 16d6 de dano ao longo de 4 rodadas. Um teste de Reflexos bem-sucedido anula a cegueira e reduz o dano pela metade. Drows e anões cinzentos sofrem 8d6 de dano por rodada e não têm direito a teste de resistência contra a cegueira. Criaturas mortas-vivas, fungos e gosmas atingidos pelo raio sofrem 1d6 pontos de dano por nível do conjurador (máximo de 20d6) por rodada. Esta magia ignora a resistência a magia de criaturas como drows, que são vulneráveis ??a ela.~
-@34104 = ~Encantar Pessoa
+@34104 = ~Enfeitiçar Pessoa
 (Encantamento)
 Nível: Bardo 1, Feiticeiro/Mago 1
 Alcance: Visão do Conjurador
@@ -2164,7 +2164,7 @@ Teste de Resistência: Vontade anula
 
 Esta magia afeta qualquer pessoa sobre a qual for conjurada. O termo "pessoa" inclui qualquer humano bípede, semi-humano ou humanoide de tamanho igual ou menor que um homem, como brownies, dríades, anões, elfos, gnolls, gnomos, goblins, meio-elfos, halflings, meio-orcs, hobgoblins, humanos, kobolds, homens-lagarto, ninfas, orcs, fadas, sprites, trogloditas e outros. Assim, um guerreiro de 10º nível poderia ser enfeitiçado, mas um ogro não. A pessoa recebe um teste de Vontade para evitar o efeito. Se o alvo da magia falhar no teste de resistência, ele considera o conjurador um amigo e aliado de confiança a ser ouvido e protegido. O conjurador pode dar ordens a ele, e o indivíduo enfeitiçado as cumprirá o mais rápido possível.
 Se o conjurador ferir, ou tentar ferir, a pessoa enfeitiçada por alguma ação explícita, ou se uma magia de dissipar magia for lançada com sucesso sobre a pessoa enfeitiçada, a magia de encantamento é quebrada. Se dois ou mais efeitos de encantamento afetarem simultaneamente uma criatura, o encantamento mais recente prevalece. Observe que o alvo tem memória completa dos eventos que ocorreram enquanto estava enfeitiçado. Observe também que você não pode fazer com que uma criatura enfeitiçada saia da área onde foi enfeitiçada. A Resistência à Magia do alvo, se houver, não afeta esta magia.~
-@1681 = ~Jato de Cores
+@1681 = ~Leque Cromático
 (Ilusão)
 Nível: Bardo 1, Feiticeiro/Mago 1
 Alcance: Conjurador
@@ -2179,7 +2179,7 @@ Até 2: Inconsciente por 5 rodadas
 3 ou 4: Cego por 3 rodadas
 5 ou mais: Atordoado por 1 rodada
 
-Um teste de Vontade bem-sucedido anula o efeito. Criaturas cegas não são afetadas por jato de cores. Esta magia não provoca ataques de oportunidade.~
+Um teste de Vontade bem-sucedido anula o efeito. Criaturas cegas não são afetadas por Leque Cromático. Esta magia não provoca ataques de oportunidade.~
 @34316 = ~Encanto Sombrio
 (Encantamento)
 Nível: Brd 2, Fet/Mag 3, Bane 3
@@ -2189,7 +2189,7 @@ Tempo de Conjuração: 3
 Área de Efeito: 1 criatura
 Teste de Resistência: Vontade anula
 
-Esta magia é semelhante à magia Encantar Pessoa. No entanto, a criatura afetada entra em um estado de fúria, não querendo que ninguém machuque seu mestre (o conjurador). Assim, a criatura lutará contra os inimigos do conjurador, até mesmo antigos aliados. Encanto Sombrio pode afetar tanto humanoides quanto gigantes. Esta magia ignora resistência a magia.~
+Esta magia é semelhante à magia Enfeitiçar Pessoa. No entanto, a criatura afetada entra em um estado de fúria, não querendo que ninguém machuque seu mestre (o conjurador). Assim, a criatura lutará contra os inimigos do conjurador, até mesmo antigos aliados. Encanto Sombrio pode afetar tanto humanoides quanto gigantes. Esta magia ignora resistência a magia.~
 @1091 = ~Lança da Ruptura
 (Evocação)
 Nível: Feiticeiro/Mago 3
@@ -2250,7 +2250,7 @@ Tempo de Conjuração: 2
 Teste de Resistência: Nenhum
 
 Identificar Criatura revela informações úteis de combate sobre a criatura alvo. As informações incluem o nível da criatura, seus pontos de vida atuais e máximos, número de ataques por rodada, atributos, resistências, testes de resistência e várias outras características que dependem da criatura. Esta magia ignora resistência a magia.~
-@38653 = ~Rolamento de Rocha
+@38653 = ~Rocha Rolante
 (Conjuração)
 Nível: Drd 6, Fet/Mag 6
 Alcance: Especial
@@ -2259,7 +2259,7 @@ Tempo de Conjuração: 4
 Área de Efeito: Todas as criaturas no caminho da rocha
 Teste de Resistência: Reflexos parcial
 
-Rolamento de Rocha cria uma grande rocha que rola para a frente a partir do conjurador, esmagando criaturas em seu caminho, até atingir uma parede. Criaturas atingidas sofrem 12d8 de dano de impacto e são derrubadas por 2 rodadas. Um teste de Reflexos bem-sucedido reduz o dano à metade e impede que a criatura seja derrubada. A pedra ignora a resistência a magia e sempre se move diretamente para o sul a partir do conjurador.~
+Rocha Rolante cria uma grande rocha que rola para a frente a partir do conjurador, esmagando criaturas em seu caminho, até atingir uma parede. Criaturas atingidas sofrem 12d8 de dano de impacto e são derrubadas por 2 rodadas. Um teste de Reflexos bem-sucedido reduz o dano à metade e impede que a criatura seja derrubada. A pedra ignora a resistência a magia e sempre se move diretamente para o sul a partir do conjurador.~
 @38853 = ~Escravizar
 (Encantamento)
 Nível: Brd 7, Fet/Mag 8
@@ -2385,7 +2385,7 @@ Teste de Resistência: Nenhum
 Esta magia transforma as baldas da funda do conjurador em rochas. Enquanto a magia estiver ativa, se o conjurador lançar uma bala, ele se transforma instantaneamente em uma grande rocha que mantém a velocidade do projétil original. A rocha inflige 7d4 de dano adicional se acertar (além do dano anterior do projétil). Apenas um número limitado de balas pode ser transformado em pedregulhos antes do término da magia: até um a cada 3 níveis.
 
 Embora os rangers normalmente conjurarem magias com metade do seu nível de conjurador, Pedras em Pedregulhos será conjurado com o nível de conjurador completo do ranger.~
-@1685 = ~Garra da Besta
+@1685 = ~Garras de Fera
 (Transmutação)
 Nível: Drd 2, Rgr 2
 Alcance: Visão do Conjurador
@@ -3172,7 +3172,7 @@ Vantagens:
 * Talento Combate às Cegas gratuito após a criação do personagem.
 * Enredar 1/Dia.
 * Imobilizar Animal 1/Dia.
-* Encantar Pessoa 1/Dia.
+* Enfeitiçar Pessoa 1/Dia.
 * Assustar 1/Dia.
 * Escuridão 1/Dia.
 * À vontade, pode se transformar em uma víbora gigante. Nessa forma, os ataques do personagem envenenarão o alvo em caso de falha no teste de Fortitude. Essa forma se torna mais poderosa à medida que o personagem sobe de nível. Se o personagem usar uma habilidade de forma selvagem de druida para se transformar em uma víbora gigante, seu nível de druida é dobrado para fins de determinar o poder da forma.
@@ -3185,7 +3185,7 @@ Especial: Você só pode escolher este talento como um personagem de 1º nível.~
 @930 = ~Enredar
 
 Quando uma magia Enredar é conjurada, ela deve ser conjurada ao ar livre, caso contrário não funcionará e a magia será desperdiçada. Ela faz com que vinhas brotem do chão para envolver, torcer e entrelaçar quaisquer criaturas na área de efeito, impedindo o movimento. As criaturas devem fazer um teste de Reflexos a cada rodada para se moverem pela área enredada. A CD é 11 + metade do nível + bônus de Carisma. Criaturas enredadas ainda podem realizar ações normais, mas não podem se mover e sofrem uma penalidade de -2 na Classe de Armadura e nas jogadas de ataque, bem como 50% de chance de falha da magia. Todas as criaturas dentro da área de efeito que passarem no teste de Reflexos movem-se à metade da velocidade.~
-@931 = ~Encantar Pessoa
+@931 = ~Enfeitiçar Pessoa
 
 Esta magia encanta um único humanoide de tamanho humano ou menor por 5 rodadas. A pessoa recebe um teste de Vontade para evitar o efeito; a CD é 11 + metade do nível + bônus de Carisma. Se o alvo da magia falhar no teste de resistência, ele considera o conjurador um amigo e aliado de confiança a ser ouvido e protegido. O conjurador pode dar ordens a ele, e o indivíduo encantado as cumprirá o mais rápido possível.~
 @932 = ~Assustar

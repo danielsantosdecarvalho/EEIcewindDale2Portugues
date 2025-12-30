@@ -1,94 +1,94 @@
-# Dicion√°rio de Palavras #
+# Dicion·rio de Palavras #
 
-## Habilidade de Classes e Ra√ßa ## 
+## Habilidade de Classes e RaÁa ## 
 
-## üåë Ra√ßa / Habilidades Gerais / Etc
+## ?? RaÁa / Habilidades Gerais / Etc
 
-| Ingl√™s        | Portugu√™s           |
+| InglÍs        | PortuguÍs           |
 |---------------|---------------------|
-| Darkvision    | Vis√£o no Escuro     |
-| Stonecunning  | Liga√ß√£o com Pedras  |
+| Darkvision    | Vis„o no Escuro     |
+| Stonecunning  | LigaÁ„o com Pedras  |
 | Kensei  		| Kensai  			  |
 
 
-## ü™ì B√°rbaro
+## ?? B·rbaro
 
 
-| Ingl√™s                     | Portugu√™s                          |
+| InglÍs                     | PortuguÍs                          |
 |----------------------------|------------------------------------|
-| Fast movement              | Movimento R√°pido                   |
+| Fast movement              | Movimento R·pido                   |
 | Illiteracy                 | Analfabetismo                      |
-| Rage 1/day                 | F√∫ria 1/dia                        |
+| Rage 1/day                 | F˙ria 1/dia                        |
 | Uncanny dodge              | Esquiva sobrenatural               |
 | Trap sense +1              | Sentir armadilhas +1               |
 | Improved uncanny dodge     | Esquiva sobrenatural aprimorada    |
-| Damage reduction 1/‚Äî       | Redu√ß√£o de dano 1/‚Äî                |
-| Greater rage               | F√∫ria maior                        |
-| Indomitable will           | Vontade inabal√°vel                 |
-| Tireless rage              | F√∫ria incans√°vel                   |
-| Mighty rage                | F√∫ria poderosa                     |
+| Damage reduction 1/ó       | ReduÁ„o de dano 1/ó                |
+| Greater rage               | F˙ria maior                        |
+| Indomitable will           | Vontade inabal·vel                 |
+| Tireless rage              | F˙ria incans·vel                   |
+| Mighty rage                | F˙ria poderosa                     |
 
 
 ---
 
-## üéµ Bardo
+## ?? Bardo
 
 
-| Ingl√™s              | Portugu√™s                     |
+| InglÍs              | PortuguÍs                     |
 |---------------------|-------------------------------|
-| Bardic music        | M√∫sica de bardo               |
+| Bardic music        | M˙sica de bardo               |
 | Bardic knowledge    | Conhecimento de bardo         |
-| Countersong         | M√∫sica de prote√ß√£o            |
+| Countersong         | M˙sica de proteÁ„o            |
 | Fascinate           | Fascinar                      |
 | Inspire courage +1  | Inspirar coragem +1           |
-| Inspire competence  | Inspirar compet√™ncia          |
-| Suggestion          | Sugest√£o                      |
+| Inspire competence  | Inspirar competÍncia          |
+| Suggestion          | Sugest„o                      |
 | Inspire greatness   | Inspirar grandeza             |
-| Song of freedom     | Melodia da liberta√ß√£o         |
-| Inspire heroics     | Inspirar hero√≠smo             |
-| Mass suggestion     | Sugest√£o em massa             |
+| Song of freedom     | Melodia da libertaÁ„o         |
+| Inspire heroics     | Inspirar heroÌsmo             |
+| Mass suggestion     | Sugest„o em massa             |
 
 
 ---
 
-## üåø Druida
+## ?? Druida
 
-| Ingl√™s                   | Portugu√™s                          |
+| InglÍs                   | PortuguÍs                          |
 |--------------------------|------------------------------------|
 | Animal companion         | Companheiro animal                 |
 | Nature sense             | Senso da natureza                  |
 | Wild empathy             | Empatia com a natureza             |
 | Woodland stride          | Caminho da floresta                |
-| Trackless step           | Rastro invis√≠vel                   |
-| Resist nature‚Äôs lure     | Resistir √† tenta√ß√£o da natureza    |
+| Trackless step           | Rastro invisÌvel                   |
+| Resist natureís lure     | Resistir ‡ tentaÁ„o da natureza    |
 | Wild shape               | Forma selvagem                     |
 | Venom immunity           | Imunidade a venenos                |
 | A thousand faces         | Mil faces                          |
 | Timeless body            | Corpo atemporal                    |
 
 
-## üó°Ô∏è Ladino
+## ??? Ladino
 
-| Ingl√™s                     | Portugu√™s                          |
+| InglÍs                     | PortuguÍs                          |
 |----------------------------|------------------------------------|
 | Sneak attack +1d6          | Ataque furtivo +1d6                |
 | Trapfinding                | Encontrar armadilhas               |
-| Evasion                    | Evas√£o                             |
+| Evasion                    | Evas„o                             |
 | Trap sense +1              | Sentir armadilhas +1               |
 | Uncanny dodge              | Esquiva sobrenatural               |
 | Improved uncanny dodge     | Esquiva sobrenatural aprimorada    |
 | Special ability            | Habilidade especial                |
 | Crippling strike           | Ataque incapacitante               |
 | Defensive roll             | Amortecer impacto                  |
-| Improved evasion           | Evas√£o aprimorada                  |
+| Improved evasion           | Evas„o aprimorada                  |
 | Opportunist                | Oportunismo                        |
-| Skill mastery              | Maestria em per√≠cia                |
+| Skill mastery              | Maestria em perÌcia                |
 | Slippery mind              | Mente escorregadia                 |
 
 
-## üßô‚Äç‚ôÇÔ∏è Mago
+## ????? Mago
 
-| Ingl√™s           | Portugu√™s              |
+| InglÍs           | PortuguÍs              |
 |------------------|------------------------|
 | Summon familiar  | Invocar familiar       |
 | Scribe scroll    | Escrever pergaminho    |
@@ -97,9 +97,9 @@
 
 ---
 
-## ü•ã Monge
+## ?? Monge
 
-| Ingl√™s                          | Portugu√™s                         |
+| InglÍs                          | PortuguÍs                         |
 |---------------------------------|-----------------------------------|
 | Flurry of blows                 | Rajada de golpes                  |
 | Unarmed strike                  | Ataque desarmado                  |
@@ -110,142 +110,142 @@
 | Wholeness of body               | Integridade corporal              |
 | Diamond body                    | Corpo de diamante                 |
 | Greater flurry                  | Rajada maior                      |
-| Abundant step                   | Passo et√©reo                     |
+| Abundant step                   | Passo etÈreo                     |
 | Diamond soul                    | Alma de diamante                  |
-| Quivering palm                  | M√£o vibrante                      |
+| Quivering palm                  | M„o vibrante                      |
 | Timeless body                   | Corpo atemporal                   |
 | Tongue of the sun and moon      | Idiomas do sol e da lua           |
 | Empty body                      | Corpo vazio                       |
-| Perfect self                    | Auto-perfei√ß√£o                    |
+| Perfect self                    | Auto-perfeiÁ„o                    |
 
-## üõ°Ô∏è Paladino
+## ??? Paladino
 
-| Ingl√™s                 | Portugu√™s                         |
+| InglÍs                 | PortuguÍs                         |
 |------------------------|-----------------------------------|
 | Aura of good           | Aura do bem                       |
 | Detect evil            | Detectar o mal                    |
 | Smite evil 1/day       | Destruir o mal 1/dia              |
-| Divine grace           | Gra√ßa divina                      |
-| Lay on hands           | Cura pelas m√£os                   |
+| Divine grace           | GraÁa divina                      |
+| Lay on hands           | Cura pelas m„os                   |
 | Aura of courage        | Aura de coragem                   |
-| Divine health          | Sa√∫de divina                      |
+| Divine health          | Sa˙de divina                      |
 | Turn undead            | Expulsar mortos-vivos             |
 | Special mount          | Montaria especial                 |
-| Remove disease 1/week  | Remover doen√ßa 1/semana           |
+| Remove disease 1/week  | Remover doenÁa 1/semana           |
 
 
 
-## üèπ Ranger
+## ?? Ranger
 
-| Ingl√™s                     | Portugu√™s                          |
+| InglÍs                     | PortuguÍs                          |
 |----------------------------|------------------------------------|
-| 1st favored enemy          | 1¬∫ inimigo predileto               |
+| 1st favored enemy          | 1∫ inimigo predileto               |
 | Track                      | Rastrear                           |
 | Wild empathy               | Empatia com a natureza             |
 | Combat style               | Estilo de combate                  |
-| Endurance                  | Toler√¢ncia                         |
+| Endurance                  | Toler‚ncia                         |
 | Animal companion           | Companheiro animal                 |
 | Improved combat style      | Estilo de combate aprimorado       |
 | Woodland stride            | Caminho da floresta                |
 | Swift tracker              | Rastreador eficaz                  |
-| Evasion                    | Evas√£o                             |
-| Combat style mastery       | Dom√≠nio do estilo de combate       |
+| Evasion                    | Evas„o                             |
+| Combat style mastery       | DomÌnio do estilo de combate       |
 | Camouflage                 | Camuflagem                         |
 | Hide in plain sight        | Mimetismo                          |
 
 
-## üéØ Skills / Per√≠cias
+## ?? Skills / PerÌcias
 
 
-| Ingl√™s                                   | Portugu√™s                         |
+| InglÍs                                   | PortuguÍs                         |
 |------------------------------------------|-----------------------------------|
-| Skills                                   | Per√≠cia                           |
-| Appraise                                 | Avalia√ß√£o                         |
-| Balance                                  | Equil√≠brio                        |
+| Skills                                   | PerÌcia                           |
+| Appraise                                 | AvaliaÁ„o                         |
+| Balance                                  | EquilÌbrio                        |
 | Bluff                                    | Blefar                            |
 | Climb                                    | Escalar                           |
-| Concentration                            | Concentra√ß√£o                      |
-| Craft                                    | Of√≠cios                           |
+| Concentration                            | ConcentraÁ„o                      |
+| Craft                                    | OfÌcios                           |
 | Decipher Script                          | Decifrar escrita                  |
 | Diplomacy                                | Diplomacia                        |
 | Disable Device                           | Operar mecanismo                  |
 | Disguise                                 | Disfarces                         |
 | Escape Artist                            | Arte da fuga                      |
-| Forgery                                  | Falsifica√ß√£o                      |
-| Gather Information                       | Obter informa√ß√£o                  |
+| Forgery                                  | FalsificaÁ„o                      |
+| Gather Information                       | Obter informaÁ„o                  |
 | Handle Animal                            | Adestrar animais                  |
 | Heal                                     | Cura                              |
 | Hide                                     | Esconder-se                       |
-| Intimidate                               | Intimida√ß√£o                       |
+| Intimidate                               | IntimidaÁ„o                       |
 | Jump                                     | Saltar                            |
 | Knowledge (arcana)                       | Conhecimento (arcano)             |
 | Knowledge (architecture and engineering) | Conhecimento (arquitetura e engenharia) |
 | Knowledge (dungeoneering)                | Conhecimento (masmorras)          |
 | Knowledge (geography)                    | Conhecimento (geografia)          |
-| Knowledge (history)                      | Conhecimento (hist√≥ria)           |
+| Knowledge (history)                      | Conhecimento (histÛria)           |
 | Knowledge (local)                        | Conhecimento (local)              |
 | Knowledge (nature)                       | Conhecimento (natureza)           |
 | Knowledge (nobility and royalty)         | Conhecimento (nobreza e realeza)  |
-| Knowledge (religion)                     | Conhecimento (religi√£o)           |
+| Knowledge (religion)                     | Conhecimento (religi„o)           |
 | Knowledge (the planes)                   | Conhecimento (planos)             |
 | Listen                                   | Ouvir                             |
 | Move Silently                            | Furtividade                       |
 | Open Lock                                | Abrir fechaduras                  |
-| Perform                                  | Atua√ß√£o                           |
-| Profession                               | Profiss√£o                         |
+| Perform                                  | AtuaÁ„o                           |
+| Profession                               | Profiss„o                         |
 | Ride                                     | Cavalgar                          |
 | Search                                   | Procurar                          |
-| Sense Motive                             | Sentir motiva√ß√£o                  |
-| Sleight of Hand                          | Prestidigita√ß√£o                   |
+| Sense Motive                             | Sentir motivaÁ„o                  |
+| Sleight of Hand                          | PrestidigitaÁ„o                   |
 | Speak Language                           | Falar idioma                      |
 | Spellcraft                               | Identificar magia                 |
 | Spot                                     | Observar                          |
-| Survival                                 | Sobreviv√™ncia                     |
-| Swim                                     | Nata√ß√£o                           |
+| Survival                                 | SobrevivÍncia                     |
+| Swim                                     | NataÁ„o                           |
 | Tumble                                   | Acrobacias                        |
-| Use Magic Device                         | Usar instrumento m√°gico           |
+| Use Magic Device                         | Usar instrumento m·gico           |
 | Use Rope                                 | Usar cordas                       |
 
 
-## ‚≠ê Feats / Talentos
+## ? Feats / Talentos
 
 
-| Ingl√™s                         | Portugu√™s                                     |
+| InglÍs                         | PortuguÍs                                     |
 |--------------------------------|-----------------------------------------------|
 | Feats                          | Talentos                                      |
-| Acrobatic                      | Acrob√°tico                                    |
-| Agile                          | √Ågil                                          |
-| Alertness                      | Prontid√£o                                     |
+| Acrobatic                      | Acrob·tico                                    |
+| Agile                          | ¡gil                                          |
+| Alertness                      | Prontid„o                                     |
 | Animal Affinity                | Afinidade com Animais                         |
 | Armor Proficiency (light)      | Usar Armadura (leve)                          |
-| Armor Proficiency (medium)     | Usar Armadura (m√©dia)                         |
+| Armor Proficiency (medium)     | Usar Armadura (mÈdia)                         |
 | Armor Proficiency (heavy)      | Usar Armadura (pesada)                        |
-| Athletic                       | Atl√©tico                                      |
-| Augment Summoning              | Potencializar Invoca√ß√£o                       |
-| Blind-Fight                    | Lutar √†s Cegas                                |
+| Athletic                       | AtlÈtico                                      |
+| Augment Summoning              | Potencializar InvocaÁ„o                       |
+| Blind-Fight                    | Lutar ‡s Cegas                                |
 | Combat Casting                 | Magia em Combate                              |
-| Combat Expertise               | Especializa√ß√£o em Combate                     |
+| Combat Expertise               | EspecializaÁ„o em Combate                     |
 | Improved Disarm                | Desarme Aprimorado                            |
 | Improved Feint                 | Fintar Aprimorado                             |
-| Improved Trip                  | Imobiliza√ß√£o Aprimorada                       |
-| Whirlwind Attack               | Ataque Girat√≥rio / Ataque Redemoinho / Furac√£o|
+| Improved Trip                  | ImobilizaÁ„o Aprimorada                       |
+| Whirlwind Attack               | Ataque GiratÛrio / Ataque Redemoinho / Furac„o|
 | Combat Reflexes                | Reflexos em Combate                           |
 | Deceitful                      | Fraudulento                                   |
-| Deft Hands                     | M√£os Leves                                    |
+| Deft Hands                     | M„os Leves                                    |
 | Diligent                       | Diligente                                     |
 | Dodge                          | Esquiva                                       |
 | Mobility                       | Mobilidade                                    |
 | Spring Attack                  | Ataque em Movimento                           |
-| Endurance                      | Toler√¢ncia                                    |
+| Endurance                      | Toler‚ncia                                    |
 | Diehard                        | Duro de Matar                                 |
 | Eschew Materials               | Ignorar Componentes Materiais                 |
-| Exotic Weapon Proficiency      | Usar Arma Ex√≥tica                             |
-| Extra Turning                  | Expuls√£o Adicional                            |
+| Exotic Weapon Proficiency      | Usar Arma ExÛtica                             |
+| Extra Turning                  | Expuls„o Adicional                            |
 | Great Fortitude                | Fortitude Maior                               |
-| Improved Counterspell          | Contram√°gica Aprimorada                       |
+| Improved Counterspell          | Contram·gica Aprimorada                       |
 | Improved Critical              | Sucesso Decisivo Aprimorado                   |
 | Improved Initiative            | Iniciativa Aprimorada                         |
-| Improved Turning               | Expuls√£o Aprimorada                           |
+| Improved Turning               | Expuls„o Aprimorada                           |
 | Improved Unarmed Strike        | Ataque Desarmado Aprimorado                   |
 | Improved Grapple               | Agarrar Aprimorado                            |
 | Deflect Arrows                 | Desviar Objetos                               |
@@ -253,33 +253,33 @@
 | Stunning Fist                  | Ataque Atordoante                             |
 | Investigator                   | Investigador                                  |
 | Iron Will                      | Vontade de Ferro                              |
-| Leadership                     | Lideran√ßa                                     |
-| Lightning Reflexes             | Reflexos R√°pidos                              |
-| Magical Aptitude               | Aptid√£o M√°gica                                |
+| Leadership                     | LideranÁa                                     |
+| Lightning Reflexes             | Reflexos R·pidos                              |
+| Magical Aptitude               | Aptid„o M·gica                                |
 | Martial Weapon Proficiency     | Usar Arma Comum                               |
 | Mounted Combat                 | Combate Montado                               |
 | Mounted Archery                | Arquearia Montada                             |
 | Ride-By Attack                 | Investida Montada                             |
-| Spirited Charge                | Investida Implac√°vel                          |
+| Spirited Charge                | Investida Implac·vel                          |
 | Trample                        | Pisotear                                      |
 | Natural Spell                  | Magia Natural                                 |
 | Negotiator                     | Negociador                                    |
-| Nimble Fingers                 | Dedos L√©pidos                                 |
+| Nimble Fingers                 | Dedos LÈpidos                                 |
 | Persuasive                     | Persuasivo                                    |
 | Point Blank Shot               | Tiro Certeiro                                 |
 | Far Shot                       | Tiro Longo                                    |
 | Precise Shot                   | Tiro Preciso                                  |
 | Improved Precise Shot          | Tiro Preciso Aprimorado                       |
-| Rapid Shot                     | Tiro R√°pido                                   |
-| Manyshot                       | Tiro M√∫ltiplo                                 |
+| Rapid Shot                     | Tiro R·pido                                   |
+| Manyshot                       | Tiro M˙ltiplo                                 |
 | Shot on the Run                | Tiro em Movimento                             |
 | Power Attack                   | Ataque Poderoso                               |
 | Cleave                         | Trespassar                                    |
 | Great Cleave                   | Trespassar Maior                              |
-| Improved Bull Rush             | Encontr√£o Aprimorado                          |
+| Improved Bull Rush             | Encontr„o Aprimorado                          |
 | Improved Overrun               | Atropelar Aprimorado                          |
 | Improved Sunder                | Separar Aprimorado                            |
-| Quick Draw                     | Saque R√°pido                                  |
+| Quick Draw                     | Saque R·pido                                  |
 | Rapid Reload                   | Rapidez de Recarga                            |
 | Run                            | Corrida                                       |
 | Self-Sufficient                | Auto-Suficiente                               |
@@ -287,7 +287,7 @@
 | Improved Shield Bash           | Ataque com Escudo Aprimorado                  |
 | Tower Shield Proficiency       | Usar Escudo de Corpo                          |
 | Simple Weapon Proficiency      | Usar Armas Simples                            |
-| Skill Focus                    | Foco em Per√≠cia                               |
+| Skill Focus                    | Foco em PerÌcia                               |
 | Spell Focus                    | Foco em Magia                                 |
 | Greater Spell Focus            | Foco em Magia Maior                           |
 | Spell Mastery                  | Dominar Magia                                 |
@@ -302,19 +302,19 @@
 | Greater Two-Weapon Fighting    | Combater com Duas Armas Maior                 |
 | Weapon Finesse                 | Acuidade com Arma                             |
 | Weapon Focus                   | Foco em Arma                                  |
-| Weapon Specialization          | Especializa√ß√£o em Arma                        |
+| Weapon Specialization          | EspecializaÁ„o em Arma                        |
 | Greater Weapon Focus           | Foco em Arma Maior                            |
-| Greater Weapon Specialization  | Especializa√ß√£o em Arma Maior                  |
+| Greater Weapon Specialization  | EspecializaÁ„o em Arma Maior                  |
 
 ---
 
-## üõ†Ô∏è Talentos de Cria√ß√£o de Itens
+## ??? Talentos de CriaÁ„o de Itens
 
-| Ingl√™s                         | Portugu√™s                         |
+| InglÍs                         | PortuguÍs                         |
 |--------------------------------|-----------------------------------|
-| Brew Potion                    | Preparar Po√ß√£o                    |
-| Craft Magic Arms and Armor     | Criar Armaduras e Armas M√°gicas   |
-| Craft Rod                      | Criar Bast√£o                      |
+| Brew Potion                    | Preparar PoÁ„o                    |
+| Craft Magic Arms and Armor     | Criar Armaduras e Armas M·gicas   |
+| Craft Rod                      | Criar Bast„o                      |
 | Craft Staff                    | Criar Cajado                      |
 | Craft Wand                     | Criar Varinha                     |
 | Craft Wondrous Item            | Criar Item Maravilhoso            |
@@ -323,10 +323,10 @@
 
 ---
 
-## ‚ú® Talentos Metam√°gicos
+## ? Talentos Metam·gicos
 
 
-| Ingl√™s          | Portugu√™s              |
+| InglÍs          | PortuguÍs              |
 |-----------------|------------------------|
 | Empower Spell   | Potencializar Magia    |
 | Enlarge Spell   | Aumentar Magia         |
@@ -340,18 +340,18 @@
 
 ---
 
-## üõ°Ô∏è Light Armor
+## ??? Light Armor
 
-| Ingl√™s | Portugu√™s |
+| InglÍs | PortuguÍs |
 |-------|-----------|
 | Padded | Acolchoada |
 | Leather | Couro |
 | Studded leather | Couro Batido |
-| Chain Shirt | Camis√£o de Cota de Malha |
-| Hide | Gib√£o de Peles |
+| Chain Shirt | Camis„o de Cota de Malha |
+| Hide | Gib„o de Peles |
 | Scale mail | Brunea |
 | Chainmail | Cota de Malha |
-| Breastplate | Peitoral de A√ßo |
+| Breastplate | Peitoral de AÁo |
 | Splint mail | Cota de Talas |
 | Banded mail | Loriga Segmentada |
 | Half-plate | Meia Armadura |
@@ -361,9 +361,9 @@
 
 ---
 
-## üõ°Ô∏è Shields
+## ??? Shields
 
-| Ingl√™s | Portugu√™s |
+| InglÍs | PortuguÍs |
 |-------|-----------|
 | Buckler | Broquel |
 | Shield, light wooden | Escudo Pequeno de Madeira |
@@ -374,753 +374,753 @@
 
 ---
 
-## üõ†Ô∏è Extras
+## ??? Extras
 
-| Ingl√™s | Portugu√™s |
+| InglÍs | PortuguÍs |
 |-------|-----------|
 | Armor spikes | Cravos para Armadura |
-| Gauntlet, locked | Manopla de Seguran√ßa |
+| Gauntlet, locked | Manopla de SeguranÁa |
 | Shield spikes | Cravos para Escudos |
 
 
 ---
 
-## ‚ú® Magias de 0¬∫ N√≠vel ‚Äî Feiticeiro/Mago (Cantrips)
+## ? Magias de 0∫ NÌvel ó Feiticeiro/Mago (Cantrips)
 
-| Escola | Ingl√™s              | Portugu√™s           |
+| Escola | InglÍs              | PortuguÍs           |
 |--------|---------------------|---------------------|
-| Abjura√ß√£o | Resistance        | Resist√™ncia         |
-| Conjura√ß√£o | Acid Splash      | Raio de √Åcido       |
-| Adivinha√ß√£o | Detect Poison   | Detectar Venenos    |
-| Adivinha√ß√£o | Detect Magic    | Detectar Magia      |
-| Adivinha√ß√£o | Read Magic      | Ler Magias          |
+| AbjuraÁ„o | Resistance        | ResistÍncia         |
+| ConjuraÁ„o | Acid Splash      | Raio de ¡cido       |
+| AdivinhaÁ„o | Detect Poison   | Detectar Venenos    |
+| AdivinhaÁ„o | Detect Magic    | Detectar Magia      |
+| AdivinhaÁ„o | Read Magic      | Ler Magias          |
 | Encantamento | Daze           | Pasmar              |
-| Evoca√ß√£o | Dancing Lights     | Globos de Luz       |
-| Evoca√ß√£o | Flare              | Brilho              |
-| Evoca√ß√£o | Light              | Luz                 |
-| Evoca√ß√£o | Ray of Frost       | Raio de Gelo        |
-| Ilus√£o | Ghost Sound         | Som Fantasma        |
+| EvocaÁ„o | Dancing Lights     | Globos de Luz       |
+| EvocaÁ„o | Flare              | Brilho              |
+| EvocaÁ„o | Light              | Luz                 |
+| EvocaÁ„o | Ray of Frost       | Raio de Gelo        |
+| Ilus„o | Ghost Sound         | Som Fantasma        |
 | Necromancia | Disrupt Undead  | Romper Morto-Vivo   |
 | Necromancia | Touch of Fatigue| Toque da Fadiga     |
-| Transmuta√ß√£o | Mage Hand      | M√£os M√°gicas        |
-| Transmuta√ß√£o | Mending        | Consertar           |
-| Transmuta√ß√£o | Message        | Mensagem            |
-| Transmuta√ß√£o | Open/Close     | Abrir/Fechar        |
+| TransmutaÁ„o | Mage Hand      | M„os M·gicas        |
+| TransmutaÁ„o | Mending        | Consertar           |
+| TransmutaÁ„o | Message        | Mensagem            |
+| TransmutaÁ„o | Open/Close     | Abrir/Fechar        |
 | Universal | Arcane Mark       | Marca Arcana        |
-| Universal | Prestidigitation | Prestidigita√ß√£o     |
+| Universal | Prestidigitation | PrestidigitaÁ„o     |
 
 ---
 
-## ‚ú® Magias de 1¬∫ N√≠vel ‚Äî Feiticeiro/Mago
+## ? Magias de 1∫ NÌvel ó Feiticeiro/Mago
 
-| Escola | Ingl√™s                              | Portugu√™s                                   |
+| Escola | InglÍs                              | PortuguÍs                                   |
 |--------|-------------------------------------|---------------------------------------------|
-| Abjura√ß√£o | Alarm                           | Alarme                                      |
-| Abjura√ß√£o | Endure Elements                 | Suportar Elementos                          |
-| Abjura√ß√£o | Hold Portal                     | Cerrar Portas                               |
-| Abjura√ß√£o | Protection from Chaos/Evil/Good/Law | Prote√ß√£o Contra Caos/Mal/Bem/Ordem      |
-| Abjura√ß√£o | Shield                          | Escudo Arcano                               |
-| Abjura√ß√£o | Reflect Attack                  | Refletir Ataque                             |
-| Conjura√ß√£o | Grease                         | √Årea Escorregadia / Graxa                   |
-| Conjura√ß√£o | Mage Armor                     | Armadura Arcana                             |
-| Conjura√ß√£o | Mount                          | Montaria Arcana                             |
-| Conjura√ß√£o | Obscuring Mist                 | N√©voa Obscurescente                         |
-| Conjura√ß√£o | Summon Monster I               | Invocar Criaturas I                         |
-| Conjura√ß√£o | Unseen Servant                 | Servo Invis√≠vel                             |
-| Conjura√ß√£o | Simple Summoning               | Invoca√ß√£o Simples                           |
-| Adivinha√ß√£o | Comprehend Languages          | Compreender Idiomas                         |
-| Adivinha√ß√£o | Detect Secret Doors           | Detectar Portas Secretas                   |
-| Adivinha√ß√£o | Detect Undead                 | Detectar Mortos-Vivos                      |
-| Adivinha√ß√£o | Identify                      | Identifica√ß√£o                               |
-| Adivinha√ß√£o | True Strike                   | Ataque Certeiro                             |
-| Encantamento | Charm Person                | Enfeiti√ßar Pessoa                           |
+| AbjuraÁ„o | Alarm                           | Alarme                                      |
+| AbjuraÁ„o | Endure Elements                 | Suportar Elementos                          |
+| AbjuraÁ„o | Hold Portal                     | Cerrar Portas                               |
+| AbjuraÁ„o | Protection from Chaos/Evil/Good/Law | ProteÁ„o Contra Caos/Mal/Bem/Ordem      |
+| AbjuraÁ„o | Shield                          | Escudo Arcano                               |
+| AbjuraÁ„o | Reflect Attack                  | Refletir Ataque                             |
+| ConjuraÁ„o | Grease                         | ¡rea Escorregadia / Graxa                   |
+| ConjuraÁ„o | Mage Armor                     | Armadura Arcana                             |
+| ConjuraÁ„o | Mount                          | Montaria Arcana                             |
+| ConjuraÁ„o | Obscuring Mist                 | NÈvoa Obscurescente                         |
+| ConjuraÁ„o | Summon Monster I               | Invocar Criaturas I                         |
+| ConjuraÁ„o | Unseen Servant                 | Servo InvisÌvel                             |
+| ConjuraÁ„o | Simple Summoning               | InvocaÁ„o Simples                           |
+| AdivinhaÁ„o | Comprehend Languages          | Compreender Idiomas                         |
+| AdivinhaÁ„o | Detect Secret Doors           | Detectar Portas Secretas                   |
+| AdivinhaÁ„o | Detect Undead                 | Detectar Mortos-Vivos                      |
+| AdivinhaÁ„o | Identify                      | IdentificaÁ„o                               |
+| AdivinhaÁ„o | True Strike                   | Ataque Certeiro                             |
+| Encantamento | Charm Person                | EnfeitiÁar Pessoa                           |
 | Encantamento | Hypnotism                   | Hipnotismo                                  |
 | Encantamento | Sleep                       | Sono                                        |
-| Evoca√ß√£o | Burning Hands                   | M√£os Flamejantes                            |
-| Evoca√ß√£o | Magic Missile                  | M√≠sseis M√°gicos                             |
-| Evoca√ß√£o | Shocking Grasp                 | Toque Chocante                              |
-| Evoca√ß√£o | Tenser‚Äôs Floating Disk         | Disco Flutuante de Tenser                  |
-| Evoca√ß√£o | Chromatic Orb                  | Orbe Crom√°tica                              |
-| Evoca√ß√£o | Ice Dagger                     | Adaga de Gelo                               |
-| Ilus√£o | Color Spray                     | Leque Crom√°tico                             |
-| Ilus√£o | Disguise Self                   | Transforma√ß√£o Moment√¢nea                   |
-| Ilus√£o | Nystul‚Äôs Magic Aura             | Aura M√°gica de Nystul                      |
-| Ilus√£o | Silent Image                    | Imagem Silenciosa                           |
-| Ilus√£o | Ventriloquism                  | Ventriloquismo                              |
-| Ilus√£o | Spook                           | Assustar                                    |
-| Ilus√£o | Reflected Image                | Imagem Refletida                            |
-| Ilus√£o | Vanish                          | Desaparecer                                 |
-| Ilus√£o | Perception Filter               | Filtro de Percep√ß√£o                         |
+| EvocaÁ„o | Burning Hands                   | M„os Flamejantes                            |
+| EvocaÁ„o | Magic Missile                  | MÌsseis M·gicos                             |
+| EvocaÁ„o | Shocking Grasp                 | Toque Chocante                              |
+| EvocaÁ„o | Tenserís Floating Disk         | Disco Flutuante de Tenser                  |
+| EvocaÁ„o | Chromatic Orb                  | Orbe Crom·tica                              |
+| EvocaÁ„o | Ice Dagger                     | Adaga de Gelo                               |
+| Ilus„o | Color Spray                     | Leque Crom·tico                             |
+| Ilus„o | Disguise Self                   | TransformaÁ„o Moment‚nea                   |
+| Ilus„o | Nystulís Magic Aura             | Aura M·gica de Nystul                      |
+| Ilus„o | Silent Image                    | Imagem Silenciosa                           |
+| Ilus„o | Ventriloquism                  | Ventriloquismo                              |
+| Ilus„o | Spook                           | Assustar                                    |
+| Ilus„o | Reflected Image                | Imagem Refletida                            |
+| Ilus„o | Vanish                          | Desaparecer                                 |
+| Ilus„o | Perception Filter               | Filtro de PercepÁ„o                         |
 | Necromancia | Cause Fear                  | Causar Medo                                 |
 | Necromancia | Chill Touch                 | Toque Macabro                               |
 | Necromancia | Ray of Enfeeblement          | Raio do Enfraquecimento                    |
 | Necromancia | Larloch's Minor Drain        | Dreno Menor de Larloch                     |
-| Transmuta√ß√£o | Animate Rope               | Animar Cordas                               |
-| Transmuta√ß√£o | Enlarge Person              | Aumentar Pessoa                             |
-| Transmuta√ß√£o | Erase                        | Apagar                                      |
-| Transmuta√ß√£o | Expeditious Retreat         | Recuo Acelerado                             |
-| Transmuta√ß√£o | Feather Fall                | Queda Suave                                 |
-| Transmuta√ß√£o | Jump                         | Salto                                       |
-| Transmuta√ß√£o | Magic Weapon                | Arma M√°gica                                 |
-| Transmuta√ß√£o | Reduce Person               | Reduzir Pessoa                              |
+| TransmutaÁ„o | Animate Rope               | Animar Cordas                               |
+| TransmutaÁ„o | Enlarge Person              | Aumentar Pessoa                             |
+| TransmutaÁ„o | Erase                        | Apagar                                      |
+| TransmutaÁ„o | Expeditious Retreat         | Recuo Acelerado                             |
+| TransmutaÁ„o | Feather Fall                | Queda Suave                                 |
+| TransmutaÁ„o | Jump                         | Salto                                       |
+| TransmutaÁ„o | Magic Weapon                | Arma M·gica                                 |
+| TransmutaÁ„o | Reduce Person               | Reduzir Pessoa                              |
 
 ---
 
-## ‚ú® Magias de 2¬∫ N√≠vel ‚Äî Feiticeiro/Mago
+## ? Magias de 2∫ NÌvel ó Feiticeiro/Mago
 
-| Escola | Ingl√™s                     | Portugu√™s                         |
+| Escola | InglÍs                     | PortuguÍs                         |
 |--------|-----------------------------|-----------------------------------|
-| Abjura√ß√£o | Arcane Lock              | Tranca Arcana                     |
-| Abjura√ß√£o | Obscure Object           | Obscurecer Objeto                 |
-| Abjura√ß√£o | Protection from Arrows   | Prote√ß√£o Contra Flechas           |
-| Abjura√ß√£o | Resist Energy            | Resist√™ncia a Elementos           |
-| Abjura√ß√£o | Minor Elemental Barrier  | Barreira Elemental Menor          |
-| Conjura√ß√£o | Fog Cloud               | N√©voa                             |
-| Conjura√ß√£o | Glitterdust             | Poeira Ofuscante                  |
-| Conjura√ß√£o | Melf's Acid Arrow       | Flecha √Åcida de Melf              |
-| Conjura√ß√£o | Summon Monster II       | Invocar Criaturas II              |
-| Conjura√ß√£o | Summon Swarm            | Invocar Enxames                   |
-| Conjura√ß√£o | Web                     | Teia                              |
-| Adivinha√ß√£o | Detect Thoughts        | Detectar Pensamentos              |
-| Adivinha√ß√£o | Locate Object          | Localizar Objetos                 |
-| Adivinha√ß√£o | See Invisibility       | Ver o Invis√≠vel                   |
-| Adivinha√ß√£o | Power Word Sleep       | Palavra de Poder: Sono            |
-| Adivinha√ß√£o | Identify Creature      | Identificar Criatura              |
+| AbjuraÁ„o | Arcane Lock              | Tranca Arcana                     |
+| AbjuraÁ„o | Obscure Object           | Obscurecer Objeto                 |
+| AbjuraÁ„o | Protection from Arrows   | ProteÁ„o Contra Flechas           |
+| AbjuraÁ„o | Resist Energy            | ResistÍncia a Elementos           |
+| AbjuraÁ„o | Minor Elemental Barrier  | Barreira Elemental Menor          |
+| ConjuraÁ„o | Fog Cloud               | NÈvoa                             |
+| ConjuraÁ„o | Glitterdust             | Poeira Ofuscante                  |
+| ConjuraÁ„o | Melf's Acid Arrow       | Flecha ¡cida de Melf              |
+| ConjuraÁ„o | Summon Monster II       | Invocar Criaturas II              |
+| ConjuraÁ„o | Summon Swarm            | Invocar Enxames                   |
+| ConjuraÁ„o | Web                     | Teia                              |
+| AdivinhaÁ„o | Detect Thoughts        | Detectar Pensamentos              |
+| AdivinhaÁ„o | Locate Object          | Localizar Objetos                 |
+| AdivinhaÁ„o | See Invisibility       | Ver o InvisÌvel                   |
+| AdivinhaÁ„o | Power Word Sleep       | Palavra de Poder: Sono            |
+| AdivinhaÁ„o | Identify Creature      | Identificar Criatura              |
 | Encantamento | Daze Monster          | Pasmar Monstro                    |
-| Encantamento | Tasha's Hideous Laughter | Riso Hist√©rico de Tasha       |
+| Encantamento | Tasha's Hideous Laughter | Riso HistÈrico de Tasha       |
 | Encantamento | Touch of Idiocy       | Toque da Idiotice                 |
-| Evoca√ß√£o | Continual Flame           | Chama Cont√≠nua                    |
-| Evoca√ß√£o | Darkness                  | Escurid√£o                         |
-| Evoca√ß√£o | Flaming Sphere           | Esfera Flamejante                 |
-| Evoca√ß√£o | Gust of Wind             | Lufada de Vento                   |
-| Evoca√ß√£o | Scorching Ray            | Raio Ardente                      |
-| Evoca√ß√£o | Shatter                  | Despeda√ßar                        |
-| Evoca√ß√£o | Aganazzar's Scorcher     | Chama de Aganazzar                |
-| Evoca√ß√£o | Decastave                | Decajado                          |
-| Evoca√ß√£o | Gedlee's Electric Loop   | La√ßo El√©trico de Gedlee           |
-| Ilus√£o | Blur                        | Nublar                            |
-| Ilus√£o | Hypnotic Pattern           | Padr√£o Hipn√≥tico                  |
-| Ilus√£o | Invisibility               | Invisibilidade                    |
-| Ilus√£o | Leomund‚Äôs Trap             | Armadilha de Leomund              |
-| Ilus√£o | Magic Mouth                | Boca Encantada                    |
-| Ilus√£o | Minor Image                | Imagem Menor                      |
-| Ilus√£o | Mirror Image               | Reflexos                          |
-| Ilus√£o | Misdirection               | Confundir Detec√ß√£o                |
+| EvocaÁ„o | Continual Flame           | Chama ContÌnua                    |
+| EvocaÁ„o | Darkness                  | Escurid„o                         |
+| EvocaÁ„o | Flaming Sphere           | Esfera Flamejante                 |
+| EvocaÁ„o | Gust of Wind             | Lufada de Vento                   |
+| EvocaÁ„o | Scorching Ray            | Raio Ardente                      |
+| EvocaÁ„o | Shatter                  | DespedaÁar                        |
+| EvocaÁ„o | Aganazzar's Scorcher     | Chama de Aganazzar                |
+| EvocaÁ„o | Decastave                | Decajado                          |
+| EvocaÁ„o | Gedlee's Electric Loop   | LaÁo ElÈtrico de Gedlee           |
+| Ilus„o | Blur                        | Nublar                            |
+| Ilus„o | Hypnotic Pattern           | Padr„o HipnÛtico                  |
+| Ilus„o | Invisibility               | Invisibilidade                    |
+| Ilus„o | Leomundís Trap             | Armadilha de Leomund              |
+| Ilus„o | Magic Mouth                | Boca Encantada                    |
+| Ilus„o | Minor Image                | Imagem Menor                      |
+| Ilus„o | Mirror Image               | Reflexos                          |
+| Ilus„o | Misdirection               | Confundir DetecÁ„o                |
 | Necromancia | Blindness/Deafness   | Cegueira/Surdez                   |
 | Necromancia | Command Undead        | Comandar Mortos-vivos             |
-| Necromancia | False Life            | Vitalidade Ilus√≥ria               |
-| Necromancia | Ghoul Touch           | Toque do Carni√ßal                 |
+| Necromancia | False Life            | Vitalidade IlusÛria               |
+| Necromancia | Ghoul Touch           | Toque do CarniÁal                 |
 | Necromancia | Scare                 | Aterrorizar                       |
-| Necromancia | Spectral Hand         | M√£o Espectral                     |
+| Necromancia | Spectral Hand         | M„o Espectral                     |
 | Necromancia | Horror                | Horror                            |
 | Necromancia | Death Armor           | Armadura da Morte                 |
-| Transmuta√ß√£o | Alter Self          | Alterar-se                        |
-| Transmuta√ß√£o | Bear's Endurance     | Vigor do Urso                     |
-| Transmuta√ß√£o | Bull's Strength      | For√ßa do Touro                    |
-| Transmuta√ß√£o | Cat's Grace          | Agilidade do Gato                 |
-| Transmuta√ß√£o | Darkvision           | Vis√£o no Escuro                   |
-| Transmuta√ß√£o | Eagle's Splendor     | Esplendor da √Åguia                |
-| Transmuta√ß√£o | Fox's Cunning        | Ast√∫cia da Raposa                 |
-| Transmuta√ß√£o | Knock                | Arrombar                          |
-| Transmuta√ß√£o | Levitate             | Levita√ß√£o                         |
-| Transmuta√ß√£o | Owl‚Äôs Wisdom         | Sabedoria da Coruja               |
-| Transmuta√ß√£o | Pyrotechnics         | Pirotecnia                        |
-| Transmuta√ß√£o | Rope Trick           | Truque da Corda                   |
-| Transmuta√ß√£o | Spider Climb         | Patas de Aranha                   |
-| Transmuta√ß√£o | Whispering Wind      | Vento Sussurrante                 |
-| Transmuta√ß√£o | Translocation Trick  | Truque de Transloca√ß√£o            |
+| TransmutaÁ„o | Alter Self          | Alterar-se                        |
+| TransmutaÁ„o | Bear's Endurance     | Vigor do Urso                     |
+| TransmutaÁ„o | Bull's Strength      | ForÁa do Touro                    |
+| TransmutaÁ„o | Cat's Grace          | Agilidade do Gato                 |
+| TransmutaÁ„o | Darkvision           | Vis„o no Escuro                   |
+| TransmutaÁ„o | Eagle's Splendor     | Esplendor da ¡guia                |
+| TransmutaÁ„o | Fox's Cunning        | Ast˙cia da Raposa                 |
+| TransmutaÁ„o | Knock                | Arrombar                          |
+| TransmutaÁ„o | Levitate             | LevitaÁ„o                         |
+| TransmutaÁ„o | Owlís Wisdom         | Sabedoria da Coruja               |
+| TransmutaÁ„o | Pyrotechnics         | Pirotecnia                        |
+| TransmutaÁ„o | Rope Trick           | Truque da Corda                   |
+| TransmutaÁ„o | Spider Climb         | Patas de Aranha                   |
+| TransmutaÁ„o | Whispering Wind      | Vento Sussurrante                 |
+| TransmutaÁ„o | Translocation Trick  | Truque de TranslocaÁ„o            |
 
 
-## ‚ú® Magias de 3¬∫ N√≠vel ‚Äî Feiticeiro/Mago
+## ? Magias de 3∫ NÌvel ó Feiticeiro/Mago
 
-| Escola | Ingl√™s                                   | Portugu√™s                                   |
+| Escola | InglÍs                                   | PortuguÍs                                   |
 |--------|-------------------------------------------|---------------------------------------------|
-| Abjura√ß√£o | Dispel Magic                          | Dissipar Magia                              |
-| Abjura√ß√£o | Explosive Runes                       | Runas Explosivas                            |
-| Abjura√ß√£o | Magic Circle against Chaos/Evil/Good/Law | C√≠rculo M√°gico Contra Caos/Mal/Bem/Ordem |
-| Abjura√ß√£o | Nondetection                          | Dificultar Detec√ß√£o                         |
-| Abjura√ß√£o | Protection from Energy                | Prote√ß√£o Contra Elementos                  |
-| Abjura√ß√£o | Protection from Fire                  | Prote√ß√£o Contra Fogo                       |
-| Abjura√ß√£o | Protection from Lightning             | Prote√ß√£o Contra Raio                       |
-| Conjura√ß√£o | Phantom Steed                        | Montaria Fantasmag√≥rica                    |
-| Conjura√ß√£o | Sepia Snake Sigil                    | Selo da Serpente S√©pia                     |
-| Conjura√ß√£o | Sleet Storm                          | Nevasca                                    |
-| Conjura√ß√£o | Stinking Cloud                       | N√©voa F√©tida                               |
-| Conjura√ß√£o | Summon Monster III                   | Invocar Criaturas III                     |
-| Conjura√ß√£o | Ghost Armor                          | Armadura Fantasmal                        |
-| Adivinha√ß√£o | Arcane Sight                       | Vis√£o Arcana                               |
-| Adivinha√ß√£o | Clairaudience/Clairvoyance          | Clarivid√™ncia/Clariaudi√™ncia               |
-| Adivinha√ß√£o | Tongues                            | Idiomas                                    |
+| AbjuraÁ„o | Dispel Magic                          | Dissipar Magia                              |
+| AbjuraÁ„o | Explosive Runes                       | Runas Explosivas                            |
+| AbjuraÁ„o | Magic Circle against Chaos/Evil/Good/Law | CÌrculo M·gico Contra Caos/Mal/Bem/Ordem |
+| AbjuraÁ„o | Nondetection                          | Dificultar DetecÁ„o                         |
+| AbjuraÁ„o | Protection from Energy                | ProteÁ„o Contra Elementos                  |
+| AbjuraÁ„o | Protection from Fire                  | ProteÁ„o Contra Fogo                       |
+| AbjuraÁ„o | Protection from Lightning             | ProteÁ„o Contra Raio                       |
+| ConjuraÁ„o | Phantom Steed                        | Montaria FantasmagÛrica                    |
+| ConjuraÁ„o | Sepia Snake Sigil                    | Selo da Serpente SÈpia                     |
+| ConjuraÁ„o | Sleet Storm                          | Nevasca                                    |
+| ConjuraÁ„o | Stinking Cloud                       | NÈvoa FÈtida                               |
+| ConjuraÁ„o | Summon Monster III                   | Invocar Criaturas III                     |
+| ConjuraÁ„o | Ghost Armor                          | Armadura Fantasmal                        |
+| AdivinhaÁ„o | Arcane Sight                       | Vis„o Arcana                               |
+| AdivinhaÁ„o | Clairaudience/Clairvoyance          | ClarividÍncia/ClariaudiÍncia               |
+| AdivinhaÁ„o | Tongues                            | Idiomas                                    |
 | Encantamento | Deep Slumber                      | Sono Profundo                              |
-| Encantamento | Heroism                           | Hero√≠smo                                   |
+| Encantamento | Heroism                           | HeroÌsmo                                   |
 | Encantamento | Hold Person                       | Imobilizar Pessoa                          |
-| Encantamento | Rage                              | F√∫ria                                      |
-| Encantamento | Suggestion                        | Sugest√£o                                   |
-| Encantamento | Emotion: Rage                     | Emo√ß√£o: F√∫ria                              |
-| Evoca√ß√£o | Daylight                              | Luz do Dia                                 |
-| Evoca√ß√£o | Fireball                              | Bola de Fogo                               |
-| Evoca√ß√£o | Leomund‚Äôs Tiny Hut                   | Pequeno Ref√∫gio de Leomund                 |
-| Evoca√ß√£o | Lightning Bolt                       | Rel√¢mpago                                  |
-| Evoca√ß√£o | Wind Wall                            | Muralha de Vento                           |
-| Evoca√ß√£o | Icelance                             | Lan√ßa de Gelo                              |
-| Evoca√ß√£o | Lance of Disruption                 | Lan√ßa da Disrup√ß√£o                         |
-| Evoca√ß√£o | Melf's Minute Meteors               | Meteoros Mi√∫dos de Melf                   |
-| Ilus√£o | Displacement                          | Deslocamento                               |
-| Ilus√£o | Illusory Script                       | Escrita Ilus√≥ria                           |
-| Ilus√£o | Invisibility Sphere                  | Esfera de Invisibilidade                  |
-| Ilus√£o | Major Image                           | Imagem Maior                               |
-| Ilus√£o | Dispel Illusions                     | Dissipar Ilus√µes                           |
+| Encantamento | Rage                              | F˙ria                                      |
+| Encantamento | Suggestion                        | Sugest„o                                   |
+| Encantamento | Emotion: Rage                     | EmoÁ„o: F˙ria                              |
+| EvocaÁ„o | Daylight                              | Luz do Dia                                 |
+| EvocaÁ„o | Fireball                              | Bola de Fogo                               |
+| EvocaÁ„o | Leomundís Tiny Hut                   | Pequeno Ref˙gio de Leomund                 |
+| EvocaÁ„o | Lightning Bolt                       | Rel‚mpago                                  |
+| EvocaÁ„o | Wind Wall                            | Muralha de Vento                           |
+| EvocaÁ„o | Icelance                             | LanÁa de Gelo                              |
+| EvocaÁ„o | Lance of Disruption                 | LanÁa da DisrupÁ„o                         |
+| EvocaÁ„o | Melf's Minute Meteors               | Meteoros Mi˙dos de Melf                   |
+| Ilus„o | Displacement                          | Deslocamento                               |
+| Ilus„o | Illusory Script                       | Escrita IlusÛria                           |
+| Ilus„o | Invisibility Sphere                  | Esfera de Invisibilidade                  |
+| Ilus„o | Major Image                           | Imagem Maior                               |
+| Ilus„o | Dispel Illusions                     | Dissipar Ilusıes                           |
 | Necromancia | Gentle Repose                   | Descanso Tranquilo                        |
 | Necromancia | Halt Undead                      | Imobilizar Mortos-Vivos                   |
-| Necromancia | Ray of Exhaustion                | Raio de Exaust√£o                           |
-| Necromancia | Vampiric Touch                  | Toque Vamp√≠rico                           |
+| Necromancia | Ray of Exhaustion                | Raio de Exaust„o                           |
+| Necromancia | Vampiric Touch                  | Toque VampÌrico                           |
 | Necromancia | Skull Trap                      | Armadilha de Caveira                      |
-| Transmuta√ß√£o | Blink                           | Piscar                                     |
-| Transmuta√ß√£o | Flame Arrow                     | Flecha de Chamas                          |
-| Transmuta√ß√£o | Fly                             | Voo                                        |
-| Transmuta√ß√£o | Gaseous Form                    | Forma Gasosa                              |
-| Transmuta√ß√£o | Haste                           | Velocidade                                |
-| Transmuta√ß√£o | Keen Edge                       | L√¢mina Afiada                             |
-| Transmuta√ß√£o | Magic Weapon, Greater           | Arma M√°gica Maior                         |
-| Transmuta√ß√£o | Secret Page                    | P√°gina Secreta                            |
-| Transmuta√ß√£o | Shrink Item                    | Encolher Item                             |
-| Transmuta√ß√£o | Slow                           | Lentid√£o                                  |
-| Transmuta√ß√£o | Water Breathing                | Respirar na √Ågua                          |
-| Transmuta√ß√£o | Throw                          | Lan√ßar                                    |
+| TransmutaÁ„o | Blink                           | Piscar                                     |
+| TransmutaÁ„o | Flame Arrow                     | Flecha de Chamas                          |
+| TransmutaÁ„o | Fly                             | Voo                                        |
+| TransmutaÁ„o | Gaseous Form                    | Forma Gasosa                              |
+| TransmutaÁ„o | Haste                           | Velocidade                                |
+| TransmutaÁ„o | Keen Edge                       | L‚mina Afiada                             |
+| TransmutaÁ„o | Magic Weapon, Greater           | Arma M·gica Maior                         |
+| TransmutaÁ„o | Secret Page                    | P·gina Secreta                            |
+| TransmutaÁ„o | Shrink Item                    | Encolher Item                             |
+| TransmutaÁ„o | Slow                           | Lentid„o                                  |
+| TransmutaÁ„o | Water Breathing                | Respirar na ¡gua                          |
+| TransmutaÁ„o | Throw                          | LanÁar                                    |
 
 ---
 
-## ‚ú® Magias de 4¬∫ N√≠vel ‚Äî Feiticeiro/Mago
+## ? Magias de 4∫ NÌvel ó Feiticeiro/Mago
 
-| Escola | Ingl√™s                               | Portugu√™s                                   |
+| Escola | InglÍs                               | PortuguÍs                                   |
 |--------|--------------------------------------|---------------------------------------------|
-| Abjura√ß√£o | Dimensional Anchor               | √Çncora Dimensional                          |
-| Abjura√ß√£o | Fire Trap                        | Armadilha de Fogo                           |
-| Abjura√ß√£o | Globe of Invulnerability, Lesser | Globo de Invulnerabilidade Menor            |
-| Abjura√ß√£o | Remove Curse                     | Remover Maldi√ß√£o                            |
-| Abjura√ß√£o | Stoneskin                        | Pele Rochosa                                |
-| Conjura√ß√£o | Dimension Door                  | Porta Dimensional                           |
-| Conjura√ß√£o | Evard‚Äôs Black Tentacles         | Tent√°culos Negros de Evard                  |
-| Conjura√ß√£o | Leomund‚Äôs Secure Shelter        | Ref√∫gio Seguro de Leomund                   |
-| Conjura√ß√£o | Minor Creation                  | Criar Itens Ef√™meros                        |
-| Conjura√ß√£o | Solid Fog                       | N√©voa S√≥lida                                |
-| Conjura√ß√£o | Summon Monster IV               | Invocar Criaturas IV                       |
-| Conjura√ß√£o | Spider Spawn                    | Invocar Aranha                              |
-| Conjura√ß√£o | Carrion Summons                | Invocar Verme de Carni√ßa                   |
-| Conjura√ß√£o | Vitriolic Sphere               | Esfera Vitri√≥lica                           |
-| Adivinha√ß√£o | Arcane Eye                    | Olho Arcano                                 |
-| Adivinha√ß√£o | Detect Scrying                | Detectar Vid√™ncia                           |
-| Adivinha√ß√£o | Locate Creature               | Localizar Criatura                          |
-| Adivinha√ß√£o | Scrying                       | Vid√™ncia                                    |
-| Encantamento | Charm Monster               | Enfeiti√ßar Monstro                          |
-| Encantamento | Confusion                   | Confus√£o                                    |
+| AbjuraÁ„o | Dimensional Anchor               | ¬ncora Dimensional                          |
+| AbjuraÁ„o | Fire Trap                        | Armadilha de Fogo                           |
+| AbjuraÁ„o | Globe of Invulnerability, Lesser | Globo de Invulnerabilidade Menor            |
+| AbjuraÁ„o | Remove Curse                     | Remover MaldiÁ„o                            |
+| AbjuraÁ„o | Stoneskin                        | Pele Rochosa                                |
+| ConjuraÁ„o | Dimension Door                  | Porta Dimensional                           |
+| ConjuraÁ„o | Evardís Black Tentacles         | Tent·culos Negros de Evard                  |
+| ConjuraÁ„o | Leomundís Secure Shelter        | Ref˙gio Seguro de Leomund                   |
+| ConjuraÁ„o | Minor Creation                  | Criar Itens EfÍmeros                        |
+| ConjuraÁ„o | Solid Fog                       | NÈvoa SÛlida                                |
+| ConjuraÁ„o | Summon Monster IV               | Invocar Criaturas IV                       |
+| ConjuraÁ„o | Spider Spawn                    | Invocar Aranha                              |
+| ConjuraÁ„o | Carrion Summons                | Invocar Verme de CarniÁa                   |
+| ConjuraÁ„o | Vitriolic Sphere               | Esfera VitriÛlica                           |
+| AdivinhaÁ„o | Arcane Eye                    | Olho Arcano                                 |
+| AdivinhaÁ„o | Detect Scrying                | Detectar VidÍncia                           |
+| AdivinhaÁ„o | Locate Creature               | Localizar Criatura                          |
+| AdivinhaÁ„o | Scrying                       | VidÍncia                                    |
+| Encantamento | Charm Monster               | EnfeitiÁar Monstro                          |
+| Encantamento | Confusion                   | Confus„o                                    |
 | Encantamento | Crushing Despair             | Desespero Esmagador                         |
-| Encantamento | Geas, Lesser                 | Miss√£o Menor                                |
-| Encantamento | Emotion: Fear               | Emo√ß√£o: Medo                                |
-| Encantamento | Emotion: Hope               | Emo√ß√£o: Esperan√ßa                           |
-| Encantamento | Malison                     | Maldi√ß√£o                                    |
-| Encantamento | Emotion: Despair            | Emo√ß√£o: Desespero                           |
-| Evoca√ß√£o | Fire Shield                      | Escudo do Fogo                              |
-| Evoca√ß√£o | Ice Storm                        | Tempestade Glacial                          |
-| Evoca√ß√£o | Otiluke‚Äôs Resilient Sphere      | Esfera Resiliente de Otiluke                |
-| Evoca√ß√£o | Shout                            | Grito                                       |
-| Evoca√ß√£o | Wall of Fire                    | Muralha de Fogo                             |
-| Evoca√ß√£o | Wall of Ice                     | Muralha de Gelo                             |
-| Ilus√£o | Hallucinatory Terrain             | Terreno Ilus√≥rio                            |
-| Ilus√£o | Illusory Wall                    | Parede Ilus√≥ria                             |
-| Ilus√£o | Invisibility, Greater            | Invisibilidade Maior                        |
-| Ilus√£o | Phantasmal Killer                | Assassino Fantasmag√≥rico                    |
-| Ilus√£o | Rainbow Pattern                  | Padr√£o Prism√°tico                           |
-| Ilus√£o | Shadow Conjuration               | Conjura√ß√£o de Sombras                       |
+| Encantamento | Geas, Lesser                 | Miss„o Menor                                |
+| Encantamento | Emotion: Fear               | EmoÁ„o: Medo                                |
+| Encantamento | Emotion: Hope               | EmoÁ„o: EsperanÁa                           |
+| Encantamento | Malison                     | MaldiÁ„o                                    |
+| Encantamento | Emotion: Despair            | EmoÁ„o: Desespero                           |
+| EvocaÁ„o | Fire Shield                      | Escudo do Fogo                              |
+| EvocaÁ„o | Ice Storm                        | Tempestade Glacial                          |
+| EvocaÁ„o | Otilukeís Resilient Sphere      | Esfera Resiliente de Otiluke                |
+| EvocaÁ„o | Shout                            | Grito                                       |
+| EvocaÁ„o | Wall of Fire                    | Muralha de Fogo                             |
+| EvocaÁ„o | Wall of Ice                     | Muralha de Gelo                             |
+| Ilus„o | Hallucinatory Terrain             | Terreno IlusÛrio                            |
+| Ilus„o | Illusory Wall                    | Parede IlusÛria                             |
+| Ilus„o | Invisibility, Greater            | Invisibilidade Maior                        |
+| Ilus„o | Phantasmal Killer                | Assassino FantasmagÛrico                    |
+| Ilus„o | Rainbow Pattern                  | Padr„o Prism·tico                           |
+| Ilus„o | Shadow Conjuration               | ConjuraÁ„o de Sombras                       |
 | Necromancia | Animate Dead                | Criar Mortos-Vivos Menor                   |
-| Necromancia | Bestow Curse                | Rogar Maldi√ß√£o                              |
+| Necromancia | Bestow Curse                | Rogar MaldiÁ„o                              |
 | Necromancia | Contagion                  | Praga                                       |
-| Necromancia | Enervation                 | Drenar Tempor√°rio                           |
+| Necromancia | Enervation                 | Drenar Tempor·rio                           |
 | Necromancia | Fear                       | Medo                                        |
 | Necromancia | Spirit Armor              | Armadura Espiritual                        |
 | Necromancia | Beltyn's Burning Blood     | Sangue Ardente de Beltyn                   |
-| Necromancia | Ghoulish Feast             | Banquete do Carni√ßal                       |
-| Transmuta√ß√£o | Enlarge Person, Mass      | Aumentar Pessoa em Massa                   |
-| Transmuta√ß√£o | Polymorph                 | Metamorfose                                |
-| Transmuta√ß√£o | Rary‚Äôs Mnemonic Enhancer  | Melhoria Mnem√¥nica de Rary                 |
-| Transmuta√ß√£o | Reduce Person, Mass       | Reduzir Pessoa em Massa                    |
-| Transmuta√ß√£o | Stone Shape               | Moldar Rochas                              |
-| Transmuta√ß√£o | Suffocate                 | Sufocar                                     |
-| Transmuta√ß√£o | Teleport Field            | Campo de Teleporte                         |
-| Transmuta√ß√£o | Polymorph Self            | Metamorfose Pessoal                        |
-| Universal | Chaos Cast                     | Lan√ßamento Ca√≥tico                          |
+| Necromancia | Ghoulish Feast             | Banquete do CarniÁal                       |
+| TransmutaÁ„o | Enlarge Person, Mass      | Aumentar Pessoa em Massa                   |
+| TransmutaÁ„o | Polymorph                 | Metamorfose                                |
+| TransmutaÁ„o | Raryís Mnemonic Enhancer  | Melhoria MnemÙnica de Rary                 |
+| TransmutaÁ„o | Reduce Person, Mass       | Reduzir Pessoa em Massa                    |
+| TransmutaÁ„o | Stone Shape               | Moldar Rochas                              |
+| TransmutaÁ„o | Suffocate                 | Sufocar                                     |
+| TransmutaÁ„o | Teleport Field            | Campo de Teleporte                         |
+| TransmutaÁ„o | Polymorph Self            | Metamorfose Pessoal                        |
+| Universal | Chaos Cast                     | ConjuraÁ„o do Caos                          |
 
 ---
 
-## ‚ú® Magias de 5¬∫ N√≠vel ‚Äî Feiticeiro/Mago
+## ? Magias de 5∫ NÌvel ó Feiticeiro/Mago
 
-| Escola | Ingl√™s                              | Portugu√™s                                  |
+| Escola | InglÍs                              | PortuguÍs                                  |
 |--------|-------------------------------------|--------------------------------------------|
-| Abjura√ß√£o | Break Enchantment              | Cancelar Encantamento                      |
-| Abjura√ß√£o | Dismissal                      | Expuls√£o                                   |
-| Abjura√ß√£o | Mordenkainen‚Äôs Private Sanctum | Santu√°rio Particular de Mordenkainen       |
-| Conjura√ß√£o | Cloudkill                     | N√©voa Mortal                               |
-| Conjura√ß√£o | Leomund‚Äôs Secret Chest        | Arca Secreta de Leomund                    |
-| Conjura√ß√£o | Major Creation                | Criar Itens Tempor√°rios                   |
-| Conjura√ß√£o | Mordenkainen‚Äôs Faithful Hound | C√£o Fiel de Mordenkainen                   |
-| Conjura√ß√£o | Planar Binding, Lesser        | √Çncora Planar Menor                       |
-| Conjura√ß√£o | Summon Monster V              | Invocar Criaturas V                       |
-| Conjura√ß√£o | Teleport                      | Teletransporte                             |
-| Conjura√ß√£o | Wall of Stone                 | Muralha de Pedra                          |
-| Adivinha√ß√£o | Contact Other Plane          | Contato Extra-planar                      |
-| Adivinha√ß√£o | Prying Eyes                  | Olhos Observadores                        |
-| Adivinha√ß√£o | Rary‚Äôs Telepathic Bond       | Liga√ß√£o Telep√°tica de Rary                |
+| AbjuraÁ„o | Break Enchantment              | Cancelar Encantamento                      |
+| AbjuraÁ„o | Dismissal                      | Expuls„o                                   |
+| AbjuraÁ„o | Mordenkainenís Private Sanctum | Santu·rio Particular de Mordenkainen       |
+| ConjuraÁ„o | Cloudkill                     | NÈvoa Mortal                               |
+| ConjuraÁ„o | Leomundís Secret Chest        | Arca Secreta de Leomund                    |
+| ConjuraÁ„o | Major Creation                | Criar Itens Tempor·rios                   |
+| ConjuraÁ„o | Mordenkainenís Faithful Hound | C„o Fiel de Mordenkainen                   |
+| ConjuraÁ„o | Planar Binding, Lesser        | ¬ncora Planar Menor                       |
+| ConjuraÁ„o | Summon Monster V              | Invocar Criaturas V                       |
+| ConjuraÁ„o | Teleport                      | Teletransporte                             |
+| ConjuraÁ„o | Wall of Stone                 | Muralha de Pedra                          |
+| AdivinhaÁ„o | Contact Other Plane          | Contato Extra-planar                      |
+| AdivinhaÁ„o | Prying Eyes                  | Olhos Observadores                        |
+| AdivinhaÁ„o | Raryís Telepathic Bond       | LigaÁ„o Telep·tica de Rary                |
 | Encantamento | Dominate Person            | Dominar Pessoa                            |
 | Encantamento | Feeblemind                 | Enfraquecer o Intelecto / Imbecilidade    |
 | Encantamento | Hold Monster               | Imobilizar Monstro                        |
-| Encantamento | Mind Fog                   | N√©voa Mental                              |
-| Encantamento | Symbol of Sleep             | S√≠mbolo do Sono                           |
-| Evoca√ß√£o | Bigby‚Äôs Interposing Hand       | M√£o Interposta de Bigby                   |
-| Evoca√ß√£o | Cone of Cold                   | Cone Glacial                              |
-| Evoca√ß√£o | Sending                        | Enviar Mensagem                           |
-| Evoca√ß√£o | Wall of Force                  | Muralha de Energia / Muralha de For√ßa     |
-| Evoca√ß√£o | Shroud of Flame                | Manto de Chamas                           |
-| Evoca√ß√£o | Phantom Blade                  | L√¢mina Fantasma                           |
-| Evoca√ß√£o | Ball Lightning                 | Bola de Raios                             |
-| Ilus√£o | Dream                            | Sonho                                     |
-| Ilus√£o | False Vision                     | Vis√£o Falsa                               |
-| Ilus√£o | Mirage Arcana                   | Miragem Arcana                            |
-| Ilus√£o | Nightmare                       | Pesadelo                                  |
-| Ilus√£o | Persistent Image                | Imagem Persistente                        |
-| Ilus√£o | Seeming                         | Similaridade                              |
-| Ilus√£o | Shadow Evocation                | Evoca√ß√£o de Sombras                       |
+| Encantamento | Mind Fog                   | NÈvoa Mental                              |
+| Encantamento | Symbol of Sleep             | SÌmbolo do Sono                           |
+| EvocaÁ„o | Bigbyís Interposing Hand       | M„o Interposta de Bigby                   |
+| EvocaÁ„o | Cone of Cold                   | Cone Glacial                              |
+| EvocaÁ„o | Sending                        | Enviar Mensagem                           |
+| EvocaÁ„o | Wall of Force                  | Muralha de Energia / Muralha de ForÁa     |
+| EvocaÁ„o | Shroud of Flame                | Manto de Chamas                           |
+| EvocaÁ„o | Phantom Blade                  | L‚mina Fantasma                           |
+| EvocaÁ„o | Ball Lightning                 | Bola de Raios                             |
+| Ilus„o | Dream                            | Sonho                                     |
+| Ilus„o | False Vision                     | Vis„o Falsa                               |
+| Ilus„o | Mirage Arcana                   | Miragem Arcana                            |
+| Ilus„o | Nightmare                       | Pesadelo                                  |
+| Ilus„o | Persistent Image                | Imagem Persistente                        |
+| Ilus„o | Seeming                         | Similaridade                              |
+| Ilus„o | Shadow Evocation                | EvocaÁ„o de Sombras                       |
 | Necromancia | Blight                     | Malogro                                   |
 | Necromancia | Magic Jar                  | Recipiente Arcano                         |
-| Necromancia | Symbol of Pain              | S√≠mbolo da Dor                            |
+| Necromancia | Symbol of Pain              | SÌmbolo da Dor                            |
 | Necromancia | Waves of Fatigue            | Onda da Fadiga                            |
 | Necromancia | Flaying                    | Esfolar                                   |
 | Necromancia | Animate Zombie              | Animar Zumbi                              |
 | Necromancia | Animate Skeleton            | Animar Esqueleto                          |
-| Transmuta√ß√£o | Animal Growth             | Ampliar Animais                           |
-| Transmuta√ß√£o | Baleful Polymorph          | Metamorfose T√≥rrida                      |
-| Transmuta√ß√£o | Fabricate                 | Compor                                    |
-| Transmuta√ß√£o | Overland Flight            | V√¥o Prolongado                            |
-| Transmuta√ß√£o | Passwall                  | Criar Passagens                           |
-| Transmuta√ß√£o | Telekinesis               | Telecin√©sia                               |
-| Transmuta√ß√£o | Transmute Mud to Rock      | Lama em Pedra                             |
-| Transmuta√ß√£o | Transmute Rock to Mud      | Pedra em Lama                             |
-| Transmuta√ß√£o | Lower Resistance           | Reduzir Resist√™ncia                      |
-| Transmuta√ß√£o | Lutzaen's Local Teleport   | Teleporte Local de Lutzaen                |
-| Transmuta√ß√£o | Steal Spells               | Roubo de Feiti√ßos                         |
-| Transmuta√ß√£o | Ghostform                 | Forma Fantasmag√≥rica                     |
-| Transmuta√ß√£o | Rewind Time               | Retroceder / Reverter o Tempo             |
-| Universal | Permanency                    | Perman√™ncia                               |
+| TransmutaÁ„o | Animal Growth             | Ampliar Animais                           |
+| TransmutaÁ„o | Baleful Polymorph          | Metamorfose TÛrrida                      |
+| TransmutaÁ„o | Fabricate                 | Compor                                    |
+| TransmutaÁ„o | Overland Flight            | VÙo Prolongado                            |
+| TransmutaÁ„o | Passwall                  | Criar Passagens                           |
+| TransmutaÁ„o | Telekinesis               | TelecinÈsia                               |
+| TransmutaÁ„o | Transmute Mud to Rock      | Lama em Pedra                             |
+| TransmutaÁ„o | Transmute Rock to Mud      | Pedra em Lama                             |
+| TransmutaÁ„o | Lower Resistance           | Reduzir ResistÍncia                      |
+| TransmutaÁ„o | Lutzaen's Local Teleport   | Teleporte Local de Lutzaen                |
+| TransmutaÁ„o | Steal Spells               | Roubo de FeitiÁos                         |
+| TransmutaÁ„o | Ghostform                 | Forma FantasmagÛrica                     |
+| TransmutaÁ„o | Rewind Time               | Retroceder / Reverter o Tempo             |
+| Universal | Permanency                    | PermanÍncia                               |
 
 ---
 
-## ‚ú® Magias de 6¬∫ N√≠vel ‚Äî Feiticeiro/Mago
+## ? Magias de 6∫ NÌvel ó Feiticeiro/Mago
 
-| Escola | Ingl√™s | Portugu√™s |
+| Escola | InglÍs | PortuguÍs |
 |------|--------|-----------|
-| Abjura√ß√£o | Antimagic Field | Campo Antimagia |
-| Abjura√ß√£o | Dispel Magic, Greater | Dissipar Magia Maior |
-| Abjura√ß√£o | Globe of Invulnerability | Globo de Invulnerabilidade |
-| Abjura√ß√£o | Guards and Wards | Proteger Fortalezas |
-| Abjura√ß√£o | Repulsion | Repuls√£o |
-| Abjura√ß√£o | Protection from Magic Energy | Prote√ß√£o contra Energia M√°gica |
-| Conjura√ß√£o | Acid Fog | N√©voa √Åcida |
-| Conjura√ß√£o | Planar Binding | √Çncora Planar |
-| Conjura√ß√£o | Summon Monster VI | Invocar Criaturas VI |
-| Conjura√ß√£o | Wall of Iron | Muralha de Ferro |
-| Conjura√ß√£o | Wyvern Call | Chamado do Wyvern |
-| Conjura√ß√£o | Boulder Roll | Rocha Rolante |
-| Adivinha√ß√£o | Analyze Dweomer | Analisar Encantamento |
-| Adivinha√ß√£o | Legend Lore | Lendas e Hist√≥rias |
-| Adivinha√ß√£o | True Seeing | Vis√£o da Verdade |
-| Adivinha√ß√£o | Power Word Silence | Palavra de Poder, Sil√™ncio |
-| Encantamento | Geas/Quest | Tarefa / Miss√£o |
-| Encantamento | Heroism, Greater | Hero√≠smo Maior |
-| Encantamento | Suggestion, Mass | Sugest√£o em Massa |
-| Encantamento | Symbol of Persuasion | S√≠mbolo da Persuas√£o |
-| Encantamento | Domination | Domina√ß√£o |
+| AbjuraÁ„o | Antimagic Field | Campo Antimagia |
+| AbjuraÁ„o | Dispel Magic, Greater | Dissipar Magia Maior |
+| AbjuraÁ„o | Globe of Invulnerability | Globo de Invulnerabilidade |
+| AbjuraÁ„o | Guards and Wards | Proteger Fortalezas |
+| AbjuraÁ„o | Repulsion | Repuls„o |
+| AbjuraÁ„o | Protection from Magic Energy | ProteÁ„o contra Energia M·gica |
+| ConjuraÁ„o | Acid Fog | NÈvoa ¡cida |
+| ConjuraÁ„o | Planar Binding | ¬ncora Planar |
+| ConjuraÁ„o | Summon Monster VI | Invocar Criaturas VI |
+| ConjuraÁ„o | Wall of Iron | Muralha de Ferro |
+| ConjuraÁ„o | Wyvern Call | Chamado do Wyvern |
+| ConjuraÁ„o | Boulder Roll | Rocha Rolante |
+| AdivinhaÁ„o | Analyze Dweomer | Analisar Encantamento |
+| AdivinhaÁ„o | Legend Lore | Lendas e HistÛrias |
+| AdivinhaÁ„o | True Seeing | Vis„o da Verdade |
+| AdivinhaÁ„o | Power Word Silence | Palavra de Poder, SilÍncio |
+| Encantamento | Geas/Quest | Tarefa / Miss„o |
+| Encantamento | Heroism, Greater | HeroÌsmo Maior |
+| Encantamento | Suggestion, Mass | Sugest„o em Massa |
+| Encantamento | Symbol of Persuasion | SÌmbolo da Persuas„o |
+| Encantamento | Domination | DominaÁ„o |
 | Encantamento | Chaos | Caos |
-| Evoca√ß√£o | Bigby‚Äôs Forceful Hand | M√£o Vigorosa de Bigby |
-| Evoca√ß√£o | Chain Lightning | Corrente de Rel√¢mpagos |
-| Evoca√ß√£o | Contingency | Conting√™ncia |
-| Evoca√ß√£o | Otiluke‚Äôs Freezing Sphere | Esfera G√©lida de Otiluke |
-| Evoca√ß√£o | Isaac's Greater Missile Storm | Tempestade Maior de M√≠sseis de Isaac |
-| Ilus√£o | Mislead | Despistar |
-| Ilus√£o | Permanent Image | Imagem Permanente |
-| Ilus√£o | Programmed Image | Imagem Programada |
-| Ilus√£o | Shadow Walk | Andar nas Sombras |
-| Ilus√£o | Veil | V√©u |
-| Necromancia | Circle of Death | C√≠rculo da Morte |
+| EvocaÁ„o | Bigbyís Forceful Hand | M„o Vigorosa de Bigby |
+| EvocaÁ„o | Chain Lightning | Corrente de Rel‚mpagos |
+| EvocaÁ„o | Contingency | ContingÍncia |
+| EvocaÁ„o | Otilukeís Freezing Sphere | Esfera GÈlida de Otiluke |
+| EvocaÁ„o | Isaac's Greater Missile Storm | Tempestade Maior de MÌsseis de Isaac |
+| Ilus„o | Mislead | Despistar |
+| Ilus„o | Permanent Image | Imagem Permanente |
+| Ilus„o | Programmed Image | Imagem Programada |
+| Ilus„o | Shadow Walk | Andar nas Sombras |
+| Ilus„o | Veil | VÈu |
+| Necromancia | Circle of Death | CÌrculo da Morte |
 | Necromancia | Create Undead | Criar Mortos-Vivos |
 | Necromancia | Eyebite | Ataque Visual |
-| Necromancia | Symbol of Fear | S√≠mbolo do Medo |
+| Necromancia | Symbol of Fear | SÌmbolo do Medo |
 | Necromancia | Undeath to Death | Destruir Mortos-Vivos |
 | Necromancia | Darts of Bone | Dardos de Osso |
 | Necromancia | Lich Touch | Toque do Lich |
 | Necromancia | Soul Eater | Devorador de Almas |
 | Necromancia | Trollish Fortitude | Fortitude Troll |
-| Transmuta√ß√£o | Bear‚Äôs Endurance, Mass | Vigor do Urso em Massa |
-| Transmuta√ß√£o | Bull‚Äôs Strength, Mass | For√ßa do Touro em Massa |
-| Transmuta√ß√£o | Cat‚Äôs Grace, Mass | Agilidade do Gato em Massa |
-| Transmuta√ß√£o | Control Water | Controlar √Ågua |
-| Transmuta√ß√£o | Disintegrate | Desintegrar |
-| Transmuta√ß√£o | Eagle‚Äôs Splendor, Mass | Esplendor da √Åguia em Massa |
-| Transmuta√ß√£o | Flesh to Stone | Carne para Pedra |
-| Transmuta√ß√£o | Fox‚Äôs Cunning, Mass | Ast√∫cia da Raposa em Massa |
-| Transmuta√ß√£o | Mordenkainen‚Äôs Lucubration | Elucubra√ß√£o de Mordenkainen |
-| Transmuta√ß√£o | Move Earth | Mover Terra |
-| Transmuta√ß√£o | Owl‚Äôs Wisdom, Mass | Sabedoria da Coruja em Massa |
-| Transmuta√ß√£o | Stone to Flesh | Pedra em Carne |
-| Transmuta√ß√£o | Tenser‚Äôs Transformation | Transforma√ß√£o de Tenser |
-| Transmuta√ß√£o | Death Fog | N√©voa da Morte |
-| Transmuta√ß√£o | Freeze Inanimates | Congelar Inanimados |
+| TransmutaÁ„o | Bearís Endurance, Mass | Vigor do Urso em Massa |
+| TransmutaÁ„o | Bullís Strength, Mass | ForÁa do Touro em Massa |
+| TransmutaÁ„o | Catís Grace, Mass | Agilidade do Gato em Massa |
+| TransmutaÁ„o | Control Water | Controlar ¡gua |
+| TransmutaÁ„o | Disintegrate | Desintegrar |
+| TransmutaÁ„o | Eagleís Splendor, Mass | Esplendor da ¡guia em Massa |
+| TransmutaÁ„o | Flesh to Stone | Carne para Pedra |
+| TransmutaÁ„o | Foxís Cunning, Mass | Ast˙cia da Raposa em Massa |
+| TransmutaÁ„o | Mordenkainenís Lucubration | ElucubraÁ„o de Mordenkainen |
+| TransmutaÁ„o | Move Earth | Mover Terra |
+| TransmutaÁ„o | Owlís Wisdom, Mass | Sabedoria da Coruja em Massa |
+| TransmutaÁ„o | Stone to Flesh | Pedra em Carne |
+| TransmutaÁ„o | Tenserís Transformation | TransformaÁ„o de Tenser |
+| TransmutaÁ„o | Death Fog | NÈvoa da Morte |
+| TransmutaÁ„o | Freeze Inanimates | Congelar Inanimados |
 
 ---
 
-## ‚ú® Magias de 7¬∫ N√≠vel ‚Äî Feiticeiro/Mago
+## ? Magias de 7∫ NÌvel ó Feiticeiro/Mago
 
-| Escola | Ingl√™s | Portugu√™s |
+| Escola | InglÍs | PortuguÍs |
 |------|--------|-----------|
-| Abjura√ß√£o | Banishment | Banimento |
-| Abjura√ß√£o | Sequester | Refugiar Itens |
-| Abjura√ß√£o | Spell Turning | Reverter Magia |
-| Abjura√ß√£o | Seven Eyes | Sete Olhos |
-| Abjura√ß√£o | Mantle | Manto |
-| Abjura√ß√£o | Steal Effects | Roubo de Efeitos |
-| Conjura√ß√£o | Drawmij‚Äôs Instant Summons | Convoca√ß√£o Instant√¢nea de Drawmij |
-| Conjura√ß√£o | Mordenkainen‚Äôs Magnificent Mansion | Mans√£o Magn√≠fica de Mordenkainen |
-| Conjura√ß√£o | Phase Door | Passagem Invis√≠vel |
-| Conjura√ß√£o | Plane Shift | Viagem Planar |
-| Conjura√ß√£o | Summon Monster VII | Invocar Criaturas VII |
-| Conjura√ß√£o | Teleport, Greater | Teletransporte Maior |
-| Conjura√ß√£o | Teleport Object | Teletransportar Objeto |
-| Conjura√ß√£o | Vipergout | Cospe V√≠bora |
-| Conjura√ß√£o | Cacofiend | Cacodem√¥nio |
-| Conjura√ß√£o | Stygian Ice Storm | Tempestade Glacial Est√≠gia |
-| Adivinha√ß√£o | Arcane Sight, Greater | Vis√£o Arcana Maior |
-| Adivinha√ß√£o | Scrying, Greater | Vid√™ncia Maior |
-| Adivinha√ß√£o | Vision | Vis√£o |
-| Adivinha√ß√£o | Power Word: Stun | Palavra de Poder: Atordoar |
+| AbjuraÁ„o | Banishment | Banimento |
+| AbjuraÁ„o | Sequester | Refugiar Itens |
+| AbjuraÁ„o | Spell Turning | Reverter Magia |
+| AbjuraÁ„o | Seven Eyes | Sete Olhos |
+| AbjuraÁ„o | Mantle | Manto |
+| AbjuraÁ„o | Steal Effects | Roubo de Efeitos |
+| ConjuraÁ„o | Drawmijís Instant Summons | ConvocaÁ„o Instant‚nea de Drawmij |
+| ConjuraÁ„o | Mordenkainenís Magnificent Mansion | Mans„o MagnÌfica de Mordenkainen |
+| ConjuraÁ„o | Phase Door | Passagem InvisÌvel |
+| ConjuraÁ„o | Plane Shift | Viagem Planar |
+| ConjuraÁ„o | Summon Monster VII | Invocar Criaturas VII |
+| ConjuraÁ„o | Teleport, Greater | Teletransporte Maior |
+| ConjuraÁ„o | Teleport Object | Teletransportar Objeto |
+| ConjuraÁ„o | Vipergout | Cospe VÌbora |
+| ConjuraÁ„o | Cacofiend | CacodemÙnio |
+| ConjuraÁ„o | Stygian Ice Storm | Tempestade Glacial EstÌgia |
+| AdivinhaÁ„o | Arcane Sight, Greater | Vis„o Arcana Maior |
+| AdivinhaÁ„o | Scrying, Greater | VidÍncia Maior |
+| AdivinhaÁ„o | Vision | Vis„o |
+| AdivinhaÁ„o | Power Word: Stun | Palavra de Poder: Atordoar |
 | Encantamento | Hold Person, Mass | Imobilizar Pessoa em Massa |
 | Encantamento | Insanity | Insanidade |
 | Encantamento | Power Word Blind | Palavra de Poder, Cegar |
-| Encantamento | Symbol of Stunning | S√≠mbolo do Atordoamento |
-| Evoca√ß√£o | Bigby‚Äôs Grasping Hand | M√£o Poderosa de Bigby |
-| Evoca√ß√£o | Delayed Blast Fireball | Bola de Fogo Control√°vel / Bola de Fogo com Explos√£o Retardada |
-| Evoca√ß√£o | Forcecage | Cubo de Energia |
-| Evoca√ß√£o | Mordenkainen‚Äôs Sword | Espada de Mordenkainen |
-| Evoca√ß√£o | Prismatic Spray | Rajada Prism√°tica |
-| Evoca√ß√£o | Malavon's Rage | F√∫ria de Malavon |
-| Evoca√ß√£o | Acid Storm | Tempestade √Åcida |
-| Evoca√ß√£o | Lightning Barrage | Barragem de Raios |
-| Ilus√£o | Invisibility, Mass | Invisibilidade em Massa |
-| Ilus√£o | Project Image | Projetar Imagem |
-| Ilus√£o | Shadow Conjuration, Greater | Conjura√ß√£o de Sombras Maior |
-| Ilus√£o | Simulacrum | Simulacro |
+| Encantamento | Symbol of Stunning | SÌmbolo do Atordoamento |
+| EvocaÁ„o | Bigbyís Grasping Hand | M„o Poderosa de Bigby |
+| EvocaÁ„o | Delayed Blast Fireball | Bola de Fogo Control·vel / Bola de Fogo com Explos„o Retardada |
+| EvocaÁ„o | Forcecage | Cubo de Energia |
+| EvocaÁ„o | Mordenkainenís Sword | Espada de Mordenkainen |
+| EvocaÁ„o | Prismatic Spray | Rajada Prism·tica |
+| EvocaÁ„o | Malavon's Rage | F˙ria de Malavon |
+| EvocaÁ„o | Acid Storm | Tempestade ¡cida |
+| EvocaÁ„o | Lightning Barrage | Barragem de Raios |
+| Ilus„o | Invisibility, Mass | Invisibilidade em Massa |
+| Ilus„o | Project Image | Projetar Imagem |
+| Ilus„o | Shadow Conjuration, Greater | ConjuraÁ„o de Sombras Maior |
+| Ilus„o | Simulacrum | Simulacro |
 | Necromancia | Control Undead | Controlar Mortos-Vivos |
 | Necromancia | Finger of Death | Dedo da Morte |
-| Necromancia | Symbol of Weakness | S√≠mbolo da Fraqueza |
-| Necromancia | Waves of Exhaustion | Ondas da Exaust√£o |
+| Necromancia | Symbol of Weakness | SÌmbolo da Fraqueza |
+| Necromancia | Waves of Exhaustion | Ondas da Exaust„o |
 | Necromancia | Reanimate | Reanimar |
 | Necromancia | Skeleton Traps | Armadilhas de Esqueleto |
-| Transmuta√ß√£o | Control Weather | Controlar o Clima |
-| Transmuta√ß√£o | Ethereal Jaunt | Passeio Et√©reo |
-| Transmuta√ß√£o | Reverse Gravity | Inverter a Gravidade |
-| Transmuta√ß√£o | Statue | Est√°tua |
-| Transmuta√ß√£o | Skip Time | Pular no Tempo |
-| Transmuta√ß√£o | Omnipresence | Onipresen√ßa |
+| TransmutaÁ„o | Control Weather | Controlar o Clima |
+| TransmutaÁ„o | Ethereal Jaunt | Passeio EtÈreo |
+| TransmutaÁ„o | Reverse Gravity | Inverter a Gravidade |
+| TransmutaÁ„o | Statue | Est·tua |
+| TransmutaÁ„o | Skip Time | Pular no Tempo |
+| TransmutaÁ„o | Omnipresence | OnipresenÁa |
 | Universal | Limited Wish | Desejo Restrito |
-| Universal | Spell Sequencer | Sequenciador de Feiti√ßos |
+| Universal | Spell Sequencer | Sequenciador de FeitiÁos |
 
 ---
 
-## ‚ú® Magias de 8¬∫ N√≠vel ‚Äî Feiticeiro/Mago
+## ? Magias de 8∫ NÌvel ó Feiticeiro/Mago
 
-| Escola | Ingl√™s | Portugu√™s |
+| Escola | InglÍs | PortuguÍs |
 |------|--------|-----------|
-| Abjura√ß√£o | Dimensional Lock | Tranca Dimensional |
-| Abjura√ß√£o | Mind Blank | Limpar a Mente / Mente Vazia |
-| Abjura√ß√£o | Prismatic Wall | Muralha Prism√°tica |
-| Abjura√ß√£o | Protection from Spells | Prote√ß√£o Contra Magias |
-| Abjura√ß√£o | Elemental Barrier | Barreira Elemental |
-| Abjura√ß√£o | Spell Trap | Armadilha de Feiti√ßos |
-| Conjura√ß√£o | Incendiary Cloud | Nuvem Incendi√°ria |
-| Conjura√ß√£o | Maze | Labirinto |
-| Conjura√ß√£o | Planar Binding, Greater | √Çncora Planar Maior |
-| Conjura√ß√£o | Summon Monster VIII | Invocar Criaturas VIII |
-| Conjura√ß√£o | Trap the Soul | Aprisionar a Alma |
-| Conjura√ß√£o | Fiery Cloud | Nuvem Flamejante |
-| Conjura√ß√£o | Summon Fiend | Invocar Dem√¥nio |
-| Adivinha√ß√£o | Discern Location | Discernir Localiza√ß√£o |
-| Adivinha√ß√£o | Moment of Prescience | Instante de Presci√™ncia / Momento de Presci√™ncia |
-| Adivinha√ß√£o | Prying Eyes, Greater | Olhos Observadores Maior |
+| AbjuraÁ„o | Dimensional Lock | Tranca Dimensional |
+| AbjuraÁ„o | Mind Blank | Limpar a Mente / Mente Vazia |
+| AbjuraÁ„o | Prismatic Wall | Muralha Prism·tica |
+| AbjuraÁ„o | Protection from Spells | ProteÁ„o Contra Magias |
+| AbjuraÁ„o | Elemental Barrier | Barreira Elemental |
+| AbjuraÁ„o | Spell Trap | Armadilha de FeitiÁos |
+| ConjuraÁ„o | Incendiary Cloud | Nuvem Incendi·ria |
+| ConjuraÁ„o | Maze | Labirinto |
+| ConjuraÁ„o | Planar Binding, Greater | ¬ncora Planar Maior |
+| ConjuraÁ„o | Summon Monster VIII | Invocar Criaturas VIII |
+| ConjuraÁ„o | Trap the Soul | Aprisionar a Alma |
+| ConjuraÁ„o | Fiery Cloud | Nuvem Flamejante |
+| ConjuraÁ„o | Summon Fiend | Invocar DemÙnio |
+| AdivinhaÁ„o | Discern Location | Discernir LocalizaÁ„o |
+| AdivinhaÁ„o | Moment of Prescience | Instante de PresciÍncia / Momento de PresciÍncia |
+| AdivinhaÁ„o | Prying Eyes, Greater | Olhos Observadores Maior |
 | Encantamento | Antipathy | Antipatia |
-| Encantamento | Binding | Pris√£o |
-| Encantamento | Charm Monster, Mass | Enfeiti√ßar Monstro em Massa |
+| Encantamento | Binding | Pris„o |
+| Encantamento | Charm Monster, Mass | EnfeitiÁar Monstro em Massa |
 | Encantamento | Demand | Ordem |
-| Encantamento | Otto‚Äôs Irresistible Dance | Dan√ßa Irresist√≠vel de Otto |
+| Encantamento | Ottoís Irresistible Dance | DanÁa IrresistÌvel de Otto |
 | Encantamento | Power Word Stun | Palavra de Poder, Atordoar |
-| Encantamento | Symbol of Insanity | S√≠mbolo da Insanidade |
+| Encantamento | Symbol of Insanity | SÌmbolo da Insanidade |
 | Encantamento | Sympathy | Simpatia |
 | Encantamento | Enslave | Escravizar |
 | Encantamento | Link Effects | Efeitos Vinculados |
-| Encantamento | Otto's Irresistible Spin | Giro Irresist√≠vel de Otto |
-| Evoca√ß√£o | Bigby‚Äôs Clenched Fist | Punho Cerrado de Bigby |
-| Evoca√ß√£o | Otiluke‚Äôs Telekinetic Sphere | Esfera Telecin√©tica de Otiluke |
-| Evoca√ß√£o | Polar Ray | Raio Polar |
-| Evoca√ß√£o | Shout, Greater | Grito Maior |
-| Evoca√ß√£o | Sunburst | Explos√£o Solar |
-| Evoca√ß√£o | Metafireball | Meta Bola de Fogo |
-| Evoca√ß√£o | Living Lightning | Rel√¢mpago Vivo |
-| Ilus√£o | Scintillating Pattern | Padr√£o Cintilante |
-| Ilus√£o | Screen | Anima√ß√£o Ilus√≥ria |
-| Ilus√£o | Shadow Evocation, Greater | Evoca√ß√£o de Sombras Maior |
+| Encantamento | Otto's Irresistible Spin | Giro IrresistÌvel de Otto |
+| EvocaÁ„o | Bigbyís Clenched Fist | Punho Cerrado de Bigby |
+| EvocaÁ„o | Otilukeís Telekinetic Sphere | Esfera TelecinÈtica de Otiluke |
+| EvocaÁ„o | Polar Ray | Raio Polar |
+| EvocaÁ„o | Shout, Greater | Grito Maior |
+| EvocaÁ„o | Sunburst | Explos„o Solar |
+| EvocaÁ„o | Metafireball | Meta Bola de Fogo |
+| EvocaÁ„o | Living Lightning | Rel‚mpago Vivo |
+| Ilus„o | Scintillating Pattern | Padr„o Cintilante |
+| Ilus„o | Screen | AnimaÁ„o IlusÛria |
+| Ilus„o | Shadow Evocation, Greater | EvocaÁ„o de Sombras Maior |
 | Necromancia | Clone | Clone |
 | Necromancia | Create Greater Undead | Criar Mortos-Vivos Maior |
-| Necromancia | Horrid Wilting | Evapora√ß√£o |
-| Necromancia | Symbol of Death | S√≠mbolo da Morte |
+| Necromancia | Horrid Wilting | EvaporaÁ„o |
+| Necromancia | Symbol of Death | SÌmbolo da Morte |
 | Necromancia | Contagious Fear | Medo Contagiante |
-| Transmuta√ß√£o | Iron Body | Corpo de Ferro |
-| Transmuta√ß√£o | Polymorph Any Object | Metamorfosear Objetos |
-| Transmuta√ß√£o | Temporal Stasis | Estase Temporal |
-| Transmuta√ß√£o | Symbol of Hopelessness | S√≠mbolo do Desespero |
-| Transmuta√ß√£o | Teleport Step | Passo Teleporte |
-| Transmuta√ß√£o | True Polymorph | Metamorfose Verdadeira |
+| TransmutaÁ„o | Iron Body | Corpo de Ferro |
+| TransmutaÁ„o | Polymorph Any Object | Metamorfosear Objetos |
+| TransmutaÁ„o | Temporal Stasis | Estase Temporal |
+| TransmutaÁ„o | Symbol of Hopelessness | SÌmbolo do Desespero |
+| TransmutaÁ„o | Teleport Step | Passo Teleporte |
+| TransmutaÁ„o | True Polymorph | Metamorfose Verdadeira |
 
 ---
 
-## ‚ú® Magias de 9¬∫ N√≠vel ‚Äî Feiticeiro/Mago
+## ? Magias de 9∫ NÌvel ó Feiticeiro/Mago
 
-| Escola | Ingl√™s | Portugu√™s |
+| Escola | InglÍs | PortuguÍs |
 |------|--------|-----------|
-| Abjura√ß√£o | Freedom | Liberta√ß√£o |
-| Abjura√ß√£o | Imprisonment | Aprisionamento |
-| Abjura√ß√£o | Mordenkainen‚Äôs Disjunction | Disjun√ß√£o de Mordenkainen |
-| Abjura√ß√£o | Prismatic Sphere | Esfera Prism√°tica |
-| Abjura√ß√£o | Aegis | √âgide |
-| Conjura√ß√£o | Gate | Portal |
-| Conjura√ß√£o | Refuge | Ref√∫gio |
-| Conjura√ß√£o | Summon Monster IX | Invocar Criaturas IX |
-| Conjura√ß√£o | Teleportation Circle | C√≠rculo de Teletransporte |
-| Conjura√ß√£o | Black Blade of Disaster | L√¢mina Negra do Desastre |
-| Conjura√ß√£o | Malavon's Corrosive Fog | N√©voa Corrosiva de Malavon |
-| Adivinha√ß√£o | Foresight | Sexto Sentido |
-| Adivinha√ß√£o | Mass Omnivision | Omnivis√£o em Massa |
+| AbjuraÁ„o | Freedom | LibertaÁ„o |
+| AbjuraÁ„o | Imprisonment | Aprisionamento |
+| AbjuraÁ„o | Mordenkainenís Disjunction | DisjunÁ„o de Mordenkainen |
+| AbjuraÁ„o | Prismatic Sphere | Esfera Prism·tica |
+| AbjuraÁ„o | Aegis | …gide |
+| ConjuraÁ„o | Gate | Portal |
+| ConjuraÁ„o | Refuge | Ref˙gio |
+| ConjuraÁ„o | Summon Monster IX | Invocar Criaturas IX |
+| ConjuraÁ„o | Teleportation Circle | CÌrculo de Teletransporte |
+| ConjuraÁ„o | Black Blade of Disaster | L‚mina Negra do Desastre |
+| ConjuraÁ„o | Malavon's Corrosive Fog | NÈvoa Corrosiva de Malavon |
+| AdivinhaÁ„o | Foresight | Sexto Sentido |
+| AdivinhaÁ„o | Mass Omnivision | Omnivis„o em Massa |
 | Encantamento | Dominate Monster | Dominar Monstro |
 | Encantamento | Hold Monster, Mass | Imobilizar Monstro em Massa |
 | Encantamento | Power Word Kill | Palavra de Poder, Matar |
 | Encantamento | Mass Dominate | Dominar em Massa |
-| Evoca√ß√£o | Bigby‚Äôs Crushing Hand | M√£o Esmagadora de Bigby |
-| Evoca√ß√£o | Meteor Swarm | Chuva de Meteoros |
-| Evoca√ß√£o | Lightning Spiral | Espiral de Rel√¢mpago |
-| Ilus√£o | Shades | Sombras |
-| Ilus√£o | Weird | Encarna√ß√£o Fantasmag√≥rica |
-| Ilus√£o | Perfect Invisibility | Invisibilidade Perfeita |
-| Necromancia | Astral Projection | Proje√ß√£o Astral |
+| EvocaÁ„o | Bigbyís Crushing Hand | M„o Esmagadora de Bigby |
+| EvocaÁ„o | Meteor Swarm | Chuva de Meteoros |
+| EvocaÁ„o | Lightning Spiral | Espiral de Rel‚mpago |
+| Ilus„o | Shades | Sombras |
+| Ilus„o | Weird | EncarnaÁ„o FantasmagÛrica |
+| Ilus„o | Perfect Invisibility | Invisibilidade Perfeita |
+| Necromancia | Astral Projection | ProjeÁ„o Astral |
 | Necromancia | Energy Drain | Drenar Energia |
 | Necromancia | Soul Bind | Prender a Alma |
 | Necromancia | Wail of the Banshee | Grito da Banshee |
-| Transmuta√ß√£o | Etherealness | Forma Et√©rea |
-| Transmuta√ß√£o | Shapechange | Alterar Forma |
-| Transmuta√ß√£o | Time Stop | Parar o Tempo |
-| Transmuta√ß√£o | Improved Haste | Velocidade Aprimorada |
+| TransmutaÁ„o | Etherealness | Forma EtÈrea |
+| TransmutaÁ„o | Shapechange | Alterar Forma |
+| TransmutaÁ„o | Time Stop | Parar o Tempo |
+| TransmutaÁ„o | Improved Haste | Velocidade Aprimorada |
 | Universal | Wish | Desejo |
 | Universal | Improved Alacrity | Alacridade Aprimorada |
-| Universal | Eclectic Sequencer | Sequenciador Ecl√©tico |
+| Universal | Eclectic Sequencer | Sequenciador EclÈtico |
 
 ---
 
-## ‚ú® Magias de 0¬∫ N√≠vel ‚Äî Cl√©rigo (Orisons)
+## ? Magias de 0∫ NÌvel ó ClÈrigo (Orisons)
 
 
-| Ingl√™s | Portugu√™s |
+| InglÍs | PortuguÍs |
 |--------|-----------|
-| Create Water | Criar √Ågua |
-| Cure Minor Wounds | Curar Ferimentos M√≠nimos |
+| Create Water | Criar ¡gua |
+| Cure Minor Wounds | Curar Ferimentos MÌnimos |
 | Detect Magic | Detectar Magia |
 | Detect Poison | Detectar Venenos |
-| Guidance | Orienta√ß√£o |
-| Inflict Minor Wounds | Infligir Ferimentos M√≠nimos |
+| Guidance | OrientaÁ„o |
+| Inflict Minor Wounds | Infligir Ferimentos MÌnimos |
 | Light | Luz |
 | Mending | Consertar |
 | Purify Food and Drink | Purificar Alimentos |
 | Read Magic | Ler Magias |
-| Resistance | Resist√™ncia |
+| Resistance | ResistÍncia |
 | Virtue | Virtude |
 
 ---
 
-## ‚ú® Magias de 1¬∫ N√≠vel ‚Äî Cl√©rigo
+## ? Magias de 1∫ NÌvel ó ClÈrigo
 
-| Ingl√™s | Portugu√™s |
+| InglÍs | PortuguÍs |
 |--------|-----------|
-| Bane | Maldi√ß√£o Menor |
-| Bless | B√™n√ß√£o |
-| Bless Water | Aben√ßoar √Ågua |
+| Bane | MaldiÁ„o Menor |
+| Bless | BÍnÁ„o |
+| Bless Water | AbenÁoar ¡gua |
 | Cause Fear | Causar Medo |
 | Command | Comando |
 | Comprehend Languages | Compreender Idiomas |
 | Cure Light Wounds | Curar Ferimentos Leves |
-| Curse Water | Amaldi√ßoar √Ågua |
-| Deathwatch | Vis√£o da Morte |
+| Curse Water | AmaldiÁoar ¡gua |
+| Deathwatch | Vis„o da Morte |
 | Detect Chaos/Evil/Good/Law | Detectar Caos/Mal/Bem/Ordem |
 | Detect Undead | Detectar Mortos-Vivos |
-| Divine Favor | Aux√≠lio Divino |
-| Doom | Desespero / Perdi√ß√£o |
+| Divine Favor | AuxÌlio Divino |
+| Doom | Desespero / PerdiÁ„o |
 | Endure Elements | Suportar Elementos |
-| Entropic Shield | Escudo Entr√≥pico |
+| Entropic Shield | Escudo EntrÛpico |
 | Hide from Undead | Invisibilidade Contra Mortos-Vivos |
 | Inflict Light Wounds | Infligir Ferimentos Leves |
 | Magic Stone | Pedra Encantada |
-| Magic Weapon | Arma M√°gica |
-| Obscuring Mist | N√©voa Obscurescente |
-| Protection from Chaos/Evil/Good/Law | Prote√ß√£o Contra o Caos/Mal/Bem/Ordem |
+| Magic Weapon | Arma M·gica |
+| Obscuring Mist | NÈvoa Obscurescente |
+| Protection from Chaos/Evil/Good/Law | ProteÁ„o Contra o Caos/Mal/Bem/Ordem |
 | Remove Fear | Remover Medo |
-| Sanctuary | Santu√°rio |
-| Shield of Faith | Escudo da F√© |
+| Sanctuary | Santu·rio |
+| Shield of Faith | Escudo da FÈ |
 | Summon Monster I | Invocar Criaturas I |
-| Armor of Faith | Armadura da F√© |
-| Shortening | Redu√ß√£o |
+| Armor of Faith | Armadura da FÈ |
+| Shortening | ReduÁ„o |
 
 ---
 
-## ‚ú® Magias de 2¬∫ N√≠vel ‚Äî Cl√©rigo
+## ? Magias de 2∫ NÌvel ó ClÈrigo
 
-| Ingl√™s | Portugu√™s |
+| InglÍs | PortuguÍs |
 |--------|-----------|
 | Aid | Ajuda |
-| Align Weapon | Tend√™ncia em Arma |
-| Augury | Aug√∫rio |
-| Bear‚Äôs Endurance | Vigor do Urso |
-| Bull‚Äôs Strength | For√ßa do Touro |
-| Calm Emotions | Acalmar Emo√ß√µes |
+| Align Weapon | TendÍncia em Arma |
+| Augury | Aug˙rio |
+| Bearís Endurance | Vigor do Urso |
+| Bullís Strength | ForÁa do Touro |
+| Calm Emotions | Acalmar EmoÁıes |
 | Consecrate | Consagrar |
 | Cure Moderate Wounds | Curar Ferimentos Moderados |
-| Darkness | Escurid√£o |
-| Death Knell | Drenar For√ßa Vital |
+| Darkness | Escurid„o |
+| Death Knell | Drenar ForÁa Vital |
 | Delay Poison | Retardar Envenenamento |
 | Desecrate | Profanar |
-| Eagle‚Äôs Splendor | Esplendor da √Åguia |
+| Eagleís Splendor | Esplendor da ¡guia |
 | Enthrall | Cativar |
 | Find Traps | Encontrar Armadilha |
-| Gentle Repose | Descanso Tranq√ºilo |
+| Gentle Repose | Descanso Tranq¸ilo |
 | Hold Person | Imobilizar Pessoa |
 | Inflict Moderate Wounds | Infligir Ferimentos Moderados |
 | Make Whole | Tornar Inteiro |
-| Owl‚Äôs Wisdom | Sabedoria da Coruja |
+| Owlís Wisdom | Sabedoria da Coruja |
 | Remove Paralysis | Remover Paralisia |
-| Resist Energy | Resist√™ncia √† Elementos |
-| Restoration, Lesser | Restaura√ß√£o Menor |
-| Shatter | Despeda√ßar |
+| Resist Energy | ResistÍncia ‡ Elementos |
+| Restoration, Lesser | RestauraÁ„o Menor |
+| Shatter | DespedaÁar |
 | Shield Other | Proteger Outro |
-| Silence | Sil√™ncio |
-| Sound Burst | Explos√£o Sonora |
+| Silence | SilÍncio |
+| Sound Burst | Explos„o Sonora |
 | Spiritual Weapon | Arma Espiritual |
-| Status | Condi√ß√£o |
+| Status | CondiÁ„o |
 | Summon Monster II | Invocar Criaturas II |
-| Undetectable Alignment | Dissimular Tend√™ncia |
+| Undetectable Alignment | Dissimular TendÍncia |
 | Zone of Truth | Zona da Verdade |
-| Chant | C√¢ntico |
-| Spell Shield | Escudo M√°gico |
+| Chant | C‚ntico |
+| Spell Shield | Escudo M·gico |
 | Slow Poison | Desacelerar Veneno |
 | Draw Upon Holy Might | Utilizar Poder Sagrado |
 | Null Healing | Cura Nula |
-| Simple Summoning | Invoca√ß√£o Simples |
+| Simple Summoning | InvocaÁ„o Simples |
 
 ---
 
-## ‚ú® Magias de 3¬∫ N√≠vel ‚Äî Cl√©rigo
+## ? Magias de 3∫ NÌvel ó ClÈrigo
 
-| Ingl√™s | Portugu√™s |
+| InglÍs | PortuguÍs |
 |--------|-----------|
 | Animate Dead | Criar Mortos-Vivos Menor |
-| Bestow Curse | Rogar Maldi√ß√£o |
+| Bestow Curse | Rogar MaldiÁ„o |
 | Blindness/Deafness | Cegueira/Surdez |
 | Contagion | Praga |
-| Continual Flame | Chama Cont√≠nua |
+| Continual Flame | Chama ContÌnua |
 | Create Food and Water | Criar Alimentos |
 | Cure Serious Wounds | Curar Ferimentos Graves |
 | Daylight | Luz do Dia |
-| Deeper Darkness | Escurid√£o Profunda |
+| Deeper Darkness | Escurid„o Profunda |
 | Dispel Magic | Dissipar Magia |
-| Glyph of Warding | S√≠mbolo de Prote√ß√£o |
-| Helping Hand | M√£o Op√≠fera |
+| Glyph of Warding | SÌmbolo de ProteÁ„o |
+| Helping Hand | M„o OpÌfera |
 | Inflict Serious Wounds | Infligir Ferimentos Graves |
 | Invisibility Purge | Purgar Invisibilidade |
 | Locate Object | Localizar Objetos |
-| Magic Circle against Chaos/Evil/Good/Law | C√≠rculo M√°gico Contra o Caos/Mal/Bem/Ordem |
+| Magic Circle against Chaos/Evil/Good/Law | CÌrculo M·gico Contra o Caos/Mal/Bem/Ordem |
 | Magic Vestment | Roupa Encantada |
-| Meld into Stone | Mesclar-se √†s Rochas |
+| Meld into Stone | Mesclar-se ‡s Rochas |
 | Obscure Object | Obscurecer Objeto |
-| Prayer | Ora√ß√£o |
-| Protection from Energy | Prote√ß√£o Contra Elementos |
+| Prayer | OraÁ„o |
+| Protection from Energy | ProteÁ„o Contra Elementos |
 | Remove Blindness/Deafness | Remover Cegueira/Surdez |
-| Remove Curse | Remover Maldi√ß√£o |
-| Remove Disease | Remover Doen√ßas |
+| Remove Curse | Remover MaldiÁ„o |
+| Remove Disease | Remover DoenÁas |
 | Searing Light | Luz Cegante |
 | Speak with Dead | Falar com os Mortos |
 | Stone Shape | Moldar Rochas |
 | Summon Monster III | Invocar Criaturas III |
-| Water Breathing | Respirar na √Ågua |
-| Water Walk | Caminhar na √Ågua |
+| Water Breathing | Respirar na ¡gua |
+| Water Walk | Caminhar na ¡gua |
 | Wind Wall | Muralha de Vento |
-| Circle of Bones | C√≠rculo de Ossos |
-| Exaltation | Exalta√ß√£o |
+| Circle of Bones | CÌrculo de Ossos |
+| Exaltation | ExaltaÁ„o |
 | Animate Zombie | Animar Zumbi |
 | Animate Skeleton | Animar Esqueleto |
-| Ice Blade | L√¢mina de Gelo |
+| Ice Blade | L‚mina de Gelo |
 | Miscast Magic | Errar Magia |
 | Recall Party | Reunir Grupo |
 
 ---
 
-## ‚ú® Magias de 4¬∫ N√≠vel ‚Äî Cl√©rigo
+## ? Magias de 4∫ NÌvel ó ClÈrigo
 
-| Ingl√™s | Portugu√™s |
+| InglÍs | PortuguÍs |
 |--------|-----------|
 | Air Walk | Andar no Ar |
-| Control Water | Controlar a √Ågua |
-| Cure Critical Wounds | Curar Ferimentos Cr√≠ticos |
-| Death Ward | Prote√ß√£o Contra a Morte |
-| Dimensional Anchor | √Çncora Dimensional |
+| Control Water | Controlar a ¡gua |
+| Cure Critical Wounds | Curar Ferimentos CrÌticos |
+| Death Ward | ProteÁ„o Contra a Morte |
+| Dimensional Anchor | ¬ncora Dimensional |
 | Discern Lies | Discernir Mentiras |
-| Dismissal | Expuls√£o |
-| Divination | Adivinha√ß√£o |
+| Dismissal | Expuls„o |
+| Divination | AdivinhaÁ„o |
 | Divine Power | Poder Divino |
-| Freedom of Movement | Movimenta√ß√£o Livre |
+| Freedom of Movement | MovimentaÁ„o Livre |
 | Giant Vermin | Inseto Gigante |
-| Imbue with Spell Ability | Transfer√™ncia de Poder Divino / Imbuir com Habilidade M√°gica |
-| Inflict Critical Wounds | Infligir Ferimentos Cr√≠ticos |
-| Magic Weapon, Greater | Arma M√°gica Maior |
+| Imbue with Spell Ability | TransferÍncia de Poder Divino / Imbuir com Habilidade M·gica |
+| Inflict Critical Wounds | Infligir Ferimentos CrÌticos |
+| Magic Weapon, Greater | Arma M·gica Maior |
 | Neutralize Poison | Neutralizar Venenos |
 | Planar Ally, Lesser | Aliado Extra-Planar Menor |
 | Poison | Envenenamento |
 | Repel Vermin | Repelir Insetos |
-| Restoration | Restaura√ß√£o |
+| Restoration | RestauraÁ„o |
 | Sending | Enviar Mensagem |
-| Spell Immunity | Imunidade √† Magia |
+| Spell Immunity | Imunidade ‡ Magia |
 | Summon Monster IV | Invocar Criaturas IV |
 | Tongues | Idiomas |
 | Defensive Harmony | Harmonia Defensiva |
 | Shield of Lathander | Escudo de Lathander |
-| Unholy Blight | Pestil√™ncia Profana |
+| Unholy Blight | PestilÍncia Profana |
 | Holy Power | Poder Sagrado |
-| Mental Domination | Domina√ß√£o Mental |
+| Mental Domination | DominaÁ„o Mental |
 | Cloak of Fear | Capa do Medo |
-| Cloud of Pestilence | Nuvem de Pestil√™ncia |
-| Curing Contingency | Conting√™ncia de Cura |
-| Ghoulish Feast | Banquete do Carni√ßal |
-| Holy Smite | Golpe Sagrado (*sem descri√ß√£o*) |
+| Cloud of Pestilence | Nuvem de PestilÍncia |
+| Curing Contingency | ContingÍncia de Cura |
+| Ghoulish Feast | Banquete do CarniÁal |
+| Holy Smite | Golpe Sagrado (*sem descriÁ„o*) |
 
 ---
 
-## ‚ú® Magias de 5¬∫ N√≠vel ‚Äî Cl√©rigo
+## ? Magias de 5∫ NÌvel ó ClÈrigo
 
-| Ingl√™s | Portugu√™s |
+| InglÍs | PortuguÍs |
 |--------|-----------|
-| Atonement | Penit√™ncia |
+| Atonement | PenitÍncia |
 | Break Enchantment | Cancelar Encantamento |
 | Command, Greater | Comando Maior |
-| Commune | Comunh√£o |
+| Commune | Comunh„o |
 | Cure Light Wounds, Mass | Curar Ferimentos Leves em Massa |
 | Dispel Chaos/Evil/Good/Law | Dissipar o Caos/Mal/Bem/Ordem |
 | Disrupting Weapon | Arma do Rompimento |
@@ -1128,282 +1128,282 @@
 | Hallow | Santificar |
 | Inflict Light Wounds, Mass | Infligir Ferimentos Leves em Massa |
 | Insect Plague | Praga de Insetos |
-| Mark of Justice | Marca da Justi√ßa |
+| Mark of Justice | Marca da JustiÁa |
 | Plane Shift | Viagem Planar |
 | Raise Dead | Reviver os Mortos |
-| Righteous Might | For√ßa dos Justos |
-| Scrying | Vid√™ncia |
+| Righteous Might | ForÁa dos Justos |
+| Scrying | VidÍncia |
 | Slay Living | Matar |
-| Spell Resistance | Resist√™ncia √† Magia |
+| Spell Resistance | ResistÍncia ‡ Magia |
 | Summon Monster V | Invocar Criaturas V |
-| Symbol of Pain | S√≠mbolo da Dor |
-| Symbol of Sleep | S√≠mbolo do Sono |
-| True Seeing | Vis√£o da Verdade |
+| Symbol of Pain | SÌmbolo da Dor |
+| Symbol of Sleep | SÌmbolo do Sono |
+| True Seeing | Vis„o da Verdade |
 | Unhallow | Conspurcar |
 | Wall of Stone | Muralha de Pedra |
-| Champion's Strength | For√ßa do Campe√£o |
-| Righteous Wrath of the Faithful | Ira Justa dos Fi√©is |
-| Healing Circle | C√≠rculo de Cura |
+| Champion's Strength | ForÁa do Campe„o |
+| Righteous Wrath of the Faithful | Ira Justa dos FiÈis |
+| Healing Circle | CÌrculo de Cura |
 | Iron Skins | Pele de Ferro |
-| Chaotic Commands | Comandos Ca√≥ticos |
-| Lesser Planar Binding | Vincula√ß√£o Planar Menor |
+| Chaotic Commands | Comandos CaÛticos |
+| Lesser Planar Binding | VinculaÁ„o Planar Menor |
 | Pebbles to Boulders | Pedras em Rochas |
-| Ghostform | Forma Fantasmag√≥rica |
+| Ghostform | Forma FantasmagÛrica |
 
 ---
 
-## ‚ú® Magias de 6¬∫ N√≠vel ‚Äî Cl√©rigo
+## ? Magias de 6∫ NÌvel ó ClÈrigo
 
-| Ingl√™s | Portugu√™s |
+| InglÍs | PortuguÍs |
 |--------|-----------|
 | Animate Objects | Animar Objetos |
-| Antilife Shell | C√∫pula de Prote√ß√£o Contra a Vida |
+| Antilife Shell | C˙pula de ProteÁ„o Contra a Vida |
 | Banishment | Banimento |
-| Bear‚Äôs Endurance, Mass | Vigor do Urso em Massa |
-| Blade Barrier | Barreira de L√¢minas |
-| Bull‚Äôs Strength, Mass | For√ßa do Touro em Massa |
+| Bearís Endurance, Mass | Vigor do Urso em Massa |
+| Blade Barrier | Barreira de L‚minas |
+| Bullís Strength, Mass | ForÁa do Touro em Massa |
 | Create Undead | Criar Mortos-Vivos |
 | Cure Moderate Wounds, Mass | Curar Ferimentos Moderados em Massa |
 | Dispel Magic, Greater | Dissipar Magia Maior |
-| Eagle‚Äôs Splendor, Mass | Esplendor da √Åguia em Massa |
+| Eagleís Splendor, Mass | Esplendor da ¡guia em Massa |
 | Find the Path | Encontrar o Caminho |
-| Forbiddance | Proibi√ß√£o |
-| Geas/Quest | Tarefa/Miss√£o |
-| Glyph of Warding, Greater | S√≠mbolo de Prote√ß√£o Maior |
-| Harm | Doen√ßa Plena |
+| Forbiddance | ProibiÁ„o |
+| Geas/Quest | Tarefa/Miss„o |
+| Glyph of Warding, Greater | SÌmbolo de ProteÁ„o Maior |
+| Harm | DoenÁa Plena |
 | Heal | Cura Completa |
-| Heroes‚Äô Feast | Banquete de Her√≥is |
+| Heroesí Feast | Banquete de HerÛis |
 | Inflict Moderate Wounds, Mass | Ferimentos Moderados em Massa |
-| Owl‚Äôs Wisdom, Mass | Sabedoria da Coruja em Massa |
+| Owlís Wisdom, Mass | Sabedoria da Coruja em Massa |
 | Planar Ally | Aliado Extra-Planar |
 | Summon Monster VI | Invocar Criaturas VI |
-| Symbol of Fear | S√≠mbolo do Medo |
-| Symbol of Persuasion | S√≠mbolo da Persuas√£o |
+| Symbol of Fear | SÌmbolo do Medo |
+| Symbol of Persuasion | SÌmbolo da Persuas„o |
 | Undeath to Death | Destruir Mortos-Vivos |
 | Wind Walk | Caminhar no Vento |
-| Word of Recall | Palavra de Recorda√ß√£o |
-| Circle of Blades | C√≠rculo de L√¢minas |
+| Word of Recall | Palavra de RecordaÁ„o |
+| Circle of Blades | CÌrculo de L‚minas |
 | Spiritual Wrath | Ira Espiritual |
 | Sol's Searing Orb | Orbe Ardente de Sol |
-| Dolorous Decay | Decad√™ncia Dolorosa |
-| Planar Binding | Vincula√ß√£o Planar |
-| Wondrous Recall | Palavra de Recorda√ß√£o |
-| Bolt of Glory | Raio da Gl√≥ria |
-| Trial by Fire | Prova√ß√£o pelo Fogo |
+| Dolorous Decay | DecadÍncia Dolorosa |
+| Planar Binding | VinculaÁ„o Planar |
+| Wondrous Recall | Palavra de RecordaÁ„o |
+| Bolt of Glory | Raio da GlÛria |
+| Trial by Fire | ProvaÁ„o pelo Fogo |
 | Second Chance | Segunda Chance |
 
 ---
 
-## ‚ú® Magias de 7¬∫ N√≠vel ‚Äî Cl√©rigo
+## ? Magias de 7∫ NÌvel ó ClÈrigo
 
-| Ingl√™s | Portugu√™s |
+| InglÍs | PortuguÍs |
 |--------|-----------|
-| Blasphemy | Blasf√™mia |
+| Blasphemy | BlasfÍmia |
 | Control Weather | Controlar o Clima |
 | Cure Serious Wounds, Mass | Curar Ferimentos Graves em Massa |
-| Destruction | Destrui√ß√£o |
+| Destruction | DestruiÁ„o |
 | Dictum | Ditado |
-| Ethereal Jaunt | Passeio Et√©reo |
+| Ethereal Jaunt | Passeio EtÈreo |
 | Holy Word | Palavra Sagrada |
 | Inflict Serious Wounds, Mass | Infligir Ferimentos Graves em Massa |
-| Refuge | Ref√∫gio |
-| Regenerate | Regenera√ß√£o |
-| Repulsion | Repuls√£o |
-| Restoration, Greater | Restaura√ß√£o Maior |
-| Resurrection | Ressurrei√ß√£o |
-| Scrying, Greater | Vid√™ncia Maior |
+| Refuge | Ref˙gio |
+| Regenerate | RegeneraÁ„o |
+| Repulsion | Repuls„o |
+| Restoration, Greater | RestauraÁ„o Maior |
+| Resurrection | RessurreiÁ„o |
+| Scrying, Greater | VidÍncia Maior |
 | Summon Monster VII | Invocar Criaturas VII |
-| Symbol of Stunning | S√≠mbolo do Atordoamento |
-| Symbol of Weakness | S√≠mbolo da Fraqueza |
+| Symbol of Stunning | SÌmbolo do Atordoamento |
+| Symbol of Weakness | SÌmbolo da Fraqueza |
 | Word of Chaos | Palavra do Caos |
-| Impervious Sanctity of Mind | Santidade Imperme√°vel da Mente |
+| Impervious Sanctity of Mind | Santidade Imperme·vel da Mente |
 | Greater Shield of Lathander | Escudo Maior de Lathander |
 | Power Word: Heal | Palavra de Poder: Cura |
-| Regeneration | Regenera√ß√£o |
+| Regeneration | RegeneraÁ„o |
 | Reanimate | Reanimar |
 | Skeleton Horde | Horda de Esqueletos |
 
 ---
 
-## ‚ú® Magias de 8¬∫ N√≠vel ‚Äî Cl√©rigo
+## ? Magias de 8∫ NÌvel ó ClÈrigo
 
-| Ingl√™s | Portugu√™s |
+| InglÍs | PortuguÍs |
 |--------|-----------|
 | Antimagic Field | Campo Antimagia |
 | Cloak of Chaos | Manto do Caos |
 | Create Greater Undead | Criar Mortos-Vivos Maior |
-| Cure Critical Wounds, Mass | Curar Ferimentos Cr√≠ticos em Massa |
+| Cure Critical Wounds, Mass | Curar Ferimentos CrÌticos em Massa |
 | Dimensional Lock | Tranca Dimensional |
-| Discern Location | Discernir Localiza√ß√£o |
+| Discern Location | Discernir LocalizaÁ„o |
 | Earthquake | Terremoto |
 | Fire Storm | Tempestade de Fogo |
 | Holy Aura | Aura Sagrada |
-| Inflict Critical Wounds, Mass | Infligir Ferimentos Cr√≠ticos em Massa |
+| Inflict Critical Wounds, Mass | Infligir Ferimentos CrÌticos em Massa |
 | Planar Ally, Greater | Aliado Extra-Planar Maior |
 | Shield of Law | Escudo da Ordem |
-| Spell Immunity, Greater | Imunidade √† Magia Maior |
+| Spell Immunity, Greater | Imunidade ‡ Magia Maior |
 | Summon Monster VIII | Invocar Criaturas VIII |
-| Symbol of Death | S√≠mbolo da Morte |
-| Symbol of Insanity | S√≠mbolo da Insanidade |
+| Symbol of Death | SÌmbolo da Morte |
+| Symbol of Insanity | SÌmbolo da Insanidade |
 | Unholy Aura | Aura Profana |
-| Symbol of Hopelessness | S√≠mbolo do Desespero |
+| Symbol of Hopelessness | SÌmbolo do Desespero |
 | Elemental Barrier | Barreira Elemental |
 | Contagious Fear | Medo Contagiante |
 | Link Effects | Efeitos Vinculados |
-| Omnipresence | Onipresen√ßa |
+| Omnipresence | OnipresenÁa |
 
 ---
 
-## ‚ú® Magias de 9¬∫ N√≠vel ‚Äî Cl√©rigo
+## ? Magias de 9∫ NÌvel ó ClÈrigo
 
-| Ingl√™s | Portugu√™s |
+| InglÍs | PortuguÍs |
 |--------|-----------|
-| Astral Projection | Proje√ß√£o Astral |
+| Astral Projection | ProjeÁ„o Astral |
 | Energy Drain | Drenar Energia |
-| Etherealness | Forma Et√©rea |
+| Etherealness | Forma EtÈrea |
 | Gate | Portal |
 | Heal, Mass | Cura Completa em Massa |
-| Implosion | Implos√£o |
+| Implosion | Implos„o |
 | Miracle | Milagre |
 | Soul Bind | Prender a Alma |
-| Storm of Vengeance | Tempestade da Vingan√ßa |
+| Storm of Vengeance | Tempestade da VinganÁa |
 | Summon Monster IX | Invocar Criaturas IX |
-| True Resurrection | Ressurrei√ß√£o Verdadeira |
+| True Resurrection | RessurreiÁ„o Verdadeira |
 | Improved Alacrity | Alacridade Aprimorada |
-| Mass Harm | Doen√ßa Plena em Massa |
-| Contingent Resurrection | Ressurrei√ß√£o Condicional |
+| Mass Harm | DoenÁa Plena em Massa |
+| Contingent Resurrection | RessurreiÁ„o Condicional |
 | Summon Deva | Invocar Deva |
 
 ---
 
-## üåø 1st-Level Druid Spells
+## ?? 1st-Level Druid Spells
 
-| Ingl√™s | Portugu√™s |
+| InglÍs | PortuguÍs |
 |-------|-----------|
 | Calm Animals | Acalmar Animais |
-| Charm Animal | Enfeiti√ßar Animal |
+| Charm Animal | EnfeitiÁar Animal |
 | Cure Light Wounds | Curar Ferimentos Leves |
 | Detect Animals or Plants | Detectar Animais ou Plantas |
 | Detect Snares and Pits | Detectar Armadilhas |
 | Endure Elements | Suportar Elementos |
-| Entangle | Constri√ß√£o / Emaranhar |
+| Entangle | ConstriÁ„o / Emaranhar |
 | Faerie Fire | Fogo das Fadas |
 | Goodberry | Bom Fruto |
 | Hide from Animals | Invisibilidade Contra Animais |
 | Jump | Salto / Pulo |
 | Longstrider | Passos Longos |
-| Magic Fang | Presa M√°gica |
+| Magic Fang | Presa M·gica |
 | Magic Stone | Pedra Encantada |
-| Obscuring Mist | N√©voa Obscurescente |
+| Obscuring Mist | NÈvoa Obscurescente |
 | Pass without Trace | Passos sem Pegadas |
 | Produce Flame | Criar Chamas |
-| Shillelagh | Arma Aben√ßoada / Porrete de Carvalho |
+| Shillelagh | Arma AbenÁoada / Porrete de Carvalho |
 | Speak with Animals | Falar com Animais |
-| Summon Nature‚Äôs Ally I | Invocar Aliado da Natureza I |
+| Summon Natureís Ally I | Invocar Aliado da Natureza I |
 | Sunscorch | Queimadura Solar |
 | Frost Fingers | Dedos Congelantes |
 | Ice Dagger | Adaga de Gelo |
 
 ---
 
-## üåø 2nd-Level Druid Spells
+## ?? 2nd-Level Druid Spells
 
-| Ingl√™s | Portugu√™s |
+| InglÍs | PortuguÍs |
 |-------|-----------|
 | Animal Messenger | Mensageiro Animal |
 | Animal Trance | Transe Animal |
-| Barkskin | Pele de √Årvore |
-| Bear‚Äôs Endurance | Vigor do Urso |
-| Bull‚Äôs Strength | For√ßa do Touro |
-| Cat‚Äôs Grace | Agilidade do Gato |
+| Barkskin | Pele de ¡rvore |
+| Bearís Endurance | Vigor do Urso |
+| Bullís Strength | ForÁa do Touro |
+| Catís Grace | Agilidade do Gato |
 | Chill Metal | Esfriar Metal |
 | Delay Poison | Retardar Envenenamento |
 | Fire Trap | Armadilha de Fogo |
-| Flame Blade | L√¢mina Flamejante |
+| Flame Blade | L‚mina Flamejante |
 | Flaming Sphere | Esfera Flamejante |
-| Fog Cloud | N√©voa |
+| Fog Cloud | NÈvoa |
 | Gust of Wind | Lufada de Vento |
 | Heat Metal | Esquentar Metal |
 | Hold Animal | Imobilizar Animal |
-| Owl‚Äôs Wisdom | Sabedoria da Coruja |
+| Owlís Wisdom | Sabedoria da Coruja |
 | Reduce Animal | Reduzir Animal |
-| Resist Energy | Resist√™ncia a Elementos |
-| Restoration, Lesser | Restaura√ß√£o Menor |
+| Resist Energy | ResistÍncia a Elementos |
+| Restoration, Lesser | RestauraÁ„o Menor |
 | Soften Earth and Stone | Amolecer Terra e Pedra |
 | Spider Climb | Patas de Aranha |
-| Summon Nature‚Äôs Ally II | Invocar Aliado da Natureza II |
+| Summon Natureís Ally II | Invocar Aliado da Natureza II |
 | Summon Swarm | Invocar Enxames |
-| Tree Shape | Forma de √Årvore |
+| Tree Shape | Forma de ¡rvore |
 | Warp Wood | Moldar Madeira |
 | Wood Shape | Torcer Madeira |
 | Rainstorm | Tempestade de Chuva |
-| Alicorn Lance | Lan√ßa de Alic√≥rnio |
+| Alicorn Lance | LanÁa de AlicÛrnio |
 | Beast Claw | Garras de Fera |
-| Ice Blade | L√¢mina de Gelo |
-| Gedlee's Electric Loop | La√ßo El√©trico de Gedlee |
+| Ice Blade | L‚mina de Gelo |
+| Gedlee's Electric Loop | LaÁo ElÈtrico de Gedlee |
 | Slow Poison | Desacelerar Veneno |
 | Moon Motes | Gotas da Lua |
 | Identify Creature | Identificar Criatura |
 
 ---
 
-## üåø 3rd-Level Druid Spells
+## ?? 3rd-Level Druid Spells
 
-| Ingl√™s | Portugu√™s |
+| InglÍs | PortuguÍs |
 |-------|-----------|
-| Call Lightning | Convocar Rel√¢mpagos |
+| Call Lightning | Convocar Rel‚mpagos |
 | Contagion | Praga |
 | Cure Moderate Wounds | Curar Ferimentos Moderados |
 | Daylight | Luz do Dia |
 | Diminish Plants | Enfraquecer Plantas |
 | Dominate Animal | Dominar Animais |
-| Magic Fang, Greater | Presa M√°gica Maior |
-| Meld into Stone | Mesclar-se √†s Rochas |
+| Magic Fang, Greater | Presa M·gica Maior |
+| Meld into Stone | Mesclar-se ‡s Rochas |
 | Neutralize Poison | Neutralizar Venenos |
 | Plant Growth | Ampliar Plantas |
 | Poison | Envenenamento |
-| Protection from Energy | Prote√ß√£o Contra Elementos |
+| Protection from Energy | ProteÁ„o Contra Elementos |
 | Quench | Extinguir Fogo |
-| Remove Disease | Remover Doen√ßas |
+| Remove Disease | Remover DoenÁas |
 | Sleet Storm | Nevasca |
 | Snare | Armadilha |
 | Speak with Plants | Falar com Plantas |
 | Spike Growth | Crescer Espinhos |
 | Stone Shape | Moldar Rochas |
-| Summon Nature‚Äôs Ally III | Invocar Aliado da Natureza III |
-| Water Breathing | Respirar na √Ågua |
+| Summon Natureís Ally III | Invocar Aliado da Natureza III |
+| Water Breathing | Respirar na ¡gua |
 | Wind Wall | Muralha de Vento |
-| Tortoise Shell | Carapa√ßa de Tartaruga |
+| Tortoise Shell | CarapaÁa de Tartaruga |
 | Mold Touch | Toque de Mofo |
-| Moonblade | L√¢mina da Lua |
-| Icelance | Lan√ßa de Gelo |
+| Moonblade | L‚mina da Lua |
+| Icelance | LanÁa de Gelo |
 | Snakebite | Mordida de Cobra |
 
 ---
 
-## üåø 4th-Level Druid Spells
+## ?? 4th-Level Druid Spells
 
-| Ingl√™s | Portugu√™s |
+| InglÍs | PortuguÍs |
 |-------|-----------|
 | Air Walk | Andar no Ar |
-| Antiplant Shell | C√∫pula de Prote√ß√£o Contra Vegetais |
+| Antiplant Shell | C˙pula de ProteÁ„o Contra Vegetais |
 | Blight | Malogro |
 | Command Plants | Comandar Plantas |
-| Control Water | Controlar √Ågua |
+| Control Water | Controlar ¡gua |
 | Cure Serious Wounds | Curar Ferimentos Graves |
 | Dispel Magic | Dissipar Magia |
 | Flame Strike | Coluna de Chamas |
-| Freedom of Movement | Movimenta√ß√£o Livre |
+| Freedom of Movement | MovimentaÁ„o Livre |
 | Giant Vermin | Inseto Gigante |
 | Ice Storm | Tempestade Glacial |
-| Reincarnate | Reencarna√ß√£o |
+| Reincarnate | ReencarnaÁ„o |
 | Repel Vermin | Repelir Insetos |
 | Rusting Grasp | Toque Enferrujante |
-| Scrying | Vid√™ncia |
+| Scrying | VidÍncia |
 | Spike Stones | Pedras Afiadas |
-| Summon Nature‚Äôs Ally IV | Invocar Aliado da Natureza IV |
+| Summon Natureís Ally IV | Invocar Aliado da Natureza IV |
 | Spider Spawn | Invocar Aranha |
-| Animal Rage | F√∫ria Animal |
+| Animal Rage | F˙ria Animal |
 | Star Metal Cudgel | Cajado de Metal Estelar |
 | Wall of Moonlight | Muralha de Luz da Lua |
 | Storm Shell | Casca Tempestuosa |
@@ -1412,45 +1412,45 @@
 
 ---
 
-## üåø 5th-Level Druid Spells
+## ?? 5th-Level Druid Spells
 
-| Ingl√™s | Portugu√™s |
+| InglÍs | PortuguÍs |
 |-------|-----------|
 | Animal Growth | Ampliar Animais |
-| Atonement | Penit√™ncia |
+| Atonement | PenitÍncia |
 | Awaken | Despertar |
-| Baleful Polymorph | Metamorfose T√≥rrida |
-| Call Lightning Storm | Convocar Tempestade de Rel√¢mpagos |
-| Commune with Nature | Comunh√£o com a Natureza |
+| Baleful Polymorph | Metamorfose TÛrrida |
+| Call Lightning Storm | Convocar Tempestade de Rel‚mpagos |
+| Commune with Nature | Comunh„o com a Natureza |
 | Control Winds | Controlar os Ventos |
-| Cure Critical Wounds | Curar Ferimentos Cr√≠ticos |
-| Death Ward | Prote√ß√£o Contra a Morte |
+| Cure Critical Wounds | Curar Ferimentos CrÌticos |
+| Death Ward | ProteÁ„o Contra a Morte |
 | Hallow | Conspurcar |
 | Insect Plague | Praga de Insetos |
 | Stoneskin | Pele Rochosa |
-| Summon Nature‚Äôs Ally V | Invocar Aliado da Natureza V |
+| Summon Natureís Ally V | Invocar Aliado da Natureza V |
 | Transmute Mud to Rock | Lama em Pedra |
 | Transmute Rock to Mud | Pedra em Lama |
-| Tree Stride | Caminhar em √Årvores |
+| Tree Stride | Caminhar em ¡rvores |
 | Unhallow | Santificar |
 | Wall of Fire | Muralha de Fogo |
 | Wall of Thorns | Muralha de Espinhos |
 | Smashing Wave | Onda Esmagadora |
 | Ball Lightning | Bola de Raios |
 | Conjure Animals | Conjurar Animais |
-| Static Charge | Carga Est√°tica |
+| Static Charge | Carga Est·tica |
 | Sol's Searing Orb | Orbe Ardente de Sol |
 
 ---
 
-## üåø 6th-Level Druid Spells
+## ?? 6th-Level Druid Spells
 
-| Ingl√™s | Portugu√™s |
+| InglÍs | PortuguÍs |
 |-------|-----------|
-| Antilife Shell | C√∫pula de Prote√ß√£o Contra a Vida |
-| Bear‚Äôs Endurance, Mass | Vigor do Urso em Massa |
-| Bull‚Äôs Strength, Mass | For√ßa do Touro em Massa |
-| Cat‚Äôs Grace, Mass | Agilidade do Gato em Massa |
+| Antilife Shell | C˙pula de ProteÁ„o Contra a Vida |
+| Bearís Endurance, Mass | Vigor do Urso em Massa |
+| Bullís Strength, Mass | ForÁa do Touro em Massa |
+| Catís Grace, Mass | Agilidade do Gato em Massa |
 | Cure Light Wounds, Mass | Curar Ferimentos Leves em Massa |
 | Dispel Magic, Greater | Dissipar Magia Maior |
 | Find the Path | Encontrar o Caminho |
@@ -1458,50 +1458,50 @@
 | Ironwood | Madeira-Ferro |
 | Liveoak | Carvalho Vivo |
 | Move Earth | Mover Terra |
-| Owl‚Äôs Wisdom, Mass | Sabedoria da Coruja em Massa |
+| Owlís Wisdom, Mass | Sabedoria da Coruja em Massa |
 | Repel Wood | Repelir Madeira |
-| Spellstaff | Bord√£o de Magia |
+| Spellstaff | Bord„o de Magia |
 | Stone Tell | Conto das Rochas |
-| Summon Nature‚Äôs Ally VI | Invocar Aliado da Natureza VI |
-| Transport via Plants | Teletransporte por √Årvores |
+| Summon Natureís Ally VI | Invocar Aliado da Natureza VI |
+| Transport via Plants | Teletransporte por ¡rvores |
 | Wall of Stone | Muralha de Pedra |
 | Wyvern Call | Chamado do Wyvern |
-| Healing Circle | C√≠rculo de Cura |
+| Healing Circle | CÌrculo de Cura |
 | Trollish Fortitude | Fortitude Troll |
-| Wondrous Recall | Palavra de Recorda√ß√£o |
+| Wondrous Recall | Palavra de RecordaÁ„o |
 | Mass Heal Animal | Cura Completa em Massa para Animais |
 | Boulder Roll | Rocha Rolante |
 
 ---
 
-## üåø 7th-Level Druid Spells
+## ?? 7th-Level Druid Spells
 
-| Ingl√™s | Portugu√™s |
+| InglÍs | PortuguÍs |
 |-------|-----------|
 | Animate Plants | Animar Plantas |
 | Changestaff | Cajado Vivo |
 | Control Weather | Controlar o Clima |
-| Creeping Doom | Destrui√ß√£o Rastejante |
+| Creeping Doom | DestruiÁ„o Rastejante |
 | Cure Moderate Wounds, Mass | Curar Ferimentos Moderados em Massa |
 | Fire Storm | Tempestade de Fogo |
 | Heal | Cura Completa |
-| Scrying, Greater | Vid√™ncia Maior |
-| Summon Nature‚Äôs Ally VII | Invocar Aliado da Natureza VII |
+| Scrying, Greater | VidÍncia Maior |
+| Summon Natureís Ally VII | Invocar Aliado da Natureza VII |
 | Sunbeam | Raio de Sol |
 | Transmute Metal to Wood | Metal em Madeira |
-| True Seeing | Vis√£o da Verdade |
+| True Seeing | Vis„o da Verdade |
 | Wind Walk | Caminhar no Vento |
-| Mist of Eldath | N√©voa de Eldath |
+| Mist of Eldath | NÈvoa de Eldath |
 | Aura of Vitality | Aura de Vitalidade |
-| Vipergout | Cospe V√≠bora |
+| Vipergout | Cospe VÌbora |
 | Elemental Barrier | Barreira Elemental |
-| Acid Storm | Tempestade √Åcida |
+| Acid Storm | Tempestade ¡cida |
 
 ---
 
-## üåø 8th-Level Druid Spells
+## ?? 8th-Level Druid Spells
 
-| Ingl√™s | Portugu√™s |
+| InglÍs | PortuguÍs |
 |-------|-----------|
 | Animal Shapes | Forma Animal |
 | Control Plants | Controlar Plantas |
@@ -1510,62 +1510,62 @@
 | Finger of Death | Dedo da Morte |
 | Repel Metal or Stone | Repelir Metal ou Pedra |
 | Reverse Gravity | Inverter a Gravidade |
-| Summon Nature‚Äôs Ally VIII | Invocar Aliado da Natureza VIII |
-| Sunburst | Explos√£o Solar |
+| Summon Natureís Ally VIII | Invocar Aliado da Natureza VIII |
+| Sunburst | Explos„o Solar |
 | Whirlwind | Ciclone |
-| Word of Recall | Palavra de Recorda√ß√£o |
+| Word of Recall | Palavra de RecordaÁ„o |
 | Fiery Cloud | Nuvem Flamejante |
-| Regeneration | Regenera√ß√£o |
+| Regeneration | RegeneraÁ„o |
 
 ---
 
-## üåø 9th-Level Druid Spells
+## ?? 9th-Level Druid Spells
 
-| Ingl√™s | Portugu√™s |
+| InglÍs | PortuguÍs |
 |-------|-----------|
 | Antipathy | Antipatia |
-| Cure Critical Wounds, Mass | Curar Ferimentos Cr√≠ticos em Massa |
+| Cure Critical Wounds, Mass | Curar Ferimentos CrÌticos em Massa |
 | Elemental Swarm | Grupo de Elementais |
 | Foresight | Sexto Sentido |
-| Regenerate | Regenera√ß√£o |
+| Regenerate | RegeneraÁ„o |
 | Shambler | Homens Vegetais |
 | Shapechange | Alterar Forma |
-| Storm of Vengeance | Tempestade da Vingan√ßa |
-| Summon Nature‚Äôs Ally IX | Invocar Aliado da Natureza IX |
+| Storm of Vengeance | Tempestade da VinganÁa |
+| Summon Natureís Ally IX | Invocar Aliado da Natureza IX |
 | Sympathy | Simpatia |
 | Improved Alacrity | Alacridade Aprimorada |
-| Elemental Legion | Legi√£o Elemental |
-| Auril's Blessing | B√™n√ß√£o de Auril |
-| Volcanic Eruption | Erup√ß√£o Vulc√¢nica |
+| Elemental Legion | Legi„o Elemental |
+| Auril's Blessing | BÍnÁ„o de Auril |
+| Volcanic Eruption | ErupÁ„o Vulc‚nica |
 | Tornado | Tornado |
-| Elemental Absorption | Absor√ß√£o Elemental |
+| Elemental Absorption | AbsorÁ„o Elemental |
 
 ---
 
-## üéµ Bard Only
+## ?? Bard Only
 
-| Ingl√™s | Portugu√™s |
+| InglÍs | PortuguÍs |
 |-------|-----------|
-| Lullaby | Can√ß√£o de Ninar |
+| Lullaby | CanÁ„o de Ninar |
 | Summon Instrument | Invocar Instrumento |
-| Lesser Confusion | Confus√£o Menor |
+| Lesser Confusion | Confus„o Menor |
 | Glibness | Loquacidade |
 | Sculpt Sound | Esculpir Som |
-| Zone of Silence | Zona de Sil√™ncio |
-| Copy Spell | Feiti√ßo Copiado |
-| Song of Discord | Can√ß√£o da Disc√≥rdia |
-| Sympathetic Vibration | Vibra√ß√£o S√¥nica |
-| Songcasting | Canto M√°gico |
+| Zone of Silence | Zona de SilÍncio |
+| Copy Spell | FeitiÁo Copiado |
+| Song of Discord | CanÁ„o da DiscÛrdia |
+| Sympathetic Vibration | VibraÁ„o SÙnica |
+| Songcasting | Canto M·gico |
 | Void Sound | Som do Vazio |
 | Fortune's Favorite | Favorito da Sorte |
-| Army of Images | Ex√©rcito de Imagens |
+| Army of Images | ExÈrcito de Imagens |
 | The Jester's Party | A Festa do Bobo |
 
 ---
 
-## üõ°Ô∏è Paladin Only
+## ??? Paladin Only
 
-| Ingl√™s | Portugu√™s |
+| InglÍs | PortuguÍs |
 |-------|-----------|
 | Heal Mount | Curar Montaria |
 | Holy Sword | Espada Sagrada |
@@ -1577,15 +1577,15 @@
 
 ---
 
-## üèπ Ranger Only
+## ?? Ranger Only
 
-| Ingl√™s | Portugu√™s |
+| InglÍs | PortuguÍs |
 |-------|-----------|
-| Hunter's Mark | Marca do Ca√ßador |
+| Hunter's Mark | Marca do CaÁador |
 | Quiver of Plenty | Aljava Abundante |
 | Flame Shots | Tiros Flamejantes |
 | Supreme Speed | Velocidade Suprema |
-| Steel Wind Strike | Golpe do Vento de A√ßo |
+| Steel Wind Strike | Golpe do Vento de AÁo |
 | Thorn Shots | Tiros de Espinhos |
 
 ---

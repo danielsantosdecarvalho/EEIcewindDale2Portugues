@@ -851,14 +851,14 @@ Resistência: 2/- Resistência ao Frio
 Carisma: +1
 Peso: 0,5 kg (1 lb).~
 //@10244 = ~Braçadeiras de Latão~
-@10245 = ~Estas braçadeiras de latão são encantadas para atrair os golpes do inimigo, cancelando sua inércia e proporcionando proteção extra sem os inconvenientes que o uso de armaduras pesadas normalmente envolve.
+@10245 = ~Essas Braçadeiras de Latão são encantadas para atrair os golpes do inimigo, cancelando sua inércia, proporcionando assim proteção extra sem os inconvenientes que o uso de armaduras pesadas normalmente envolve.
 
 ESTATÍSTICAS:
 
 Bônus de Armadura Genérico: +3
 Peso: 0,5 kg (1 lb).~
 //@10246 = ~Braçadeiras Indomáveis~
-@10247 = ~Estas Braçadeiras Indomáveis são encantadas para atrair os golpes do inimigo, cancelando sua inércia e proporcionando proteção extra sem os inconvenientes que o uso de armaduras pesadas normalmente envolve.
+@10247 = ~Essas Braçadeiras Indomáveis são encantadas para atrair os golpes do inimigo, cancelando sua inércia, proporcionando assim proteção extra sem os inconvenientes que o uso de armaduras pesadas normalmente envolve.
 
 ESTATÍSTICAS:
 
@@ -1738,7 +1738,7 @@ Bônus Máximo de Destreza: +6
 Penalidade de Teste com Armadura: -0
 Falha de Feitiço Arcano: 10%
 Especial:
-  Proteção-Mágica: Imunidade aos feitiços Sono, Enfeitiçar Pessoa, Encantar Pessoa ou Animal, Encanto Direto, Maldição, Desespero e Imobilizar Pessoa
+  Proteção-Mágica: Imunidade aos feitiços Sono, Enfeitiçar Pessoa, Enfeitiçar Pessoa ou Animal, Encanto Direto, Maldição, Desespero e Imobilizar Pessoa
 Peso: 5 kg (10 lb).~
 @10449 = ~Armadura de Couro da Destreza +1~
 @10450 = ~A armadura de couro, apesar da crença popular, não é macia e flexível como o couro usado para fazer as botas de um ranger ou o manto de um druida. Esse tipo de couro não oferece proteção melhor do que roupas comuns. Encantamentos mágicos aumentam as habilidades de proteção dessa armadura de couro.
@@ -2035,8 +2035,8 @@ Especial:
   Resistência: 5/- Resistência ao Fogo
   Resistência: 5/- Resistência a Ácido
 Peso: 25 kg (50 lb).~
-//@10485 = ~Placa de Tríbulo Brutal~
-@10486 = ~As placas rígidas que protegem os tríbulos brutais são razoavelmente fáceis de transformar em armaduras humanoides. Esta armadura escura foi moldada em placas completas por ferreiros duergar. Os anões negros, habilidosos no manuseio de exoesqueletos de tríbulos brutais, curaram e reforçaram a armadura.
+//@10485 = ~Placa de Umber Hulk~
+@10486 = ~As placas rígidas que protegem os Umber Hulk são razoavelmente fáceis de transformar em armaduras humanoides. Esta armadura escura foi moldada em placas completas por ferreiros duergar. Os anões negros, habilidosos no manuseio de exoesqueletos de tríbulos brutais, curaram e reforçaram a armadura.
 
 Armadura Pesada
 Bônus de Armadura: +9
@@ -2045,10 +2045,10 @@ Bônus Máximo de Destreza: +1
 Penalidade de Teste com Armadura: -6
 Falha de Feitiço Arcano: 35%
 Especial:
-  Proteção contra Tríbulo Brutal: Imune ao olhar de tríbulo brutal e outras formas de confusão
+  Proteção contra Umber Hulk: Imune ao olhar de Umber Hulk e outras formas de confusão
 Peso: 20 kg (40 lb).~
-@10487 = ~Placa de Tríbulo Brutal Ancião~
-@10488 = ~As placas rígidas que protegem os cascos  tríbulos brutais anciões são razoavelmente fáceis de transformar em armaduras humanoides. Esta armadura escura foi moldada em placas completas por ferreiros duergar. Os anões negros, habilidosos no manuseio de exoesqueletos de cascos umber anciões, curaram e reforçaram a armadura.
+@10487 = ~Placa de Umber Hulk Ancião~
+@10488 = ~As placas rígidas que protegem os cascos Umber Hulk anciões são razoavelmente fáceis de transformar em armaduras humanoides. Esta armadura escura foi moldada em placas completas por ferreiros duergar. Os anões negros, habilidosos no manuseio de exoesqueletos de cascos umber anciões, curaram e reforçaram a armadura.
 
 Armadura Pesada
 Bônus de Armadura: +11
@@ -2057,7 +2057,7 @@ Bônus Máximo de Destreza: +1
 Penalidade de Teste com Armadura: -6
 Falha de Feitiço Arcano: 35%
 Especial:
-  Proteção contra Tríbulo Brutal: Imune ao olhar de tríbulo brutal e outras formas de confusão
+  Proteção contra Umber Hulk: Imune ao olhar de Umber Hulk e outras formas de confusão
 Peso: 15 kg (30 lb).~
 //@10489 = ~Escama de Dragão Negro~
 @10490 = ~Esta armadura foi criada pelos ferreiros e sacerdotes anões do Clã Martelo de Batalha quando um deles, Bruenhal, liderou um bando de heróis na derrota de um dragão negro bem ao sul. Alguns anões torcem o nariz para a ideia de usar uma armadura feita com os restos mortais de um dragão, mas Bruenhal a usou com orgulho até o fim de seus dias.
@@ -4976,22 +4976,22 @@ Requisito de Talento: Arma Marcial, Lâmina Grande
 Tipo: Uma Mão~
 
 
-//@10979 = ~Espada Larga~
+//@10979 = ~Montante~
 //@10980 = ~Descrição do item pode permanecer a mesma; caso seja necessário, coloque a nova descrição aqui~
-//@10981 = ~Espada Larga de Mestre~
+//@10981 = ~Montante de Mestre~
 //@10982 = ~Descrição do item pode permanecer a mesma; caso seja necessário, coloque a nova descrição aqui~
-//@10983 = ~Espada Larga +1~
+//@10983 = ~Montante +1~
 //@10984 = ~Descrição do item pode permanecer a mesma; caso seja necessário, coloque a nova descrição aqui~
-//@10985 = ~Espada Larga +5~
+//@10985 = ~Montante +5~
 //@10986 = ~Descrição do item pode permanecer a mesma; caso seja necessário, coloque a nova descrição aqui~
-//@10987 = ~Espada Larga +4~
+//@10987 = ~Montante +4~
 //@10988 = ~Descrição do item pode permanecer a mesma; caso seja necessário, coloque a nova descrição aqui~
-//@10989 = ~Espada Larga +3~
+//@10989 = ~Montante +3~
 //@10990 = ~Descrição do item pode permanecer a mesma; caso seja necessário, coloque a nova descrição aqui~
-//@10991 = ~Espada Larga +2~
+//@10991 = ~Montante +2~
 //@10992 = ~Descrição do item pode permanecer a mesma; caso seja necessário, coloque a nova descrição aqui~
-//@10993 = ~Espada Larga Abençoada +2~
-@10994 = ~A espada larga é um derivado da espada longa. Os armeiros sempre buscaram maneiras de aprimorar as armas existentes. Em um esforço para aprimorar a espada longa, a lâmina foi alongada. Eventualmente, o cabo teve que ser estendido e duas mãos se tornaram necessárias para brandir a espada corretamente. A função principal das espadas largas é cortar cavaleiros montados e desmantelar formações de lanças. Esta é particularmente boa em sua função, pois foi encantada com algumas propriedades mágicas.
+//@10993 = ~Montante Abençoado +2~
+@10994 = ~A espada larga (montante) é um derivado da espada longa. Os armeiros sempre buscaram maneiras de aprimorar as armas existentes. Em um esforço para aprimorar a espada longa, a lâmina foi alongada. Eventualmente, o cabo teve que ser estendido e duas mãos se tornaram necessárias para brandir a espada corretamente. A função principal das espadas largas é cortar cavaleiros montados e desmantelar formações de lanças. Esta é particularmente boa em sua função, pois foi encantada com algumas propriedades mágicas.
 
 ESTATÍSTICAS:
 
@@ -5005,11 +5005,11 @@ Especial:
 Peso: 6 kg (12 lb).
 Requisito de Talento: Arma Marcial, Montante
 Tipo: Duas mãos~
-//@10995 = ~Espada Larga das Chamas +1~
+//@10995 = ~Montante das Chamas +1~
 //@10996 = ~A descrição do item pode permanecer a mesma; se for necessária uma nova descrição, coloque-a aqui~
-//@10997 = ~Espada Larga do Golpe Certeiro~
+//@10997 = ~Montante do Golpe Certeiro~
 //@10998 = ~A descrição do item pode permanecer a mesma; se for necessária uma nova descrição, coloque-a aqui~
-//@10999 = ~Espada Larga dos Sem Alma +5~
+//@10999 = ~Montante dos Sem Alma +5~
 @11000 = ~Os Cavaleiros Matadores de Xvim são considerados um dos guerreiros mais mortais de qualquer reino. Uma das coisas que os torna tão mortais, além de serem parentes demoníacos, é sua habilidade com suas Espada Largas especialmente forjadas; a Espada Larga dos Sem Alma. Sendo a arma comum dos cavaleiros, a função primária das Espada Largas é cortar cavaleiros montados e desmantelar formações de lanças. No entanto, nas mãos eficientes de um Cavaleiro Matador de Xvim, esta Espada Larga em particular cortará os corpos de seus alvos e literalmente sugará o sangue vital deles. A Espada Larga dos Sem Alma é a arma primária dos Cavaleiros Matadores de Xvim.
 
 ESTATÍSTICAS:
@@ -5024,7 +5024,7 @@ Especial:
 Peso: 6 kg (12 lb).
 Requisito de Talento: Arma Marcial, Montante
 Tipo: Duas mãos~
-@11001 = ~Espada Larga da Devoradora +5~
+@11001 = ~Montante da Devoradora +5~
 @11002 = ~Os Cavaleiros Matadores de Xvim são considerados um dos guerreiros mais mortais de qualquer reino. Uma das coisas que os torna tão mortais, além de serem parentes demoníacos, é sua habilidade com suas espadas largas especialmente forjadas; a Espada Larga Devoradora. Sendo a arma comum dos cavaleiros, a função primária das espadas largas é cortar cavaleiros montados e desmantelar formações de lanças. No entanto, nas mãos eficientes de um Cavaleiro Matador de Xvim, esta espada larga em particular cortará os corpos de seus alvos e literalmente sugará o sangue vital deles. A Espada Larga Devoradora é a arma primária dos Cavaleiros Matadores de Xvim.
 
 ESTATÍSTICAS:
@@ -5039,7 +5039,7 @@ Especial:
 Peso: 6 kg (12 lb).
 Requisito de Talento: Arma Marcial, Montante
 Tipo: Duas mãos~
-//@11003 = ~Espada Larga da Fúria +5~
+//@11003 = ~Montante da Fúria +5~
 @11004 = ~A espada larga é um derivado da espada longa. Os armeiros sempre buscaram maneiras de aprimorar as armas existentes. Em um esforço para aprimorar a espada longa, a lâmina foi alongada. Eventualmente, o cabo teve que ser estendido e duas mãos se tornaram necessárias para brandir a espada corretamente. A função principal das espadas largas é cortar cavaleiros montados e desmantelar formações de lanças. Esta é particularmente boa em sua função, pois foi encantada com algumas propriedades mágicas.
 
 ESTATÍSTICAS:
@@ -5053,7 +5053,7 @@ Especial:
 Peso: 6 kg (12 lb).
 Requisito de Talento: Arma Marcial, Montante
 Tipo: Duas mãos~
-@11005 = ~Espada Larga da Retidão~
+@11005 = ~Montante da Retidão~
 @11006 = ~A espada larga é um derivado da espada longa. Os armeiros sempre buscaram maneiras de aprimorar as armas existentes. Em um esforço para aprimorar a espada longa, a lâmina foi alongada. Eventualmente, o cabo teve que ser estendido e duas mãos se tornaram necessárias para brandir a espada corretamente. A função principal das espadas largas é cortar cavaleiros montados e desmantelar formações de lanças. Esta é particularmente boa em sua função, pois foi encantada com algumas propriedades mágicas.
 
 ESTATÍSTICAS:
@@ -5069,7 +5069,7 @@ Peso: 6 kg (12 lb).
 Requisito de Talento: Arma Marcial, Montante
 Tipo: Duas mãos
 Força mínima de 18 necessária~
-@11007 = ~Espada Larga da Perfeição~
+@11007 = ~Montante da Perfeição~
 @11008 = ~A espada larga é um derivado da espada longa. Os armeiros sempre buscaram maneiras de aprimorar as armas existentes. Em um esforço para aprimorar a espada longa, a lâmina foi alongada. Eventualmente, o cabo teve que ser estendido e duas mãos se tornaram necessárias para brandir a espada corretamente. A função principal das espadas largas é cortar cavaleiros montados e desmantelar formações de lanças. Esta é particularmente boa em sua função, pois foi encantada com algumas propriedades mágicas.
 
 ESTATÍSTICAS:
@@ -5083,7 +5083,7 @@ Especial:
 Peso: 6 kg (12 lb).
 Requisito de Talento: Arma Marcial, Montante
 Tipo: Duas mãos~
-//@11009 = ~Espada Larga: Defensor da Geada~
+//@11009 = ~Montante: Defensor da Geada~
 @11010 = ~A espada larga é um derivado da espada longa. Os armeiros sempre buscaram maneiras de aprimorar as armas existentes. Em um esforço para aprimorar a espada longa, a lâmina foi alongada. Eventualmente, o cabo teve que ser estendido e duas mãos se tornaram necessárias para brandir a espada corretamente. A função principal das espadas largas é cortar cavaleiros montados e desmantelar formações de lanças. Esta é particularmente boa em sua função, pois foi encantada com algumas propriedades mágicas.
 
 ESTATÍSTICAS:
@@ -5100,9 +5100,9 @@ Peso: 6 kg (12 lb).
 Requisito de Talento: Arma Marcial, Montante
 Tipo: Duas mãos
 Força mínima de 16 necessária~
-//@11011 = ~Espada Larga das Chamas +3~
+//@11011 = ~Montante das Chamas +3~
 //@11012 = ~A descrição do item pode permanecer a mesma; se for necessária uma nova descrição, coloque-a aqui~
-//@11013 = ~Espada Larga do Defensor~
+//@11013 = ~Montante do Defensor~
 @11014 = ~A espada larga é um derivado da espada longa. Os armeiros sempre buscaram maneiras de aprimorar as armas existentes. Em um esforço para aprimorar a espada longa, a lâmina foi alongada. Eventualmente, o cabo teve que ser estendido e duas mãos se tornaram necessárias para brandir a espada corretamente. A função principal das espadas largas é cortar cavaleiros montados e desmantelar formações de lanças. Esta é particularmente boa em sua função, pois foi encantada com algumas propriedades mágicas.
 
 ESTATÍSTICAS:
@@ -7073,7 +7073,7 @@ Encantamento: +1
 Tipo de Dano: Contusão
 Especial:
   Resistência: 10/- Resistência a Frio
-  Círculo Menor de Calor: Todas as outras criaturas num raio de 3 metros ganham 5/- Resistência a Frio
+  Círculo Menor de Calor: Todas as outras criaturas num raio de 3 metros (10 pés) ganham 5/- Resistência a Frio
 Peso: 1,5 kg (3 lb).
 Requisito de Talento: Arma Simples, Maça
 Tipo: Uma Mão~
@@ -7319,16 +7319,16 @@ Requisito de Talento: Arma Simples, Maça
 Tipo: Uma mão~
 
 
-//@11441 = ~Estrela da Manhã~
+//@11441 = ~Maça-Estrela~
 //@11442 = ~A descrição do item pode permanecer a mesma; se precisar de uma nova descrição, coloque-a aqui~
-//@11443 = ~Estrela da Manhã - Obra-prima~
+//@11443 = ~Maça-Estrela - Obra-prima~
 //@11444 = ~A descrição do item pode permanecer a mesma; se precisar de uma nova descrição, coloque-a aqui~
-//@11445 = ~Estrela da Manhã +1~
+//@11445 = ~Maça-Estrela +1~
 //@11446 = ~A descrição do item pode permanecer a mesma; se precisar de uma nova descrição, coloque-a aqui~
-//@11447 = ~Estrela do Relâmpago +1~
+//@11447 = ~Maça-Estrela de Relâmpago +1~
 //@11448 = ~A descrição do item pode permanecer a mesma; se precisar de uma nova descrição, coloque-a aqui~
-//@11449 = ~Estrela da Manhã dos Espinhos Envenenados~
-@11450 = ~A Morningstar é uma haste de madeira encimada por uma cabeça de metal feita de uma bainha de ferro com pontas. As Morningstars têm um comprimento total de cerca de 1,20 m. Esta em particular é montada com uma cabeça dourada que foi magicamente aprimorada para melhorar o desempenho e escapar da maleabilidade do ouro.
+//@11449 = ~Maça-Estrela dos Espinhos Envenenados~
+@11450 = ~A Maça-Estrela é uma haste de madeira encimada por uma cabeça de metal feita de uma bainha de ferro com pontas. As Maça-Estrelas têm um comprimento total de cerca de 1,20 m. Esta em particular é montada com uma cabeça dourada que foi magicamente aprimorada para melhorar o desempenho e escapar da maleabilidade do ouro.
 
 ESTATÍSTICAS:
 
@@ -7339,18 +7339,18 @@ Especial:
 Peso: 4 kg (8 lb).
 Requisito de Talento: Arma Simples, Maça
 Tipo: Uma mão~
-//@11451 = ~Estrela da Manhã da Glória~
+//@11451 = ~Maça-Estrela da Glória~
 //@11452 = ~A descrição do item pode permanecer a mesma; se precisar de uma nova descrição, coloque-a aqui~
-//@11453 = ~Estrela da Manhã +5~
+//@11453 = ~Maça-Estrela +5~
 //@11454 = ~A descrição do item pode permanecer a mesma; se precisar de uma nova descrição, coloque-a aqui~
-//@11455 = ~Estrela da Manhã +4~
+//@11455 = ~Maça-Estrela +4~
 //@11456 = ~A descrição do item pode permanecer a mesma; se precisar de uma nova descrição, coloque-a aqui~
-//@11457 = ~Estrela da Manhã +3~
+//@11457 = ~Maça-Estrela +3~
 //@11458 = ~A descrição do item pode permanecer a mesma; se precisar de uma nova descrição, coloque-a aqui~
-//@11459 = ~Estrela da Manhã +2~
+//@11459 = ~Maça-Estrela +2~
 //@11460 = ~A descrição do item pode permanecer a mesma; Se precisar de uma nova descrição, coloque-a aqui~
-@11461 = ~Estrela Impressionante da Velocidade +4~
-@11462 = ~A Morningstar é uma haste de madeira encimada por uma cabeça de metal feita de uma bainha de ferro com pontas. As Morningstars têm um comprimento total de cerca de 1,20 m. Esta em particular é montada com uma cabeça dourada que foi magicamente aprimorada para melhorar o desempenho e escapar da maleabilidade do ouro.
+@11461 = ~Maça-Estrela Atordoante da Velocidade +4~
+@11462 = ~A Maça-Estrela é uma haste de madeira encimada por uma cabeça de metal feita de uma bainha de ferro com pontas. A Maça-Estrela têm um comprimento total de cerca de 1,20 m. Esta em particular é montada com uma cabeça dourada que foi magicamente aprimorada para melhorar o desempenho e escapar da maleabilidade do ouro.
 
 ESTATÍSTICAS:
 
@@ -7364,7 +7364,7 @@ Especial:
 Peso: 4 kg (8 lb).
 Requisito de Talento: Arma Simples, Maça
 Tipo: Uma mão~
-@11463 = ~Estrela de Penas +2~
+@11463 = ~Maça-Estrela das Penas +2~
 @11464 = ~A Morningstar é uma haste de madeira encimada por uma cabeça de metal feita de uma bainha de ferro com pontas. As Morningstars têm um comprimento total de cerca de 1,20 m. Esta em particular é montada com uma cabeça dourada que foi magicamente aprimorada para melhorar o desempenho e escapar da maleabilidade do ouro.
 
 ESTATÍSTICAS:
@@ -7378,8 +7378,8 @@ Especial:
 Peso: 4 kg (8 lb).
 Requisito de Talento: Arma Simples, Maça
 Tipo: Uma mão~
-//@11465 = ~Estrela da Manhã do Eterno +3~
-@11466 = ~A estrela-da-manhã é uma haste de madeira encimada por uma cabeça de metal feita de uma bainha de ferro com pontas. As estrelas-da-manhã têm um comprimento total de cerca de 1,20 m. Esta em particular é montada com uma cabeça dourada que foi magicamente aprimorada para melhorar o desempenho e escapar da maleabilidade do ouro.
+//@11465 = ~Maça-Estrela do Eterno +3~
+@11466 = ~A Maça-Estrela é uma haste de madeira encimada por uma cabeça de metal feita de uma bainha de ferro com pontas. A Maça-Estrela têm um comprimento total de cerca de 1,20 m. Esta em particular é montada com uma cabeça dourada que foi magicamente aprimorada para melhorar o desempenho e escapar da maleabilidade do ouro.
 
 ESTATÍSTICAS:
 
@@ -7392,9 +7392,9 @@ Especial:
 Peso: 4 kg (8 lb).
 Requisito de Talento: Arma Simples, Maça
 Tipo: Uma mão~
-//@11467 = ~Estrela Corrosiva +2~
+//@11467 = ~Maça-Estrela Corrosiva +2~
 //@11468 = ~A descrição do item pode permanecer a mesma; se precisar de uma nova descrição, coloque-a aqui~
-//@11469 = ~Estrela da Manhã de Espinhos +1~
+//@11469 = ~Maça-Estrela de Espinhos +1~
 @11470 = ~A estrela-da-manhã é uma haste de madeira encimada por uma cabeça de metal feita de uma bainha de ferro com pontas. As estrelas-da-manhã têm um comprimento total de cerca de 1,20 m. Esta em particular é montada com uma cabeça dourada que foi magicamente aprimorada para melhorar o desempenho e escapar da maleabilidade do ouro.
 
 ESTATÍSTICAS:
@@ -10169,7 +10169,7 @@ Especial:
   O alvo deve realizar um teste de Reflexos (CD 35) ou ficará aprisionado na Esfera Resiliente de Otiluke por 10 rodadas.
 Peso: 0 kg.
 Lançador: Funda~
-//@12011 = ~Bala de Chamas Retorno +1~
+//@12011 = ~Bala de Chamas do Retorno +1~
 @12012 = ~Correntes mágicas são incorporadas nesta bala para que ela pareça um pouco mais equilibrada e leve ao saltar em direção ao oponente.
 
 ESTATÍSTICAS:
@@ -10183,7 +10183,7 @@ Especial:
   Chama: +1d6 de dano de fogo
 Peso: 0 kg.
 Lançador: Funda~
-@12013 = ~Balas de Desvio +1~
+@12013 = ~Balas de Expulsar Mortos-Vivos +1~
 @12014 = ~Correntes mágicas são incorporadas a esta bala para que ela pareça um pouco mais equilibrada e leve ao saltar em direção ao oponente.
 
 ESTATÍSTICAS:
@@ -10193,7 +10193,7 @@ Bônus de Ataque: +1
 Encantamento: +1
 Tipo de Dano: Projétil (Contusão)
 Especial:
-  Desvio: Ao atingir uma criatura morta-viva, esta bala faz com que ela seja desviada com base na habilidade do lançador de desvia-la.
+  Desvio: Ao atingir uma criatura morta-viva, esta bala faz com que ela seja expulsa com base na habilidade do lançador de desvia-la.
 Peso: 0 kg.
 Lançador: Funda~
 @12015 = ~Balas Atordoantes +1~
@@ -10452,7 +10452,7 @@ Peso: 0,5 kg (1 lb)~
 ESTATÍSTICAS:
 
 Dano: 6D6 (Reflexos CD 18 para metade)
-Área: raio de 6 metros
+Área: raio de 6 metros (20 pés)
 Peso: 0,5 kg (1 lb).~
 //@12095 = ~Frasco de Braehg~
 @12096 = ~Braehg é uma mistura vil de sangue de javali misturado com leite e um pouco de ervas raras. Beber um frasco inteiro de uma só vez dá ao bravo bebedor uma explosão de poder físico... mas é quase certo que também o deixará enjoado.
@@ -11141,7 +11141,7 @@ ESTATÍSTICAS:
 
 Especial: Faz os inimigos correrem de medo, a menos que façam um teste de Vontade (CD 15).
 Alcance: 30 metros (100 pés)
-Área: 3 metros de raio
+Área: 3 metros de raio (10 pés)
 Duração: 15 rodadas
 Peso: 0,5 kg (1 lb)~
 //@12235 = ~Varinha de Mísseis Mágicos~
@@ -11173,7 +11173,7 @@ Habilidade 1:
 Efeito: Dispara uma Bola de Fogo
 Dano: 6d6 (Reflexos CD 17)
 Alcance: 30 metros (100 pés)
-Área: 10 metros de raio
+Área: 10 metros de raio (30 pés)
 
 Habilidade 2:
 Efeito: Queimador de Agannazar
@@ -11203,7 +11203,7 @@ ESTATÍSTICAS:
 Efeito: Coluna de Chamas
 Dano: 9d6 (Reflexos CD 18)
 Alcance: 36 metros (120 pés)
-Área: Raio de 3 m
+Área: Raio de 3 metros (10 pés)
 Peso: 0,5 kg (1 lb)~
 //@12249 = ~Varinha de Detecção de Armadilhas~
 //@12250 = ~A descrição do item pode permanecer a mesma; se precisar de uma nova descrição, coloque-a aqui~
@@ -11281,7 +11281,7 @@ Varinhas são energizadas por cargas, e cada uso custa uma ou mais cargas (depend
 
 ESTATÍSTICAS:
 
-Pode liberar um jato de cores, atordoando qualquer criatura ao alcance que veja as cores por 1d2 segundos (CD de Vontade 14).
+Pode liberar um Leque Cromático, atordoando qualquer criatura ao alcance que veja as cores por 1d2 segundos (CD de Vontade 14).
 Peso: 0,5 kg (1 lb)~
 //@12271 = ~Varinha da Teia de Aranha~
 @12272 = ~Varinhas têm 37 cm de comprimento e são finas. São feitas de marfim, osso ou madeira e geralmente têm a ponta guarnecida com algo - metal, cristal, pedra, etc. São frágeis e tendem a quebrar facilmente. Por isso, costumam ser guardadas em estojo
@@ -11943,7 +11943,7 @@ Penalidade de Teste com Armadura: -0
 Falha de Feitiço Arcano: 10%
 Especial:
   Bônus de Armadura Genérica: +3
-  Sombrio: +15 na habilidade de Ocultar
+  Sombrio: +15 na habilidade de Esconder-se
 Peso: 2,5 kg (5 lb) ~
 @12489 = ~Armadura de Couro da Invisibilidade +4~
 @12490 = ~À primeira vista, parece uma armadura de couro comum; uma inspeção mais detalhada revela indícios sutis de vários aprimoramentos arcanos. Os rebites que prendem as várias peças brilham intensamente, como se fossem polidos. As peças de couro são macias e flexíveis ao toque, mas endurecem instantaneamente ao receberem um golpe forte. E, quando usadas, os rangidos e os estalos normalmente associados a tais armaduras estão misteriosamente ausentes.
@@ -12290,7 +12290,7 @@ Especial:
 Peso: 0,5 kg (1 lb)
 Requisito de Talento: Arma Exótica, Espada Bastarda
 Tipo: Uma Mão~
-@12551 = ~Espada Larga do Carrasco +5~
+@12551 = ~Montante do Carrasco +5~
 @12552 = ~A espada larga é um derivado da espada longa. Os armeiros sempre buscaram maneiras de aprimorar as armas existentes. Em um esforço para aprimorar a espada longa, a lâmina foi alongada. Eventualmente, o cabo teve que ser estendido e duas mãos se tornaram necessárias para brandi-la corretamente. A função principal das espadas largas é cortar cavaleiros montados e desmantelar formações de lanças. Esta é particularmente boa em sua função, pois foi encantada com algumas propriedades mágicas.
 
 ESTATÍSTICAS:
@@ -12828,7 +12828,7 @@ Especial:
 Peso: 0 kg.
 Lançador: Besta~
 @12639 = ~Balas de Estilhaçamento +5~
-@12640 = ~Correntes mágicas são incorporadas a este projétil, fazendo com que ele pareça um pouco mais equilibrado e leve ao saltar em direção ao oponente.
+@12640 = ~Correntes mágicas são incorporadas a esta bala, fazendo com que ele pareça um pouco mais equilibrado e leve ao saltar em direção ao oponente.
 
 ESTATÍSTICAS:
 
@@ -12956,7 +12956,7 @@ ESTATÍSTICAS:
 
 Resistência: 100/- Resistência ao Fogo
 Resistência: 100/- Resistência ao Frio
-Resistência: 100/- Resistência Elétrica
+Resistência: 100/- Resistência a Eletrecidade
 Resistência: 100/- Resistência a Ácidos
 Resistência: 100/- Resistência a Dano Mágico
 Resistência: 100/- Resistência a Venenos
@@ -12978,7 +12978,7 @@ Peso: 0,5 kg (1 lb)~
 ESTATÍSTICAS:
 
 Dano: 15d6 (Reflexos CD 30 para metade)
-Área: raio de 6 metros
+Área: raio de 6 metros (20 pés)
 Peso: 0,5 kg (1 lb)~
 //@12665 = ~Proteção contra Ácido~
 @12666 = ~Um pergaminho de Proteção contra Ácido oferece proteção ao alvo contra todas as formas de ácido, sejam elas de natureza natural ou mágica. O efeito não é permanente, no entanto, e desaparecerá após 24 horas.
@@ -13360,7 +13360,7 @@ ESTATÍSTICAS:
 O usuário fica permanentemente imune a acertos críticos.
 Peso: 0,5 kg (1 lb) ~
 @12749 = ~Túnica de Namji~
-@12750 = ~Um mago de Thesk chamado Namji foi o criador deste poderoso manto. Embora não conceda uma série de resistências mágicas ao portador, é extremamente útil para conjuradores que se encontram em situações perigosas com frequência. O próprio Namji era um mago de batalha imprudente que se deliciava em lançar feitiços no meio da batalha. Ele era temido por usar as Mãos Ardentes de Namji, uma adaptação da magia comum Mãos Ardentes.
+@12750 = ~Um mago de Thesk chamado Namji foi o criador deste poderoso manto. Embora não conceda uma série de resistências mágicas ao portador, é extremamente útil para conjuradores que se encontram em situações perigosas com frequência. O próprio Namji era um mago de batalha imprudente que se deliciava em lançar feitiços no meio da batalha. Ele era temido por usar as Mãos Flamejantes de Namji, uma adaptação da magia comum Mãos Flamejantes.
 
 ESTATÍSTICAS:
 
@@ -13368,7 +13368,7 @@ Regeneração: Recupera 2 pontos de vida por rodada.
 Conjuração Regenerativa: O usuário recupera 3 pontos de vida sempre que conjura uma magia.
 Peso: 1,5 kg (3 lb).~
 @12751 = ~Túnica Regenerativa de Namji~
-@12752 = ~Um mago de Thesk chamado Namji foi o criador deste poderoso manto. Embora não conceda uma série de resistências mágicas a quem o usa, é extremamente útil para conjuradores que se encontram em situações perigosas com frequência. O próprio Namji era um mago de batalha imprudente que se deliciava em lançar feitiços no meio da batalha. Ele era temido por usar as Mãos Ardentes de Namji, uma adaptação da magia comum Mãos Ardentes.
+@12752 = ~Um mago de Thesk chamado Namji foi o criador deste poderoso manto. Embora não conceda uma série de resistências mágicas a quem o usa, é extremamente útil para conjuradores que se encontram em situações perigosas com frequência. O próprio Namji era um mago de batalha imprudente que se deliciava em lançar feitiços no meio da batalha. Ele era temido por usar as Mãos Flamejantes de Namji, uma adaptação da magia comum Mãos Flamejantes.
 
 ESTATÍSTICAS:
 

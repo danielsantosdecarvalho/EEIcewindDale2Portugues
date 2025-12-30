@@ -2655,11 +2655,11 @@ Lançador: Arco~
 @30114 = ~Cajado de Feitiço (Orientação)~
 @30115 = ~Polimorfia: Gigante Fomoriano~
 @30116 = ~Polimorfia: Troll~
-@30117 = ~Polimorfia: Tríbulo Brutal~
+@30117 = ~Polimorfia: Umber Hulk~
 @30118 = ~Polimorfia: Wyvern~
 @30119 = ~Pedra de Gigante Fomoriano~
 @30120 = ~Ataque de Troll~
-@30121 = ~Ataque de Tríbulo Brutal~
+@30121 = ~Ataque de Umber Hulk~
 @30122 = ~Ferrão de Wyvern~
 @30123 = ~Pulo
 
@@ -2673,9 +2673,9 @@ O personagem se transforma em um gigante fomoriano. Enquanto estiver na forma de
 @30126 = ~Polimorfia: Troll
 
 O personagem se transforma em um troll. Enquanto estiver na forma de troll, o personagem regenera 1 ponto de vida por segundo, mas é vulnerável ao fogo e ao ácido.~
-@30127 = ~Polimorfia: Tríbulo Brutal
+@30127 = ~Polimorfia: Umber Hulk
 
-O personagem se transforma em um tríbulo brutal. Enquanto estiver na forma de tríbulo brutal, o olhar do personagem confunde inimigos próximos caso eles falhem em um teste de Vontade.~
+O personagem se transforma em um Umber Hulk. Enquanto estiver na forma de Umber Hulk, o olhar do personagem confunde inimigos próximos caso eles falhem em um teste de Vontade.~
 @30128 = ~Polimorfia: Wyvern
 
 O personagem se transforma em um wyvern. Enquanto estiver na forma de wyvern, os ataques do personagem envenenam o alvo em um teste de Fortitude fracassado.~
@@ -2781,7 +2781,7 @@ Esta habilidade pode ser usada como uma ação livre. ~
 @30199=~... Graxa.~
 @30200=~... Identificar Criatura.~
 @30201=~... Pulo.~
-@30202=~... Armadura de Mago.~
+@30202=~... Armadura Arcana.~
 @30203=~... Filtro de Percepção.~
 @30204=~... Proteção contra o Mal.~
 @30205=~... Proteção contra Petrificação.~
@@ -4637,7 +4637,7 @@ Metamorfose Pessoal permite ao conjurador assumir a forma de uma criatura de pod
 
 * Gigante Fomoriano (pode lançar pedras grandes a longa distância)
 * Troll (regenera 1 PV por segundo)
-* Tríbulo Brutal (inimigos próximos devem fazer um teste de Vontade a cada rodada ou ficarão confusos)
+* Umber Hulk (inimigos próximos devem fazer um teste de Vontade a cada rodada ou ficarão confusos)
 * Wyvern (pode voar, e cada golpe envenena o alvo em um teste de Fortitude falho)~
 @37456   = ~Imbuir com Habilidade Mágica~
 @38456   = ~Imbuir com Habilidade Mágica
@@ -4650,8 +4650,8 @@ Tempo de Conjuração: 4
 Teste de Resistência: Nenhum
 
 Ao lançar Imbuir com Habilidade Mágica (Transferência de Poder Divino), o conjurador concede a outra criatura a habilidade de lançar um dos feitiços do conjurador uma vez. Imediatamente após lançar este feitiço, o conjurador deve tentar lançar outro feitiço de qualquer nível, que deve ser um feitiço de abjuração, conjuração ou adivinhação. Em vez de ser lançado, esse feitiço será armazenado na criatura sobre a qual Imbuir com Habilidade Mágica foi lançado (consumindo uma utilização do feitiço). A criatura recebe uma habilidade especial que permite lançar o feitiço uma vez. Se não for usado, essa habilidade desaparece após 8 horas.~
-@37457 = ~Lançamento Caótico~
-@38457 = ~Lançamento Caótico
+@37457 = ~Conjuração do Caos~
+@38457 = ~Conjuração do Caos
 (Universal)
 Nível: Fet/Mag 4
 Alcance: Visão do Conjurador
@@ -4662,7 +4662,7 @@ Teste de Resistência: Especial
 
 Este feitiço lança um feitiço aleatório de mago na criatura alvo, que pode ser um feitiço de qualquer nível entre 5 e 8. A natureza do feitiço depende do alvo. Se o alvo for um inimigo, ele receberá um feitiço prejudicial, mas se for um aliado, ele receberá um feitiço benéfico. As restrições de alvo são obedecidas (um feitiço que afeta apenas o conjurador não será lançado, a menos que o alvo seja o conjurador).
 
-A principal vantagem de Lançamento Caótico é que o feitiço aleatório será de nível superior ao 4. A desvantagem é que o feitiço pode não ser útil na situação atual.~
+A principal vantagem de Conjuração do Caos é que o feitiço aleatório será de nível superior ao 4. A desvantagem é que o feitiço pode não ser útil na situação atual.~
 @37551     = ~Roubo de Feitiços~
 @38551     = ~Roubo de Feitiços
 (Transmutação)
