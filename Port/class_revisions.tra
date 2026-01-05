@@ -122,7 +122,7 @@ Usando essa habilidade, o monge assume um estado incorpóreo por 5 rodadas. Enqua
 @221 = ~Ataque Poderoso
 
 Quando você usa essa habilidade, pode optar por ganhar um bônus de dano de até +5 com armas corpo a corpo, e uma penalidade de ataque do mesmo valor. O bônus que você escolher não pode exceder seu bônus de ataque base. Essa habilidade pode ser usada à vontade como uma ação livre, e os bônus e penalidades duram até que você use essa habilidade novamente.~
-@222 = ~Especialização
+@222 = ~Especialização em Combate
 
 Quando você usa essa habilidade, pode optar por ganhar um bônus de armadura de até +5 e uma penalidade de ataque do mesmo valor. O bônus que você escolher não pode exceder seu bônus de ataque base, e só se aplica enquanto você estiver atacando com uma arma corpo a corpo.~
 @223 = ~Golpe Arterial
@@ -189,7 +189,8 @@ Você aprendeu a arte de fabricar poções. Enquanto percorre o mundo de Faerûn, vo
 
 Pré-requisito: Alquimia 10 ou mais
 
-Benefício: Você ganha a habilidade Compor Poções, que permite gastar recursos criando poções. Para cada 2 pontos de Alquimia acima de 10, você pode criar uma variedade maior de poções.~
+Benefício: Você ganha a habilidade Compor Poções, que permite gastar recursos criando poções. Para cada 2 pontos de Alquimia acima de 10, você pode criar uma variedade maior de poções.
+(Original: Concoct Potions)~
 @303 = ~Postura Defensiva~
 @304 = ~POSTURA DEFENSIVA:
 
@@ -197,7 +198,8 @@ Você sabe como adotar uma postura defensiva, focando em bloquear ataques que che
 
 Pré-requisito: Bônus base de ataque +2 ou maior
 
-Benefício: Enquanto você estiver usando a ação de Guarda, você ganha um bônus de armadura genérico de +4.~
+Benefício: Enquanto você estiver usando a ação de Guarda, você ganha um bônus de armadura genérico de +4.
+(Original: Defensive Stance)~
 @305 = ~Estender Magia~
 @306 = ~METAMÁGICA, ESTENDER MAGIA:
 
@@ -223,6 +225,7 @@ Seus ataques furtivos são especialmente letais.
 Pré-requisito: 5 níveis de ladino
 
 Benefício: Seus ataques furtivos causam 1d6 de dano adicional. Este talento pode ser adquirido até cinco vezes.~
+
 @309 = ~Combate com Duas Armas Aprimorado~
 @310 = ~COMBATE COM DUAS ARMAS APRIMORADO:
 
@@ -232,7 +235,8 @@ Pré-requisito: Destreza 17+, Ambidestria, Combate com Duas Armas, Bônus de ataqu
 
 Benefício: Ao empunhar duas armas, você ganha um segundo ataque por rodada com a arma na mão não dominante (com bônus de ataque -5). Se você tiver dois níveis neste talento, você ganha um terceiro ataque por rodada com ela (com bônus de ataque -10).
 
-Especial: Um personagem com 9 níveis de ranger pode adquirir o primeiro nível deste talento (e pode adquirir o segundo nível no nível 15) mesmo que não atenda aos pré-requisitos. No entanto, se um ranger não atender aos pré-requisitos, ele não poderá usar o Combate com Duas Armas Aprimorado a menos que use armaduras leves ou nenhuma armadura.~
+Especial: Um personagem com 9 níveis de ranger pode adquirir o primeiro nível deste talento (e pode adquirir o segundo nível no nível 15) mesmo que não atenda aos pré-requisitos. No entanto, se um ranger não atender aos pré-requisitos, ele não poderá usar o Combate com Duas Armas Aprimorado a menos que use armaduras leves ou nenhuma armadura.
+(Original: Improved Two-Weapon Fighting)~
 @311 = ~Habilidades Desarmadas Aprimoradas~
 @312 = ~HABILIDADES DESARMADAS APRIMORADAS:
 
@@ -240,7 +244,8 @@ Suas habilidades desarmadas são particularmente eficazes.
 
 Pré-requisito: Ataque Atordoante ou Agarrão.
 
-Benefício: As habilidades Agarrão, Ataque Atordoante e Mão Vibrante ganham +2 de CD. Este talento pode ser adquirido até cinco vezes.~
+Benefício: As habilidades Agarrão, Ataque Atordoante e Mão Vibrante ganham +2 de CD. Este talento pode ser adquirido até cinco vezes.
+(Original: Improved Unarmed Abilities)~
 @313 = ~Kensai~
 @314 = ~KENSAI:
 
@@ -250,7 +255,8 @@ Pré-requisito: 1 nível de guerreiro
 
 Benefício: Você ganha +1 para ataque e dano a cada 3 níveis de guerreiro (mínimo de +1) e um bônus genérico de +2 na CA. Esses bônus só funcionam quando você não estiver usando armaduras (manto é aceitável) e estiver empunhando uma ou mais armas de combate corpo a corpo (exceto ataques desarmados e a maioria dos ataques de transformação) sem um escudo.
 
-Especial: Você só pode adquirir este talento no 1º nível.~
+Especial: Você só pode adquirir este talento no 1º nível.
+(Original: Kensei)~
 @315 = ~Atropelar~
 @316 = ~ATROPELAR:
 
@@ -260,7 +266,8 @@ Pré-requisito: Bônus de ataque base +6 ou superior
 
 Benefício: Você ganha uma habilidade que permite atropelar ou derrubar uma criatura adjacente. A habilidade pode ser usada uma vez por rodada. Se sua Destreza for maior que sua Força, você tenta derrubar o alvo, que deve fazer um teste de Reflexo (CD 5 + metade do seu bônus de ataque base + seu modificador de Destreza) ou cair por 4 segundos. Caso contrário, você tenta atropelar o alvo, que deve fazer um teste de Fortaleza (CD 5 + metade do seu bônus de ataque base + seu modificador de Força) ou cair por 4 segundos. A CD sofre -4 cada vez que alguém tentou atropelar ou derrubar o alvo nas últimas 10 rodadas. Ela também sofre -4 se o alvo tiver mais de duas pernas ou for de alguma forma mais estável do que um humanoide normal (como um anão). Criaturas maiores que você não podem ser atropeladas ou derrubadas. O tempo gasto para realizar essa habilidade faz com que o personagem tenha um ataque a menos na rodada seguinte.
 
-Este talento pode ser adquirido duas vezes. Ao ser adquirido pela segunda vez, o talento se torna Atropelar Aprimorado, o que adiciona um bônus de +2 na CD e permite que você atropele ou derrube criaturas uma categoria de tamanho maior que você (criaturas cujo círculo tem até o dobro do raio do seu círculo).~
+Este talento pode ser adquirido duas vezes. Ao ser adquirido pela segunda vez, o talento se torna Atropelar Aprimorado, o que adiciona um bônus de +2 na CD e permite que você atropele ou derrube criaturas uma categoria de tamanho maior que você (criaturas cujo círculo tem até o dobro do raio do seu círculo).
+(Original: Knockdown)~
 @317 = ~Mestre de Armaduras Leves~
 @318 = ~MESTRE DE ARMADURAS LEVES:
 
@@ -268,7 +275,8 @@ Você tem experiência suficiente para usar armaduras leves, de modo que para você
 
 Pré-requisitos: Destreza 17+, Proficiência com armaduras leves
 
-Benefício: Ao usar armaduras leves, você não sofre penalidade de verificação de armadura nem de bônus máximo de Destreza.~
+Benefício: Ao usar armaduras leves, você não sofre penalidade de verificação de armadura nem de bônus máximo de Destreza.
+(Original: Light Armor Mastery)~
 @319 = ~Mestre da Força Mágica~
 @320 = ~MESTRE DA FORÇA MÁGICA:
 
@@ -276,7 +284,8 @@ Sua maestria em magia de força gerou resultados impressionantes.
 
 Pré-requisitos: Você deve ser capaz de lançar magias de 4º nível e ter uma perícia de Conhecimento de Magia de 10 ou superior.
 
-Benefício: Concede 5 de Resistência a Dano Mágico (permanente) e um aumento de +20% no Dano Mágico causado.~
+Benefício: Concede 5 de Resistência a Dano Mágico (permanente) e um aumento de +20% no Dano Mágico causado.
+(Original: Master of Magic Force)~
 @321 = ~Maximizar Magia~
 @322 = ~METAMÁGICA, MAXIMIZAR MAGIA:
 
@@ -291,7 +300,8 @@ Benefício: Suas magias de 1º nível causam o dano máximo possível ou curam o núme
 
 Este talento pode ser adquirido até três vezes. Cada vez, você será capaz de maximizar uma magia de um nível mais alto:
 2 pontos: até magias de 2º nível
-3 pontos: até magias de 3º nível~
+3 pontos: até magias de 3º nível
+(Original: Metamagic, Maximize Spell)~
 @323 = ~Mobilidade~
 @324 = ~MOBILIDADE:
 
@@ -299,9 +309,10 @@ Você consegue desviar de ataques de forma excepcional enquanto se move.
 
 Pré-requisitos: Destreza 13+, Esquiva
 
-Benefício: Enquanto se move, você ganha um bônus de +4 na Classe de Armadura.~
-@325 = ~Magia Acelerada~
-@326 = ~METAMÁGICA, MAGIA ACELERADA:
+Benefício: Enquanto se move, você ganha um bônus de +4 na Classe de Armadura.
+(Original: Mobility)~
+@325 = ~Acelerar Magia~
+@326 = ~METAMÁGICA, ACELERAR MAGIA:
 
 Você pode lançar uma magia de baixo nível rapidamente antes de lançar outra magia.
 
@@ -318,7 +329,8 @@ Este talento pode ser adquirido até cinco vezes. Cada vez, você será capaz de ac
 2 pontos: até magias de 2º nível
 3 pontos: até magias de 3º nível
 4 pontos: até magias de 4º nível
-5 pontos: até magias de 5º nível~
+5 pontos: até magias de 5º nível
+(Original: Metamagic, Quicken Spell)~
 @327 = ~Recarga Rápida~
 @328 = ~RECARGA RÁPIDA:
 
@@ -326,8 +338,9 @@ Você é especialmente rápido com bestas. Você pode recarregar uma besta mais rapi
 
 Pré-requisitos: Bônus de ataque base +6 ou superior, Foco em Arma com bestas
 
-Benefício: Bestas que normalmente limitariam você a um ataque por rodada agora limitam você a dois ataques por rodada. Recarga Rápida não tem efeito em bestas que já permitem mais de um ataque por rodada.~
-@329 = ~Magia Segura~
+Benefício: Bestas que normalmente limitariam você a um ataque por rodada agora limitam você a dois ataques por rodada. Recarga Rápida não tem efeito em bestas que já permitem mais de um ataque por rodada.
+(Original: Rapid Reload)~
+@329 = ~Metamática, Magia Segura~
 @330 = ~METAMÁGICA, MAGIA SEGURA:
 
 Você pode moldar a área de efeito de suas magias de baixo nível para evitar prejudicar aliados.
@@ -343,7 +356,8 @@ Benefício: Quando você lançar uma magia de área de efeito de 2º nível ou inferio
 Este talento pode ser adquirido até quatro vezes. Cada vez, você será capaz de tornar segura uma magia até 2 níveis mais altos:
 2 pontos: até magias de 4º nível
 3 pontos: até magias de 6º nível
-4 pontos: até magias de 8º nível~
+4 pontos: até magias de 8º nível
+(Original: Metamagic, Safe Spell)~
 @331 = ~Foco em Escudo~
 @332 = ~FOCO EM ESCUDO:
 
@@ -351,7 +365,8 @@ Você é especialmente habilidoso no uso de escudos.
 
 Pré-requisitos: Proficiência com escudos; adquirir um segundo nível requer 4 ou mais níveis de Guerreiro
 
-Benefício: Você ganha um bônus de +2 na CA enquanto usa um escudo. Dois níveis neste talento é Especialização em Escudo, o que concede um bônus adicional de +2 na CA.~
+Benefício: Você ganha um bônus de +2 na CA enquanto usa um escudo. Dois níveis neste talento é Especialização em Escudo, o que concede um bônus adicional de +2 na CA.
+(Original: Shield Focus)~
 @333 = ~Ataque em Movimento~
 @334 = ~ATAQUE EM MOVIMENTO:
 
@@ -359,7 +374,8 @@ Você é excelente em se mover enquanto luta.
 
 Pré-requisitos: Destreza 13+, Esquiva, Mobilidade, Bônus de ataque base +4 ou superior
 
-Benefício: Sempre que você acertar uma criatura com um ataque corpo a corpo, você se move duas vezes mais rápido por 1 segundo.~
+Benefício: Sempre que você acertar uma criatura com um ataque corpo a corpo, você se move duas vezes mais rápido por 1 segundo.
+(Original: Spring Attack)~
 @335 = ~Fúria Aterrorizante~
 @336 = ~FÚRIA ATERRORIZANTE:
 
@@ -367,7 +383,8 @@ Sua fúria de bárbaro é aterrorizante de se ver.
 
 Pré-requisitos: Fúria Maior, Intimidação 18 ou superior
 
-Benefício: Enquanto você estiver em fúria, inimigos a até 2 metros de você devem fazer um teste de Vontade (CD 5 + 1/2 de sua habilidade de Intimidação) ou fugir por 3 rodadas.~
+Benefício: Enquanto você estiver em fúria, inimigos a até 2 metros de você devem fazer um teste de Vontade (CD 5 + 1/2 de sua habilidade de Intimidação) ou fugir por 3 rodadas.
+(Original: Terrifying Rage)~
 @337 = ~Defesa com Duas Armas~
 @338 = ~DEFESA COM DUAS ARMAS:
 
@@ -377,7 +394,8 @@ Pré-requisitos: Combate com Duas Armas ou 1 nível de ranger
 
 Benefício: Ao empunhar duas armas, você ganha um bônus de +1 na Classe de Armadura. Ao adquirir este talento pela segunda vez, o bônus aumenta para +2.
 
-Especial: Rangers não precisam de Combate com Duas Armas para adquirir este talento. No entanto, se um ranger não tiver o talento Combate com Duas Armas, ele não ganha os benefícios da Defesa com Duas Armas enquanto usar armaduras médias ou pesadas.~
+Especial: Rangers não precisam de Combate com Duas Armas para adquirir este talento. No entanto, se um ranger não tiver o talento Combate com Duas Armas, ele não ganha os benefícios da Defesa com Duas Armas enquanto usar armaduras médias ou pesadas.
+(Original: Two-Weapon Defense)~
 @339 = ~Potencializar Invocação~
 @340 = ~POTENCIALIZAR INVOCAÇÃO:
 
@@ -385,7 +403,8 @@ Suas criaturas convocadas são mais poderosas do que o normal.
 
 Pré-requisitos: Foco em Magia, Conjuração
 
-Benefício: As criaturas que você convoca ganham +4 de Força e Constituição. Esses bônus se acumulam com bônus temporários de Força e Constituição.~
+Benefício: As criaturas que você convoca ganham +4 de Força e Constituição. Esses bônus se acumulam com bônus temporários de Força e Constituição.
+(Original: Augment Summoning)~
 @341 = ~Finta~
 @342 = ~FINTA:
 
@@ -395,7 +414,8 @@ Pré-requisitos: Blefe 4 ou maior
 
 Benefício: Você ganha uma habilidade que permite fintar uma criatura adjacente. A habilidade pode ser usada uma vez por rodada. O alvo deve fazer um teste de Vontade (CD 10 + sua habilidade de Blefe). A CD sofre -4 a cada vez que alguém tentou fintar o alvo nas últimas 10 rodadas. Em caso de falha, por 4 segundos, o alvo perde o bônus de Destreza na CA, e ganha penalidades adicionais na Classe de Armadura e nos testes de ataque iguais a um terço de sua habilidade de Blefe, arredondado para baixo.
 
-Este talento pode ser adquirido duas vezes. Ao ser adquirido pela segunda vez, o talento se torna Finta Aprimorada, o que permite fintar como uma ação livre uma vez por rodada. Após fintar pela primeira vez na rodada, você pode usar outra habilidade ou lançar uma magia antes que a rodada termine. A Finta Aprimorada também adiciona +2 na CD do teste.~
+Este talento pode ser adquirido duas vezes. Ao ser adquirido pela segunda vez, o talento se torna Finta Aprimorada, o que permite fintar como uma ação livre uma vez por rodada. Após fintar pela primeira vez na rodada, você pode usar outra habilidade ou lançar uma magia antes que a rodada termine. A Finta Aprimorada também adiciona +2 na CD do teste.
+(Original: Feint)~
 @343 = ~Ataque Giratório~
 @344 = ~ATAQUE GIRATÓRIO:
 
@@ -409,7 +429,8 @@ Ao adquirir este talento pela segunda vez, ele se torna Ataque Giratório Aprimor
 
 Ao adquirir pela terceira vez, o talento se torna Ataque Giratório Automático, permitindo que o personagem ataque em uma área de efeito com cada ataque corpo a corpo que realizar.
 
-Especial: Um personagem com 6 níveis de ranger pode adquirir os dois primeiros níveis deste talento, desde que atenda ao requisito de Destreza (e pode adquirir o terceiro quando atingir o nível 30), ignorando todos os outros pré-requisitos.~
+Especial: Um personagem com 6 níveis de ranger pode adquirir os dois primeiros níveis deste talento, desde que atenda ao requisito de Destreza (e pode adquirir o terceiro quando atingir o nível 30), ignorando todos os outros pré-requisitos.
+(Original: Whirlwind Attack)~
 @345 = ~Magia Natural~
 @346 = ~MAGIA NATURAL:
 
@@ -417,7 +438,8 @@ Você é capaz de replicar os componentes verbais e somáticos das magias enquanto 
 
 Pré-requisitos: Carisma 13+, Forma Selvagem.
 
-Benefício: Você pode lançar magias enquanto estiver em qualquer forma selvagem. No entanto, a dificuldade de replicar os componentes verbais e somáticos impõe uma penalidade de +4 no tempo de conjuração (você ainda pode lançar magias sem penalidade em sua forma natural).~
+Benefício: Você pode lançar magias enquanto estiver em qualquer forma selvagem. No entanto, a dificuldade de replicar os componentes verbais e somáticos impõe uma penalidade de +4 no tempo de conjuração (você ainda pode lançar magias sem penalidade em sua forma natural).
+(Original: Natural Spell)~
 @347 = ~Contramágica~
 @348 = ~CONTRAMÁGICA:
 
@@ -425,71 +447,80 @@ Você sabe como anular a magia de um oponente ao gastar a mesma magia.
 
 Pré-requisitos: Capacidade de lançar magias de 2º nível.
 
-Benefício: Você ganha a habilidade de Contramágica, que pode ser usada uma vez por rodada. Se você usar contra um conjurador inimigo enquanto ele está lançando uma magia que você também tenha memorizado, você pode gastar uma utilização daquela magia para anular a magia do inimigo, fazendo com que ela falhe.~
-@349 = ~Magia Potencializada~
-@350 = ~METAMÁGICA, MAGIA POTENCIALIZADA:
+Benefício: Você ganha a habilidade de Contramágica, que pode ser usada uma vez por rodada. Se você usar contra um conjurador inimigo enquanto ele está lançando uma magia que você também tenha memorizado, você pode gastar uma utilização daquela magia para anular a magia do inimigo, fazendo com que ela falhe.
+(Original: Counterspell)~
+@349 = ~Metamágica, Potencializar Magia~
+@350 = ~METAMÁGICA, POTENCIALIZAR MAGIA:
 
 Você pode aumentar o poder de suas magias.
 
 Pré-requisitos: Capacidade de lançar magias de 3º nível.
 
-Benefício: Você ganha a habilidade Magia Potencializada, que pode ser usada à vontade como uma ação livre. Usá-la aumenta o dano, cura ou o número de criaturas convocadas pela próxima magia que você lançar em 50% (arredondado para baixo), mas faz com que ela ocupe um nível de magia dois níveis mais alto.~
-@351 = ~Magia Estendida~
-@352 = ~METAMÁGICA, MAGIA ESTENDIDA:
+Benefício: Você ganha a habilidade Potencializar Magia, que pode ser usada à vontade como uma ação livre. Usá-la aumenta o dano, cura ou o número de criaturas convocadas pela próxima magia que você lançar em 50% (arredondado para baixo), mas faz com que ela ocupe um nível de magia dois níveis mais alto.
+(Original: Metamagic, Empower Spell)~
+@351 = ~Metamágica, Estender Magia~
+@352 = ~METAMÁGICA, ESTENDER MAGIA:
 
 Você pode aumentar a duração de suas magias.
 
 Pré-requisitos: Capacidade de lançar magias de 2º nível.
 
-Benefício: Você ganha a habilidade Magia Estendida, que pode ser usada à vontade como uma ação livre. Usá-la dobra a duração da próxima magia que você lançar, mas faz com que ela ocupe um nível mais alto. Magia Estendida não tem efeito sobre magias com uma duração base de menos de 5 rodadas.~
-@353 = ~Magia Maximizadora~
-@354 = ~METAMÁGICA, MAGIA MAXIMIZADORA:
+Benefício: Você ganha a habilidade Magia Estendida, que pode ser usada à vontade como uma ação livre. Usá-la dobra a duração da próxima magia que você lançar, mas faz com que ela ocupe um nível mais alto. Magia Estendida não tem efeito sobre magias com uma duração base de menos de 5 rodadas.
+(Original: Metamagic, Extend Spell)~
+@353 = ~Metamágica, Maximizar Magia~
+@354 = ~METAMÁGICA, MAXIMIZAR MAGIA:
 
 Você pode maximizar o poder de suas magias.
 
 Pré-requisitos: Capacidade de lançar magias de 4º nível.
 
-Benefício: Você ganha a habilidade Magia Maximizadora, que pode ser usada à vontade como uma ação livre. Usá-la faz com que sua próxima magia cause o dano máximo e cure o número máximo de pontos de vida, mas também faz com que ela ocupe um nível de magia três níveis mais alto.~
-@355 = ~Magia Persistente~
-@356 = ~METAMÁGICA, MAGIA PERSISTENTE:
+Benefício: Você ganha a habilidade de Maximizar Magia, que pode ser usada à vontade como uma ação livre. Usá-la faz com que sua próxima magia cause o dano máximo e cure o número máximo de pontos de vida, mas também faz com que ela ocupe um nível de magia três níveis mais alto.
+(Original: Metamagic, Maximize Spell)~
+@355 = ~Metamágica, Persistir Magia~
+@356 = ~METAMÁGICA, PERSISTIR MAGIA:
 
 Você pode aumentar a duração de suas magias para 8 horas completas.
 
 Pré-requisitos: Capacidade de lançar magias de 7º nível.
 
-Benefício: Você ganha a habilidade Magia Persistente, que pode ser usada à vontade como uma ação livre. Usá-la aumenta a duração da próxima magia para 8 horas, mas faz com que ela ocupe um nível de magia seis níveis mais alto. Magia Persistente não tem efeito sobre magias com uma duração base de menos de 5 rodadas.~
-@357 = ~Magia Acelerada~
-@358 = ~METAMÁGICA, MAGIA ACELERADA:
+Benefício: Você ganha a habilidade Persistir Magia, que pode ser usada à vontade como uma ação livre. Usá-la aumenta a duração da próxima magia para 8 horas, mas faz com que ela ocupe um nível de magia seis níveis mais alto. Persistir Magia não tem efeito sobre magias com uma duração base de menos de 5 rodadas.
+(Original: Metamagic, Persistent Spell)~
+@357 = ~Metamágica, Acelerar Magia~
+@358 = ~METAMÁGICA, ACELERAR MAGIA:
 
 Você pode lançar uma magia extra rapidamente a cada rodada.
 
 Pré-requisitos: Capacidade de lançar magias de 3º nível.
 
-Benefício: Você ganha a habilidade Magia Acelerada, que pode ser usada à vontade como uma ação livre. Usá-la permite que você lance instantaneamente uma magia, mesmo que já tenha lançado uma magia naquela rodada. A magia acelerada ocupa um nível de magia dois níveis mais alto. Apenas uma magia pode ser acelerada por rodada.~
-@359 = ~Magia Segura~
+Benefício: Você ganha a habilidade Magia Acelerada, que pode ser usada à vontade como uma ação livre. Usá-la permite que você lance instantaneamente uma magia, mesmo que já tenha lançado uma magia naquela rodada. A magia acelerada ocupa um nível de magia dois níveis mais alto. Apenas uma magia pode ser acelerada por rodada.
+(Original: Metamagic, Quicken Spell)~
+@359 = ~Metamágica, Magia Segura~
 @360 = ~METAMÁGICA, MAGIA SEGURA:
 
 Você pode moldar a área de efeito de suas magias para evitar prejudicar aliados.
 
 Pré-requisitos: Capacidade de lançar magias de 2º nível.
 
-Benefício: Você ganha a habilidade Magia Segura, que pode ser usada à vontade como uma ação livre. Usá-la impede que a próxima magia que você lançar prejudique aliados, mas faz com que ela ocupe um nível de magia um nível mais alto.~
-@361 = ~Magia Ampliada~
-@362 = ~METAMÁGICA, MAGIA AMPLIADA:
+Benefício: Você ganha a habilidade Magia Segura, que pode ser usada à vontade como uma ação livre. Usá-la impede que a próxima magia que você lançar prejudique aliados, mas faz com que ela ocupe um nível de magia um nível mais alto.
+(Original: Metamagic, Safe Spell)~
+@361 = ~Metamágica, Ampliar Magia~
+@362 = ~METAMÁGICA, AMPLIAR MAGIA:
 
 Você pode aumentar a área de efeito de suas magias.
 
 Pré-requisitos: Capacidade de lançar magias de 2º nível.
 
-Benefício: Você ganha a habilidade Magia Ampliada, que pode ser usada à vontade como uma ação livre. Usá-la aumenta a área de efeito da próxima magia que você lançar em 50%, mas faz com que ela ocupe um nível de magia um nível mais alto.~
-@363 = ~Magia em Massa~
+Benefício: Você ganha a habilidade Ampliar Magia, que pode ser usada à vontade como uma ação livre. Usá-la aumenta a área de efeito da próxima magia que você lançar em 50%, mas faz com que ela ocupe um nível de magia um nível mais alto.
+(Original: Metamagic, Widen Spell)~
+@363 = ~Metamágica, Magia em Massa~
 @364 = ~METAMÁGICA, MAGIA EM MASSA:
 
 Você pode fazer suas magias afetarem uma área em vez de um único alvo.
 
 Pré-requisitos: Capacidade de lançar magias de 6º nível.
 
-Benefício: Você ganha a habilidade Magia em Massa, que pode ser usada à vontade como uma ação livre. Usá-la faz com que sua próxima magia afete todas as criaturas dentro de 6 metros do alvo, mas faz com que ela ocupe um nível de magia cinco níveis mais alto. Mesmo magias que normalmente afetam apenas o conjurador agora podem afetar outras criaturas. Magia em Massa substitui a área de efeito normal da magia, então deve ser usada apenas com magias que normalmente atingem uma única criatura.~
+Benefício: Você ganha a habilidade Magia em Massa, que pode ser usada à vontade como uma ação livre. Usá-la faz com que sua próxima magia afete todas as criaturas dentro de 6 metros do alvo, mas faz com que ela ocupe um nível de magia cinco níveis mais alto. Mesmo magias que normalmente afetam apenas o conjurador agora podem afetar outras criaturas. Magia em Massa substitui a área de efeito normal da magia, então deve ser usada apenas com magias que normalmente atingem uma única criatura.
+(Original: Metamagic, Mass Spell)~
 @365 = ~Tiro Múltiplo~
 @366 = ~TIRO MÚLTIPLO:
 
@@ -499,9 +530,10 @@ Pré-requisito: Destreza 17+, Tiro Rápido, Tiro Preciso, Bônus de ataque base +16
 
 Benefício: Quando você tiver Tiro Rápido ativado e atacar com um arco pela primeira vez em um turno, você dispara duas flechas em vez de uma. Cada uma delas é uma rolagem de ataque separada com uma -5 de penalidade. Se você tiver dois níveis nessa habilidade, você dispara três flechas em vez de uma, cada uma com uma penalidade de -10.
 
-Especial: Um personagem com 9 níveis de ranger pode pegar o primeiro nível dessa habilidade (e pode pegar o segundo nível no nível 15), mesmo que não atenda aos pré-requisitos.~
-@367 = ~Reflexos de Combate~
-@368 = ~REFLEXOS DE COMBATE:
+Especial: Um personagem com 9 níveis de ranger pode pegar o primeiro nível dessa habilidade (e pode pegar o segundo nível no nível 15), mesmo que não atenda aos pré-requisitos.
+(Original: Manyshot)~
+@367 = ~Reflexos em Combate~
+@368 = ~REFLEXOS EM COMBATE:
 
 Você sabe como realizar um ataque de oportunidade quando um inimigo baixa a guarda.
 
@@ -513,9 +545,10 @@ Benefício: Uma vez por rodada, se você estiver atacando um inimigo com uma arma 
 * Se o inimigo disparar ou lançar uma arma de longo alcance dentro do alcance de sua arma.
 * Se o inimigo tentar conjurar uma magia dentro do alcance de sua arma.
 
-Dois níveis nesse talento permite que você faça um número de ataques de oportunidade por rodada igual ao seu bônus de Destreza mais um. Você não pode realizar mais de um ataque de oportunidade contra o mesmo inimigo por dois segundos.~
-@369 = ~Reflexos de Combate~
-@370 = ~REFLEXOS DE COMBATE:
+Dois níveis nesse talento permite que você faça um número de ataques de oportunidade por rodada igual ao seu bônus de Destreza mais um. Você não pode realizar mais de um ataque de oportunidade contra o mesmo inimigo por dois segundos.
+(Original: Combat Reflexes)~
+@369 = ~Reflexos em Combate~
+@370 = ~REFLEXOS EM COMBATE:
 
 Você pode revidar rápidamente e repetidamente contra oponentes que abaixam suas defesas.
 
@@ -527,21 +560,24 @@ Normal: Você pode realizar um único ataque de oportunidade por rodada com uma ar
 
 * Se o inimigo tentar sair do alcance de sua arma.
 * Se o inimigo disparar ou lançar uma arma de longo alcance dentro do alcance de sua arma.
-* Se o inimigo tentar conjurar uma magia dentro do alcance de sua arma.~
+* Se o inimigo tentar conjurar uma magia dentro do alcance de sua arma.
+(Original: Combat Reflexes)~
 @371 = ~ATAQUE EM MOVIMENTO:
 
 Você se destaca em se mover enquanto luta.
 
 Pré-requisitos: Destreza 13+, Esquiva, Mobilidade, Bônus de ataque base +4 ou superior
 
-Benefício: Sempre que você atingir uma criatura com um ataque corpo a corpo, você se move duas vezes mais rápido por 1 segundo. Durante esse tempo, você não provoca um ataque de oportunidade ao sair do alcance corpo a corpo de um inimigo.~
+Benefício: Sempre que você atingir uma criatura com um ataque corpo a corpo, você se move duas vezes mais rápido por 1 segundo. Durante esse tempo, você não provoca um ataque de oportunidade ao sair do alcance corpo a corpo de um inimigo.
+(Original: Spring Attack)~
 @372 = ~MOBILIDADE:
 
 Você pode esquivar de ataques particularmente bem enquanto se move.
 
 Pré-requisitos: Destreza 13+, Esquiva
 
-Benefício: Enquanto estiver se movendo, você ganha um bônus de +4 na Classe de Armadura. Esse bônus é dobrado contra ataques de oportunidade devido ao movimento para fora do alcance de uma arma inimiga.~
+Benefício: Enquanto estiver se movendo, você ganha um bônus de +4 na Classe de Armadura. Esse bônus é dobrado contra ataques de oportunidade devido ao movimento para fora do alcance de uma arma inimiga.
+(Original: Mobility)~
 @373 = ~Amortecer Impacto~
 @374 = ~AMORTECER IMPACTO:
 
@@ -549,22 +585,25 @@ Em uma situação difícil, você pode rolar para evitar a morte quase certa.
 
 Pré-requisito: 10 Níveis de Ladino
 
-Benefício: Se você fosse ser atingido por um ataque ou magia danosa que o mataria, você pode rolar para evitar o golpe e não sofrer dano. Esta habilidade é usada automaticamente e não pode ser utilizada novamente por 10 rodadas.~
+Benefício: Se você fosse ser atingido por um ataque ou magia danosa que o mataria, você pode rolar para evitar o golpe e não sofrer dano. Esta habilidade é usada automaticamente e não pode ser utilizada novamente por 10 rodadas.
+(Original: Defensive Roll)~
 @375 = ~Oportunista~
 @376 = ~OPORTUNISTA:
 
 Você sabe como aproveitar a distração de um aliado para desferir um ataque adicional contra o inimigo.
 
-Pré-requisito: 10 Níveis de Ladino, Reflexos de Combate
+Pré-requisito: 10 Níveis de Ladino, Reflexos em Combate
 
-Benefício: Se um aliado atingir um inimigo corpo a corpo enquanto você também estiver atacando esse inimigo corpo a corpo, você pode realizar um ataque de oportunidade contra esse inimigo.~
+Benefício: Se um aliado atingir um inimigo corpo a corpo enquanto você também estiver atacando esse inimigo corpo a corpo, você pode realizar um ataque de oportunidade contra esse inimigo.
+(Original: Opportunist)~
 @377 = ~OPORTUNISTA:
 
 Você sabe como aproveitar a distração de um aliado para desferir um ataque adicional contra o inimigo.
 
 Pré-requisito: 10 Níveis de Ladino
 
-Benefício: Se um aliado atingir um inimigo corpo a corpo enquanto você também estiver atacando esse inimigo corpo a corpo, você pode realizar um ataque de oportunidade contra esse inimigo.~
+Benefício: Se um aliado atingir um inimigo corpo a corpo enquanto você também estiver atacando esse inimigo corpo a corpo, você pode realizar um ataque de oportunidade contra esse inimigo.
+(Original: Opportunist)~
 @378 = ~Redução de Dano~
 @379 = ~REDUÇÃO DE DANO:
 
@@ -574,7 +613,8 @@ Pré-requisito: Constituição 21+. O segundo e terceiro níveis exigem Constituição
 
 Benefício: Você ganha resistência 3/- contra dano físico para cada nível na habilidade.
 
-Especial: Esta habilidade pode ser adquirida até três vezes.~
+Especial: Esta habilidade pode ser adquirida até três vezes.
+(Original: Damage Reduction)~
 @380 = ~Velocidade Deslumbrante~
 @381 = ~VELOCIDADE DESLUMBRANTE:
 
@@ -583,6 +623,7 @@ Você é capaz de feitos curtos de grande velocidade.
 Pré-requisito: Destreza 23+
 
 Benefício: Você ganha a habilidade Velocidade Deslumbrante, que lhe concede os efeitos de Velocidade Aprimorada por 5 rodadas. Você ganha +8 de CA, seus ataques por rodada são duplicados e você se move significativamente mais rápido. Os bônus de ataque continuam a diminuir para os ataques adicionais.~
+
 @382 = ~Capacidade Avançada de Magia~
 @383 = ~CAPACIDADE AVANÇADA DE MAGIA:
 
@@ -599,7 +640,8 @@ Ranque Nível +1 Nível +2 Nível +3
 2    2        0        0
 3    2        1        0
 4    2        2        0
-5    2        2        1~
+5    2        2        1
+(Original: Advanced Spell Capacity)~
 @384 = ~Assassino~
 @385 = ~ASSASSINO:
 
@@ -613,7 +655,8 @@ Você também ganha um uso de Arma Envenenada. Tomar a habilidade Arma Envenenada 
 
 No entanto, você só ganha 2 + modificador de Inteligência pontos de habilidade por nível de ladino após o primeiro nível.
 
-Especial: Você só pode pegar esta habilidade como um personagem de 1º nível.~
+Especial: Você só pode pegar esta habilidade como um personagem de 1º nível.
+(Original: Assassin)~
 @386 = ~Cura Rápida~
 @387 = ~CURA RÁPIDA:
 
@@ -623,7 +666,8 @@ Pré-requisito: Constituição 23+. O segundo e terceiro níveis exigem Constituição
 
 Benefício: Você regenera 3 pontos de vida por rodada para cada nível na habilidade.
 
-Especial: Esta habilidade pode ser adquirida até três vezes.~
+Especial: Esta habilidade pode ser adquirida até três vezes.
+(Original: Fast Healing)~
 @388 = ~Lichdom~
 @389 = ~LICHDOM:
 
@@ -641,7 +685,8 @@ Benefício: Mesmo depois de atender aos requisitos iniciais, você deve pegar esta
 * Você recebe dano de magias de Cura e poções de cura, mas é curado por magias de Dano.
 * Seus ataques desarmados são substituídos por Toque de Lich, que causa 3d10+5 de dano de frio e paralisa o alvo por 10 rodadas em uma falha de salvamento (mesma CD da magia Toque de Lich).
 * Você possui uma aura de medo; qualquer inimigo dentro de 6 metros que seja pelo menos 5 níveis mais baixo que você deve fazer um salvamento de Vontade (CD 10 + modificador de Carisma/Inteligência) ou fugir por 1 rodada.
-* Você ganha um filactério que armazena sua força vital. Se você morrer, será automaticamente revivido após 8 horas. No entanto, se todos os membros do grupo morrerem, os inimigos destruirão seu filactério e o jogo terminará.~
+* Você ganha um filactério que armazena sua força vital. Se você morrer, será automaticamente revivido após 8 horas. No entanto, se todos os membros do grupo morrerem, os inimigos destruirão seu filactério e o jogo terminará.
+(Original: Lichdom)~
 @390 = ~LICHDOM:
 
 Após intermináveis pesquisas sombrias, você finalmente alcançou a imortalidade... desde que seu filactério sobreviva.
@@ -658,7 +703,8 @@ Benefício: Mesmo depois de atender aos requisitos iniciais, você deve pegar esta
 * Você recebe dano de magias de Cura e poções de cura, mas é curado por magias de Dano.
 * Seus ataques desarmados são substituídos por Toque de Lich, que causa 3d10+5 de dano de frio e paralisa o alvo por 10 rodadas em uma falha de salvamento (mesma CD da magia Toque de Lich).
 * Você possui uma aura de medo; qualquer inimigo dentro de 6 metros que seja pelo menos 5 níveis mais baixo que você deve fazer um salvamento de Vontade (CD 10 + modificador de Carisma/Inteligência) ou fugir por 1 rodada.
-* Você ganha um filactério que armazena sua força vital. Se você morrer, será automaticamente revivido após 8 horas. No entanto, se todos os membros do grupo morrerem, os inimigos destruirão seu filactério e o jogo terminará.~
+* Você ganha um filactério que armazena sua força vital. Se você morrer, será automaticamente revivido após 8 horas. No entanto, se todos os membros do grupo morrerem, os inimigos destruirão seu filactério e o jogo terminará.
+(Original: Lichdom)~
 @522 = ~MAGO~
 @523 = ~MAGO:
 
@@ -679,7 +725,7 @@ Desvantagens:
 @524 = ~Bárbaro~
 @525 = ~BÁRBARO:
 
-Dos desertos congelados do norte e das selvas infernais do sul vêm guerreiros corajosos, até mesmo imprudentes. Embora não tão disciplinados ou habilidosos quanto um lutador normal, o bárbaro pode se lançar voluntariamente em uma fúria berserker, tornando-se um oponente mais resistente e forte.
+Dos desertos congelados do norte e das selvas infernais do sul vêm guerreiros corajosos, até mesmo imprudentes. Embora não tão disciplinados ou habilidosos quanto um guerreiro normal, o bárbaro pode se lançar voluntariamente em uma fúria berserker, tornando-se um oponente mais resistente e forte.
 
 Pontos de vida por nível: 1-12
 
@@ -697,7 +743,7 @@ Vantagens:
 * 29º nível: A fúria do bárbaro agora concede +12 em Força e Constituição e +6 em salvamentos de Vontade.
 
 Desvantagens:
-* Bárbaros ganham talento em um ritmo mais lento do que os lutadores.
+* Bárbaros ganham talento em um ritmo mais lento do que os guerreiros.
 * Bárbaros não começam com proficiência em armaduras pesadas.~
 @526 = ~Bardo~
 @527 = ~BARDO:
@@ -714,7 +760,7 @@ Vantagens:
 * Muitas habilidades de ladino são habilidades de classe do Bardo.
 * Canções do Bardo. Bardos têm a capacidade de cantar melodias que têm efeitos mágicos sobre criaturas dentro de 9 metros. À medida que avançam de nível, eles ganham canções adicionais. As canções são descritas em detalhes abaixo.
 * 1º nível: A História de Curran Coração Forte. Quando tocada, todos os aliados do bardo ganham +1 de bônus de ataque, +1 de dano e imunidade ao medo e desesperança. Os bônus de ataque e dano aumentam em 1 nos níveis 10, 25 e 40.
-* 3º nível: A Canção de Kaudies. Quando tocada, os aliados do bardo ficam imunes a magias e habilidades baseados em som que causam dano, incluindo Comando, Silêncio, Comando Maior, Palavra Sagrada, Blafêmia, Palavra de Poder: Sono, Explosão Sonora, Grito, Palavra de Poder: Silêncio, Palavra de Poder: Atordoamento, Palavra de Poder: Cegueira, Grande Grito, Grito da Banshee, Palavra de Poder: Matar, grito de harpia e os efeitos exclusivos para inimigos de Canto, Oração e Recitação.
+* 3º nível: A Canção de Kaudies. Quando tocada, os aliados do bardo ficam imunes a magias e habilidades baseados em som que causam dano, incluindo Comando, Silêncio, Comando Maior, Palavra Sagrada, Blafêmia, Palavra de Poder: Sono, Explosão Sonora, Grito, Palavra de Poder: Silêncio, Palavra de Poder: Atordoamento, Palavra de Poder: Cegar, Grande Grito, Grito da Banshee, Palavra de Poder: Matar, grito de harpia e os efeitos exclusivos para inimigos de Canto, Oração e Recitação.
 * 5º nível: Melodia de Tymora. Quando tocada, a Melodia de Tymora dá aos aliados do bardo +1 de sorte, +1 em jogadas de salvamento e +2 em seus Conhecimentos (arcana), Alquimia e habilidades de ladino. Nos níveis 15 e 35, essa canção concede +1 adicional em sorte e jogadas de salvamento, e +2 em testes de habilidade.
 * 7º nível: O bardo pode substituir um de suas magias conhecidas por outra magia do mesmo nível. Eles podem fazer isso novamente a cada 3 níveis após o nível 7. O bardo só pode substituir magias de pelo menos dois níveis abaixo do nível de magia mais alto que pode conjurar (por exemplo, apenas uma magia de 1º nível quando o bardo atingir o 7º nível), e eles podem substituir magias de 7º nível a partir do nível 25 e magias de 8º nível a partir do nível 28.
 * 9º nível: O Anseio da Sereia. Quando tocada, toda criatura que ouvir a música sofre uma penalidade cumulativa de -1 nas jogadas de resistência à Vontade por 10 rodadas e deve fazer uma jogada de resistência à Vontade ou será encantada, incapaz de agir por uma rodada ou até receber dano. A CD da jogada de resistência à Vontade é igual ao nível do bardo. Assim, a música de um bardo de nível 15 tem uma CD de 15.
@@ -773,7 +819,7 @@ Vantagens:
 * Nível 2: Caminho da Floresta. O druida se torna imune a Emaranhar, Teia e Crescer Espinho.
 * Aos 5º nível, os Druidas começam a ganhar habilidades de Forma Selvagem, que permitem que eles se transformem em animais, bestas mágicas, elementais e outras formas. Em níveis mais altos, os Druidas ganham opções adicionais de formas e podem usar Forma Selvagem mais vezes por dia.
 * Nível 5: Forma Selvagem: Lobo da Neve. O druida ganha a habilidade de se transformar em um lobo da neve. Enquanto estiver na forma de lobo da neve, o Druida é imune ao frio e pode atacar uma vez por rodada com o sopro gélido do lobo da neve, que causa 4d4 de dano de frio (CD de Reflexos 10 para metade). A cada 5 níveis subsequentes, o dano do sopro aumenta em 2d4 e a CD da jogada de resistência aumenta em 5.
-* Nível 5: O Druida está em um nível alto o suficiente para escolher duas façanhas especiais: Forma Selvagem: Cão Teletransportador e Forma Selvagem: Destruição Rastejante.
+* Nível 5: O Druida está em um nível alto o suficiente para escolher duas façanhas especiais: Forma Selvagem: Cão Teleportador e Forma Selvagem: Destruição Rastejante.
 * Nível 7: Forma Selvagem: Urso Polar. Enquanto estiver na forma de urso polar, o Druida ganha um ataque adicional por rodada em comparação com sua forma natural. A cada 3 níveis subsequentes, a forma de urso polar ganha +1 em Força, Destreza e Constituição, e seu dano de ataque aumenta.
 * Nível 8: O Druida está em um nível alto o suficiente para escolher uma outra façanha especial: Forma Selvagem: Besouro Rinoceronte.
 * Nível 9: Forma Selvagem: Víbora Gigante. Enquanto estiver na forma de víbora gigante, os ataques do Druida envenenam o alvo, causando 2 de dano por segundo durante 6 segundos (CD de Fortitude 15). A cada 3 níveis subsequentes, a forma de víbora gigante ganha +1 em Força, Destreza e Constituição, +1 de CA, e a CD da resistência ao veneno aumenta em 3.
@@ -811,7 +857,7 @@ Desvantagens:
 @534 = ~Monge~
 @535 = ~MONGE:
 
-Os monges são guerreiros que buscam a perfeição através da contemplação, assim como da ação. Eles são lutadores versáteis, especialmente habilidosos em combate desarmado ou sem armaduras. Embora monges não possam lançar magias, eles possuem uma magia única própria. Eles canalizam uma energia sutil, chamada chi (ki), que permite realizar feitos incríveis. O feito mais conhecido do monge é a habilidade de atordoar um oponente com um golpe desarmado.
+Os monges são guerreiros que buscam a perfeição através da contemplação, assim como da ação. Eles são guerreiros versáteis, especialmente habilidosos em combate desarmado ou sem armaduras. Embora monges não possam lançar magias, eles possuem uma magia única própria. Eles canalizam uma energia sutil, chamada chi (ki), que permite realizar feitos incríveis. O feito mais conhecido do monge é a habilidade de atordoar um oponente com um golpe desarmado.
 
 NOTA: Monges multiclasses SOMENTE usam seus níveis de monge para determinar o número de ataques quando estão lutando desarmados.
 
@@ -991,7 +1037,7 @@ Lathander, o Senhor da Manhã, é o deus da aurora e da renovação. Seus sacerdotes
 
 Vantagens:
 
-* Perícia de Expulsão Aprimorada.
+* Perícia de Expulsão de Morto-Vivo Aprimorada.
 * Renovação de Lathander 1 vez por dia (cura 6x o nível do clérigo em pontos de vida e cura drenagem de energia)~
 
 @560    = ~PALADINO DE ILMATER:
@@ -1074,7 +1120,7 @@ Vantagens:
 * Muitas habilidades de ladino são habilidades de classe do Bardo.
 * Canções do Bardo. Bardos têm a habilidade de cantar melodias que têm efeitos mágicos sobre criaturas dentro de 9 metros. À medida que avançam de nível, eles ganham canções adicionais. As canções são descritas em detalhes abaixo.
 * Nível 1: A História de Curran Strongheart. Quando tocada, todos os aliados do bardo ganham +1 de bônus de ataque, +1 de dano e imunidade ao medo e à desesperança. Os bônus de ataque e dano aumentam em 1 nos níveis 10, 25 e 40.
-* Nível 3: A Canção de Kaudies. Quando tocada, os aliados do bardo se tornam imunes a magias e habilidades baseadas em som prejudiciais, incluindo Comando, Silêncio, Comando Maior, Palavra Sagrada, Blasfêmia, Palavra de Poder: Sono, Explosão Sonora, Grito, Palavra de Poder: Silêncio, Palavra de Poder: Atordoamento, Palavra de Poder: Cegueira, Grande Grito, Grito da Banshee, Palavra de Poder: Matar, grito de harpia e os efeitos exclusivos para inimigos de Canto, Oração e Recitação.
+* Nível 3: A Canção de Kaudies. Quando tocada, os aliados do bardo se tornam imunes a magias e habilidades baseadas em som prejudiciais, incluindo Comando, Silêncio, Comando Maior, Palavra Sagrada, Blasfêmia, Palavra de Poder: Sono, Explosão Sonora, Grito, Palavra de Poder: Silêncio, Palavra de Poder: Atordoamento, Palavra de Poder: Cegar, Grande Grito, Grito da Banshee, Palavra de Poder: Matar, grito de harpia e os efeitos exclusivos para inimigos de Canto, Oração e Recitação.
 * Nível 5: Melodia de Tymora. Quando tocada, a Melodia de Tymora concede aos aliados do bardo +1 de sorte, +1 em jogadas de resistência e +2 em seus conhecimentos (arcanismo), alquimia e habilidades de ladino. Nos níveis 15 e 35, essa canção concede um adicional de +1 em sorte e jogadas de resistência e +2 em testes de habilidade.
 * Nível 9: O Anseio da Sereia. Quando tocada, toda criatura que ouvir a canção sofre uma penalidade cumulativa de -1 em suas jogadas de resistência de Vontade por 10 rodadas e deve fazer uma jogada de resistência de Vontade ou será encantada, incapaz de agir por uma rodada ou até sofrer dano. A CD da jogada de resistência de Vontade é igual ao nível do bardo. Assim, a canção de um bardo de nível 15 tem uma CD de 15.
 * Nível 13: O Canto de Guerra de Sith. Quando tocada, os aliados do bardo ganham +2 de bônus genérico em armadura, resistência a dano físico 3/- e regeneram 3 pontos de dano por rodada em combate. Nos níveis 28 e 45, essa canção concede um adicional de +2 na CA, resistência a dano físico 3/- e 3 pontos de vida curados por rodada.
@@ -1107,7 +1153,7 @@ Desvantagens:
 Magias de Domínio:
 1: Maldição Menor, Comando
 2: Horror, Silêncio
-3: Encanto Fatal, Pensamento Rígido
+3: Encanto Macabro, Pensamento Rígido
 4: Manto do Medo, Emoção: Desespero
 5: Dominação, Comando Maior
 6: Imbecilidade, Palavra de Poder: Silêncio
@@ -1142,7 +1188,7 @@ Magias de Domínio:
 
 Magias de Domínio:
 1: Fogo Fada, Queimadura Solar
-2: Chama de Aganazzar, Parar Mortos-vivos
+2: Chama de Aganazzar, Imobilizar Mortos-Vivos
 3: Proteção Contra a Morte, Restauração
 4: Golpe Sagrado, Escudo de Lathander
 5: Levantar Mortos, Orbe Ardente de Sol
@@ -1217,30 +1263,35 @@ Você aprendeu a maximizar o efeito de seus ataques enquanto realiza um ataque cu
 
 Pré-requisitos: 4 pontos em Concentração e Especialização em Arma em 2 armas.
 
-Benefício: Todos os ataques causam dano máximo por 5 rodadas. Se você tiver 12 ou mais níveis de guerreiro, também ganha +4 de bônus em ataque e +4 de alcance de ameaça crítica durante esse período.~
+Benefício: Todos os ataques causam dano máximo por 5 rodadas. Se você tiver 12 ou mais níveis de guerreiro, também ganha +4 de bônus em ataque e +4 de alcance de ameaça crítica durante esse período.
+(Original: Maximized Attacks)~
 @670 = ~VITALIDADE:
 
 Você é mais resistente do que o normal.
 
 Benefício: Cada vez que você pegar essa perícia, ganha +3 pontos de vida, além de mais 1 ponto de vida por nível. Bárbaros ganham +3 pontos de vida por nível de bárbaro em vez de +1. Em futuros aumentos de nível, você ganhará pontos de vida adicionais.
 
-Especial: Você pode ganhar essa perícia até 5 vezes em Icewind Dale 2.~
+Especial: Você pode ganhar essa perícia até 5 vezes em Icewind Dale 2.
+(Original: Toughness)~
 @671 = ~FORTITUDE MAIOR:
 
 Você é mais resistente do que o normal.
 
-Benefício: Você recebe um bônus de +3 em todas as jogadas de resistência de Fortitude.~
+Benefício: Você recebe um bônus de +3 em todas as jogadas de resistência de Fortitude.
+(Original: Great Fortitude)~
 @672 = ~VONTADE DE FERRO:
 
 Você tem uma vontade mais forte do que o normal.
 
-Benefício: Você recebe um bônus de +3 em todas as jogadas de resistência de Vontade.~
+Benefício: Você recebe um bônus de +3 em todas as jogadas de resistência de Vontade.
+(Original: Iron Will)~
 @673 = ~REFLEXOS RÁPIDOS:
 
 Você tem reflexos mais rápidos do que o normal.
 
-Benefício: Você recebe um bônus de +3 em todas as jogadas de resistência de Reflexos.~
-@674 = ~PROFICIÊNCIA EM ARMAS EXÓTICAS, ESPADA BASTARDA:
+Benefício: Você recebe um bônus de +3 em todas as jogadas de resistência de Reflexos.
+(Original: Lightning Reflexes)~
+@674 = ~PROFICIÊNCIA EM ARMA EXÓTICA, ESPADA BASTARDA:
 
 Você é proficiente em usar espadas bastardas como uma arma de uma mão.
 
@@ -1249,6 +1300,7 @@ Benefício: Você faz as jogadas de ataque com a arma normalmente. Duas classifica
 Normal: Um personagem que usa uma arma sem ser proficiente com ela sofre uma penalidade de -4 nas jogadas de ataque.
 
 Especial: Guerreiros são proficientes com todas as armas exóticas. Você pode ganhar esse talento múltiplas vezes.
+(Original: Exotic Weapon Proficiency, Bastard Sword)
 ~
 @675 = ~PROFICIÊNCIA EM ARMAS MARCIAIS, MACHADO:
 
@@ -1259,6 +1311,7 @@ Benefícios: Você faz as jogadas de ataque com a arma normalmente. Duas classific
 Normal: Um personagem que usa uma arma sem ser proficiente com ela sofre uma penalidade de -4 nas jogadas de ataque.
 
 Especial: Bárbaros, guerreiros, paladinos e rangers são proficientes com todas as armas marciais. Você pode ganhar esse talento múltiplas vezes.
+(Original: Martial Weapon Proficiency, Axe)
 ~
 @676 = ~PROFICIÊNCIA EM ARMAS MARCIAIS, ARCO:
 
@@ -1269,6 +1322,7 @@ Benefícios: Você faz as jogadas de ataque com a arma normalmente. Duas classific
 Normal: Um personagem que usa uma arma sem ser proficiente com ela sofre uma penalidade de -4 nas jogadas de ataque.
 
 Especial: Bárbaros, guerreiros, paladinos e rangers são proficientes com todas as armas marciais. Você pode ganhar esse talento múltiplas vezes.
+(Original: Martial Weapon Proficiency, Bow)
 ~
 @677 = ~PROFICIÊNCIA EM ARMAS MARCIAIS, MANGUAL:
 
@@ -1279,6 +1333,7 @@ Benefícios: Você faz as jogadas de ataque com a arma normalmente. Duas classific
 Normal: Um personagem que usa uma arma sem ser proficiente com ela sofre uma penalidade de -4 nas jogadas de ataque.
 
 Especial: Bárbaros, guerreiros, paladinos e rangers são proficientes com todas as armas marciais. Você pode ganhar esse talento múltiplas vezes.
+(Original: Martial Weapon Proficiency, Flail)
 ~
 @678 = ~PROFICIÊNCIA EM ARMAS MARCIAIS, MONTANTE:
 
@@ -1289,6 +1344,7 @@ Benefícios: Você faz as jogadas de ataque com a arma normalmente. Duas classific
 Normal: Um personagem que usa uma arma sem ser proficiente com ela sofre uma penalidade de -4 nas jogadas de ataque.
 
 Especial: Bárbaros, guerreiros, paladinos e rangers são proficientes com todas as armas marciais. Você pode ganhar esse talento múltiplas vezes.
+(Original: Martial Weapon Proficiency, Greatsword)
 ~
 @679 = ~PROFICIÊNCIA EM ARMAS MARCIAIS, MARTELO:
 
@@ -1299,26 +1355,29 @@ Benefícios: Você faz as jogadas de ataque com a arma normalmente. Duas classific
 Normal: Um personagem que usa uma arma sem ser proficiente com ela sofre uma penalidade de -4 nas jogadas de ataque.
 
 Especial: Bárbaros, guerreiros, paladinos e rangers são proficientes com todas as armas marciais. Você pode ganhar esse talento múltiplas vezes.
+(Original: Martial Weapon Proficiency, Hammer)
 ~
-@680 = ~PROFICIÊNCIA EM ARMAS MARCIAIS, ESPADA GRANDE:
+@680 = ~PROFICIÊNCIA EM ARMAS MARCIAIS, LÂMINA GRANDE:
 
-Esse talento permitirá que você seja proficiente com espadas grandes.
+Esse talento permitirá que você seja proficiente com espadas com lâminas grandes.
 
 Benefícios: Você faz as jogadas de ataque com a arma normalmente. Duas classificações nesse talento é Foco em Arma, o que concede +2 em ataque e dano. Três classificações nesse talento é Especialização em Arma, o que concede +5 em ataque e dano. Somente personagens com quatro ou mais níveis de Guerreiro podem pegar Especialização em Arma.
 
 Normal: Um personagem que usa uma arma sem ser proficiente com ela sofre uma penalidade de -4 nas jogadas de ataque.
 
 Especial: Bárbaros, guerreiros, paladinos e rangers são proficientes com todas as armas marciais. Você pode ganhar esse talento múltiplas vezes.
+(Original: Martial Weapon Proficiency, Large Sword)
 ~
-@681 = ~PROFICIÊNCIA EM ARMAS MARCIAIS, ALABARDA:
+@681 = ~PROFICIÊNCIA EM ARMAS MARCIAIS, ARMA DE HASTE:
 
-Esse talento permitirá que você seja proficiente com alabardas.
+Esse talento permitirá que você seja proficiente com alabardas e armas de haste.
 
 Benefícios: Você faz as jogadas de ataque com a arma normalmente. Duas classificações nesse talento é Foco em Arma, o que concede +2 em ataque e dano. Três classificações nesse talento é Especialização em Arma, o que concede +5 em ataque e dano. Somente personagens com quatro ou mais níveis de Guerreiro podem pegar Especialização em Arma.
 
 Normal: Um personagem que usa uma arma sem ser proficiente com ela sofre uma penalidade de -4 nas jogadas de ataque.
 
 Especial: Bárbaros, guerreiros, paladinos e rangers são proficientes com todas as armas marciais. Você pode ganhar esse talento múltiplas vezes.
+(Original: Martial Weapon Proficiency, Polearm)
 ~
 @682 = ~PROFICIÊNCIA EM ARMAS SIMPLES, BESTA:
 
@@ -1327,6 +1386,7 @@ Você entende como usar bestas.
 Benefício: Você faz as jogadas de ataque com armas simples normalmente. Duas classificações nesse talento é Foco em Arma, o que concede +2 em ataque e dano. Três classificações nesse talento é Especialização em Arma, o que concede +5 em ataque e dano. Somente personagens com quatro ou mais níveis de Guerreiro podem pegar Especialização em Arma.
 
 Normal: Um personagem que usa uma arma sem ser proficiente com ela sofre uma penalidade de -4 nas jogadas de ataque.
+(Original: Simple Weapon Proficiency, Crossbow)
 ~
 @683 = ~PROFICIÊNCIA EM ARMAS SIMPLES, MAÇA:
 
@@ -1335,6 +1395,7 @@ Você entende como usar maças.
 Benefício: Você faz as jogadas de ataque com armas simples normalmente. Duas classificações nesse talento é Foco em Arma, o que concede +2 em ataque e dano. Três classificações nesse talento é Especialização em Arma, o que concede +5 em ataque e dano. Somente personagens com quatro ou mais níveis de Guerreiro podem pegar Especialização em Arma.
 
 Normal: Um personagem que usa uma arma sem ser proficiente com ela sofre uma penalidade de -4 nas jogadas de ataque.
+(Original: Simple Weapon Proficiency, Mace)
 ~
 @684 = ~PROFICIÊNCIA EM ARMAS SIMPLES, ARMA DE PROJÉTIL:
 
@@ -1345,6 +1406,7 @@ Benefício: Você faz as jogadas de ataque com armas simples normalmente. Duas cla
 Normal: Um personagem que usa uma arma sem ser proficiente com ela sofre uma penalidade de -4 nas jogadas de ataque.
 
 Nota: Arcos curtos e longos utilizam Proficiência em Arma Marcial, Arco.
+
 ~
 @685 = ~PROFICIÊNCIA EM ARMA SIMPLES, BORDÃO:
 
@@ -1353,6 +1415,7 @@ Você entende como usar bordões.
 Benefício: Você realiza rolagens de ataque com armas simples normalmente. Dois graus nesta habilidade é Foco em Arma, o que concede +2 para acerto e dano. Três graus na habilidade é Especialização em Arma, o que concede +5 para acerto e dano. Somente personagens com quatro ou mais níveis de Guerreiro podem obter Especialização em Arma.
 
 Normal: Um personagem que usa uma arma sem ser proficiente com ela sofre uma penalidade de -4 nas rolagens de ataque.
+
 ~
 @686 = ~Arma Simples, Lâmina Pequena/Desarmado~
 @687 = ~PROFICIÊNCIA EM ARMA SIMPLES, LÂMINA PEQUENA/DESARMADO:
@@ -1362,6 +1425,7 @@ Você entende como usar lâminas pequenas, como adagas e espadas curtas, além de s
 Benefício: Você realiza rolagens de ataque com armas simples normalmente. Dois graus nesta habilidade é Foco em Arma, o que concede +2 para acerto e dano. Três graus na habilidade é Especialização em Arma, o que concede +5 para acerto e dano. Somente personagens com quatro ou mais níveis de Guerreiro podem obter Especialização em Arma.
 
 Normal: Um personagem que usa uma arma sem ser proficiente com ela sofre uma penalidade de -4 nas rolagens de ataque.
+(Original: Simple Weapon Proficiency, Small Blade/Unarmed)
 ~
 @688 = ~RESISTÊNCIA A VENENO:
 
@@ -1371,7 +1435,8 @@ Pré-requisito: Anão cinzento, meio-orc
 
 Benefício: Você recebe um bônus de +4 em testes de resistência contra veneno. Além disso, a cada segundo que você tomaria dano de veneno, o dano é reduzido em 1.
 
-Especial: Você só pode pegar essa habilidade como um personagem de 1º nível.~
+Especial: Você só pode pegar essa habilidade como um personagem de 1º nível.
+(Original: Resist Poison)~
 @689 = ~Forma Selvagem Aprimorada~
 @690 = ~FORMA SELVAGEM APRIMORADA:
 
@@ -1379,7 +1444,8 @@ Você pode usar sua habilidade de Forma Selvagem com mais frequência e de forma m
 
 Pré-requisito: 3 níveis de druida
 
-Benefício: Você ganha um uso adicional de Forma Selvagem por dia. Você também conta como 3 níveis a mais para determinar o poder de sua forma transformada, embora isso não lhe dê acesso a novas formas mais cedo. Esta habilidade pode ser adquirida até três vezes.~
+Benefício: Você ganha um uso adicional de Forma Selvagem por dia. Você também conta como 3 níveis a mais para determinar o poder de sua forma transformada, embora isso não lhe dê acesso a novas formas mais cedo. Esta habilidade pode ser adquirida até três vezes.
+(Original: Improved Wild Shape)~
 @691 = ~Fúria Aprimorada~
 @692 = ~FÚRIA APRIMORADA:
 
@@ -1387,7 +1453,8 @@ Você pode invocar sua fúria de bárbaro com mais frequência e de forma mais inten
 
 Pré-requisito: 1 nível de bárbaro
 
-Benefício: Você ganha um uso adicional de Fúria de Bárbaro por dia. Além disso, você ganha +1 de Força e Constituição adicionais enquanto estiver enfurecido; esses bônus se acumulam com os bônus existentes da fúria. Esta habilidade pode ser adquirida até três vezes.~
+Benefício: Você ganha um uso adicional de Fúria de Bárbaro por dia. Além disso, você ganha +1 de Força e Constituição adicionais enquanto estiver enfurecido; esses bônus se acumulam com os bônus existentes da fúria. Esta habilidade pode ser adquirida até três vezes.
+(Original: Improved Rage)~
 @693 = ~Destruir o Mal Aprimorado~
 @694 = ~DESTRUIR O MAL APRIMORADO:
 
@@ -1395,15 +1462,17 @@ Você pode usar sua habilidade Destruir o Mal com mais frequência e com maior pod
 
 Pré-requisito: 2 níveis de paladino
 
-Benefício: Você ganha um uso adicional de Destruir o Mal por dia. Além disso, um número de dados de 4 (d4) igual ao seu modificador de Carisma é somado novamente ao dano do Destruir o Mal. Esta habilidade pode ser adquirida até três vezes.~
-@695 = ~Expulsão Aprimorada~
-@696 = ~EXPULSÃO APRIMORADA:
+Benefício: Você ganha um uso adicional de Destruir o Mal por dia. Além disso, um número de dados de 4 (d4) igual ao seu modificador de Carisma é somado novamente ao dano do Destruir o Mal. Esta habilidade pode ser adquirida até três vezes.
+(Original: Improved Smiting)~
+@695 = ~Expulsão de Morto-Vivo Aprimorada~
+@696 = ~EXPULSÃO DE MORTO-VIVO APRIMORADA:
 
 Você pode usar sua habilidade de Expulsão dos Mortos-Vivos com mais frequência e pode expulsar mortos-vivos mais poderosos.
 
 Pré-requisito: 1 nível de Clérigo ou 3 níveis de Paladino
 
-Benefício: Você ganha um uso adicional de Expulsão dos Mortos-Vivos por dia. Você também conta como 3 níveis a mais para determinar a força dos mortos-vivos que pode repreender. Esta habilidade pode ser adquirida até três vezes.~
+Benefício: Você ganha um uso adicional de Expulsão dos Mortos-Vivos por dia. Você também conta como 3 níveis a mais para determinar a força dos mortos-vivos que pode repreender. Esta habilidade pode ser adquirida até três vezes.
+(Original: Improved Turning)~
 @697 = ~Expulsão Planar~
 @698 = ~EXPULSÃO PLANAR:
 
@@ -1411,7 +1480,8 @@ Você pode expulsar não apenas mortos-vivos, mas também criaturas dos Planos Exte
 
 Pré-requisito: 1 nível de Clérigo ou 3 níveis de Paladino
 
-Benefício: Magias e habilidades que você usa para expulsar mortos-vivos também podem expulsar demônios e outras criaturas dos Planos Exteriores.~
+Benefício: Magias e habilidades que você usa para expulsar mortos-vivos também podem expulsar demônios e outras criaturas dos Planos Exteriores.
+(Original: Planar Turning)~
 @699 = ~Arma Envenenada~
 @700 = ~ARMA ENVENENADA:
 
@@ -1419,14 +1489,16 @@ Você aprendeu a rara habilidade do envenenador. Você é habilidoso em adquirir e 
 
 Pré-requisito: 1 nível de ladino, Alquimia 8 ou maior
 
-Benefício: Uma vez por dia, você pode cobrir suas armas com veneno. Por 5 rodadas, cada golpe que você fizer com qualquer arma (incluindo armas de projétil) envenenará o alvo, a menos que ele faça um teste de Fortaleza (CD 6 + sua habilidade de Alquimia). Se envenenado, o alvo sofrerá 12 de dano de veneno nos próximos 6 segundos.~
+Benefício: Uma vez por dia, você pode cobrir suas armas com veneno. Por 5 rodadas, cada golpe que você fizer com qualquer arma (incluindo armas de projétil) envenenará o alvo, a menos que ele faça um teste de Fortaleza (CD 6 + sua habilidade de Alquimia). Se envenenado, o alvo sofrerá 12 de dano de veneno nos próximos 6 segundos.
+(Original: Envenom Weapon)~
 @701 = ~ATAQUE INCAPACITANTE:
 
 Ao fazer um ataque furtivo, você consegue desferir um golpe devastador que enfraquece o inimigo.
 
 Pré-requisito: 10º nível de ladino
 
-Benefício: Sempre que o personagem realizar um ataque furtivo bem-sucedido, o ataque causará seu dano normal e também causará 1 ponto de dano temporário de Força por cada 3 níveis de ladino. O dano de Força dura 10 rodadas.~
+Benefício: Sempre que o personagem realizar um ataque furtivo bem-sucedido, o ataque causará seu dano normal e também causará 1 ponto de dano temporário de Força por cada 3 níveis de ladino. O dano de Força dura 10 rodadas.
+(Original:  Crippling Strike)~
 @702 = ~GOLPE ARTERIAL:
 
 Sua habilidade com ataques furtivos permite que você cause um ferimento sangrante.
@@ -1441,26 +1513,30 @@ Embora qualquer pessoa possa agarrar algo, você tem a habilidade de agarrar até 
 
 Benefício: Você ganha uma habilidade que permite agarrar uma criatura adjacente. A habilidade pode ser usada uma vez por rodada. O alvo deve fazer um teste de Reflexos (CD 12 + metade do seu nível + seu modificador de Força ou Destreza, o que for maior) ou ser agarrado por você por 2 rodadas. Enquanto agarrado, a criatura recebe uma penalidade de -4 para ataques, tem 50% de chance de falhar ao lançar magias e não pode se mover para longe de você. Se você se mover, pode puxar a criatura com você.
 
-Para agarrar, você deve ter pelo menos uma mão livre. O teste de resistência ganha +4 de CD se você tiver ambas as mãos livres. Ele perde -4 de CD para cada vez que alguém tentou agarrar o alvo nas últimas 10 rodadas. Se você agarrar um aliado ou uma criatura paralisada, atordoada, dormindo ou derrubada, não há teste de resistência. Criaturas maiores que você não podem ser agarradas.~
-@705 = ~ARCANO ARMADO:
+Para agarrar, você deve ter pelo menos uma mão livre. O teste de resistência ganha +4 de CD se você tiver ambas as mãos livres. Ele perde -4 de CD para cada vez que alguém tentou agarrar o alvo nas últimas 10 rodadas. Se você agarrar um aliado ou uma criatura paralisada, atordoada, dormindo ou derrubada, não há teste de resistência. Criaturas maiores que você não podem ser agarradas.
+(Original: Grapple)~
+@705 = ~ARCANO BLINDADO:
 
 Você pode lançar magias com menos chance de falha enquanto usa armaduras.
 
 Pré-requisito: Capacidade de lançar magias arcanas.
 
-Benefício: Cada grau nesta habilidade reduz as chances de falha ao lançar magias em 35%.~
+Benefício: Cada grau nesta habilidade reduz as chances de falha ao lançar magias em 35%.
+(Original: Armored Arcana).~
 @706 = ~INICIATIVA APRIMORADA:
 
 Você pode reagir mais rapidamente que o normal em uma luta.
 
-Benefício: O "fator de velocidade" de atraso antes de você atacar pela primeira vez em uma rodada é reduzido em 4. O tempo de conjuração de todos as suas magias é reduzido em 1.~
+Benefício: O "fator de velocidade" de atraso antes de você atacar pela primeira vez em uma rodada é reduzido em 4. O tempo de conjuração de todos as suas magias é reduzido em 1.
+(Original: Improved Initiative)~
 @707 = ~ACUIDADE COM ARMAS:
 
 Você é especialmente habilidoso no uso de adagas, espadas curtas e ataques desarmados, o que permite que você se beneficie tanto da Destreza quanto da Força.
 
 Pré-requisito: Proficiência com lâmina pequena/desarmado, bônus de ataque base +1.
 
-Benefício: Com adagas, espadas curtas, ataques desarmados e armas naturais, você pode usar seu modificador de Destreza no lugar de seu modificador de Força nas rolagens de ataque. Além disso, você pode aplicar metade do seu modificador de Destreza ao dano de tais armas (desde que o número dividido ainda seja maior que seu modificador de Força). Como você precisa da sua segunda mão para equilíbrio, se carregar um escudo, aplique a penalidade de verificação de armadura do escudo às suas rolagens de ataque.~
+Benefício: Com adagas, espadas curtas, ataques desarmados e armas naturais, você pode usar seu modificador de Destreza no lugar de seu modificador de Força nas rolagens de ataque. Além disso, você pode aplicar metade do seu modificador de Destreza ao dano de tais armas (desde que o número dividido ainda seja maior que seu modificador de Força). Como você precisa da sua segunda mão para equilíbrio, se carregar um escudo, aplique a penalidade de verificação de armadura do escudo às suas rolagens de ataque.
+(Original: Weapon Finesse)~
 @708 = ~DESVIAR OBJETOS:
 
 Você pode desviar flechas que chegam, bem como virotes de besta, lanças e outras armas de projétil ou arremesso.
@@ -1471,7 +1547,8 @@ Benefício: O personagem ganha um bônus de +1 contra armas de projétil.
 
 Além disso, se o personagem for um monge ou tiver pelo menos 19 de Destreza, ele bloqueará automaticamente a primeira parte de dano de projétil que o atingiria a cada rodada. Qualquer outro dano que o projétil causaria (como dano de fogo de Flechas de Fogo) ainda passará. O personagem deve ter uma mão livre para obter esse benefício.
 
-Especial: Monges ganham automaticamente a habilidade Desviar Objetos no nível 2.~
+Especial: Monges ganham automaticamente a habilidade Desviar Objetos no nível 2.
+(Original: Deflect Arrows)~
 @709 = ~AMBIDESTRIA:
 
 Você é igualmente habilidoso em usar qualquer uma das suas mãos.
@@ -1480,19 +1557,22 @@ Pré-requisito: Destreza 15+
 
 Benefício: Enquanto estiver usando duas armas, a penalidade de ataque com a arma na mão não dominante diminui em 4.
 
-Normal: Sem os talentos Ambidestria e Combate com Duas Armas, um personagem sofre uma penalidade de -6 no ataque com a arma principal e -10 na arma da mão não dominante. Essas penalidades também são diminuídas em 2 se a arma da mão não dominante for uma adaga ou espada curta.~
+Normal: Sem os talentos Ambidestria e Combate com Duas Armas, um personagem sofre uma penalidade de -6 no ataque com a arma principal e -10 na arma da mão não dominante. Essas penalidades também são diminuídas em 2 se a arma da mão não dominante for uma adaga ou espada curta.
+(Original: Ambidexterity)~
 @710 = ~COMBATE COM DUAS ARMAS:
 
 Você pode lutar com uma arma em cada mão.
 
 Benefício: Enquanto estiver usando duas armas, as penalidades de ataque de ambas as armas (principal e não dominante) diminuem em 2.
 
-Normal: Sem os talentos Ambidestria e Combate com Duas Armas, um personagem sofre uma penalidade de -6 no ataque com a arma principal e -10 na arma da mão não dominante. Essas penalidades também são diminuídas em 2 se a arma da mão não dominante for uma adaga ou espada curta.~
+Normal: Sem os talentos Ambidestria e Combate com Duas Armas, um personagem sofre uma penalidade de -6 no ataque com a arma principal e -10 na arma da mão não dominante. Essas penalidades também são diminuídas em 2 se a arma da mão não dominante for uma adaga ou espada curta.
+(Original: Two-Weapon Fighting)~
 @711 = ~MAGOCRACIA CORTÊS:
 
 Você foi criado em uma terra onde poderosos magos ordenam os assuntos. Onde feiticeiros poderosos são comuns, a cortesia cautelosa é a norma e todos têm um olhar apurado para bens mágicos.
 
-Benefício: Você recebe +2 em todas os testes de Diplomacia e Conhecimento de Magia. Além disso, ao comprar bens de um NPC que seja mago ou feiticeiro, você é tratado como se tivesse +6 de Carisma (o que se acumula com todos os outros bônus de Carisma), reduzindo os preços em cerca de 9%.~
+Benefício: Você recebe +2 em todas os testes de Diplomacia e Conhecimento de Magia. Além disso, ao comprar bens de um NPC que seja mago ou feiticeiro, você é tratado como se tivesse +6 de Carisma (o que se acumula com todos os outros bônus de Carisma), reduzindo os preços em cerca de 9%.
+(Original: Corteous Magocracy)~
 @712 = ~MAGIA EM COMBATE:
 
 Pré-requisito: Nenhum para o primeiro grau, mas para adquirir o grau seguinte é necessário 15 em Concentração.
@@ -1501,7 +1581,8 @@ Você é habilidoso em lançar magias em combate.
 
 Benefício: Você recebe um bônus de +4 em testes de Concentração feitos para lançar magias enquanto estiver ferido. Além disso, os ataques de oportunidade em resposta ao seu lançamento de magia são feitos com uma penalidade de -4.
 
-Quando adquirido pela segunda vez, a habilidade impede que você provoque qualquer ataque de oportunidade ao lançar magias enquanto um inimigo estiver em alcance corpo a corpo.~
+Quando adquirido pela segunda vez, a habilidade impede que você provoque qualquer ataque de oportunidade ao lançar magias enquanto um inimigo estiver em alcance corpo a corpo.
+(Original: Combat Casting)~
 @713 = ~TIRO PRECISO:
 
 Você é habilidoso em cronometrar e mirar seus ataques à distância.
@@ -1510,18 +1591,21 @@ Pré-requisito: Nenhum para o primeiro grau, mas para adquirir o grau seguinte é 
 
 Benefício: Reduz a penalidade de ataque ao disparar em combate corpo a corpo de -8 para -4, e elimina a penalidade de -4 em ataques à distância quando disparando contra um inimigo engajado em combate corpo a corpo com outro aliado. Além disso, inimigos recebem uma penalidade de -4 em ataques de oportunidade provocados pelos seus ataques à distância.
 
-Quando adquirido pela segunda vez, a habilidade impede que você provoque qualquer ataque de oportunidade ao realizar ataques à distância enquanto um inimigo estiver em alcance corpo a corpo.~
+Quando adquirido pela segunda vez, a habilidade impede que você provoque qualquer ataque de oportunidade ao realizar ataques à distância enquanto um inimigo estiver em alcance corpo a corpo.
+(Original: Precise Shot)~
 @714 = ~DISCIPLINA:
 
 Você é admirado pela sua determinação focada e clareza de propósito. Você é difícil de ser distraído por magias ou golpes.
 
-Benefício: Você ganha um bônus de +1 em testes de Vontade e um bônus de +2 em testes de Concentração. Você também é mais resistente a fintas, agarrões e ataques de derrubada/desarme, que têm -6 de CD contra você.~
+Benefício: Você ganha um bônus de +1 em testes de Vontade e um bônus de +2 em testes de Concentração. Você também é mais resistente a fintas, agarrões e ataques de derrubada/desarme, que têm -6 de CD contra você.
+(Original: Discipline)~
 @715 = ~CORRIDA:
 
 Seu personagem se move um pouco mais rápido do que seus companheiros.
 
-Benefício: Seu personagem se move cerca de 33% mais rápido do que o normal.~
-@716 = ~PROFICIÊNCIA EM ARMAS EXÓTICAS, ESPADA BASTARDA:
+Benefício: Seu personagem se move cerca de 33% mais rápido do que o normal.
+(Original: Dash)~
+@716 = ~PROFICIÊNCIA EM ARMA EXÓTICA, ESPADA BASTARDA:
 
 Você é proficiente no uso de espadas bastardas como arma de uma mão.
 
@@ -1530,6 +1614,7 @@ Benefício: Você faz as rolagens de ataque com a arma normalmente. Dois graus nes
 Normal: Um personagem que usa uma arma sem ser proficiente com ela sofre uma penalidade de -4 nas rolagens de ataque.
 
 Especial: Guerreiros são proficientes com todas as armas exóticas. Você pode adquirir essa habilidade várias vezes.
+(Original: Exotic Weapon Proficiency, Bastard Sword)
 ~
 @717 = ~PROFICIÊNCIA EM ARMAS MARCIAIS, MACHADO:
 
@@ -1540,6 +1625,7 @@ Benefício: Você faz as rolagens de ataque com a arma normalmente. Dois graus nes
 Normal: Um personagem que usa uma arma sem ser proficiente com ela sofre uma penalidade de -4 nas rolagens de ataque.
 
 Especial: Bárbaros, guerreiros, paladinos e rangers são proficientes com todas as armas marciais. Você pode adquirir essa habilidade várias vezes.
+(Original: Martial Weapon Proficiency, Axe)
 ~
 @718 = ~PROFICIÊNCIA EM ARMAS MARCIAIS, ARCO:
 
@@ -1550,6 +1636,7 @@ Benefício: Você faz as rolagens de ataque com a arma normalmente. Dois graus nes
 Normal: Um personagem que usa uma arma sem ser proficiente com ela sofre uma penalidade de -4 nas rolagens de ataque.
 
 Especial: Bárbaros, guerreiros, paladinos e rangers são proficientes com todas as armas marciais. Você pode adquirir essa habilidade várias vezes.
+(Original: Martial Weapon Proficiency, Bow)
 ~
 @719 = ~PROFICIÊNCIA EM ARMAS MARCIAIS, MANGUAL:
 
@@ -1560,6 +1647,7 @@ Benefício: Você faz as rolagens de ataque com a arma normalmente. Dois graus nes
 Normal: Um personagem que usa uma arma sem ser proficiente com ela sofre uma penalidade de -4 nas rolagens de ataque.
 
 Especial: Bárbaros, guerreiros, paladinos e rangers são proficientes com todas as armas marciais. Você pode adquirir essa habilidade várias vezes.
+(Original: Martial Weapon Proficiency, Flail)
 ~
 @720 = ~PROFICIÊNCIA EM ARMAS MARCIAIS, MONTANTE:
 
@@ -1570,6 +1658,7 @@ Benefício: Você faz as rolagens de ataque com a arma normalmente. Dois graus nes
 Normal: Um personagem que usa uma arma sem ser proficiente com ela sofre uma penalidade de -4 nas rolagens de ataque.
 
 Especial: Bárbaros, guerreiros, paladinos e rangers são proficientes com todas as armas marciais. Você pode adquirir essa habilidade várias vezes.
+(Original: Martial Weapon Proficiency, Greatsword)
 ~
 @721 = ~PROFICIÊNCIA EM ARMAS MARCIAIS, MARTELO:
 
@@ -1580,26 +1669,29 @@ Benefício: Você faz as rolagens de ataque com a arma normalmente. Dois graus nes
 Normal: Um personagem que usa uma arma sem ser proficiente com ela sofre uma penalidade de -4 nas jogadas de ataque.
 
 Especial: Bárbaros, guerreiros, paladinos e rangers são proficientes com todas as armas marciais. Você pode adquirir esta perícia várias vezes.
+(Original: Martial Weapon Proficiency, Hammer)
 ~
-@722 = ~PROFICIÊNCIA EM ARMAS MARCIAIS, ESPADA GRANDE:
+@722 = ~PROFICIÊNCIA EM ARMAS MARCIAIS, LÂMINA GRANDE:
 
-Esta perícia permitirá que você seja proficiente com espadas grandes.
+Esta perícia permitirá que você seja proficiente com espadas de lâminas grandes.
 
 Benefício: Você faz as jogadas de ataque com a arma normalmente. Duas classificações nesta perícia correspondem ao Foco em Arma, o que concede +1 de ataque. Um Guerreiro de 4º nível pode adquirir uma terceira classificação na perícia para Especialização em Arma, o que concede +2 de dano. Um Guerreiro de 8º nível pode adquirir uma quarta classificação na perícia para Foco em Arma Maior, o que concede mais +1 de ataque. Um Guerreiro de 12º nível pode adquirir uma quinta classificação na perícia para Especialização em Arma Maior, o que concede mais +2 de dano.
 
 Normal: Um personagem que usa uma arma sem ser proficiente com ela sofre uma penalidade de -4 nas jogadas de ataque.
 
 Especial: Bárbaros, guerreiros, paladinos e rangers são proficientes com todas as armas marciais. Você pode adquirir esta perícia várias vezes.
+(Original: Martial Weapon Proficiency, Large Sword)
 ~
-@723 = ~PROFICIÊNCIA EM ARMAS MARCIAIS, ALABARDA:
+@723 = ~PROFICIÊNCIA EM ARMAS MARCIAIS, ARMA DE HASTE:
 
-Esta perícia permitirá que você seja proficiente com alabarda.
+Esta perícia permitirá que você seja proficiente com alabarda e arma de haste.
 
 Benefício: Você faz as jogadas de ataque com a arma normalmente. Duas classificações nesta perícia correspondem ao Foco em Arma, o que concede +1 de ataque. Um Guerreiro de 4º nível pode adquirir uma terceira classificação na perícia para Especialização em Arma, o que concede +2 de dano. Um Guerreiro de 8º nível pode adquirir uma quarta classificação na perícia para Foco em Arma Maior, o que concede mais +1 de ataque. Um Guerreiro de 12º nível pode adquirir uma quinta classificação na perícia para Especialização em Arma Maior, o que concede mais +2 de dano.
 
 Normal: Um personagem que usa uma arma sem ser proficiente com ela sofre uma penalidade de -4 nas jogadas de ataque.
 
 Especial: Bárbaros, guerreiros, paladinos e rangers são proficientes com todas as armas marciais. Você pode adquirir esta perícia várias vezes.
+(Original: Martial Weapon Proficiency, Polearm)
 ~
 @724 = ~PROFICIÊNCIA EM ARMAS SIMPLES, BESTA:
 
@@ -1608,6 +1700,7 @@ Você entende como usar bestas.
 Benefício: Você faz as jogadas de ataque com a arma normalmente. Duas classificações nesta perícia correspondem ao Foco em Arma, o que concede +1 de ataque. Um Guerreiro de 4º nível pode adquirir uma terceira classificação na perícia para Especialização em Arma, o que concede +2 de dano. Um Guerreiro de 8º nível pode adquirir uma quarta classificação na perícia para Foco em Arma Maior, o que concede mais +1 de ataque. Um Guerreiro de 12º nível pode adquirir uma quinta classificação na perícia para Especialização em Arma Maior, o que concede mais +2 de dano.
 
 Normal: Um personagem que usa uma arma sem ser proficiente com ela sofre uma penalidade de -4 nas jogadas de ataque.
+(Original: Simple Weapon Proficiency, Crossbow)
 ~
 @725 = ~PROFICIÊNCIA EM ARMAS SIMPLES, MAÇA:
 
@@ -1616,6 +1709,7 @@ Você entende como usar maças.
 Benefício: Você faz as jogadas de ataque com a arma normalmente. Duas classificações nesta perícia correspondem ao Foco em Arma, o que concede +1 de ataque. Um Guerreiro de 4º nível pode adquirir uma terceira classificação na perícia para Especialização em Arma, o que concede +2 de dano. Um Guerreiro de 8º nível pode adquirir uma quarta classificação na perícia para Foco em Arma Maior, o que concede mais +1 de ataque. Um Guerreiro de 12º nível pode adquirir uma quinta classificação na perícia para Especialização em Arma Maior, o que concede mais +2 de dano.
 
 Normal: Um personagem que usa uma arma sem ser proficiente com ela sofre uma penalidade de -4 nas jogadas de ataque.
+(Original: Simple Weapon Proficiency, Mace)
 ~
 @726 = ~PROFICIÊNCIA EM ARMAS SIMPLES, PROJÉTIL:
 
@@ -1626,22 +1720,25 @@ Benefício: Você faz as jogadas de ataque com a arma normalmente. Duas classifica
 Normal: Um personagem que usa uma arma sem ser proficiente com ela sofre uma penalidade de -4 nas jogadas de ataque.
 
 Nota: Arcos curtos e arcos longos usam Proficiência em Armas Marciais, Arco.
+(Original: Simple Weapon Proficiency, Missile)
 ~
-@727 = ~PROFICIÊNCIA EM ARMAS SIMPLES, BORDÃO:
+@727 = ~PROFICIÊNCIA EM ARMAS SIMPLES, CAJADO:
 
-Você entende como usar bordões.
+Você entende como usar cajados e bordões.
 
 Benefício: Você faz as jogadas de ataque com a arma normalmente. Duas classificações nesta perícia correspondem ao Foco em Arma, o que concede +1 de ataque. Um Guerreiro de 4º nível pode adquirir uma terceira classificação na perícia para Especialização em Arma, o que concede +2 de dano. Um Guerreiro de 8º nível pode adquirir uma quarta classificação na perícia para Foco em Arma Maior, o que concede mais +1 de ataque. Um Guerreiro de 12º nível pode adquirir uma quinta classificação na perícia para Especialização em Arma Maior, o que concede mais +2 de dano.
 
 Normal: Um personagem que usa uma arma sem ser proficiente com ela sofre uma penalidade de -4 nas jogadas de ataque.
+(Original: Simple Weapon Proficiency, Quaterstaff)
 ~
-@728 = ~PROFICIÊNCIA EM ARMAS SIMPLES, LÂMINA PEQUENA/SEM ARMAS:
+@728 = ~PROFICIÊNCIA EM ARMAS SIMPLES, LÂMINA PEQUENA/DESARMADO:
 
 Você entende como usar lâminas pequenas, como adagas e espadas curtas, bem como como lutar sem armas, com armas naturais e com ataques mágicos corpo a corpo à distância que requerem uma jogada de ataque, como Infligir Ferimentos Leves ou Toque Chocante.
 
 Benefício: Você faz as jogadas de ataque com a arma normalmente. Duas classificações nesta perícia correspondem ao Foco em Arma, o que concede +1 de ataque. Um Guerreiro de 4º nível pode adquirir uma terceira classificação na perícia para Especialização em Arma, o que concede +2 de dano. Um Guerreiro de 8º nível pode adquirir uma quarta classificação na perícia para Foco em Arma Maior, o que concede mais +1 de ataque. Um Guerreiro de 12º nível pode adquirir uma quinta classificação na perícia para Especialização em Arma Maior, o que concede mais +2 de dano.
 
 Normal: Um personagem que usa uma arma sem ser proficiente com ela sofre uma penalidade de -4 nas jogadas de ataque.
+(Original: Simple Weapon Proficiency, Small Blade/Unarmed)
 ~
 @729 = ~ATAQUE ATORDOANTE:
 
@@ -1649,7 +1746,8 @@ Você sabe como atingir os oponentes em áreas vulneráveis.
 
 Pré-requisitos: Dex 13+, Sab 13+, bônus de ataque base +8 ou superior
 
-Benefício: Ao atacar com Ataque Atordoante, você força um inimigo que foi danificado pelo seu ataque desarmado a fazer um teste de resistência de Fortitude (CD 10 + metade do seu nível + modificador de Sab), além de causar dano normalmente. Se o defensor falhar no teste de resistência, ele fica atordoado por 1 rodada. Um personagem atordoado não pode agir e pode ser atingido automaticamente. Você pode tentar um ataque atordoante uma vez por dia a cada quatro níveis que você tenha alcançado.~
+Benefício: Ao atacar com Ataque Atordoante, você força um inimigo que foi danificado pelo seu ataque desarmado a fazer um teste de resistência de Fortitude (CD 10 + metade do seu nível + modificador de Sab), além de causar dano normalmente. Se o defensor falhar no teste de resistência, ele fica atordoado por 1 rodada. Um personagem atordoado não pode agir e pode ser atingido automaticamente. Você pode tentar um ataque atordoante uma vez por dia a cada quatro níveis que você tenha alcançado.
+(Original: Stunning Attack)~
 @730 = ~ESQUIVA:
 
 Você é habilidoso em desviar de golpes.
@@ -1658,7 +1756,8 @@ Pré-requisito: Dex 13+. Para tomar a perícia uma segunda vez, é necessário Dex 2
 
 Benefício: Você recebe um bônus de esquiva de +1 para a Classe de Armadura contra ataques de um oponente.
 
-Quando tomada uma segunda vez, a perícia também permite que você desvie automaticamente do primeiro ataque que o atingiria a cada rodada.~
+Quando tomada uma segunda vez, a perícia também permite que você desvie automaticamente do primeiro ataque que o atingiria a cada rodada.
+(Original: Dodge)~
 @783 = ~Humano~
 @784 = ~HUMANO:
 
@@ -1908,7 +2007,7 @@ Vantagens:
 * +4 bônus racial em testes de Furtividade. Os anões cinzas se destacam em movimentos furtivos.
 * Tentativas de derrubar/atropelar anões têm a CD reduzida em 4, já que os anões são especialmente estáveis.
 * +4 bônus de esquiva contra gigantes.
-* Imunidade à paralisia (ainda vulneráveis a ataques de atordoamento).
+* Imunidade à paralisia (ainda vulneráveis a ataques de atordoante).
 * Invisibilidade 1 vez por dia.
 * Aumento de Tamanho 1 vez por dia.
 * Perícia com machados e martelos.
@@ -2113,7 +2212,7 @@ Vantagens:
 * +2 bônus racial em testes de resistência contra magias e efeitos mágicos.
 * +4 bônus racial em testes de Furtividade. Os anões cinzas se destacam em movimentos furtivos.
 * +4 bônus de esquiva contra gigantes.
-* Imunidade à paralisia (ainda vulneráveis a ataques de atordoamento).
+* Imunidade à paralisia (ainda vulneráveis a ataques de atordoante).
 * Invisibilidade 1 vez por dia.
 * Aumento de Tamanho 1 vez por dia.
 * Perícia com machados e martelos.
@@ -2295,7 +2394,7 @@ Para agarrar, você deve ter pelo menos uma mão livre. A jogada de salvamento gan
 @942 = ~Compor Poções
 
 Essa habilidade pode ser usada uma vez por rodada. Ela abre um menu que permite gastar recursos para criar poções. Para cada 2 pontos de Alquimia acima de 10, você será capaz de criar uma variedade mais ampla de poções.~
-@943 = ~Envenenar Arma
+@943 = ~Arma Envenenada
 
 Você recobre suas armas com veneno. Por 5 rodadas, cada golpe que você der com qualquer arma (incluindo armas de projétil) envenenará o alvo, a menos que ele faça uma jogada de Fortitude (CD 6 + sua habilidade de Alquimia). Se envenenado, o alvo sofre 12 de dano de veneno nos próximos 6 segundos.~
 @944 = ~Derrubar
@@ -2334,25 +2433,25 @@ Essa habilidade cria uma conexão mística entre o paladino e o alvo, de forma que
 @957 = ~Ampliar-se
 
 Essa habilidade faz com que o duergar cresça temporariamente duas vezes o tamanho em cada dimensão. O duergar ganha +8 em Força e Constituição; esses são bônus de tamanho que se acumulam com outros bônus para esses atributos. A velocidade do duergar também aumenta (já que ele cobre mais distância a cada passo). No entanto, o duergar também recebe uma penalidade de -4 em Destreza, CA e jogadas de ataque devido ao aumento de tamanho. O duergar não pode se beneficiar de invisibilidade, desfoque ou Reflexos enquanto estiver sob esse efeito. Ampliar-se dura 1 rodada por nível.~
-@958 = ~Magia Ampliada
+@958 = ~Ampliar Magia
 
 Esse metamagia aumenta o raio da próxima magia que você lançar em 50%. Ele ocupará um espaço de magia de um nível mais alto. Habilidades metamagicas podem ser usadas como uma ação livre qualquer número de vezes por dia.~
-@959 = ~Magia Maximizadora
+@959 = ~Maximizar Magia
 
 Esse metamagia faz com que a próxima magia que você lançar cause dano máximo ou cure o máximo número de pontos de vida. Ele ocupará um espaço de magia de três níveis mais altas. Habilidades metamagicas podem ser usadas como uma ação livre qualquer número de vezes por dia.~
-@960 = ~Magia Estendida
+@960 = ~Estender Magia
 
 Esse metamagia faz com que a próxima magia que você lançar dure o dobro de tempo. Ele ocupará um espaço de magia de um nível mais alto. Magia Estendida não pode ser usado em magias que tenham uma duração base inferior a cinco rodadas. Habilidades metamagicas podem ser usadas como uma ação livre qualquer número de vezes por dia.~
 @961 = ~Magia Segura
 
 Esse metamagia impede que a próxima magia que você lançar cause dano a aliados. Ele ocupará um espaço de magia de um nível mais alto. Habilidades metamagicas podem ser usadas como uma ação livre qualquer número de vezes por dia.~
-@962 = ~Magia Potencializada
+@962 = ~Potencializar Magia
 
 Esse metamagia aumenta o dano, a cura e o número de criaturas invocadas pela próxima magia que você lançar em 50% (arredondado para baixo). Ele ocupará um espaço de magia de dois níveis mais altas. Habilidades metamagicas podem ser usadas como uma ação livre qualquer número de vezes por dia.~
-@963 = ~Magia Acelerada
+@963 = ~Acelerar Magia
 
 Esse metamagia permite que você lance instantaneamente a próxima magia, mesmo que já tenha lançado uma magia na rodada. Ele ocupará um espaço de magia de dois níveis mais altas. Você pode acelerar apenas uma magia por rodada. Habilidades metamagicas podem ser usadas como uma ação livre qualquer número de vezes por dia.~
-@964 = ~Magia Persistente
+@964 = ~Persistir Magia
 
 Esse metamagia faz com que a próxima magia que você lançar dure 8 horas. Ele ocupará um espaço de magia de seis níveis mais altas. Magia Persistente não pode afetar magias que tenham uma duração base inferior a cinco rodadas. Habilidades metamagicas podem ser usadas como uma ação livre qualquer número de vezes por dia.~
 @965 = ~Magia em Massa
@@ -2369,7 +2468,8 @@ Essa habilidade cria uma barreira mágica ao redor da criatura alvo, concedendo u
 Quando essa habilidade é aplicada em um indivíduo doente, ela imediatamente o cura e restaura 5 pontos de vida perdidos.~
 @969 = ~Destruir o Mal
 
-Ao usar essa habilidade, o paladino tentará Detruir o Mal com seu próximo ataque corpo a corpo. Ele adiciona seu modificador de Carisma (se positivo) à sua jogada de ataque e causa um número adicional de dados de 4 iguais ao seu nível de paladino mais seu modificador de Carisma, desde que o alvo seja maligno.~
+Ao usar essa habilidade, o paladino tentará Detruir o Mal com seu próximo ataque corpo a corpo. Ele adiciona seu modificador de Carisma (se positivo) à sua jogada de ataque e causa um número adicional de dados de 4 iguais ao seu nível de paladino mais seu modificador de Carisma, desde que o alvo seja maligno.
+(Original: Smite Evil)~
 @970 = ~Queimadura Solar
 
 Ao completar essa habilidade, um raio brilhante de calor escaldante desce do céu e queima a criatura alvo por 1d6 + 1 de dano de fogo por nível do conjurador (máximo de 1d6 + 15). Criaturas mortas-vivas e monstros vulneráveis à luz intensa recebem 1d6 + 2 de dano de fogo por nível do conjurador (máximo de 1d6 + 30). As vítimas devem fazer uma jogada de Fortitude bem-sucedida ou ficarão cegas por 3 rodadas. Drows e anões cinzas ficam cegos por 3 rodadas (sem salvamento).~
@@ -2654,7 +2754,7 @@ Perícia Requerida: Armas Simples, Projétil
 Tipo: Uma mão
 ~
 @4746 = ~Óleo de Fada~
-@4747 = ~Criaturas feéricas são difíceis de encontrar e ainda mais difíceis de capturar, mas um alquimista que consiga capturar um número suficiente delas pode roubar esses poderes, mesmo que por pouco tempo. O líquido em si nada mais é do que turfa e botões-de-ouro triturados misturados com azeite de oliva, mas se o alquimista conseguir convencer um grupo de fadas a dotar o óleo com sua magia — ou se o alquimista misturar o óleo com o sangue e os ossos em pó das fadas - esta poção envolverá quem a beber com uma pequena nuvem de magia ilusória semelhante à magia da Reflexos.
+@4747 = ~Criaturas feéricas são difíceis de encontrar e ainda mais difíceis de capturar, mas um alquimista que consiga capturar um número suficiente delas pode roubar esses poderes, mesmo que por pouco tempo. O líquido em si nada mais é do que turfa e botões-de-ouro triturados misturados com azeite de oliva, mas se o alquimista conseguir convencer um grupo de fadas a dotar o óleo com sua magia - ou se o alquimista misturar o óleo com o sangue e os ossos em pó das fadas - esta poção envolverá quem a beber com uma pequena nuvem de magia ilusória semelhante à magia da Reflexos.
 
 ESTATÍSTICAS:
 

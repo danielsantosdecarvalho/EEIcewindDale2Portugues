@@ -188,7 +188,7 @@ Tempo de Conjuração: 1 rodada
 Área de Efeito: Raio de 3 metros (10 pés)
 Teste de Resistência: Nenhum
 
-Este feitiço cobre a área de efeito com uma névoa verde — qualquer criatura viva e não hostil dentro da névoa será curada de doenças, venenos, e terá 80 pontos de dano restaurados.~
+Este feitiço cobre a área de efeito com uma névoa verde - qualquer criatura viva e não hostil dentro da névoa será curada de doenças, venenos, e terá 80 pontos de dano restaurados.~
 @1032    = ~Dreno Menor de Larloch~
 @1033    = ~Dreno Menor de Larloch
 (Necromancia)
@@ -540,8 +540,8 @@ Tempo de Conjuração: 3
 Teste de Resistência: Fortitude parcial
 
 Este feitiço dispara uma lança mágica de gelo contra um alvo escolhido pelo conjurador. Acerta automaticamente, causando 5d6 pontos de dano por frio e forçando o alvo a fazer um teste de Fortitude ou ficar atordoado por 3 rodadas.~
-@1090    = ~Lança da Disrupção~
-@1091    = ~Lança da Disrupção
+@1090    = ~Lança da Ruptura~
+@1091    = ~Lança da Ruptura
 (Evocação)
 Nível: Fet/Mag 3
 Alcance: 18 metros (60 pés)
@@ -1098,8 +1098,8 @@ Teste de Resistência: Nenhum
 Este feitiço invoca víboras que saltam da boca do conjurador para atacar seus inimigos. A partir da rodada em que o feitiço termina, o conjurador cospe uma víbora a cada rodada enquanto durar o feitiço. As víboras cuspidas aterrissam aos pés do conjurador e permanecem por 3 rodadas. Até que todas as víboras invocadas por este feitiço sejam expelidas, o conjurador sofre uma penalidade de 50% de falha na magia.
 ~
 @1558    = ~Víbora~
-@1559    = ~Armadilha de Crânios~
-@1560    = ~Armadilha de Crânios
+@1559    = ~Armadilha de Caveira~
+@1560    = ~Armadilha de Caveira
 (Necromancia)
 Nível: Fet/Mag 3
 Alcance: Visão do Conjurador
@@ -1555,8 +1555,8 @@ Teste de Resistência: Nenhum
 
 Este feitiço concede uma velocidade incrível a todas as criaturas amigas dentro da área de efeito. Todas as criaturas afetadas pelo feitiço recebem um bônus de +12 na taxa de movimento durante a duração.
 ~
-@1694 = ~Desintegração~
-@1695 = ~Desintegração
+@1694 = ~Desintegrar~
+@1695 = ~Desintegrar
 (Transmutação)
 Nível: Fet/Mag 6
 Alcance: Visão do Conjurador
@@ -1566,8 +1566,8 @@ Tempo de Conjuração: 5
 Teste de Resistência: Fortitude parcial
 
 O feitiço transforma uma criatura em pó. Ao ser lançado, uma bola de energia verde dispara do conjurador para o alvo, que será desintegrado a menos que faça um teste de Fortitude com +2 de CD. Se a vítima passar no teste de resistência, sofrerá 5d6 de dano mágico. Se falhar, sofrerá 2d6 de dano mágico por nível do conjurador (máximo de 40d6). Um membro do grupo morto por este feitiço não pode ser revivido com o feitiço Levantar Mortos, mas ainda pode ser trazido de volta com Ressurreição. Este feitiço afeta criaturas mortas-vivas.~
-@1696 = ~Palavra de Poder: Cegueira~
-@1697 = ~Palavra de Poder: Cegueira
+@1696 = ~Palavra de Poder: Cegar~
+@1697 = ~Palavra de Poder: Cegar
 (Adivinhação)
 Nível: Brd 7, Fet/Mag 8, Tempus 7, Bane 8
 Alcance: Visão do Conjurador
@@ -1815,8 +1815,8 @@ Teste de Resistência: Reflexo
 Este feitiço cria um segmento de frio profundo que surge da mão do conjurador, tomando a forma de uma cimitarra e sendo empunhada como tal. A lâmina é uma arma +2. Ela causa 2d6+2 de dano de frio e ignora bônus de armadura e escudo. A vítima deve fazer um teste de Reflexos ou ser desacelerada por 2 rodadas. O DC de Reflexos é igual a 12 mais os bônus de Sabedoria e Foco de Feitiço do conjurador. A Lâmina de Gelo usa a proficiência em Arma Marcial: Espada Grande e recebe bônus para ataque e dano de Força, proficiência, feitiços, itens e outros efeitos.
 
 Quando lançado como uma magia de ranger, esta magia cria uma Lâmina de Gelo em cada mão.~
-@1764 = ~Cajado de Metal Estelar~
-@1765 = ~Cajado de Metal Estelar
+@1764 = ~Cassetéte de Metal Estelar~
+@1765 = ~Cassetéte de Metal Estelar
 (Conjuração)
 Nível: Drd 4, Rgr 3
 Alcance: Conjurador
@@ -1825,7 +1825,7 @@ Tempo de Conjuração: 7
 Área de Efeito: Conjurador
 Teste de Resistência: Nenhum
 
-Esta magia cria um cajado mágico de ferro meteórico (1d6) que tem +4 para atacar e causar dano, e é tratado como uma arma +6 para fins de o que pode atingir. Ela causa 3d6 pontos adicionais de dano mágico contra todas as formas de criaturas não naturais. Para fins de redução de dano, é tratada como uma arma de ferro frio, causando dano total a demônios. O Cajado de Metal Estelar usa a proficiência de Arma Simples: Maça.~
+Esta magia cria um cajado mágico de ferro meteórico (1d6) que tem +4 para atacar e causar dano, e é tratado como uma arma +6 para fins de o que pode atingir. Ela causa 3d6 pontos adicionais de dano mágico contra todas as formas de criaturas não naturais. Para fins de redução de dano, é tratada como uma arma de ferro frio, causando dano total a demônios. O Cassetéte de Metal Estelar usa a proficiência de Arma Simples: Maça.~
 @1767 = ~Animar Esqueleto/Zumbi~
 @1768 = ~Este pergaminho contém o conhecimento de duas magias, Animar Esqueleto e Animar Zumbi:
 
@@ -1934,8 +1934,8 @@ Tempo de Conjuração: 2
 Teste de Resistência: Nenhum
 
 Esta magia imbuí as mãos do conjurador com energia negativa destrutiva que será liberada quando um ataque de toque for bem-sucedido. Este ataque causa 3d8 de dano mágico + 3 por nível do conjurador (máximo de 3d8 + 90). Se usada em uma criatura morta-viva, ela em vez disso será curada pela mesma quantidade, sem a necessidade de uma jogada de ataque. Esta magia não provoca ataque de oportunidade quando usada para prejudicar os vivos.~
-@1783 = ~Causar Ferimentos Críticos~
-@1784 = ~Causar Ferimentos Críticos
+@1783 = ~Infligir Ferimentos Críticos~
+@1784 = ~Infligir Ferimentos Críticos
 (Necromancia)
 Nível: Clr 4
 Alcance: Toque
@@ -2107,8 +2107,8 @@ Teste de Resistência: Nenhum
 
 Este feitiço concede resistência de dano 20/- contra frio à criatura alvo durante a duração.
 ~
-@1861 = ~Curar de Ferimentos Leves~
-@1862 = ~Curar de Ferimentos Leves
+@1861 = ~Curar Ferimentos Leves~
+@1862 = ~Curar Ferimentos Leves
 (Conjuração)
 Nível: Brd 1, Clr 1, Drd 1, Pal 1, Rgr 2
 Alcance: Toque
@@ -2597,7 +2597,7 @@ Lançador: Arco~
 @30056 = ~Incorporal~
 @30057 = ~Etéreo~
 @30058 = ~Levitação~
-@30059 = ~Resistência Reduzida~
+@30059 = ~Reduzir Resistência~
 @30060 = ~Aumentado~
 @30061 = ~Distância de Pulo Aumentada~
 @30062 = ~Voando~
@@ -2645,7 +2645,7 @@ Lançador: Arco~
 @30104 = ~Cajado de Feitiço (Queimadura Solar)~
 @30105 = ~Cajado de Feitiço (Desespero)~
 @30106 = ~Cajado de Feitiço (Fogo de Fada)~
-@30107 = ~Cajado de Feitiço (Dedos Congelantes)~
+@30107 = ~Cajado de Feitiço (Dedos de Gelo)~
 @30108 = ~Cajado de Feitiço (Invocar Aliado da Natureza I)~
 @30109 = ~Cajado de Feitiço (Marca do Caçador)~
 @30110 = ~Cajado de Feitiço (Redução)~
@@ -2831,7 +2831,7 @@ Esta habilidade pode ser usada como uma ação livre. ~
 @30249=~... Proteção contra Frio.~
 @30250=~... Proteção contra Fogo.~
 @30251=~... Remover Magia.~
-@30252=~... Armadilha de Crânios.~
+@30252=~... Armadilha de Caveira.~
 @30253=~... Lentidão.~
 @30254=~... Névoa Fétida.~
 @30255=~... Invocar Monstro III.~
@@ -3023,8 +3023,8 @@ Tempo de Conjuração: 1
 Teste de Resistência: Nenhum
 
 A armadura da fé é uma força de energia que absorve uma parte do dano destinado ao lançador. O lançador ganha resistência 1/- a todos os danos não venenosos pela duração do feitiço. A cada cinco níveis de lançador, ele ganha outra resistência 1/-.~
-@31117 = ~Dedos Congelantes~
-@32117 = ~Dedos Congelantes
+@31117 = ~Dedos de Gelo~
+@32117 = ~Dedos de Gelo
 (Transmutação)
 Nível: Drd 1
 Alcance: Conjurador
@@ -3126,8 +3126,8 @@ Tempo de Conjuração: 6
 Teste de Resistência: Vontade nega
 
 Este feitiço imobiliza rigidamente animais. Animais com poderes mágicos, como lobos do inverno, também são afetados, assim como algumas criaturas mais animalescas, como remorhazes. O efeito é centrado em um ponto escolhido pelo lançador, e 1-4 animais dentro de 6 metros (20 pés) do ponto são afetados. Aqueles que tiverem sucesso no teste de Vontade não serão afetados pelo feitiço. Estar imobilizado não impede que a condição do alvo piore devido a ferimentos, doenças ou venenos.~
-@31308 = ~Remover Paralisação~
-@32308 = ~Remover Paralisação
+@31308 = ~Remover Paralisia~
+@32308 = ~Remover Paralisia
 (Conjuração)
 Nível: Clr 2, Pal 2
 Alcance: Curto
@@ -3498,8 +3498,8 @@ Tempo de Conjuração: 3
 Teste de Resistência: Vontade nega
 
 Uma criatura afetada por Lentidão perde um ataque a cada rodada (mas não ficará abaixo de 1 ataque por rodada), tem -4 na CA e se move à metade de sua taxa de movimento base. Um sucesso no teste de Vontade com +4 de dificuldade impede os efeitos. Lentidão dissipa os feitiços Velocidade, Velocidade em Massa e Velocidade Aprimorada.~
-@33316 = ~Encanto Sombrio~
-@34316 = ~Encanto Sombrio
+@33316 = ~Encanto Macabro~
+@34316 = ~Encanto Macabro
 (Encantamento)
 Nível: Brd 2, Fet/Mag 3, Bane 3
 Alcance: Visão do Conjurador
@@ -3508,7 +3508,7 @@ Tempo de Conjuração: 3
 Área de Efeito: 1 criatura
 Teste de Resistência: Vontade nega
 
-Este feitiço é semelhante ao feitiço Enfeitiçar Pessoa. No entanto, a criatura afetada entra em um estado de fúria, não querendo que ninguém prejudique seu mestre (o conjurador). Assim, a criatura lutará contra os inimigos do conjurador, até mesmo ex-aliados. O Encanto Sombrio pode afetar tanto humanoides quanto gigantes.~
+Este feitiço é semelhante ao feitiço Enfeitiçar Pessoa. No entanto, a criatura afetada entra em um estado de fúria, não querendo que ninguém prejudique seu mestre (o conjurador). Assim, a criatura lutará contra os inimigos do conjurador, até mesmo ex-aliados. O Encanto Macabro pode afetar tanto humanoides quanto gigantes.~
 @34321 = ~Esfera de Invisibilidade
 (Ilusão)
 Nível: Brd 3, Fet/Mag 3, Mask 3

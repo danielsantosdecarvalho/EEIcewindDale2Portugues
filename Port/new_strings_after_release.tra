@@ -301,7 +301,7 @@ Vantagens:
 * Muitas perícias de ladino são perícias de classe do Bardo.
 * Canções de Bardo. Bardos têm a habilidade de cantar melodias que têm efeitos mágicos em criaturas em um raio de 9 metros. À medida que avançam de nível, ganham canções adicionais. As canções são descritas em detalhes abaixo.
 * 1º nível: O Conto de Curran Strongheart. Quando usada, todos os aliados do bardo ganham +1 de bônus de ataque, +1 de dano e imunidade a medo e desesperança. Os bônus de ataque e dano aumentam em 1 nos níveis 10, 25 e 40.
-* 3º nível: A Canção dos Kaudies. Quando usada, os aliados do bardo são imunes a magias e habilidades nocivas baseadas em som, incluindo Comando, Silêncio, Comando Maior, Palavra Sagrada, Blasfêmia, Palavra de Poder: Sono, Explosão Sonora, Grito, Palavra de Poder: Silêncio, Palavra de Poder: Atordoamento, Palavra de Poder: Cegueira, Grande Grito, Grito da Banshee, Palavra de Poder: Matar, grito de harpia e os efeitos exclusivos para inimigos de Canto, Prece e Recitação.
+* 3º nível: A Canção dos Kaudies. Quando usada, os aliados do bardo são imunes a magias e habilidades nocivas baseadas em som, incluindo Comando, Silêncio, Comando Maior, Palavra Sagrada, Blasfêmia, Palavra de Poder: Sono, Explosão Sonora, Grito, Palavra de Poder: Silêncio, Palavra de Poder: Atordoamento, Palavra de Poder: Cegar, Grande Grito, Grito da Banshee, Palavra de Poder: Matar, grito de harpia e os efeitos exclusivos para inimigos de Canto, Prece e Recitação.
 * 5º nível: Melodia de Tymora. Quando usada, a Melodia de Tymora concede aos aliados do bardo +1 de sorte, +1 em testes de resistência e +2 em Conhecimento (arcano), Alquimia e perícias de ladino. Nos níveis 15 e 35, esta canção concede +1 adicional em testes de sorte e resistência e +2 em testes de perícia.
 * 9º nível: O Anseio da Sereia. Quando tocada, toda criatura que ouvir a canção sofre uma penalidade cumulativa de -1 em seus testes de Vontade por 10 rodadas e deve fazer um teste de Vontade ou será aprisionada, incapaz de realizar ações por uma rodada ou até sofrer dano. A CD de Vontade é igual ao nível do bardo. Portanto, a canção de um bardo de nível 15 tem CD 15.
 * 13º nível: O Canto de Guerra dos Sith. Quando tocada, os aliados do bardo ganham um bônus de armadura genérico de +2, resistência a dano físico de 3/- e regeneram 3 pontos de dano por rodada em combate. Nos níveis 28 e 45, esta canção concede +2 adicional na CA, resistência a dano físico de 3/- e 3 pontos de vida curados por rodada.
@@ -444,7 +444,8 @@ Pré-requisito: Bônus base de ataque +6 ou superior
 
 Benefício: Você ganha uma habilidade que lhe permite atropelar ou derrubar uma criatura adjacente. A habilidade pode ser usada uma vez por rodada. Se sua Destreza for maior que sua Força, você tenta derrubar o alvo, que deve fazer um teste de Reflexos (CD 5 + metade do seu bônus base de ataque + seu modificador de Destreza) ou cair por 4 segundos. Caso contrário, você tenta derrubar seu alvo, que deve fazer um teste de Fortitude (CD 5 + metade do seu bônus base de ataque + seu modificador de Força) ou cair por 4 segundos. A CD recebe -4 para cada vez que alguém tentou atropelar ou derrubar o alvo nas últimas 10 rodadas. Também recebe -4 se o alvo tiver mais de duas pernas ou for mais estável do que um humanoide normal (como um anão). Criaturas maiores que você não podem ser atropeladas ou derrubadas. O tempo gasto para executar esta habilidade faz com que o personagem tenha um ataque a menos na rodada seguinte.
 
-Este talento pode ser escolhido duas vezes. Quando escolhido pela segunda vez, o talento é Atropelar Aprimorado, que adiciona um bônus de +2 à CD e permite que você atropele ou derrube criaturas uma categoria de tamanho maior que você (criaturas cujo círculo não tenha mais que o dobro do raio do seu círculo). ~
+Este talento pode ser escolhido duas vezes. Quando escolhido pela segunda vez, o talento é Atropelar Aprimorado, que adiciona um bônus de +2 à CD e permite que você atropele ou derrube criaturas uma categoria de tamanho maior que você (criaturas cujo círculo não tenha mais que o dobro do raio do seu círculo).
+(Original: Knockdown)~
 @389 = ~LICHDOM:
 
 Após infinitas pesquisas sombrias, você finalmente alcançou a imortalidade... contanto que seu filactério sobreviva.
@@ -461,7 +462,8 @@ Benefício: Mesmo após atender aos requisitos iniciais, você deve escolher este t
 * Você sofre dano de magias de Curar Ferimentos e poções de cura, mas é curado por magias de Infligir Ferimentos.
 * Seus ataques desarmados são substituídos por um Toque de Lich, que causa 3d10+5 de dano de frio e paralisa o alvo por 10 rodadas em caso de falha na resistência (mesma CD da magia Toque de Lich).
 * Você tem uma aura de medo; Qualquer inimigo a até 6 metros de distância que seja pelo menos 5 níveis abaixo do seu deve fazer um teste de Vontade (CD 10 + modificador de Carisma/Inteligência) ou fugir por 1 rodada.
-* Você ganha um filactério que armazena sua força vital. Se morrer, será revivido automaticamente após 8 horas. No entanto, se todos os membros do grupo morrerem, os inimigos destruirão seu filactério e o jogo terminará. ~
+* Você ganha um filactério que armazena sua força vital. Se morrer, será revivido automaticamente após 8 horas. No entanto, se todos os membros do grupo morrerem, os inimigos destruirão seu filactério e o jogo terminará.
+(Original: Lichdom)~
 @390 = ~LICHDOM:
 
 Após infindáveis pesquisas sombrias, você finalmente alcançou a imortalidade... contanto que seu filactério sobreviva.
@@ -478,14 +480,16 @@ Benefício: Mesmo após atender aos requisitos iniciais, você deve realizar este t
 * Você sofre dano de magias de Curar Ferimentos e poções de cura, mas é curado por magias de Infligir Ferimentos.
 * Seus ataques desarmados são substituídos por um Toque de Lich, que causa 3d10+5 de dano de frio e paralisa o alvo por 10 rodadas em caso de falha na resistência (mesma CD da magia Toque de Lich).
 * Você tem uma aura de medo; Qualquer inimigo a até 6 metros de distância que seja pelo menos 5 níveis abaixo do seu deve fazer um teste de Vontade (CD 10 + modificador de Carisma/Inteligência) ou fugir por 1 rodada.
-* Você ganha um filactério que armazena sua força vital. Se morrer, será revivido automaticamente após 8 horas. No entanto, se todos os membros do grupo morrerem, os inimigos destruirão seu filactério e o jogo terminará. ~
+* Você ganha um filactério que armazena sua força vital. Se morrer, será revivido automaticamente após 8 horas. No entanto, se todos os membros do grupo morrerem, os inimigos destruirão seu filactério e o jogo terminará.
+(Original: Lichdom)~
 @704 = ~AGARRAR:
 
 Embora qualquer um possa agarrar algo, você tem a habilidade de agarrar até mesmo uma criatura hostil em meio ao combate.
 
 Benefício: Você ganha uma habilidade que lhe permite agarrar uma criatura adjacente. A habilidade pode ser usada uma vez por rodada. O alvo deve fazer um teste de Reflexos (CD 12 + metade do seu nível + seu modificador de Força ou Destreza (o que for maior)) ou será agarrado por você por 2 rodadas. Enquanto estiver agarrada, a criatura recebe -4 de penalidade de ataque, 50% de chance de falha na magia e não pode se afastar de você. Se você se mover, poderá puxar a criatura consigo.
 
-Para agarrar, você precisa ter pelo menos uma mão livre. O teste de resistência ganha +4 CD se você tiver as duas mãos livres. Ele ganha -4 CD para cada vez que alguém tentou agarrar o alvo nas últimas 10 rodadas. Se você agarrar um aliado ou uma criatura paralisada, atordoada, adormecida ou derrubada, não há teste de resistência. Criaturas maiores que você não podem ser agarradas. ~
+Para agarrar, você precisa ter pelo menos uma mão livre. O teste de resistência ganha +4 CD se você tiver as duas mãos livres. Ele ganha -4 CD para cada vez que alguém tentou agarrar o alvo nas últimas 10 rodadas. Se você agarrar um aliado ou uma criatura paralisada, atordoada, adormecida ou derrubada, não há teste de resistência. Criaturas maiores que você não podem ser agarradas. 
+(Original: Grapple)~
 @730 = ~ESQUIVA:
 
 Você é especialista em esquivar de golpes.
@@ -494,7 +498,8 @@ Pré-requisito: Des 13+. Realizar o talento pela segunda vez requer Des 25+, Evas
 
 Benefício: Você recebe +1 de bônus de esquiva na classe de armadura contra ataques de um oponente.
 
-Ao ser usado pela segunda vez, o talento também permite que você se esquive automaticamente do primeiro ataque que o atingiria a cada rodada. ~
+Ao ser usado pela segunda vez, o talento também permite que você se esquive automaticamente do primeiro ataque que o atingiria a cada rodada. 
+(Original: Dodge)~
 @890 = ~Esquivou do ataque~
 @891 = ~Qual aparência de lich você gostaria de usar?~
 @892 = ~Lich preto.~
@@ -618,6 +623,7 @@ Desvantagens:
 @814 = ~EMPATIA ANIMAL (Car; Somente Treinado; Druida, Somente Ranger):
 
 Use esta perícia para impedir que um cão de guarda latir para você, para fazer um pássaro selvagem pousar em sua mão estendida ou para manter um urso-coruja calmo enquanto você recua. Qualquer criatura selvagem, incluindo animais e monstros animalescos como wyverns, deve fazer um teste de Vontade ou será enfeitiçada por 1 rodada por nível de conjurador.
+(Original: Animal Empathy)
 ~
 @55717=~Este morto-vivo foi fortalecido e ficou mais difícil de expulsar~
 @56006=~Bônus raciais extras para humanos vão aqui. Cada efeito desta magia será aplicado a qualquer personagem humano logo após a criação do personagem.~
@@ -673,7 +679,7 @@ Peso: 0 kg.~
 @11533 = ~A Caveira de Skirling +2~
 @11534 = ~A Caveira de Skirling, que se acredita ser de fabricação gnomo das profundezas, é um mangual de design notavelmente incomum: uma haste de madeira de três pés de comprimento coberta com uma cabeça de pedra esculpida para se assemelhar a uma caveira e coroada com longos e brilhantes fragmentos de cristal impossivelmente duro.
 
-Quando os cristais encantados atingem um objeto, eles vibram e emitem um lamento agudo — esses harmônicos sobrenaturais podem rasgar auras mágicas e dissipar qualquer feitiçaria que envolva o alvo. O mesmo toque também pode ensurdecer o alvo.
+Quando os cristais encantados atingem um objeto, eles vibram e emitem um lamento agudo - esses harmônicos sobrenaturais podem rasgar auras mágicas e dissipar qualquer feitiçaria que envolva o alvo. O mesmo toque também pode ensurdecer o alvo.
 
 ESTATÍSTICAS:
 
@@ -691,7 +697,7 @@ Tipo: Uma Mão~
 @11535 = ~Caveira de Skirling Svirfneblin +4~
 @11536 = ~A Caveira Skirling Svirfneblin, que se acredita ser de fabricação dos gnomos das profundezas, é um mangual de design notavelmente incomum: uma haste de madeira de três pés de comprimento coberta com uma cabeça de pedra esculpida para se assemelhar a uma caveira e coroada com longos e brilhantes fragmentos de cristal incrivelmente duro.
 
-Quando os cristais encantados atingem um objeto, eles vibram e emitem um lamento agudo — esses harmônicos sobrenaturais podem rasgar auras mágicas e dissipar qualquer feitiçaria que envolva o alvo. O mesmo tom de toque também pode ensurdecer o alvo.
+Quando os cristais encantados atingem um objeto, eles vibram e emitem um lamento agudo - esses harmônicos sobrenaturais podem rasgar auras mágicas e dissipar qualquer feitiçaria que envolva o alvo. O mesmo tom de toque também pode ensurdecer o alvo.
 
 ESTATÍSTICAS:
 
@@ -768,7 +774,7 @@ ESTATÍSTICAS:
 Resistência: 20/- Resistência a Dano Mágico
 Todo o dano mágico causado pelo personagem é aumentado em 20%
 Peso: 1,5 kg (3 lb) ~
-@38359 = ~Linguagem
+@38359 = ~Loquacidade
 (Encantamento)
 Nível: Brd 3
 Alcance: Conjurador
@@ -793,7 +799,7 @@ Desvantagens:
 @98 = ~Você deve primeiro instalar o componente principal.~
 @535 = ~MONGE:
 
-Monges são guerreiros que buscam a perfeição por meio da contemplação e também da ação. São lutadores versáteis, especialmente habilidosos em combate sem armas ou armaduras. Embora não possam conjurar magias, os monges possuem uma magia única. Canalizam uma energia sutil, chamada ki, que lhes permite realizar feitos incríveis. O feito mais conhecido dos monges é a capacidade de atordoar um oponente com um golpe desarmado.
+Monges são guerreiros que buscam a perfeição por meio da contemplação e também da ação. São guerreiros versáteis, especialmente habilidosos em combate sem armas ou armaduras. Embora não possam conjurar magias, os monges possuem uma magia única. Canalizam uma energia sutil, chamada ki, que lhes permite realizar feitos incríveis. O feito mais conhecido dos monges é a capacidade de atordoar um oponente com um golpe desarmado.
 
 NOTA: Monges multiclasse usam APENAS seus níveis de monge para determinar o número de ataques em lutas desarmadas.
 
@@ -980,7 +986,7 @@ Tempo de Conjuração: 1 rodada
 Teste de Resistência: Nenhum
 
 Esta magia cobre a área de efeito com uma névoa verde - qualquer criatura viva e não hostil dentro da névoa será curada de doença, veneno e 80 pontos de dano. Esta magia não pode ser conjurada por personagens malignos.~
-@1697 = ~Palavra de Poder: Cegueira
+@1697 = ~Palavra de Poder: Cegar
 (Adivinhação)
 Nível: Brd 7, Fet/Mag 8, Tempus 7, Bane 8
 Alcance: Visão do Conjurador
@@ -1119,7 +1125,7 @@ Tempo de Conjuração: 3
 Teste de Resistência: Nenhum
 
 Esta magia concede ao alvo uma redução de dano de 10/+1 contra projéteis enquanto durar a magia. A redução de dano aumenta com o nível do conjurador para 10/+2 no 5º nível, 10/+3 no 10º, 10/+4 no 15º e 10/+5 no 20º. ~
-@34321 = ~Esfera da Invisibilidade
+@34321 = ~Esfera de Invisibilidade
 (Ilusão)
 Nível: Brd 3, Fet/Mag 3, Mask 3
 Alcance: Conjurador
@@ -1129,7 +1135,7 @@ Tempo de Conjuração: 10
 Teste de Resistência: Nenhum
 
 Esta magia faz com que todas as criaturas a até 3 metros do conjurador desapareçam de vista e se tornem indetectáveis pela visão normal ou mesmo pela visão no escuro. É claro que a criatura invisível não é silenciada magicamente, e certas outras condições podem torná-la detectável. Mesmo aliados não podem ver a criatura invisível ou seu equipamento, a menos que esses aliados normalmente consigam ver coisas invisíveis ou usem magia para isso. Itens derrubados ou deixados pela criatura invisível tornam-se visíveis, e itens pegos desaparecem se guardados nas roupas ou bolsas usadas pela criatura. O feitiço permanece em vigor até ser magicamente quebrado ou dissipado, até que o mago ou o destinatário o cancele, até que o destinatário ataque qualquer criatura ou até que a duração expire. Assim, o ser invisível pode abrir portas, falar, comer, subir escadas, etc., mas se atacar, torna-se imediatamente visível, embora a invisibilidade o permita atacar primeiro. ~
-@38455 = ~Metamorfose Própria
+@38455 = ~Metamorfose Pessoal
 (Transmutação)
 Nível: Fet/Mag 4
 Alcance: Conjurador
@@ -1138,7 +1144,7 @@ Tempo de Conjuração: 4
 Área de Efeito: Conjurador
 Teste de Resistência: Nenhum
 
-Metamorfose Própria permite que o conjurador assuma a forma de uma criatura de poder moderado. Em outra forma, o conjurador mantém Força, Destreza, Constituição, Classe de Armadura base, resistências, imunidades, ataques e habilidades especiais. O conjurador pode se polimorfar em uma das seguintes formas:
+Metamorfose Pessoal permite que o conjurador assuma a forma de uma criatura de poder moderado. Em outra forma, o conjurador mantém Força, Destreza, Constituição, Classe de Armadura base, resistências, imunidades, ataques e habilidades especiais. O conjurador pode se polimorfar em uma das seguintes formas:
 
 * Gigante Fomoriano (pode arremessar pedras a longa distância)
 * Troll (regenera 1 PV por segundo)
@@ -1170,7 +1176,8 @@ Benefício: Mesmo após atender aos requisitos iniciais, você deve realizar este t
 * Você sofre dano de magias de Curar Ferimentos e poções de cura, mas é curado por magias de Infligir Ferimentos.
 * Seus ataques desarmados são substituídos por um Toque de Lich, que causa 3d10+5 de dano de frio e paralisa o alvo por 10 rodadas em caso de falha na resistência (mesma CD da magia Toque de Lich).
 * Você tem uma aura de medo; qualquer inimigo a até 6 metros que esteja pelo menos 5 níveis abaixo de você deve fazer uma resistência de Vontade (CD 10 + modificador de Carisma/Inteligência) ou fugir por 1 rodada.
-* Você ganha um filactério que armazena sua força vital. Se morrer, será revivido automaticamente após 8 horas. No entanto, se todos os membros do grupo morrerem, os inimigos destruirão seu filactério e o jogo terminará. ~
+* Você ganha um filactério que armazena sua força vital. Se morrer, será revivido automaticamente após 8 horas. No entanto, se todos os membros do grupo morrerem, os inimigos destruirão seu filactério e o jogo terminará.
+(Original: Lichdom)~
 @390 = ~LICHDOM:
 
 Após uma pesquisa sombria sem fim, você finalmente alcançou a imortalidade... contanto que seu filactério sobreviva.
@@ -1187,7 +1194,8 @@ Benefício: Mesmo após atender aos requisitos iniciais, você deve realizar este t
 * Você sofre dano de magias de Curar Ferimentos e poções de cura, mas é curado por magias de Infligir Ferimentos.
 * Seus ataques desarmados são substituídos por um Toque de Lich, que causa 3d10+5 de dano de frio e paralisa o alvo por 10 rodadas em caso de falha na resistência (mesma CD da magia Toque de Lich).
 * Você tem uma aura de medo; Qualquer inimigo a até 6 metros de distância que esteja pelo menos 5 níveis abaixo de você deve fazer um teste de Vontade (CD 10 + modificador de Carisma/Inteligência) ou fugir por 1 rodada.
-* Você ganha um filactério que armazena sua força vital. Se morrer, será revivido automaticamente após 8 horas. No entanto, se todos os membros do grupo morrerem, os inimigos destruirão seu filactério e o jogo terminará.~
+* Você ganha um filactério que armazena sua força vital. Se morrer, será revivido automaticamente após 8 horas. No entanto, se todos os membros do grupo morrerem, os inimigos destruirão seu filactério e o jogo terminará.
+(Original: Lichdom)~
 @55905=~Indicadores de Ação~
 @55906=~Ativa indicadores de ação acima dos retratos dos personagens. Esses indicadores representam visualmente a(s) ação(ões) sendo realizada(s) por um personagem.~
 @55907=~Destacar Recipientes Vazios em Cinza~
@@ -1278,19 +1286,20 @@ Opção 3:
 Peso: 3,5 kg (7 lb)
 Requisito de Talento: Arma Marcial, Martelo
 Tipo: Uma Mão~
-@56022=~HISTÓRICO MERCANTIL:
+@56022=~PASSADO MERCANTIL:
 
 Poderosos comerciantes e construtores de artesanato controlam a riqueza e o comércio das terras de Faerûn. Você vem de uma família que se destaca em um ofício específico e conhece bem o valor de qualquer tipo de mercadoria ou bem comercializável.
 
 Pré-requisito: Humano, gnomo das profundezas ou anão cinzento
 
-Benefício: Você recebe 5% de desconto na compra de itens e 10% de acréscimo na venda de itens em lojas. ~
+Benefício: Você recebe 5% de desconto na compra de itens e 10% de acréscimo na venda de itens em lojas. 
+(Original: Mercantile Background)~
 @23088=~Garra de Buscador~
 @24035=~Raio de Fogo~
 @24036=~Raio de Frio~
 @24037=~Raio de Eletricidade~
 @24038=~Raio de Petrificação~
-@1121 = ~Carne em Pedra
+@1121 = ~Carne para Pedra
 (Transmutação)
 Nível: Fet/Mag 6
 Alcance: Visão do Conjurador
@@ -1352,7 +1361,7 @@ Vantagens:
 * Muitas perícias de ladino são perícias de classe do Bardo.
 * Canções de Bardo. Bardos têm a habilidade de cantar melodias que têm efeitos mágicos em criaturas em um raio de 9 metros. Conforme avançam de nível, ganham canções adicionais. As canções são descritas em detalhes abaixo.
 * 1º nível: O Conto de Curran Strongheart. Quando jogado, todos os aliados do bardo ganham +1 de bônus de ataque, +1 de dano e imunidade a medo e desesperança. Os bônus de ataque e dano aumentam em 1 nos níveis 10, 25 e 40.
-* 3º nível: A Canção dos Kaudies. Quando jogado, os aliados do bardo são imunes a magias e habilidades nocivas baseadas em som, incluindo Comando, Silêncio, Comando Maior, Palavra Sagrada, Blasfêmia, Palavra de Poder: Sono, Explosão Sonora, Grito, Palavra de Poder: Silêncio, Palavra de Poder: Atordoamento, Palavra de Poder: Cegueira, Grande Grito, Grito da Banshee, Palavra de Poder: Matar, grito de harpia e os efeitos exclusivos para inimigos de Canto, Prece e Recitação.
+* 3º nível: A Canção dos Kaudies. Quando jogado, os aliados do bardo são imunes a magias e habilidades nocivas baseadas em som, incluindo Comando, Silêncio, Comando Maior, Palavra Sagrada, Blasfêmia, Palavra de Poder: Sono, Explosão Sonora, Grito, Palavra de Poder: Silêncio, Palavra de Poder: Atordoamento, Palavra de Poder: Cegar, Grande Grito, Grito da Banshee, Palavra de Poder: Matar, grito de harpia e os efeitos exclusivos para inimigos de Canto, Prece e Recitação.
 * 5º nível: Melodia de Tymora. Quando tocada, a Melodia de Tymora concede aos aliados do bardo +1 de sorte, +1 em testes de resistência e +2 em Conhecimento (arcano), Alquimia e perícias de ladino. Nos níveis 15 e 35, esta canção concede +1 adicional em sorte e testes de resistência e +2 em testes de perícia.
 * 9º nível: O Anseio da Sereia. Quando tocada, toda criatura que ouvir a canção sofre uma penalidade cumulativa de -1 em seus testes de Vontade por 10 rodadas e deve fazer um teste de Vontade ou será aprisionada, incapaz de realizar ações por uma rodada ou até sofrer dano. A CD de Vontade é igual ao nível do bardo. Portanto, a canção de um bardo de nível 15 tem CD 15.
 * 13º nível: O Canto de Guerra dos Sith. Quando tocada, os aliados do bardo ganham um bônus de armadura genérico de +2, resistência a dano físico de 3/- e regeneram 3 pontos de dano por rodada em combate. Nos níveis 28 e 45, esta canção concede +2 adicional à CA, 3/- de resistência a dano físico e 3 pontos de vida curados por rodada.
@@ -1380,7 +1389,7 @@ Vantagens:
 
 Desvantagens:
 * Começa sem proficiência em armadura e é muito ruim em combate corpo a corpo.~
-@222 = ~Especialização
+@222 = ~Especialização em Combate
 
 Ao usar esta habilidade, você pode escolher ganhar um bônus de CA de até +5 e uma penalidade de ataque do mesmo valor. O bônus escolhido não pode exceder seu bônus base de ataque e só se aplica enquanto você estiver atacando com uma arma corpo a corpo.~
 @525 = ~BÁRBARO:
@@ -1463,7 +1472,8 @@ Você sabe como atingir oponentes em áreas vulneráveis.
 
 Pré-requisitos: Des 13+, Sab 13+, bônus base de ataque +8 ou superior
 
-Benefício: Ao atacar com Ataque Atordoante, ele força um inimigo danificado pelo seu ataque desarmado a realizar um teste de resistência de Fortitude (CD 10 + metade do seu nível de monge, se houver, + modificador de Sab), além de causar dano normalmente. Se o defensor falhar no teste de resistência, ele fica atordoado por 1 rodada. Um personagem atordoado não pode agir e pode ser atingido automaticamente. Você pode tentar um ataque atordoante uma vez por dia para cada quatro níveis alcançados. ~
+Benefício: Ao atacar com Ataque Atordoante, ele força um inimigo danificado pelo seu ataque desarmado a realizar um teste de resistência de Fortitude (CD 10 + metade do seu nível de monge, se houver, + modificador de Sab), além de causar dano normalmente. Se o defensor falhar no teste de resistência, ele fica atordoado por 1 rodada. Um personagem atordoado não pode agir e pode ser atingido automaticamente. Você pode tentar um ataque atordoante uma vez por dia para cada quatro níveis alcançados. 
+(Original: Stunning Attack)~
 @20011=~Rasgado~
 @41651=~A arma natural de Vrek ficou mais forte. ~
 @41652=~A arma natural de Xhaan ficou mais forte. ~
@@ -1717,7 +1727,7 @@ Tempo de Conjuração: 1
 Área de Efeito: Conjurador
 Teste de Resistência: Nenhum
 
-Uma versão mais fraca da magia Divine Shell de 6º nível, esta magia cria um campo mágico ao redor do conjurador que tem 20% de chance de desviar ataques de mísseis direcionados a ele. Isso inclui não apenas ataques com armas de longo alcance, mas também certas magias, incluindo Orbe Cromática, Míssil Mágico, Flecha Ácida de Melf, Flecha de Chamas, Lança de Alicórnio, Lança de Gelo, Lança da Disrupção, Mísseis de Força de Mordenkainen, Esfera Vitriólica, Esfera Gélida de Otiluke e Orbe Ardente de Sol. ~
+Uma versão mais fraca da magia Divine Shell de 6º nível, esta magia cria um campo mágico ao redor do conjurador que tem 20% de chance de desviar ataques de mísseis direcionados a ele. Isso inclui não apenas ataques com armas de longo alcance, mas também certas magias, incluindo Orbe Cromática, Míssil Mágico, Flecha Ácida de Melf, Flecha de Chamas, Lança de Alicórnio, Lança de Gelo, Lança da Ruptura, Mísseis de Força de Mordenkainen, Esfera Vitriólica, Esfera Gélida de Otiluke e Orbe Ardente de Sol. ~
 @37867 = ~Parede Prismática~
 @38867 = ~Parede Prismática
 (Abjuração)
@@ -2083,7 +2093,7 @@ Teste de Resistência: Vontade anula
 
 Esta magia afeta qualquer pessoa ou animal sobre o qual for conjurada. O termo "pessoa" inclui qualquer humano bípede, semi-humano ou humanoide de tamanho humano ou menor, como anões, elfos, gnolls, gnomos, goblins, meio-elfos, halflings, meio-orcs, hobgoblins, humanos, homens-lagarto, orcs, trogloditas e outros.
 Portanto, um guerreiro de 10º nível poderia ser encantado, mas um ogro não. Se o teste de resistência falhar, a vítima considera o conjurador um amigo e aliado de confiança, a quem deve obedecer e proteger. O conjurador pode dar ordens a ele, e o indivíduo enfeitiçado as cumprirá sem questionar. As criaturas se lembram de tudo enquanto enfeitiçadas e, portanto, geralmente se tornam hostis ao conjurador após o término do efeito da magia. A Resistência à Magia do alvo, se houver, não afeta esta magia.~
-@1043 = ~Tempestade
+@1043 = ~Tempestade de Chuva
 (Evocação)
 Nível: Drd 2
 Alcance: Visão do Conjurador
@@ -2122,7 +2132,7 @@ Tempo de Conjuração: 5
 Área de Efeito: Onda de 1,5 metro de largura
 Teste de Resistência: Reflexos reduz o dano à metade
 
-Esta magia invoca uma onda de água que se move na direção desejada pelo conjurador, atingindo tudo em seu caminho com força massiva. A onda causa 1d8 de dano esmagador por nível do conjurador (máximo de 15d8), e toda criatura atingida pela onda deve fazer um teste de Reflexos ou será empurrada para trás e derrubada por 1 rodada. Criaturas de Fogo Elemental são extremamente vulneráveis ??a esta magia, sofrendo o dobro do dano. Esta magia ignora resistência a magia.~
+Esta magia invoca uma onda de água que se move na direção desejada pelo conjurador, atingindo tudo em seu caminho com força massiva. A onda causa 1d8 de dano esmagador por nível do conjurador (máximo de 15d8), e toda criatura atingida pela onda deve fazer um teste de Reflexos ou será empurrada para trás e derrubada por 1 rodada. Criaturas de Fogo Elemental são extremamente vulneráveis a esta magia, sofrendo o dobro do dano. Esta magia ignora resistência a magia.~
 @1023 = ~Círculo de Lâminas
 (Evocação)
 Nível: Clr 6, Pal 5, Elmo 6, Tempus 6
@@ -2133,7 +2143,7 @@ Tempo de Conjuração: 9
 Teste de Resistência: Reflexos reduz o dano à metade
 
 Esta magia conjura uma parede de lâminas afiadas que giram e brilham ao redor do conjurador. Qualquer criatura que tente atravessar a barreira de lâminas sofre 10d8 pontos de dano, ignorando resistência a magia, com um teste de Reflexos bem-sucedido para reduzir o dano à metade. Esta magia não provoca ataques de oportunidade. Círculo de Lâminas não pode estar ativo ao mesmo tempo que Círculo de Ossos, pois os ossos e as lâminas interferem um no outro.~
-@32608 = ~Orbe Incandescente de Sol
+@32608 = ~Orbe Ardente de Sol
 (Evocação)
 Nível: Clérigo 6, Druida 5, Ladrão 5
 Alcance: Visão do Conjurador
@@ -2142,7 +2152,7 @@ Tempo de Conjuração: 6
 Área de Efeito: 1 criatura
 Teste de Resistência: Reflexos reduz à metade
 
-Ao concluir esta magia, o conjurador lança uma esfera brilhante e flamejante em uma criatura alvo. Quando atinge o alvo, explode em um clarão de luz, cegando a criatura e causando 9d12 pontos de dano de fogo. Um teste de Reflexos bem-sucedido evita a cegueira e reduz o dano à metade. Drows e anões cinzentos devem fazer um teste de Reflexos contra cegueira com CD +4. Criaturas mortas-vivas são particularmente vulneráveis ??a esta magia e sofrem o dobro do dano. Esta magia ignora a resistência a magia de criaturas como drows, que são vulneráveis ??a ela. ~
+Ao concluir esta magia, o conjurador lança uma esfera brilhante e flamejante em uma criatura alvo. Quando atinge o alvo, explode em um clarão de luz, cegando a criatura e causando 9d12 pontos de dano de fogo. Um teste de Reflexos bem-sucedido evita a cegueira e reduz o dano à metade. Drows e anões cinzentos devem fazer um teste de Reflexos contra cegueira com CD +4. Criaturas mortas-vivas são particularmente vulneráveis a esta magia e sofrem o dobro do dano. Esta magia ignora a resistência a magia de criaturas como drows, que são vulneráveis a ela. ~
 @1592 = ~Raio de Sol
 (Evocação)
 Nível: Drd 8, Lathander 7
@@ -2180,7 +2190,7 @@ Até 2: Inconsciente por 5 rodadas
 5 ou mais: Atordoado por 1 rodada
 
 Um teste de Vontade bem-sucedido anula o efeito. Criaturas cegas não são afetadas por Leque Cromático. Esta magia não provoca ataques de oportunidade.~
-@34316 = ~Encanto Sombrio
+@34316 = ~Encanto Macabro
 (Encantamento)
 Nível: Brd 2, Fet/Mag 3, Bane 3
 Alcance: Visão do Conjurador
@@ -2189,7 +2199,7 @@ Tempo de Conjuração: 3
 Área de Efeito: 1 criatura
 Teste de Resistência: Vontade anula
 
-Esta magia é semelhante à magia Enfeitiçar Pessoa. No entanto, a criatura afetada entra em um estado de fúria, não querendo que ninguém machuque seu mestre (o conjurador). Assim, a criatura lutará contra os inimigos do conjurador, até mesmo antigos aliados. Encanto Sombrio pode afetar tanto humanoides quanto gigantes. Esta magia ignora resistência a magia.~
+Esta magia é semelhante à magia Enfeitiçar Pessoa. No entanto, a criatura afetada entra em um estado de fúria, não querendo que ninguém machuque seu mestre (o conjurador). Assim, a criatura lutará contra os inimigos do conjurador, até mesmo antigos aliados. Encanto Macabro pode afetar tanto humanoides quanto gigantes. Esta magia ignora resistência a magia.~
 @1091 = ~Lança da Ruptura
 (Evocação)
 Nível: Feiticeiro/Mago 3
@@ -2220,7 +2230,7 @@ Tempo de Conjuração: 5
 Teste de Resistência: Vontade anula
 
 A magia Dominação permite ao conjurador controlar as ações de qualquer criatura enquanto a magia estiver em efeito. Esse controle é mantido por meio de uma ligação telepática entre o conjurador e a vítima. O alvo tem direito a um teste de Vontade com CD +2 para evitar o efeito. Esta magia ignora resistência a magia.~
-@1814 = ~Dominação em Massa
+@1814 = ~Dominar em Massa
 (Encantamento)
 Nível: Brd 8, Fet/Mag 9, Bane 9
 Alcance: Visão do Conjurador
@@ -2239,7 +2249,7 @@ Tempo de Conjuração: 9
 Área de Efeito: Raio de 4,5 metros (15 pés)
 Teste de Resistência: Nenhum
 
-Uma versão mais poderosa da magia Turbilhão, esta magia cria um tornado no ponto alvo que se move aleatoriamente. Criaturas que se aproximam a 4,5 metros do tornado são sugadas para dentro dele, sofrendo 3d8 de dano cortante por segundo enquanto permanecerem dentro dele. As criaturas geralmente são ejetadas do tornado após cerca de uma rodada. Criaturas Enormes, como gigantes de gelo e dragões, não são sugadas para dentro do tornado, mas ainda sofrem dano enquanto estiverem na área de efeito. Apenas um tornado pode estar ativo por vez. Esta magia só pode ser conjurada ao ar livre e ignora resistência a magia.~
+Uma versão mais poderosa da magia Ciclone, esta magia cria um tornado no ponto alvo que se move aleatoriamente. Criaturas que se aproximam a 4,5 metros do tornado são sugadas para dentro dele, sofrendo 3d8 de dano cortante por segundo enquanto permanecerem dentro dele. As criaturas geralmente são ejetadas do tornado após cerca de uma rodada. Criaturas Enormes, como gigantes de gelo e dragões, não são sugadas para dentro do tornado, mas ainda sofrem dano enquanto estiverem na área de efeito. Apenas um tornado pode estar ativo por vez. Esta magia só pode ser conjurada ao ar livre e ignora resistência a magia.~
 @38251 = ~Identificar Criatura
 (Adivinhação)
 Nível: Brd 2, Drd 2, Rgr 2, Fet/Mag 2
@@ -2270,34 +2280,37 @@ Tempo de Conjuração: 8
 Teste de Resistência: Vontade anula
 
 Esta magia permite ao conjurador obter controle total e permanente sobre outra criatura. O alvo deve fazer um teste de resistência de Vontade com CD +4. Se falhar, será dominado pelo conjurador até morrer ou o efeito ser dissipado. Escravizar ignora resistência a magia e pode afetar até mesmo mortos-vivos e constructos.~
-@308 = ~ATAQUE FURTIVO APERFEIÇOADO:
+@308 = ~ATAQUE FURTIVO APRIMORADO:
 
 Seus ataques furtivos são especialmente letais.
 
 Pré-requisito: 3 níveis de ladino por ponto no talento (3, 6, 9, 12, 15)
 
-Benefício: Seus ataques furtivos causam 1d6 de dano adicional. Este talento pode ser escolhido até cinco vezes.~
+Benefício: Seus ataques furtivos causam 1d6 de dano adicional. Este talento pode ser escolhido até cinco vezes.
+(Original: Improved Sneak Attack)~
 @730 = ~ESQUIVA:
 
 Você é adepto em esquivar-se de golpes.
 
-Pré-requisito: Destreza 13+. Escolher o talento uma segunda vez requer 18 níveis de ladino, Destreza 25+, Evasão Aprimorada e Teste Defensivo.
+Pré-requisito: Destreza 13+. Escolher o talento uma segunda vez requer 18 níveis de ladino, Destreza 25+, Evasão Aprimorada e Amortecer Impacto.
 
 Benefício: Você recebe um bônus de esquiva de +1 na classe de armadura contra ataques de um oponente.
 
-Quando escolhido pela segunda vez, o talento também permite que você esquive automaticamente do primeiro ataque que o atingiria a cada rodada.~
+Quando escolhido pela segunda vez, o talento também permite que você esquive automaticamente do primeiro ataque que o atingiria a cada rodada.
+(Original: Dodge)~
 @23089=~Quimera Paragon~
 @24039=~Dar o Bote~
 @24040=~20 de dano resistido de arma com encantamento inferior a +6~
 @56035=~CONHECIMENTO DE MAGIA (Int; Somente Treinado):
 
-Use esta perícia para identificar magias enquanto são conjuradas ou magias já em vigor.~
+Use esta perícia para identificar magias enquanto são conjuradas ou magias já em vigor.
+(Original: Spellcraft)~
 @55369=~cortante~
 @55816=~Não pode usar item. (Requer <EXIUVAL1> Usar Intrumento Mágico)~
 @55817=~Você não pode armar armadilhas enquanto houver inimigos por perto.~
 @55818=~Você não pode armar mais armadilhas nesta área.~
-@55819=~Ataque Furtivo com Golpe Incapacitante (-<EXCRPEN1> For)~
-@55820=~Ataque Mortal com Golpe Incapacitante (-<EXCRPEN1> For)~
+@55819=~Ataque Furtivo com Ataque Incapacitante (-<EXCRPEN1> Força)~
+@55820=~Ataque Mortal com Ataque Incapacitante (-<EXCRPEN1> Força)~
 @56057=~As paredes desta sala são protegidas contra meios convencionais de teletransporte, bem como viagens incorpóreas e etéreas.~
 @56058=~As paredes das Oito Câmaras são protegidas contra meios convencionais de teletransporte, bem como viagens incorpóreas e etéreas.~
 @10390 = ~Este manto foi especialmente encantado para atender às necessidades ecléticas do mago aventureiro. Além de proteger o usuário de várias formas de dano contundente e feitiços que afetam a mente, ele também permite que o usuário proteja seu grupo de aventureiros de suas próprias bolas de fogo.
@@ -2312,7 +2325,8 @@ Peso: 2 kg (4 lb).~
 
 Esta perícia permite que um bardo ou ladino use itens normalmente proibidos para eles. Se a perícia do personagem for maior ou igual ao limite indicado na descrição do item, o personagem pode usá-lo mesmo que não atenda aos requisitos de classe, raça, alinhamento ou pontuação de habilidade. O limite depende do preço base do item e de outros fatores.
 
-Varinhas e pergaminhos são uma exceção; Se o personagem não puder usá-los normalmente, em vez de usar o sistema de limiar como acima, ele deve fazer um teste com esta perícia. Se o personagem falhar ao ativar o item, a carga é destruída e o usuário sofre de 1 a 6 pontos de dano mágico por nível do efeito que estava tentando invocar.~
+Varinhas e pergaminhos são uma exceção; Se o personagem não puder usá-los normalmente, em vez de usar o sistema de limiar como acima, ele deve fazer um teste com esta perícia. Se o personagem falhar ao ativar o item, a carga é destruída e o usuário sofre de 1 a 6 pontos de dano mágico por nível do efeito que estava tentando invocar.
+(Original:  Use Magic Device)~
 @56036=~Limite de Uso de Intrumento Mágico:~
 @732 = ~Canção de Bardo Aprimorada~
 @733 = ~CANÇÃO DE BARDO APRIMORADA:
@@ -2321,7 +2335,8 @@ Sua música de bardo ressoa especialmente com os ouvintes.
 
 Pré-requisito: Pelo menos três níveis de bardo.
 
-Benefício: Qualquer canção de bardo que você tocar e que afete aliados concede um bônus adicional de +1 na CA, ataque, dano, testes de resistência e testes de perícia. Qualquer canção de bardo que você tocar que afete inimigos ganha +2 na CD.~
+Benefício: Qualquer canção de bardo que você tocar e que afete aliados concede um bônus adicional de +1 na CA, ataque, dano, testes de resistência e testes de perícia. Qualquer canção de bardo que você tocar que afete inimigos ganha +2 na CD.
+(Original: Improved Bard Song)~
 @890 = ~Esquivou do ataque~
 @55928=~Alternar Gravação de Buffs~
 @55929=~Apagar Gravação~
@@ -2373,7 +2388,7 @@ Tempo de Conjuração: 7
 Teste de Resistência: Nenhum
 
 Quando esta magia é conjurada, todas as criaturas em um raio de 3 metros (10 pés) são afetadas individualmente por Proteção contra o Mal, concedendo às criaturas malignas uma penalidade de -2 para acertá-las e reduzindo a CD de resistência de magias e habilidades de criaturas malignas que as atingiriam em 2, além de imunidade a efeitos de encantamento e dominação.~
-@36454 = ~Pedrinhas em Rochas
+@36454 = ~Pedras em Rochas
 (Transmutação)
 Nível: Clr 5, Drd 4, Rgr 4
 Alcance: Conjurador
@@ -2499,7 +2514,7 @@ O dano elétrico causado por magias e habilidades do usuário é aumentado em 40%
 Peso: 2 kg (4 lb).
 Requisito de Talento: Arma Simples, Cajado
 Tipo: Duas mãos~
-@10237 = ~Dizem que essas magníficas braçadeiras foram forjadas na Espinha Dorsal das Montanhas do Mundo, e não faz muito tempo. Na costa do Mar de Gelo Movediço, vivia Prashnak, um abjurador — e um teimoso, diga-se de passagem. Aparentemente, Prashnak estava tendo muita dificuldade para repelir uma horda implacável de trolls, que sem dúvida estavam interessados ??apenas em seu abrigo escavado e bem posicionado. Prashnak usava tempestades de ácido para manter os trolls à distância. No entanto, o jovem mago estava se cansando dos ataques constantes, e os trolls estavam se tornando mais ousados.
+@10237 = ~Dizem que essas magníficas braçadeiras foram forjadas na Espinha Dorsal das Montanhas do Mundo, e não faz muito tempo. Na costa do Mar de Gelo Movediço, vivia Prashnak, um abjurador - e um teimoso, diga-se de passagem. Aparentemente, Prashnak estava tendo muita dificuldade para repelir uma horda implacável de trolls, que sem dúvida estavam interessados ??apenas em seu abrigo escavado e bem posicionado. Prashnak usava tempestades de ácido para manter os trolls à distância. No entanto, o jovem mago estava se cansando dos ataques constantes, e os trolls estavam se tornando mais ousados.
 
 Após meses estudando os diversos efeitos da magia de murchamento, invocação de elementais e métodos mágicos de congelamento, Prashnak finalmente estava pronto para testar seu experimento. Depois de invocar um elemental da água, Prashnak evaporou componentes corporais selecionados e então congelou a infeliz criatura. Isso levou à criação de esculturas de gelo verdadeiramente horripilantes. Os trolls, por mais ingênuos que sejam, se ofenderam profundamente com esses totens e, segundo relatos, fugiram da área. O experimento foi um sucesso estrondoso, e o exultante Prashnak continua seus estudos lamentáveis ??até hoje. Não se sabe que tipo de ladrão se apoderou das braçadeiras, mas elas estão desaparecidas há vários anos.
 
@@ -2509,7 +2524,7 @@ Classe de Armadura: +3 (armadura)
 Especial:
 O dano de frio e mágico causado pelos feitiços e habilidades do usuário é aumentado em 20%.
 Peso: 1,5 Kg (3 lb)~
-@12694 = ~Dizem que essas magníficas braçadeiras foram forjadas na Espinha Dorsal das Montanhas do Mundo, e não faz muito tempo. Na costa do Mar de Gelo Movediço, vivia Prashnak, um abjurador — e um teimoso, diga-se de passagem. Aparentemente, Prashnak estava tendo muita dificuldade para repelir uma horda implacável de trolls, que sem dúvida estavam interessados ??apenas em seu abrigo escavado e bem posicionado. Prashnak usava tempestades de ácido para manter os trolls à distância. No entanto, o jovem mago estava se cansando dos ataques constantes, e os trolls estavam se tornando mais ousados.
+@12694 = ~Dizem que essas magníficas braçadeiras foram forjadas na Espinha Dorsal das Montanhas do Mundo, e não faz muito tempo. Na costa do Mar de Gelo Movediço, vivia Prashnak, um abjurador - e um teimoso, diga-se de passagem. Aparentemente, Prashnak estava tendo muita dificuldade para repelir uma horda implacável de trolls, que sem dúvida estavam interessados ??apenas em seu abrigo escavado e bem posicionado. Prashnak usava tempestades de ácido para manter os trolls à distância. No entanto, o jovem mago estava se cansando dos ataques constantes, e os trolls estavam se tornando mais ousados.
 
 Após meses estudando os diversos efeitos da magia de murchamento, invocação de elementais e métodos mágicos de congelamento, Prashnak finalmente estava pronto para testar seu experimento. Depois de invocar um elemental da água, Prashnak evaporou componentes corporais selecionados e então congelou a infeliz criatura. Isso levou à criação de esculturas de gelo verdadeiramente horripilantes. Os trolls, por mais ingênuos que sejam, se ofenderam profundamente com esses totens e, segundo relatos, fugiram da área. O experimento foi um sucesso estrondoso, e o exultante Prashnak continua seus estudos lamentáveis ??até hoje. Não se sabe que tipo de ladrão se apoderou das braçadeiras, mas elas estão desaparecidas há vários anos.
 
@@ -2640,7 +2655,7 @@ Tempo de Conjuração: 4
 Teste de Resistência: Nenhum
 
 Esta magia concede ao alvo um bônus de resistência a dano de 15/- contra dano de concussão, corte, perfuração, fogo, frio, ácido e eletricidade durante a duração da magia. Esta magia não pode ser conjurada por personagens malignos.~
-@1850 = ~Grande Escudo de Lathander
+@1850 = ~Escudo Maior de Lathander
 (Conjuração) [Bom]
 Nível: Clr 8, Pal 6, Lathander 6
 Alcance: Toque
@@ -2718,7 +2733,7 @@ A organização e a forja dos anéis foram patrocinadas por um mercador de Águas Pr
 
 Havia, porém, um caçador de magos chamado Martek, que ignorou os anéis oferecidos pelo mercador e, conhecendo o perigo e a astúcia da Torre da Horda, encomendou um anel especial a um aliado anão que lhe concederia proteções adicionais contra feitiços e encantamentos. Após os outros membros do Círculo de Gelo começarem a ser assassinados em Luskan, depois que a Torre da Hospedaria descobriu suas identidades, Martek usou o poder de seu anel aprimorado para se proteger da vidência dos magos da Torre da Hospedaria e escapar para o sul. Ele acabou devolvendo o anel ao seu aliado anão, que o vendeu a um mercador a caminho de Bryn Shander.
 
-Este anel Reflexo de Aço Frio difere dos outros anéis do Círculo de Gelo por parecer ter um anel de aço sob a camada externa de gelo — assim como o próprio Martek.
+Este anel Reflexo de Aço Frio difere dos outros anéis do Círculo de Gelo por parecer ter um anel de aço sob a camada externa de gelo - assim como o próprio Martek.
 
 ESTATÍSTICAS:
 
@@ -2984,15 +2999,15 @@ Vantagens:
 * 3º nível: Esquiva Sobrenatural. Ladinos mantêm seu bônus de Destreza na Classe de Armadura se forem atacados por inimigos invisíveis.
 * 6º nível: Esquiva Sobrenatural Aprimorada. Ladinos não podem ser atacados furtivamente por outro ladino, a menos que o atacante seja de nível superior.
 * 8º nível: Desarmar Armadilhas Complexas. Ladinos deste nível ou superior são os únicos personagens que podem desarmar armadilhas com CD 20 ou superior.
-* 10º nível: Talento Bônus. O ladino ganha um talento bônus e também ganha acesso a uma série de novos talentos disponíveis apenas para ladinos. Estes incluem Golpe Incapacitante, Evasão Aprimorada, Mente Escorregadia, Rolagem Defensiva e Oportunista. O ladino ganha outro talento bônus a cada 3 níveis após o nível 10.
+* 10º nível: Talento Bônus. O ladino ganha um talento bônus e também ganha acesso a uma série de novos talentos disponíveis apenas para ladinos. Estes incluem Ataque Incapacitante, Evasão Aprimorada, Mente Escorregadia, Amortecer Impacto e Oportunista. O ladino ganha outro talento bônus a cada 3 níveis após o nível 10.
 * Ladinos ganham +1 em sorte a cada 5 níveis.
 
 Desvantagens:
 * Ladinos não possuem habilidade de conjuração e têm baixa capacidade de combate corpo a corpo.~
 @223 = ~Golpe Arterial
 
-Enquanto esta habilidade estiver ativa, seus ataques furtivos causam 10 de dano de sangramento ao longo de 10 rodadas. Para cada seis níveis de ladino além do 1 (ou seja, nos níveis 7, 13, 19 e 25), você causa mais 10 de dano ao longo das 10 rodadas. Esta habilidade pode ser ativada ou desativada à vontade como uma ação livre, mas não pode estar ativa ao mesmo tempo que Tendão.~
-@224 = ~Tensão
+Enquanto esta habilidade estiver ativa, seus ataques furtivos causam 10 de dano de sangramento ao longo de 10 rodadas. Para cada seis níveis de ladino além do 1 (ou seja, nos níveis 7, 13, 19 e 25), você causa mais 10 de dano ao longo das 10 rodadas. Esta habilidade pode ser ativada ou desativada à vontade como uma ação livre, mas não pode estar ativa ao mesmo tempo que Corte de Tendão.~
+@224 = ~Corte de Tendão
 
 Enquanto esta habilidade estiver ativa, seus ataques furtivos reduzem a velocidade de movimento do alvo em 50% por 10 rodadas (sem teste de resistência). Como este é um efeito não mágico, ele ignora Liberdade de Movimento. Essa habilidade pode ser ativada ou desativada à vontade como uma ação livre, mas não pode estar ativa ao mesmo tempo que Golpe Arterial.~
 @702 = ~GOLPE ARTERIAL:
@@ -3001,27 +3016,30 @@ Sua perícia com ataques furtivos permite que você cause um ferimento sangrento.
 
 Pré-requisito: Pelo menos um nível de ladino, bônus base de ataque +4 ou superior.
 
-Benefício: Concede ao ladino uma habilidade que faz com que seus ataques furtivos causem um ferimento sangrento que inflige 10 pontos de dano adicionais ao longo de 10 rodadas. Para cada seis níveis de ladino além do 1 (ou seja, nos níveis 7, 13, 19 e 25), o ladino causa mais 10 pontos de dano ao longo das 10 rodadas. Essa habilidade não pode estar ativa ao mesmo tempo que Tendão.~
-@734 = ~TENDO O MÚSCULO:
+Benefício: Concede ao ladino uma habilidade que faz com que seus ataques furtivos causem um ferimento sangrento que inflige 10 pontos de dano adicionais ao longo de 10 rodadas. Para cada seis níveis de ladino além do 1 (ou seja, nos níveis 7, 13, 19 e 25), o ladino causa mais 10 pontos de dano ao longo das 10 rodadas. Essa habilidade não pode estar ativa ao mesmo tempo que Corte de Tendão.
+(Original: Arterial Strike)~
+@734 = ~CORTE DE TENDÃO:
 
 Ao realizar um ataque furtivo, seu personagem pode mutilar seu alvo de tal forma que seu movimento seja significativamente reduzido.
 
 Pré-requisito: Pelo menos três níveis de ladino. 
 
-Benefício: Concede ao ladino uma habilidade que faz com que seus ataques furtivos reduzam a velocidade de movimento do alvo em 50% por 10 rodadas. Este é um efeito não mágico que ignora Liberdade de Movimento. Esta habilidade não pode estar ativa ao mesmo tempo que Golpe Arterial.~
+Benefício: Concede ao ladino uma habilidade que faz com que seus ataques furtivos reduzam a velocidade de movimento do alvo em 50% por 10 rodadas. Este é um efeito não mágico que ignora Liberdade de Movimento. Esta habilidade não pode estar ativa ao mesmo tempo que Golpe Arterial.
+(Original: Hamstring)~
 @735 = ~ATAQUE PODEROSO:
 
 Você pode realizar ataques corpo a corpo excepcionalmente poderosos.
 
 Pré-requisito: For 13+
 
-Benefício: Em sua ação, antes de realizar as jogadas de ataque em uma rodada, você pode optar por subtrair um número de todas as jogadas de ataque corpo a corpo e adicionar o mesmo número a todas as jogadas de dano corpo a corpo, ou o dobro desse número se estiver empunhando uma arma de duas mãos. Este número não pode exceder seu bônus de ataque base. A penalidade nos ataques e o bônus no dano se aplicam até sua próxima ação.~
+Benefício: Em sua ação, antes de realizar as jogadas de ataque em uma rodada, você pode optar por subtrair um número de todas as jogadas de ataque corpo a corpo e adicionar o mesmo número a todas as jogadas de dano corpo a corpo, ou o dobro desse número se estiver empunhando uma arma de duas mãos. Este número não pode exceder seu bônus de ataque base. A penalidade nos ataques e o bônus no dano se aplicam até sua próxima ação.
+(Original: Power Attack)~
 @977 = ~Fúria Bárbara
 
 Ao entrar em fúria, o bárbaro ganha +4 em Força e Constituição (que se acumulam com outros bônus de Força e Constituição), além de uma penalidade de -2 na CA, +2 nos testes de Vontade e imunidade a medo, atordoamento, sono, encantamento, dominação, confusão, inconsciência, paralisia, debilidade mental e desespero. A fúria dura 3 rodadas. Se o personagem tiver pelo menos 5 níveis de bárbaro, a fúria também dura um número de rodadas adicionais igual ao bônus de Constituição (recém-aprimorado) do bárbaro. Após entrar em fúria, o bárbaro ficará fatigado por três rodadas, sofrendo uma penalidade de -2 em Força e Destreza. ~
 @525 = ~BÁRBARO:
 
-Das terras congeladas do norte e das selvas infernais do sul vêm guerreiros bravos, até mesmo imprudentes. Embora não sejam tão disciplinados ou habilidosos quanto um lutador comum, o bárbaro pode se lançar voluntariamente em uma fúria berserker, tornando-se um oponente mais forte e resistente.
+Das terras congeladas do norte e das selvas infernais do sul vêm guerreiros bravos, até mesmo imprudentes. Embora não sejam tão disciplinados ou habilidosos quanto um guerreiro comum, o bárbaro pode se lançar voluntariamente em uma fúria berserker, tornando-se um oponente mais forte e resistente.
 
 Pontos de vida por nível: 1-12
 
@@ -3054,7 +3072,7 @@ Vantagens:
 * Muitas perícias de ladino são perícias de classe do Bardo.
 * Canções de Bardo. Os bardos têm a habilidade de cantar melodias que produzem efeitos mágicos em criaturas a até nove metros de distância. Conforme avançam de nível, eles ganham canções adicionais. As canções são descritas em detalhes abaixo.
 * 1º nível: O Conto de Curran Coração Forte. Quando jogada, todos os aliados do bardo recebem +1 de bônus de ataque, +1 de dano e imunidade a medo e desespero. Os bônus de ataque e dano aumentam em 1 no 5º nível e a cada 5 níveis subsequentes.
-* 3º nível: A Canção de Kaudies. Quando jogada, os aliados do bardo ficam imunes a magias e habilidades sonoras prejudiciais, incluindo Comando, Silêncio, Comando Maior, Palavra Sagrada, Blasfêmia, Palavra de Poder: Sono, Explosão Sônica, Grito, Palavra de Poder: Silêncio, Palavra de Poder: Atordoar, Palavra de Poder: Cegar, Grande Grito, Lamento da Banshee, Palavra de Poder: Matar, Som do Vazio, lamentos de harpia e os efeitos exclusivos para inimigos de Cântico, Oração e Recitação.
+* 3º nível: A Canção de Kaudies. Quando jogada, os aliados do bardo ficam imunes a magias e habilidades sonoras prejudiciais, incluindo Comando, Silêncio, Comando Maior, Palavra Sagrada, Blasfêmia, Palavra de Poder: Sono, Explosão Sônica, Grito, Palavra de Poder: Silêncio, Palavra de Poder: Atordoar, Palavra de Poder: Cegar, Grande Grito, Grito da Banshee, Palavra de Poder: Matar, Som do Vazio, lamentos de harpia e os efeitos exclusivos para inimigos de Cântico, Oração e Recitação.
 * 5º nível: Melodia de Tymora. Quando tocada, a Melodia de Tymora concede aos aliados do bardo +1 de sorte e +2 em testes de perícia (além do +1 em testes de perícia concedido pela sorte). No nível 15 e a cada 10 níveis subsequentes, esta canção concede +1 adicional de sorte e +2 em testes de perícia.
 * 7º nível: O bardo pode substituir uma de suas magias conhecidas por outra magia do mesmo nível. Ele pode fazer isso novamente a cada 3 níveis após o nível 7. O bardo só pode substituir magias de pelo menos dois níveis abaixo do nível mais alto que ele pode conjurar (por exemplo, apenas uma magia de 1º nível quando o bardo atinge o 7º nível), embora possa substituir magias de 7º nível a partir do nível 25 e magias de 8º nível a partir do nível 28.
 * 9º nível: O Anseio da Sereia. Quando tocada, cada inimigo que ouvir a canção deve fazer um teste de Vontade ou ficará enfeitiçado, incapaz de agir por uma rodada ou até sofrer dano. A CD do teste de Vontade é igual a 10 + 1/2 do nível do bardo + bônus de Carisma.
@@ -3070,7 +3088,7 @@ Desvantagens:
 * Bardos têm acesso mais lento a magias do que um mago ou sacerdote.~
 @535 = ~MONGE:
 
-Monges são guerreiros que buscam a perfeição através da contemplação e da ação. São lutadores versáteis, especialmente habilidosos em combate sem armas ou armaduras. Embora monges não possam conjurar magias, eles possuem uma magia única. Eles canalizam uma energia sutil, chamada ki, que lhes permite realizar feitos incríveis. O feito mais conhecido do monge é sua capacidade de atordoar um oponente com um golpe desarmado.
+Monges são guerreiros que buscam a perfeição através da contemplação e da ação. São guerreiros versáteis, especialmente habilidosos em combate sem armas ou armaduras. Embora monges não possam conjurar magias, eles possuem uma magia única. Eles canalizam uma energia sutil, chamada ki, que lhes permite realizar feitos incríveis. O feito mais conhecido do monge é sua capacidade de atordoar um oponente com um golpe desarmado.
 
 NOTA: Monges multiclasse usam APENAS seus níveis de monge para determinar o número de ataques em combate desarmado.
 
@@ -3102,7 +3120,7 @@ Nível 17+: 1d8+5
 * Quando não estiver usando armadura (vestes são aceitáveis), um monge adiciona seu bônus de Sabedoria à sua CA da mesma forma que seu bônus de Destreza. Esse bônus não pode exceder o nível de monge do personagem.
 * Ataques Atordoantes: Quando esta habilidade é usada, todos os ataques desarmados do monge na próxima rodada forçam a vítima a fazer um teste de Fortitude (CD 10 + modificador de Sabedoria + metade do nível do monge) ou ficará atordoada por 1 rodada. Um monge pode realizar um ataque atordoante 1 vez por dia por nível.
 * Evasão: Monges têm a habilidade de evadir dano de magias de área de efeito. Sempre que um monge obtiver sucesso em um teste de Reflexos contra uma magia de área de efeito que permita um teste de Reflexos para reduzir o dano à metade, ele não sofre dano.
-* 2º nível: Desviar Flechas. O monge recebe o talento Desviar Flechas, que concede um bônus diverso de +1 contra armas de projétil. Além disso, o monge bloqueia automaticamente o primeiro projétil que o atingiria a cada rodada. O monge deve ter uma mão livre para bloquear projéteis dessa forma.
+* 2º nível: Desviar Objetos. O monge recebe o talento Desviar Flechas, que concede um bônus diverso de +1 contra armas de projétil. Além disso, o monge bloqueia automaticamente o primeiro projétil que o atingiria a cada rodada. O monge deve ter uma mão livre para bloquear projéteis dessa forma.
 * 3º nível: Movimento Rápido. O monge se move 3 metros mais rápido que um personagem normal (a velocidade de movimento normal é de 9 metros), mas apenas enquanto o monge não estiver sobrecarregado ou usando armadura. O monge ganha mais 3 metros de movimento a cada 3 níveis subsequentes.
 * 3º nível: Mente Tranquila. O monge recebe um bônus de +2 em testes de resistência contra magias e efeitos da escola de Encantamento.
 * 5º nível: Pureza do Corpo. O monge ganha controle sobre o sistema imunológico do seu corpo. Ele adquire imunidade a todas as doenças.
@@ -3113,7 +3131,7 @@ Nível 17+: 1d8+5
 * 13º nível: Alma de Diamante. O monge ganha resistência a magia. Sua resistência a magia é igual ao seu nível + 10. Para afetar o monge com uma magia, um conjurador deve rolar um resultado igual ou superior à resistência a magia do monge em 1d20 + o nível do conjurador.
 * 15º nível: Palma Vibrante. Este ataque aterrador permite ao monge criar vibrações dentro do corpo de outra criatura que podem ser fatais. Na próxima vez que o monge atingir uma criatura com um ataque desarmado, o alvo morre, a menos que faça um teste de resistência de Fortitude (CD 10 + modificador de Sabedoria + metade do nível do monge). Construtos e mortos-vivos não podem ser afetados. O monge ganha um uso adicional de Palma Vibrante a cada seis níveis subsequentes.
 * 19º nível: Corpo Vazio. O monge pode assumir um estado incorpóreo por 5 rodadas, um número de vezes por dia igual ao seu nível dividido por 2. Enquanto incorpóreo, o monge pode se mover através de paredes, e metade dos ataques que o atingem não causam dano físico. Os ataques desarmados do monge ignoram bônus de armadura e escudo.
-* 20º nível: Eu Perfeito. O monge aprimorou seu corpo com habilidade e capacidades quase mágicas a ponto de se tornar uma criatura mágica. Ele passa a ser tratado para sempre como um extraplanar (criatura extraplanar) em vez de um humanoide. Por exemplo, encantar pessoa não os afeta. Além disso, o monge ganha redução de dano 20/+1. Isso significa que o monge ignora (regenera instantaneamente) os primeiros 20 pontos de dano de qualquer ataque, a menos que o dano seja causado por uma arma com bônus de aprimoramento +1 (ou melhor), por uma magia ou por uma forma de energia (fogo, frio, etc.). Como um extraplanar, um monge de 20º nível está sujeito a magias que repelem criaturas encantadas, como proteção contra a lei.
+* 20º nível: Eu Perfeito. O monge aprimorou seu corpo com habilidade e capacidades quase mágicas a ponto de se tornar uma criatura mágica. Ele passa a ser tratado para sempre como um extraplanar (criatura extraplanar) em vez de um humanoide. Por exemplo, enfeitiçar pessoa não os afeta. Além disso, o monge ganha redução de dano 20/+1. Isso significa que o monge ignora (regenera instantaneamente) os primeiros 20 pontos de dano de qualquer ataque, a menos que o dano seja causado por uma arma com bônus de aprimoramento +1 (ou melhor), por uma magia ou por uma forma de energia (fogo, frio, etc.). Como um extraplanar, um monge de 20º nível está sujeito a magias que repelem criaturas encantadas, como proteção contra a lei.
 
 Desvantagens:
 * Perde muitos bônus se estiver usando armadura e/ou armas.~
@@ -3122,16 +3140,18 @@ Desvantagens:
 
 Seus ataques furtivos continuam causando dano mesmo depois de você atacar.
 
-Pré-requisito: Golpe Incapacitante, 30 níveis de ladino
+Pré-requisito: Ataque Incapacitante, 30 níveis de ladino
 
-Benefício: Se você causar dano com um ataque furtivo, você causa o mesmo dano ao mesmo inimigo novamente uma rodada depois.~
+Benefício: Se você causar dano com um ataque furtivo, você causa o mesmo dano ao mesmo inimigo novamente uma rodada depois.
+(Original: Lingering Damage)~
 @358 = ~METAMÁGICA, ACELERAR MAGIA:
 
 Você pode conjurar rapidamente uma magia extra a cada rodada.
 
 Pré-requisitos: A capacidade de conjurar magias de 5º nível.
 
-Benefício: Você ganha a habilidade Acelerar Magia, que pode ser usada à vontade como uma ação livre. Usá-la permite que você conjure uma magia instantaneamente, mesmo que já tenha conjurado uma magia na rodada. A magia acelerada ocupa um espaço de magia quatro níveis acima. Apenas uma magia pode ser acelerada por rodada.~
+Benefício: Você ganha a habilidade Acelerar Magia, que pode ser usada à vontade como uma ação livre. Usá-la permite que você conjure uma magia instantaneamente, mesmo que já tenha conjurado uma magia na rodada. A magia acelerada ocupa um espaço de magia quatro níveis acima. Apenas uma magia pode ser acelerada por rodada.
+(Original: Metamagic, Quicken Spell)~
 @963 = ~Acelerar Magia
 
 Esta metamagia permite que você conjure instantaneamente sua próxima magia, mesmo que já tenha conjurado uma magia na rodada. Ela ocupará um espaço de magia quatro níveis acima. Você só pode acelerar uma magia por rodada. Habilidades metamágicas podem ser usadas como uma ação livre qualquer número de vezes por dia.~
@@ -3141,7 +3161,8 @@ Você é especialmente hábil em causar acertos críticos.
 
 Pré-requisito: Bônus base de ataque +8 ou superior.
 
-Benefício: Ao determinar acertos críticos, a faixa de ameaça base da arma empunhada é dobrada. Um machado acertará criticamente com 19-20, uma espada longa com 17-20 e uma cimitarra com 15-20.~
+Benefício: Ao determinar acertos críticos, a faixa de ameaça base da arma empunhada é dobrada. Um machado acertará criticamente com 19-20, uma espada longa com 17-20 e uma cimitarra com 15-20.
+(Original: Improved Critical)~
 @372 = ~MOBILIDADE:
 
 Você pode esquivar-se de ataques particularmente bem enquanto se move.
@@ -3150,10 +3171,11 @@ Pré-requisitos: Destreza 13+, Esquiva. Escolher o talento uma segunda vez requer
 
 Benefício: Enquanto se move, você recebe um bônus de +4 na Classe de Armadura. Esse bônus é dobrado contra ataques de oportunidade devido ao movimento para fora do alcance de armas de um inimigo.
 
-Quando escolhido uma segunda vez, o talento impede que você provoque quaisquer ataques de oportunidade devido ao movimento para fora do alcance de armas de um inimigo.~
-@736 = ~SANGUE DE SERPENTE:
+Quando escolhido uma segunda vez, o talento impede que você provoque quaisquer ataques de oportunidade devido ao movimento para fora do alcance de armas de um inimigo.
+(Original: Mobility)~
+@736 = ~SANGUE DE COBRA:
 
-A mácula dos yuan-ti corre em suas veias. Nenhum sinal externo revela sua herança, mas você é algo mais — ou menos — do que completamente humano.
+A mácula dos yuan-ti corre em suas veias. Nenhum sinal externo revela sua herança, mas você é algo mais - ou menos - do que completamente humano.
 
 Pré-requisito: Humano
 
@@ -3181,7 +3203,8 @@ Vantagens:
 Desvantagens:
 * Penalidade de Experiência de -25%: Os Yuan-ti de sangue puro são ligeiramente mais poderosos e ganham 25% menos experiência do que outras raças.
 
-Especial: Você só pode escolher este talento como um personagem de 1º nível.~
+Especial: Você só pode escolher este talento como um personagem de 1º nível.
+(Original: Snake Blood)~
 @930 = ~Enredar
 
 Quando uma magia Enredar é conjurada, ela deve ser conjurada ao ar livre, caso contrário não funcionará e a magia será desperdiçada. Ela faz com que vinhas brotem do chão para envolver, torcer e entrelaçar quaisquer criaturas na área de efeito, impedindo o movimento. As criaturas devem fazer um teste de Reflexos a cada rodada para se moverem pela área enredada. A CD é 11 + metade do nível + bônus de Carisma. Criaturas enredadas ainda podem realizar ações normais, mas não podem se mover e sofrem uma penalidade de -2 na Classe de Armadura e nas jogadas de ataque, bem como 50% de chance de falha da magia. Todas as criaturas dentro da área de efeito que passarem no teste de Reflexos movem-se à metade da velocidade.~
@@ -3212,7 +3235,8 @@ Benefício: Você ganha a habilidade Imbuir Flecha, utilizável como uma ação livre
 
 No entanto, suas magias têm CD -4 quando conjuradas sem imbuí-las.
 
-Especial: Você só pode escolher este talento como um personagem de 1º nível.~
+Especial: Você só pode escolher este talento como um personagem de 1º nível.
+(Original: Arcane Archer)~
 @55117=~Xamã Espiritual~
 @55576=~Falha na criação do item: Não há espaços vazios para colocar o item~
 @55577=~<EXIAVAL1> não é uma magia válida para Imbuir Flecha~
@@ -3229,13 +3253,13 @@ Especial: Você só pode escolher este talento como um personagem de 1º nível.~
 @56046=~Flecha de Chamas~
 @56047=~Flecha Bola de Fogo~
 @56048=~Flecha Raio~
-@56049=~Flecha Armadilha de Crânios~
+@56049=~Flecha Armadilha de Caveira~
 @56050=~Flecha Lança de Gelo~
 @56051=~Flecha Lança da Ruptura~
 @56052=~Flecha Mísseis de Força de Mordenkainen~
 @56053=~Flecha Grito~
 @56054=~Flecha Esfera Vitriólica~
-@56055=~Flecha Cone de Frio~
+@56055=~Flecha Cone Glacial~
 @56056=~Flecha Símbolo da Dor~
 @12902 = ~Amaldiçoadas por uma sacerdotisa maléfica de Beshaba, deusa do azar, estas luvas de couro preto rígido se prendem a quem as experimenta. Apesar da natureza extremamente desagradável das luvas, aventureiros ricos às vezes compram essas manoplas distintas para colocar em seus tesouros, esperando que um ladrão ganancioso as experimente.
 
@@ -3272,7 +3296,7 @@ Sabedoria mínima de 13 necessária.~
 
 A partir daí, a história se desfaz, pois vários relatos afirmam que Sofia não conseguiu escapar da costa em segurança e que voltou à sua forma normal quando estava a meio caminho do oceano gelado. Outra corrente de pensamento alega que, em forma de flecha, Sofia perfurou o casco do navio e morreu sufocada ao retomar sua forma normal com o pescoço preso na embarcação. Há ainda quem diga que ela sequer foi lançada pelo arco e que retomou sua forma normal dentro da aljava do arqueiro, despertando nua, vestindo apenas a pequena faixa de couro em volta do corpo. Quando esse último argumento é apresentado, a discussão geralmente degenera em uma série de insinuações sexuais e a noite oficialmente começa a desandar.
 
-Seja qual for a história, o arco tem um alcance incomparável a muitos outros arcos nos reinos, e as flechas lançadas por ele atingem alvos distantes e certeiros — ao contrário da história que o cerca.
+Seja qual for a história, o arco tem um alcance incomparável a muitos outros arcos nos reinos, e as flechas lançadas por ele atingem alvos distantes e certeiros - ao contrário da história que o cerca.
 
 ESTATÍSTICAS:
 
@@ -3288,7 +3312,7 @@ Tipo: Duas mãos.~
 
 A partir daí, a história se desfaz, pois vários relatos afirmam que Sofia não conseguiu escapar da costa em segurança e que voltou à sua forma normal quando estava a meio caminho do oceano gelado. Outra corrente de pensamento alega que, em forma de flecha, Sofia perfurou o casco do navio e morreu sufocada ao retomar sua forma normal com o pescoço preso na embarcação. Há ainda quem diga que ela sequer foi lançada pelo arco e que retomou sua forma normal dentro da aljava do arqueiro, despertando nua, vestindo apenas a pequena faixa de couro em volta do corpo. Quando esse último argumento é apresentado, a discussão geralmente degenera em uma série de insinuações sexuais e a noite oficialmente começa a desandar.
 
-Seja qual for a história, o arco tem um alcance incomparável a muitos outros arcos nos reinos, e as flechas lançadas por ele atingem alvos distantes e certeiros — ao contrário da história que o cerca.
+Seja qual for a história, o arco tem um alcance incomparável a muitos outros arcos nos reinos, e as flechas lançadas por ele atingem alvos distantes e certeiros - ao contrário da história que o cerca.
 
 ESTATÍSTICAS:
 

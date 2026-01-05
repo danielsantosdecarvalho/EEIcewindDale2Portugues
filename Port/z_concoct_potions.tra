@@ -318,7 +318,7 @@ ESTATÍSTICAS:
 +6 Carisma
 Peso: 0,5 kg (1 lb).~
 @4740 = ~Ichor Purificado~
-@4741 = ~Ichor pode vir de muitas fontes, mas a mais conveniente é a corrente sanguínea de um Bhaalspawn. Em seu estado inalterado, o sangue é pouco diferente de qualquer outro — extrair seu verdadeiro poder é um processo complexo.
+@4741 = ~Ichor pode vir de muitas fontes, mas a mais conveniente é a corrente sanguínea de um Bhaalspawn. Em seu estado inalterado, o sangue é pouco diferente de qualquer outro - extrair seu verdadeiro poder é um processo complexo.
 
 Primeiro, o Alquimista deve realizar uma pesquisa sobre a divindade original e elaborar um ritual para ativar o potencial oculto do ichor. A partir daí, a essência deve ser filtrada por lixiviação do sangue com bandagens de múmia, destilação e precipitação em uma centrífuga, produzindo um líquido dourado de odor adocicado... ou, no caso do ichor de divindades malignas, uma mistura fétida de gordura e poeira grossa.
 
@@ -384,14 +384,14 @@ Peso: 0 kg.
 Talento necessário: Armas Simples, Projétil
 Tipo: Uma Mão~
 @4746 = ~Óleo de Fada~
-@4747 = ~Criaturas feéricas são difíceis de encontrar e ainda mais difíceis de capturar, mas um alquimista que consiga capturar um número suficiente delas pode roubar esses poderes, mesmo que por pouco tempo. O líquido em si nada mais é do que turfa e botões-de-ouro triturados misturados com azeite de oliva, mas se o alquimista conseguir convencer um grupo de fadas a dotar o óleo com sua magia — ou se o alquimista misturar o óleo com o sangue e os ossos em pó das fadas — esta poção envolverá quem a beber com uma pequena nuvem de magia ilusória semelhante à magia da Reflexos.
+@4747 = ~Criaturas feéricas são difíceis de encontrar e ainda mais difíceis de capturar, mas um alquimista que consiga capturar um número suficiente delas pode roubar esses poderes, mesmo que por pouco tempo. O líquido em si nada mais é do que turfa e botões-de-ouro triturados misturados com azeite de oliva, mas se o alquimista conseguir convencer um grupo de fadas a dotar o óleo com sua magia - ou se o alquimista misturar o óleo com o sangue e os ossos em pó das fadas - esta poção envolverá quem a beber com uma pequena nuvem de magia ilusória semelhante à magia da Reflexos.
 
 ESTATÍSTICAS:
 
 Reflexos (4 imagens)
 Peso: 0,5 kg (1 lb).~
 @54746 = ~Óleo de Fada~
-@54747 = ~Criaturas feéricas são difíceis de encontrar e ainda mais difíceis de capturar, mas um alquimista que consiga capturar um número suficiente delas pode roubar esses poderes, mesmo que por pouco tempo. O líquido em si nada mais é do que turfa e botões-de-ouro triturados misturados com azeite de oliva, mas se o alquimista conseguir convencer um grupo de fadas a dotar o óleo com sua magia — ou se o alquimista misturar o óleo com o sangue e os ossos em pó das fadas — esta poção envolverá quem a beber com uma pequena nuvem de magia ilusória semelhante ao feitiço Reflexos.
+@54747 = ~Criaturas feéricas são difíceis de encontrar e ainda mais difíceis de capturar, mas um alquimista que consiga capturar um número suficiente delas pode roubar esses poderes, mesmo que por pouco tempo. O líquido em si nada mais é do que turfa e botões-de-ouro triturados misturados com azeite de oliva, mas se o alquimista conseguir convencer um grupo de fadas a dotar o óleo com sua magia - ou se o alquimista misturar o óleo com o sangue e os ossos em pó das fadas - esta poção envolverá quem a beber com uma pequena nuvem de magia ilusória semelhante ao feitiço Reflexos.
 
 ESTATÍSTICAS:
 
@@ -482,7 +482,7 @@ Peso: 0,5 kg (1 lb).~
 
 Cultivado com amor e abençoado com bastante exposição ao luar, este musgo desenvolverá um brilho tênue. Se o alquimista o tiver tratado bem, o musgo gastará alegremente sua preciosa energia para trazer uma criatura morta de volta à vida.
 
-Com seu poder esgotado e sua personalidade sacrificada em prol do companheiro caído do alquimista, o musgo perderá seu brilho. É aconselhável que o usuário jogue o musgo fora — mantê-lo por perto tende a deixá-lo sombrio, e o musgo não gostaria que seu melhor amigo ficasse triste.
+Com seu poder esgotado e sua personalidade sacrificada em prol do companheiro caído do alquimista, o musgo perderá seu brilho. É aconselhável que o usuário jogue o musgo fora - mantê-lo por perto tende a deixá-lo sombrio, e o musgo não gostaria que seu melhor amigo ficasse triste.
 
 ESTATÍSTICAS:
 
@@ -733,7 +733,7 @@ ESTATÍSTICAS:
 
 Cospe Víbora por 12 rodadas
 Peso: 0,5 kg (1 lb).~
-@4793 = ~Preparar Poções~
+@4793 = ~Compor Poções~
 @4794 = ~Início~
 @4795 = ~Sair~
 @4796 = ~Você não pode preparar poções quando houver inimigos por perto.~

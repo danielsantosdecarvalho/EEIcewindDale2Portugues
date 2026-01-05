@@ -399,7 +399,7 @@ Peso: 0 kg.~
 
 ESTATÍSTICAS:
 
-Poder Mágico: Pode lançar o feitiço Invocar o Poder Sagrado (no nível 12) 1 vez por dia
+Poder Mágico: Pode lançar o feitiço Utilizar Poder Sagrado (no nível 12) 1 vez por dia
 Peso: 0 kg.~
 @10116 = ~Anel da Invulnerabilidade~
 @10117 = ~Um anel é uma pequena faixa de metal precioso usada como joia. Alguns anéis raros possuem encantamentos de proteção que protegem quem os usa das agruras da batalha. Esses anéis são muito procurados, especialmente por aventureiros que precisam de proteção extra. Esses anéis parecem emitir uma aura de segurança.
@@ -828,7 +828,7 @@ Peso: 1 kg (2 lb).~
 //@10234 = ~Luvas de Perícia com Armas~
 //@10235 = ~A descrição do item pode permanecer a mesma; se uma nova descrição for necessária, coloque-a aqui~
 //@10236 = ~Braçadeiras de Pérola Islandesa~
-@10237 = ~Diz-se que estas magníficas braçadeiras foram construídas nas Montanhas da Espinha do Mundo, e não faz muito tempo. Na costa do Mar do Gelo em Movimento, vivia Prashnak, um abjurador — e teimoso, aliás. Aparentemente, Prashnak estava tendo muita dificuldade em se defender de um implacável flagelo de trolls, que sem dúvida estavam interessados apenas em seu pavilhão escavado e bem posicionado. Prashnak usou tempestades de ácido para manter os trolls afastados. No entanto, o jovem mago estava cansado dos ataques constantes, e os trolls estavam ficando mais ousados.
+@10237 = ~Diz-se que estas magníficas braçadeiras foram construídas nas Montanhas da Espinha do Mundo, e não faz muito tempo. Na costa do Mar do Gelo em Movimento, vivia Prashnak, um abjurador - e teimoso, aliás. Aparentemente, Prashnak estava tendo muita dificuldade em se defender de um implacável flagelo de trolls, que sem dúvida estavam interessados apenas em seu pavilhão escavado e bem posicionado. Prashnak usou tempestades de ácido para manter os trolls afastados. No entanto, o jovem mago estava cansado dos ataques constantes, e os trolls estavam ficando mais ousados.
 
 Após vários meses estudando os diversos efeitos da magia de murchamento, invocação elemental e métodos mágicos de congelamento, Prashnak finalmente estava pronto para tentar seu experimento. Após invocar um elemental de água, Prashnak evaporou componentes corporais escolhidos e então congelou a criatura desventurada. Isso levou à criação de esculturas de gelo verdadeiramente horríveis. Os trolls, tão simples quanto são, se ofenderam enormemente com esses totens e, segundo relatos, fugiram da área. O experimento, um sucesso brilhante, fez com que o exultante Prashnak continuasse seus tristes estudos até hoje. Qual tipo de ladrão tomou posse das braçadeiras é desconhecido, mas elas estão desaparecidas há vários anos.
 
@@ -865,7 +865,7 @@ ESTATÍSTICAS:
 Bônus de Armadura Genérico: +5
 Peso: 0,5 kg (1 lb).~
 //@10248 = ~Braçadeiras do Foco~
-@10249 = ~Nos ensinamentos remanescentes do Kamjin-Doh de Kara-Tur, está escrito que um verdadeiro mestre de armas não depende de couro, corrente ou placa, mas sim de aprimorar suas habilidades para nunca ser atingido — o que significa que um mestre deve conhecer os movimentos do inimigo como os movimentos da própria mão. Tal maestria reside em manter o foco no oponente, mesmo no calor da batalha... e estas simples braçadeiras de couro foram projetadas para auxiliar exatamente nisso.
+@10249 = ~Nos ensinamentos remanescentes do Kamjin-Doh de Kara-Tur, está escrito que um verdadeiro mestre de armas não depende de couro, corrente ou placa, mas sim de aprimorar suas habilidades para nunca ser atingido - o que significa que um mestre deve conhecer os movimentos do inimigo como os movimentos da própria mão. Tal maestria reside em manter o foco no oponente, mesmo no calor da batalha... e estas simples braçadeiras de couro foram projetadas para auxiliar exatamente nisso.
 
 Inicialmente usadas para ajudar no treinamento de estudantes do Kamjin-Doh, essas Braçadeiras do Foco emitem um suave brilho de luar quando a luz do crepúsculo cai sobre elas. Enquanto usadas, elas exercem uma leve influência calmante sobre a mente do santo da espada que as empunha, aguçando as percepções e os sentidos do guerreiro, permitindo-lhe ler mais facilmente os movimentos dos oponentes. Na rara ocasião em que um inimigo atinge um santo da espada, essas bandas permitem que o portador ignore a dor (que nos ensinamentos do Kamjin-Doh é chamada de "distração") e mantenha a dor onde ela deve estar - em seu oponente.
 
@@ -878,7 +878,7 @@ Foco: O usuário causa dano máximo com cada golpe
 Peso: 0,5 kg (1 lb).
 Sabedoria mínima de 14 necessária~
 //@10250 = ~Braçadeiras do Mestre~
-@10251 = ~Quando o último kensai de Kamjin-Doh, o Mestre das Navalhas, foi morto nos campos do oeste de Kara-Tur, estas simples braçadeiras de couro foram arrancadas de seus braços — e seus braços arrancados de seus ombros — como punição pela destruição de Kamjin-Doh. As identidades daqueles que o derrotaram são desconhecidas, mas os rumores em Kara-Tur eram de que seus assassinos seriam os espíritos de três santos da espada de Kamjin-Doh, que retornaram da morte para pôr fim aos crimes do kensai renegado.
+@10251 = ~Quando o último kensai de Kamjin-Doh, o Mestre das Navalhas, foi morto nos campos do oeste de Kara-Tur, estas simples braçadeiras de couro foram arrancadas de seus braços - e seus braços arrancados de seus ombros - como punição pela destruição de Kamjin-Doh. As identidades daqueles que o derrotaram são desconhecidas, mas os rumores em Kara-Tur eram de que seus assassinos seriam os espíritos de três santos da espada de Kamjin-Doh, que retornaram da morte para pôr fim aos crimes do kensai renegado.
 
 Descobriu-se que essas, que foram uma vez simples braçadeiras de foco que o Mestre das Lâminas usava como estudante, estavam manchadas de sangue e vergonha, e já não brilhavam com a mesma luz que antes. À medida que o Mestre perdeu o foco, suas bandas de foco se corroeram, quase apodrecendo enquanto estavam enroladas em seus braços sangrentos. Mesmo assim, essas braçadeiras esfarrapadas ainda possuem o poder, a força e a crueldade do Mestre das Lâminas... tornando quem as empunha muito mais mortal.
 
@@ -1139,7 +1139,7 @@ Peso: 0~
 //@10315 = ~A descrição do item pode permanecer a mesma; se for necessária uma nova descrição, coloque-a aqui~
 //@10316 = ~Capa de Deslocamento~
 //@10317 = ~A descrição do item pode permanecer a mesma; se for necessária uma nova descrição, coloque-a aqui~
-//@10318 = ~Capa de Não Detecção~
+//@10318 = ~Capa de Dificultar Detecção~
 //@10319 = ~A descrição do item pode permanecer a mesma; se for necessária uma nova descrição, coloque-a aqui~
 @10320 = ~Capa de Pele de Yeti~
 @10321 = ~A capa pode ser feita em todos os formatos possíveis, com praticamente todos os tipos de tecido. Os formatos mais comuns são um pedaço circular de tecido com um furo no centro para a cabeça e um pedaço de tecido pendurado no pescoço, conectado por uma corrente, broche, cordão ou alfinetes. Esta capa parece ser feita de pele de um Yeti.
@@ -1391,7 +1391,7 @@ Especial:
   Poder de Magia: Pode lançar o feitiço Enfeitiçar Pessoa duas vezes por dia (DC de Vontade 44)
 Peso: 0,5 kg (1 lb).~
 //@10379 = ~Mandíbula de Wyrm~
-@10380 = ~Kellem Longeyes era um notável ranger na cidade de Bremen, viajando por todo o Norte Selvagem em busca de suas presas. Kellem caçava wyverns, dragonetes e outros wyrms de todos os tipos, especialmente aqueles que atacavam as Dez Cidades ou seus assentamentos periféricos. O ranger grisalho conquistou muitos troféus — com o tempo, pouco de seu equipamento não era adornado com um tipo ou outro de wyrm.
+@10380 = ~Kellem Longeyes era um notável ranger na cidade de Bremen, viajando por todo o Norte Selvagem em busca de suas presas. Kellem caçava wyverns, dragonetes e outros wyrms de todos os tipos, especialmente aqueles que atacavam as Dez Cidades ou seus assentamentos periféricos. O ranger grisalho conquistou muitos troféus - com o tempo, pouco de seu equipamento não era adornado com um tipo ou outro de wyrm.
 
 O troféu mais precioso de Kellem, no entanto, veio de Frostmaw, um grande wyrm branco cuja tamanho e ferocidade rivalizavam com os de um verdadeiro dragão. Enquanto estava em seus últimos suspiros, as mandíbulas e o hálito gelado de Frostmaw tomaram o olho e a orelha esquerda de Kellem - por isso, o ranger sombrio jurou vingança contra toda a sua maldita linhagem. Ao retornar à civilização, Kellem fez com que as grandes mandíbulas de Frostmaw fossem moldadas em um elaborado elmo e imbuídas com o hálito mortal do wyrm branco. Esse elmo o ranger batizou de "Maus da Serpente".
 
@@ -1406,7 +1406,7 @@ Especial:
   Hálito de Wyrm Branco: solta um cone de gelo causando 8d8 pontos de dano de frio (Reflexo DC 16 + duas vezes o bônus de Carisma do usuário para metade) 1 vez/dia
 Peso: 1,5 kg (3 lb).~
 //@10381 = ~Grande Mandíbula de Wyrm Branco~
-@10382 = ~Kellem Longeyes era um notável ranger na cidade de Bremen, viajando por todo o Norte Selvagem em busca de suas presas. Kellem caçava wyverns, dragonetes e outros wyrms de todos os tipos, especialmente aqueles que atacavam as Dez Cidades ou seus assentamentos periféricos. O ranger grisalho conquistou muitos troféus — com o tempo, poucos equipamentos não eram adornados com um tipo ou outro de wyrm.
+@10382 = ~Kellem Longeyes era um notável ranger na cidade de Bremen, viajando por todo o Norte Selvagem em busca de suas presas. Kellem caçava wyverns, dragonetes e outros wyrms de todos os tipos, especialmente aqueles que atacavam as Dez Cidades ou seus assentamentos periféricos. O ranger grisalho conquistou muitos troféus - com o tempo, poucos equipamentos não eram adornados com um tipo ou outro de wyrm.
 
 O troféu mais precioso de Kellem, no entanto, veio de Frostmaw, um grande wyrm branco cuja tamanho e ferocidade rivalizavam com os de um verdadeiro dragão. Enquanto estava em seus últimos suspiros, as mandíbulas e o hálito gelado de Frostmaw tomaram o olho e a orelha esquerda de Kellem - por isso, o ranger sombrio jurou vingança contra toda a sua maldita linhagem. Ao retornar à civilização, Kellem fez com que as grandes mandíbulas de Frostmaw fossem moldadas em um elaborado elmo e imbuídas com o hálito mortal do wyrm branco. Esse elmo o ranger batizou de "Maus do Grande Wyrm Branco".
 
@@ -1738,7 +1738,7 @@ Bônus Máximo de Destreza: +6
 Penalidade de Teste com Armadura: -0
 Falha de Feitiço Arcano: 10%
 Especial:
-  Proteção-Mágica: Imunidade aos feitiços Sono, Enfeitiçar Pessoa, Enfeitiçar Pessoa ou Animal, Encanto Direto, Maldição, Desespero e Imobilizar Pessoa
+  Proteção-Mágica: Imunidade aos feitiços Sono, Enfeitiçar Pessoa, Enfeitiçar Pessoa ou Animal, Encanto Macabro, Maldição, Desespero e Imobilizar Pessoa
 Peso: 5 kg (10 lb).~
 @10449 = ~Armadura de Couro da Destreza +1~
 @10450 = ~A armadura de couro, apesar da crença popular, não é macia e flexível como o couro usado para fazer as botas de um ranger ou o manto de um druida. Esse tipo de couro não oferece proteção melhor do que roupas comuns. Encantamentos mágicos aumentam as habilidades de proteção dessa armadura de couro.
@@ -1844,7 +1844,7 @@ Especial:
   Constituição: +4
 Peso: 10 kg (20 lb).~
 @10463 = ~Partes Sujas +3~
-@10464 = ~Costuma-se dizer que uma pessoa não escolhe uma profissão, a profissão escolhe a pessoa. Foi o que aconteceu com Nasty Phil, o limpador de cadáveres local das Dez Cidades, muitos anos atrás. Nasty Phil, veja bem, não era agente funerário — não, era sua responsabilidade, após um grupo de aventureiros despachados com um monstro (ou monstros) que estava aterrorizando uma comunidade local, limpar a bagunça que sobrou.
+@10464 = ~Costuma-se dizer que uma pessoa não escolhe uma profissão, a profissão escolhe a pessoa. Foi o que aconteceu com Nasty Phil, o limpador de cadáveres local das Dez Cidades, muitos anos atrás. Nasty Phil, veja bem, não era agente funerário - não, era sua responsabilidade, após um grupo de aventureiros despachados com um monstro (ou monstros) que estava aterrorizando uma comunidade local, limpar a bagunça que sobrou.
 
 A parte realmente 'nojenta' sobre Phil e o motivo de ele ter recebido esse apelido era que ele adorava seu trabalho. Ele fez essa armadura especialmente com as peles de diferentes criaturas para que pudesse se aprofundar ainda mais nas tarefas de limpeza mais macabras. De fato, não era incomum que Nasty Phil não se limpasse depois de um de seus trabalhos e andasse pela cidade coberto de carne podre e fedorenta. Partes e pedaços de partículas não identificadas podiam ser vistos pendurados na armadura de couro de Nasty Phil, o que levou os locais a nomearem sua armadura de couro, Partes Sujas.
 
@@ -1861,7 +1861,7 @@ Especial:
   Resistência: 2/- Resistência a Veneno
 Peso: 12,5 kg (25 lb).~
 @10465 = ~Partes Sórdidas +5~
-@10466 = ~Costuma-se dizer que uma pessoa não escolhe uma profissão, a profissão escolhe a pessoa. Foi o que aconteceu com Nasty Phil, o limpador de cadáveres local das Dez Cidades, muitos anos atrás. Nasty Phil, veja bem, não era agente funerário — não, era sua responsabilidade, após um grupo de aventureiros despachados com um monstro (ou monstros) que estava aterrorizando uma comunidade local, limpar a bagunça que sobrou.
+@10466 = ~Costuma-se dizer que uma pessoa não escolhe uma profissão, a profissão escolhe a pessoa. Foi o que aconteceu com Nasty Phil, o limpador de cadáveres local das Dez Cidades, muitos anos atrás. Nasty Phil, veja bem, não era agente funerário - não, era sua responsabilidade, após um grupo de aventureiros despachados com um monstro (ou monstros) que estava aterrorizando uma comunidade local, limpar a bagunça que sobrou.
 
 A parte realmente 'nojenta' sobre Phil e o motivo de ele ter recebido esse apelido era que ele adorava seu trabalho. Ele fez essa armadura especialmente com as peles de diferentes criaturas para que pudesse se aprofundar ainda mais nas tarefas de limpeza mais macabras. De fato, não era incomum que Nasty Phil não se limpasse depois de um de seus trabalhos e andasse pela cidade coberto de carne podre e fedorenta. Partes e pedaços de partículas não identificadas podiam ser vistos pendurados na armadura de couro de Nasty Phil, o que levou os locais a nomearem sua armadura de couro, Partes Sórdidas.
 
@@ -2181,7 +2181,7 @@ Bônus Máximo de Destreza: +2
 Penalidade de Teste com Armadura: -5
 Falha de Feitiço Arcano: 30%
 Especial:
-  Imunidade a Encantamento Direto, Enfeitiçar Pessoa, Confusão, Comando, Pensamento Rígido, Imobilizar Pessoa e Comando Maior
+  Imunidade a Encanto Macabro, Enfeitiçar Pessoa, Confusão, Comando, Pensamento Rígido, Imobilizar Pessoa e Comando Maior
   -2 de Carisma enquanto usada
 Peso: 20 kg (40 lb).~
 //@10513 = ~Cota de Malha Maléfica +4~ //HoF
@@ -2404,7 +2404,7 @@ Especial:
   O usuário está sob os efeitos da magia Proteção contra a Morte
 Peso: 20 kg (40 lb).~
 @10541 = ~Resiliência Glacial~
-@10542 = ~Kyndor Martelo de Gelo era um poderoso guerreiro anão que amava o frio dos Vales. Kyndor não só chamava o Vale do Vento Gelado de lar, como também tinha uma conexão especial com os Vales — era parte dele — não apenas uma parte do seu corpo, mas da sua própria alma.
+@10542 = ~Kyndor Martelo de Gelo era um poderoso guerreiro anão que amava o frio dos Vales. Kyndor não só chamava o Vale do Vento Gelado de lar, como também tinha uma conexão especial com os Vales - era parte dele - não apenas uma parte do seu corpo, mas da sua própria alma.
 
 Kyndor também era um ferreiro e forjador de armas notável. Tudo o que ele forjava tinha algum tipo de conexão com Icewind Dale. Na verdade, sua própria armadura, forjada por suas próprias mãos, parecia ter vida própria, e essa vida era muito protetora em relação a Kyndor. Muitas vezes, durante a batalha, sua armadura parecia aproveitar os elementos das Terras Geladas e retaliar contra os atacantes de Kyndor.
 
@@ -2421,7 +2421,7 @@ Especial:
   Retribuição: O atacante sofre 1d6 de dano de frio por acerto bem-sucedido no portador da Resiliência Glacial (somente combate corpo a corpo)
 Peso: 20 kg (40 lb).~
 @10543 = ~Tempestade Glacial~
-@10544 = ~Kyndor Martelo de Gelo era um poderoso guerreiro anão que amava o frio dos Vales. Kyndor não só chamava o Vale do Vento Gelado de lar, como também tinha uma conexão especial com os Vales — era parte dele — não apenas uma parte do seu corpo, mas da sua própria alma.
+@10544 = ~Kyndor Martelo de Gelo era um poderoso guerreiro anão que amava o frio dos Vales. Kyndor não só chamava o Vale do Vento Gelado de lar, como também tinha uma conexão especial com os Vales - era parte dele - não apenas uma parte do seu corpo, mas da sua própria alma.
 
 Kyndor também era um notável ferreiro de armaduras e armas. Tudo o que ele forjava tinha algum tipo de conexão com a Terra de Icewind Dale. Na verdade, sua própria armadura, forjada por suas mãos, parecia ter vida própria, e essa vida era muito protetora com Kyndor. Muitas vezes, durante a batalha, sua armadura parecia canalizar os elementos das Terras Geladas e retaliar contra os atacantes de Kyndor.
 
@@ -2618,11 +2618,11 @@ Especial:
   Proteção contra Magias: Imunidade a Manto do Medo, Horror, Enfeitiçar Pessoa, Encantar Direto e Confusão.
 Peso: 25 kg (50 lb).~
 @10575 = ~Armadura de Genasi do Ar~
-@10576 = ~Não há como negar que os Genasi do Ar são lutadores talentosos, assim como a maioria dos Genasi. Portanto, não é surpresa que as armaduras feitas pelos Genasi do Ar carreguem algumas das mesmas proteções mágicas inatas de seus próprios corpos.
+@10576 = ~Não há como negar que os Genasi do Ar são guerreiros talentosos, assim como a maioria dos Genasi. Portanto, não é surpresa que as armaduras feitas pelos Genasi do Ar carreguem algumas das mesmas proteções mágicas inatas de seus próprios corpos.
 
 A cota de malha completa dos Genasi do Ar não só oferece a excelente proteção de uma cota de malha comum, mas também proporciona ao portador a proteção adicional de repelir a maioria das magias e efeitos do ar.
 
-Um lutador usando a armadura dos Genasi do Ar é fácil de identificar, já que a armadura brilha em um azul claro e é decorada com centenas de espirais finamente entalhadas que cobrem cada centímetro da cota de malha bem trabalhada.
+Um guerreiro usando a armadura dos Genasi do Ar é fácil de identificar, já que a armadura brilha em um azul claro e é decorada com centenas de espirais finamente entalhadas que cobrem cada centímetro da cota de malha bem trabalhada.
 
 ESTATÍSTICAS:
 
@@ -2636,11 +2636,11 @@ Especial:
   Bônus de Teste de Resistência: +2 em testes de Reflexos.
 Peso: 25 kg (50 lb).~
 @10577 = ~Armadura de Genasi do Ar - Vendaval~
-@10578 = ~Não há como negar que os Genasi do Ar são lutadores talentosos, assim como a maioria dos Genasi. Portanto, não é surpresa que as armaduras feitas pelos Genasi do Ar carreguem algumas das mesmas proteções mágicas inatas de seus próprios corpos.
+@10578 = ~Não há como negar que os Genasi do Ar são guerreiros talentosos, assim como a maioria dos Genasi. Portanto, não é surpresa que as armaduras feitas pelos Genasi do Ar carreguem algumas das mesmas proteções mágicas inatas de seus próprios corpos.
 
 A Armadura de Vendaval dos Genasi do Ar não só oferece a excelente proteção de uma cota de malha completa comum, mas também confere ao portador a proteção adicional de repelir a maioria das magias e efeitos do ar. Além disso, a armadura encantada aumenta a destreza do portador, assim como sua capacidade de se defender contra atacantes.
 
-Um lutador usando a Armadura de Vendaval dos Genasi do Ar é fácil de identificar, já que a armadura brilha em um azul claro e é decorada com centenas de espirais finamente entalhadas que cobrem cada centímetro da cota de malha de acabamento requintado.
+Um guerreiro usando a Armadura de Vendaval dos Genasi do Ar é fácil de identificar, já que a armadura brilha em um azul claro e é decorada com centenas de espirais finamente entalhadas que cobrem cada centímetro da cota de malha de acabamento requintado.
 
 ESTATÍSTICAS:
 
@@ -2654,11 +2654,11 @@ Especial:
   Bônus de Teste de Resistência: +6 em testes de Reflexos.
 Peso: 35 kg (70 lb).~
 @10579 = ~Armadura de Vendaval dos Genasi do Ar~ //Com Revisões de Magia Instaladas
-@10580 = ~Não há como negar que os Genasi do Ar são lutadores talentosos, assim como a maioria dos Genasi. Portanto, não é surpresa que as armaduras feitas pelos Genasi do Ar carreguem algumas das mesmas proteções mágicas inatas de seus próprios corpos.
+@10580 = ~Não há como negar que os Genasi do Ar são guerreiros talentosos, assim como a maioria dos Genasi. Portanto, não é surpresa que as armaduras feitas pelos Genasi do Ar carreguem algumas das mesmas proteções mágicas inatas de seus próprios corpos.
 
 A Armadura de Vendaval dos Genasi do Ar não só oferece a excelente proteção de uma cota de malha completa comum, mas também confere ao portador a proteção adicional de repelir a maioria das magias e efeitos do ar. Além disso, a armadura encantada aumenta a destreza do portador, assim como sua capacidade de se defender contra atacantes.
 
-Um lutador usando a Armadura de Vendaval dos Genasi do Ar é fácil de identificar, já que a armadura brilha em um azul claro e é decorada com centenas de espirais finamente entalhadas que cobrem cada centímetro da cota de malha de acabamento requintado.
+Um guerreiro usando a Armadura de Vendaval dos Genasi do Ar é fácil de identificar, já que a armadura brilha em um azul claro e é decorada com centenas de espirais finamente entalhadas que cobrem cada centímetro da cota de malha de acabamento requintado.
 
 ESTATÍSTICAS:
 
@@ -3064,7 +3064,7 @@ Penalidade de Teste com Armadura: -2
 Falha de Feitiço Arcano: 15%
 Peso: 7,5 kg (15 lb).~
 @10651 = ~Túmulo da Presa Vermelha +5~
-@10652 = ~Este escudo de torre de ferro vermelho alcança quase do queixo aos pés do usuário. É pesado mesmo para um escudo do seu tamanho, com grande parte do peso vindo de uma grande cabeça de dragão esculpida em seu rosto — a cabeça, forjada no mesmo metal vermelho do resto do escudo, sobressai quase como uma gárgula da muralha de um castelo.
+@10652 = ~Este escudo de torre de ferro vermelho alcança quase do queixo aos pés do usuário. É pesado mesmo para um escudo do seu tamanho, com grande parte do peso vindo de uma grande cabeça de dragão esculpida em seu rosto - a cabeça, forjada no mesmo metal vermelho do resto do escudo, sobressai quase como uma gárgula da muralha de um castelo.
 
 A cabeça é a semelhança de Presa Vermelha, antiga montaria de um rei guerreiro tirano de uma terra há muito esquecida. Quando Presa Vermelha foi morta em batalha, o rei guerreiro fez com que a alma da besta fosse vinculada a este escudo, para que o fiel dragão ainda pudesse acompanhá-lo na batalha. Uma vez por dia, a cabeça de ferro de Presa Vermelha pode soltar um cone de chamas abrasadoras sob o comando do portador do escudo.
 
@@ -3082,7 +3082,7 @@ Penalidade de Teste com Armadura: -10
 Falha de Feitiço Arcano: 50%
 Peso: 15 kg (30 lb).~
 @10653 = ~Escudo de Dragão da Víbora da Morte +8~
-@10654 = ~Este escudo de torre de ferro vermelho alcança quase do queixo aos pés do usuário. É pesado mesmo para um escudo do seu tamanho, com grande parte do peso vindo de uma grande cabeça de dragão esculpida em seu rosto — a cabeça, forjada no mesmo metal vermelho do resto do escudo, projeta-se quase como uma gárgula da muralha de um castelo.
+@10654 = ~Este escudo de torre de ferro vermelho alcança quase do queixo aos pés do usuário. É pesado mesmo para um escudo do seu tamanho, com grande parte do peso vindo de uma grande cabeça de dragão esculpida em seu rosto - a cabeça, forjada no mesmo metal vermelho do resto do escudo, projeta-se quase como uma gárgula da muralha de um castelo.
 
 A cabeça é a semelhança de Presa Vermelha, antiga montaria de um rei guerreiro tirano de uma terra há muito esquecida. Quando Presa Vermelha foi morta em batalha, o rei guerreiro fez com que a alma da besta fosse vinculada a este escudo, para que o fiel dragão ainda pudesse acompanhá-lo na batalha. Uma vez por dia, a cabeça de ferro de Presa Vermelha pode soltar um jato de chamas abrasadoras sob o comando do portador do escudo.
 
@@ -4332,7 +4332,7 @@ Peso: 2 kg (4 lb).
 Requisito de Talento: Arma Marcial, Lâmina Grande
 Tipo: Uma mão~
 @10881 = ~Espada Dykhast~
-@10882 = ~Lendas antigas dos anões falam de uma época em que o mais nobre dos metais não era o aço anão, nem o ferro meteórico, nem o mithril, mas o dykhast — uma liga tão forte que o fio de uma lâmina seria capaz de cortar adamantina, e com uma superfície tão perfeita e brilhante que sua superfície cintilante poderia ser vista a uma distância de um dragão. Os anões mais antigos falam das lâminas de dykhast com lágrimas de carinho nos olhos e cospem insensivelmente à menção dos "vários metais fracos e insignificantes" com os quais as armas e armaduras atuais são feitas.
+@10882 = ~Lendas antigas dos anões falam de uma época em que o mais nobre dos metais não era o aço anão, nem o ferro meteórico, nem o mithril, mas o dykhast - uma liga tão forte que o fio de uma lâmina seria capaz de cortar adamantina, e com uma superfície tão perfeita e brilhante que sua superfície cintilante poderia ser vista a uma distância de um dragão. Os anões mais antigos falam das lâminas de dykhast com lágrimas de carinho nos olhos e cospem insensivelmente à menção dos "vários metais fracos e insignificantes" com os quais as armas e armaduras atuais são feitas.
 
 Existem rumores, no entanto, sobre um antigo e secreto templo chamado Chogoh Kyn – é lá, dizem as histórias, que as lâminas de dykhast ainda são feitas à moda dos dias passados. O preço pode ser alto, mas para o verdadeiro conhecedor, não há comparação com a glória, a perfeição, a pura alegria... do dykhast.
 
@@ -4348,7 +4348,7 @@ Peso: 0,5 kg (1 lb).
 Requisito de Talento: Arma Exótica, Espada Bastarda
 Tipo: Uma mão~
 @10883 = ~Espada de Dykhast Resplandecente~
-@10884 = ~Lendas antigas dos anões falam de uma época em que o mais nobre dos metais não era o aço anão, nem o ferro meteórico, nem o mithril, mas o dykhast — uma liga tão forte que o fio de uma lâmina seria capaz de cortar adamantina, e com uma superfície tão perfeita e brilhante que sua superfície cintilante poderia ser vista a uma distância de um dragão. Os anões mais antigos falam das lâminas de dykhast com lágrimas de carinho nos olhos e cospem insensivelmente à menção dos "vários metais fracos e insignificantes" com os quais as armas e armaduras atuais são feitas.
+@10884 = ~Lendas antigas dos anões falam de uma época em que o mais nobre dos metais não era o aço anão, nem o ferro meteórico, nem o mithril, mas o dykhast - uma liga tão forte que o fio de uma lâmina seria capaz de cortar adamantina, e com uma superfície tão perfeita e brilhante que sua superfície cintilante poderia ser vista a uma distância de um dragão. Os anões mais antigos falam das lâminas de dykhast com lágrimas de carinho nos olhos e cospem insensivelmente à menção dos "vários metais fracos e insignificantes" com os quais as armas e armaduras atuais são feitas.
 
 Existem rumores, no entanto, sobre um antigo e secreto templo chamado Chogoh Kyn – é lá, dizem as histórias, que as lâminas de dykhast ainda são feitas à moda dos dias passados. O preço pode ser alto, mas para o verdadeiro conhecedor, não há comparação com a glória, a perfeição, a pura alegria... do dykhast.
 
@@ -4758,7 +4758,7 @@ Peso: 5 kg (10 lb).
 Requisito de Talento: Arma Exótica, Espada Bastarda
 Tipo: Uma Mão~
 @10941 = ~Irado Sangrento +3~
-@10942 = ~"Foi durante o saque da Cidadela Azul por Borab, o Saqueador, que Alemis Pacificador — filho mais novo do Conde Marimor Pacificador, senhor da Cidadela Azul — invadiu o cofre trancado que seu pai julgara tão bem escondido. Lá, sozinhos na câmara cavernosa, estavam Irado Sangrento, Ódio e Furioso — a espada, o machado e a armadura temíveis de Hurom, ancestral ancestral de Alemis, outrora conhecido como o Juggernaut Sangrento antes de quebrar o feitiço de seu ferro amaldiçoado e assumir o nome de Pacificador."
+@10942 = ~"Foi durante o saque da Cidadela Azul por Borab, o Saqueador, que Alemis Pacificador - filho mais novo do Conde Marimor Pacificador, senhor da Cidadela Azul - invadiu o cofre trancado que seu pai julgara tão bem escondido. Lá, sozinhos na câmara cavernosa, estavam Irado Sangrento, Ódio e Furioso - a espada, o machado e a armadura temíveis de Hurom, ancestral ancestral de Alemis, outrora conhecido como o Juggernaut Sangrento antes de quebrar o feitiço de seu ferro amaldiçoado e assumir o nome de Pacificador."
 
 '--" Alemis, um simples garoto, vestiu a armadura maldita e tomou Irado Sangrento e Odioso em suas mãos. Sozinho, cortou seu caminho através da multidão desorganizada de saqueadores humanoides de Borab até que enfrentou o imenso meio-gigante, abatendo-o e dispersando seu exército ao vento. Sua família - pai, mãe, irmãos e irmãs - já haviam morrido até então, mas Alemis já não se importava. Ele perambulou pelos reinos, com os olhos acesos de loucura, matando monstros e bandidos onde quer que os encontrasse. Mas conforme os anos passaram e Alemis não encontrava mais tal trigo para debulhar, ele passou a virar suas lâminas sedentas contra todos que cruzassem seu caminho... e assim, mais uma vez, o Juggernaut Sangrento havia retornado.
 
@@ -4904,7 +4904,7 @@ Tipo: Uma Mão~
 //@10969 = ~Cimitarra +1~
 //@10970 = ~A descrição do item pode permanecer a mesma; se precisar de uma nova descrição, coloque-a aqui~
 @10971 = ~Foice de Caernach +1~
-@10972 = ~O arquidruida Caernach era conhecido por carregar uma boa quantidade de itens encantados, a maioria dos quais ele mesmo fabricava. As mais famosas eram suas botas, "Sopro da Vida", que deixavam flores e pequenas mudas brotando da terra por onde Caernach pisava. Ainda assim, os "posses menores" do arquidruida não eram nada desprezíveis — veja, por exemplo, sua foice de prata, feita para coletar visco sagrado e cabeças de inimigos. Esta arma incomum é, na verdade, um cruzamento entre uma foice e uma espada de verdade, assemelhando-se mais a uma cimitarra do que qualquer outra coisa. Tanto o cabo de carvalho quanto a lâmina de prata são gravados com padrões e espirais decorativos.
+@10972 = ~O arquidruida Caernach era conhecido por carregar uma boa quantidade de itens encantados, a maioria dos quais ele mesmo fabricava. As mais famosas eram suas botas, "Sopro da Vida", que deixavam flores e pequenas mudas brotando da terra por onde Caernach pisava. Ainda assim, os "posses menores" do arquidruida não eram nada desprezíveis - veja, por exemplo, sua foice de prata, feita para coletar visco sagrado e cabeças de inimigos. Esta arma incomum é, na verdade, um cruzamento entre uma foice e uma espada de verdade, assemelhando-se mais a uma cimitarra do que qualquer outra coisa. Tanto o cabo de carvalho quanto a lâmina de prata são gravados com padrões e espirais decorativos.
 
 ESTATÍSTICAS:
 
@@ -4919,7 +4919,7 @@ Peso: 2 kg (4 lb).
 Requisito de Talento: Arma Marcial, Lâmina Grande
 Tipo: Uma Mão~
 @10973 = ~Foice de Prata de Caernach +3~
-@10974 = ~O arquidruida Caernach era conhecido por carregar uma boa quantidade de itens encantados, a maioria dos quais ele mesmo fabricava. As mais famosas eram suas botas, "Sopro da Vida", que deixavam flores e pequenas mudas brotando da terra por onde Caernach pisava. Ainda assim, os "posses menores" do arquidruida não eram nada desprezíveis — veja, por exemplo, sua foice de prata, feita para coletar visco sagrado e cabeças de inimigos. Esta arma incomum é, na verdade, um cruzamento entre uma foice e uma espada de verdade, assemelhando-se mais a uma cimitarra do que qualquer outra coisa. Tanto o cabo de carvalho quanto a lâmina de prata são gravados com padrões e espirais decorativos.
+@10974 = ~O arquidruida Caernach era conhecido por carregar uma boa quantidade de itens encantados, a maioria dos quais ele mesmo fabricava. As mais famosas eram suas botas, "Sopro da Vida", que deixavam flores e pequenas mudas brotando da terra por onde Caernach pisava. Ainda assim, os "posses menores" do arquidruida não eram nada desprezíveis - veja, por exemplo, sua foice de prata, feita para coletar visco sagrado e cabeças de inimigos. Esta arma incomum é, na verdade, um cruzamento entre uma foice e uma espada de verdade, assemelhando-se mais a uma cimitarra do que qualquer outra coisa. Tanto o cabo de carvalho quanto a lâmina de prata são gravados com padrões e espirais decorativos.
 
 ESTATÍSTICAS:
 
@@ -4936,7 +4936,7 @@ Tipo: Uma Mão~
 @10975 = ~Cimitarra das Almas +5~
 @10976 = ~Em homenagem a Iyachtu Xvim, Madae mandou um de seus ferreiros mais habilidosos criar a cimitarra de Iyachtu Xvim, a Cimitarra das Almas. Quando ficou pronta, ela a entregou à estátua de Iyachtu Xvim, na esperança de que, se um dia Iyachtu Xvim se materializasse como um de seus avatares, ele usaria a arma que ela havia feito para ele em batalha. A arma principal de Iyachtu Xvim, a Cimitarra das Almas, tem o poder de literalmente sugar a vida de suas vítimas. Sua grande lâmina preta e polida é serrilhada na parte de trás da curva, envolve a ponta letal e grava sua forma irregular a um quarto do comprimento da lâmina na parte afiada.
 
-Os olhares brutais e o tamanho da Cimitarra das Almas forjada com perfeição complementam a presença ameaçadora e o cenho intimidador de Iyachtu Xvim. Nas mãos do avatar de Iyachtu Xvim, até mesmo esta cópia da espada original concederia ao deus das trevas uma vantagem imensa em batalha — quanto mais se um mortal a empunhasse.
+Os olhares brutais e o tamanho da Cimitarra das Almas forjada com perfeição complementam a presença ameaçadora e o cenho intimidador de Iyachtu Xvim. Nas mãos do avatar de Iyachtu Xvim, até mesmo esta cópia da espada original concederia ao deus das trevas uma vantagem imensa em batalha - quanto mais se um mortal a empunhasse.
 
 ESTATÍSTICAS:
 
@@ -4957,7 +4957,7 @@ Tipo: Uma Mão~
 
 A arma principal de Iyachtu Xvim, a Cimitarra das Almas, tem o poder de literalmente sugar a vida de suas vítimas, assim como esta réplica. Sua grande lâmina preta polida é serrilhada no lado oposto de sua curva, envolve a ponta mortal e grava seu caminho dentado por um quarto do comprimento da lâmina no lado afiado.
 
-Os olhares brutais e o tamanho da Cimitarra dos Sem-Alma forjada com perfeição complementam a presença ameaçadora e o cenho intimidador de Iyachtu Xvim. Nas mãos do avatar de Iyachtu Xvim, até mesmo esta cópia da espada original concederia ao deus das trevas uma vantagem imensa em batalha — quanto mais se um mortal a empunhasse.
+Os olhares brutais e o tamanho da Cimitarra dos Sem-Alma forjada com perfeição complementam a presença ameaçadora e o cenho intimidador de Iyachtu Xvim. Nas mãos do avatar de Iyachtu Xvim, até mesmo esta cópia da espada original concederia ao deus das trevas uma vantagem imensa em batalha - quanto mais se um mortal a empunhasse.
 
 ESTATÍSTICAS:
 
@@ -6437,9 +6437,9 @@ Tipo: Uma Mão~
 
 Dullcobble fez várias tentativas de criar um machado de corte, a maioria delas acabando como lenha ao lado de sua lareira. No dia antes do seu desafio ser cobrado, a única arma sobrevivente que ele tinha era um machado torto, cujo cabo estava amplamente desbalanceado. Percebendo que exibir tal arma o transformaria no motivo de riso da comunidade, Dullcobble contratou um mago selvagem para pegar seu machado deformado e transformá-lo em uma arma utilizável. O mago deu de ombros, pegou seu pagamento e prometeu devolver o machado a Dullcobble na manhã do dia seguinte. Quando Dullcobble acordou pela manhã, o machado deformado estava na sua porta, inalterado, e ele não teve escolha a não ser levar o machado até seus desafiantes... e arriscar sua sorte.
 
-Quando Dullcobble o trouxe para o salão de reuniões da cidade, a aparência do machado foi recebida com zombarias e risadas. Dullcobble, com o rosto queimando de vergonha, ficou tão bravo que o lançou contra seus atormentadores — e assistiu enquanto o cabo passava por cima da lâmina, colidindo com um pilar e quebrando-o, fazendo o teto desabar. Dullcobble, com a boca aberta de surpresa, foi derrubado por uma viga que caiu, mas os outros desafiantes conseguiram sair ilesos.
+Quando Dullcobble o trouxe para o salão de reuniões da cidade, a aparência do machado foi recebida com zombarias e risadas. Dullcobble, com o rosto queimando de vergonha, ficou tão bravo que o lançou contra seus atormentadores - e assistiu enquanto o cabo passava por cima da lâmina, colidindo com um pilar e quebrando-o, fazendo o teto desabar. Dullcobble, com a boca aberta de surpresa, foi derrubado por uma viga que caiu, mas os outros desafiantes conseguiram sair ilesos.
 
-O golpe de Dullcobble na cabeça foi sério, e ele se transformou no idiota da aldeia — nada muito diferente de seu estilo de vida anterior. O machado foi jogado em um carro de mercador que seguia para o norte e nunca mais foi visto. O que quer que os encantamentos que o mago selvagem tenha inscrito no machado fizeram, isso faz com que o cabo seja o primeiro a atingir um oponente, causando dano esmagador em vez de dano cortante.
+O golpe de Dullcobble na cabeça foi sério, e ele se transformou no idiota da aldeia - nada muito diferente de seu estilo de vida anterior. O machado foi jogado em um carro de mercador que seguia para o norte e nunca mais foi visto. O que quer que os encantamentos que o mago selvagem tenha inscrito no machado fizeram, isso faz com que o cabo seja o primeiro a atingir um oponente, causando dano esmagador em vez de dano cortante.
 
 ESTATÍSTICAS:
 
@@ -6792,7 +6792,7 @@ Arrancando a enorme lâmina de ferro frio e negra da base do crânio do anão, Grub
 
 Grubrun Foul-Tusks finalmente encontrou seu fim na batalha final da Mão, onde ele lançou Grande Morte Negra Voadora contra a mestra de armas élfica Kaylessa; ela desviou habilidosamente da arma voadora, avançou rapidamente e cravou sua própria lâmina no ventre do orc desarmado. Diz-se que Kaylessa, então, abaixou-se calmamente enquanto o próprio machado de Grubrun voltava em sua direção e cortava sua cabeça, com as presas amarelas podres e tudo.
 
-Grande Morte Negra Voadora é um machado especialmente grande — quase ridiculamente grande — e só pode ser identificado como uma arma de arremesso por causa de seu cabo curto e pela forma como é equilibrado. De fato, o machado é tão massivo que não pode ser lançado com uma única mão, sendo necessário que o portador o segure com ambas as mãos e o arremesse lateralmente com a força de todo o seu corpo.
+Grande Morte Negra Voadora é um machado especialmente grande - quase ridiculamente grande - e só pode ser identificado como uma arma de arremesso por causa de seu cabo curto e pela forma como é equilibrado. De fato, o machado é tão massivo que não pode ser lançado com uma única mão, sendo necessário que o portador o segure com ambas as mãos e o arremesse lateralmente com a força de todo o seu corpo.
 
 ESTATÍSTICAS:
 
@@ -7098,9 +7098,9 @@ Tipo: Uma Mão~
 //@11393 = ~Tocha Eterna de Belib~
 //@11394 = ~A descrição do item pode permanecer a mesma; se for necessária uma nova descrição, coloque aqui~
 //@11395 = ~Tocha Eterna Incrível de Belib~
-@11396 = ~Belib, o Cauteloso, foi sem dúvida o aventureiro mais bem equipado que os reinos já conheceram — ou teriam sido, se ele tivesse realmente saído de casa em um. Apenas um item de sua impressionante lista de equipamentos encantados para masmorras é sua Tocha Eterna. Uma lanterna mágica moldada no formato de uma elaborada tocha de madeira, o item queima com uma chama laranja brilhante que não pode ser apagada — seja mergulhada na água, enterrada sob vários metros de rocha ou esmagada na cabeça de um troll do pântano encharcado, a Tocha Eterna de Belib simplesmente não se apaga.
+@11396 = ~Belib, o Cauteloso, foi sem dúvida o aventureiro mais bem equipado que os reinos já conheceram - ou teriam sido, se ele tivesse realmente saído de casa em um. Apenas um item de sua impressionante lista de equipamentos encantados para masmorras é sua Tocha Eterna. Uma lanterna mágica moldada no formato de uma elaborada tocha de madeira, o item queima com uma chama laranja brilhante que não pode ser apagada - seja mergulhada na água, enterrada sob vários metros de rocha ou esmagada na cabeça de um troll do pântano encharcado, a Tocha Eterna de Belib simplesmente não se apaga.
 
-Quando Belib finalmente terminou o último de seus itens, enfiou todos em uma mochila gigante — encantada para conter muito mais do que Belib normalmente conseguiria carregar, é claro — e a jogou sobre os ombros, preparado para a aventura de sua vida. Ao cruzar o limiar de sua morada, Belib tropeçou... e o pequeno gnomo foi instantaneamente esmagado sob sua mochila colossal. A bolsa se rompeu, seu conteúdo espalhando-se pelas ruas de Águas Profundas, onde Belib morava, e rapidamente desaparecendo nas mãos de vários transeuntes inúteis.
+Quando Belib finalmente terminou o último de seus itens, enfiou todos em uma mochila gigante - encantada para conter muito mais do que Belib normalmente conseguiria carregar, é claro - e a jogou sobre os ombros, preparado para a aventura de sua vida. Ao cruzar o limiar de sua morada, Belib tropeçou... e o pequeno gnomo foi instantaneamente esmagado sob sua mochila colossal. A bolsa se rompeu, seu conteúdo espalhando-se pelas ruas de Águas Profundas, onde Belib morava, e rapidamente desaparecendo nas mãos de vários transeuntes inúteis.
 
 O corpo de Belib acabou sendo levado a um templo e ressuscitado por uma bondosa sacerdotisa, mas, até então, os últimos dos itens encantados de Belib... e a maior parte do conteúdo de sua casa... já estavam há muito desaparecidos. Grato, mas compreensivelmente aborrecido, Belib criou diversos itens mágicos únicos para a sacerdotisa antes de retornar à sua família e terra natal, desaparecendo para sempre do mundo da superfície.
 
@@ -7119,7 +7119,7 @@ Tipo: Uma Mão~
 //@11397 = ~Pata de Macaco da Disciplina~
 @11398 = ~O capitão neo-orog, Sprawg, é o atual instrutor de táticas gerais de batalha para a nova Legião dos recrutas Quimera. Como tal, ele precisava de uma ferramenta para manter seus novos recrutas submissos e na linha. Assim, a Pata de Macaco da Disciplina foi criada.
 
-A Pata de Macaco da Disciplina é exatamente o que o nome sugere. Consiste basicamente em um grande braço petrificado de macaco, cortado no ombro. Na junta do ombro, parece que uma empunhadura de uma mão foi enfiada no osso e fundida magicamente. Na outra extremidade, a pata está aberta e é o principal instrumento de dor. Quando alguém é atingido pela pata, além do dano considerável, há uma chance de que o alvo da disciplina sofra de medo intenso e/ou confusão. Quando esses sintomas passam, dificilmente o alvo da disciplina da pata voltará a causar problemas no futuro — especialmente durante as aulas.
+A Pata de Macaco da Disciplina é exatamente o que o nome sugere. Consiste basicamente em um grande braço petrificado de macaco, cortado no ombro. Na junta do ombro, parece que uma empunhadura de uma mão foi enfiada no osso e fundida magicamente. Na outra extremidade, a pata está aberta e é o principal instrumento de dor. Quando alguém é atingido pela pata, além do dano considerável, há uma chance de que o alvo da disciplina sofra de medo intenso e/ou confusão. Quando esses sintomas passam, dificilmente o alvo da disciplina da pata voltará a causar problemas no futuro - especialmente durante as aulas.
 
 ESTATÍSTICAS:
 
@@ -7137,7 +7137,7 @@ Tipo: Uma Mão~
 //@11399 = ~Pata de Macaco do Preconceito Extremo~
 @11400 = ~O capitão neo-orog, Sprawg, é o atual instrutor de táticas gerais de batalha para a nova Legião dos recrutas Quimera. Como tal, ele precisava de uma ferramenta para manter seus novos recrutas submissos e na linha. Assim, a Pata de Macaco do Preconceito Extremo foi criada.
 
-A Pata de Macaco do Preconceito Extremo é exatamente o que o nome sugere. Consiste basicamente em um grande braço petrificado de macaco, cortado no ombro. Na junta do ombro, parece que uma empunhadura de uma mão foi enfiada no osso e fundida magicamente. Na outra extremidade, a pata está aberta e é o principal instrumento de dor. Quando alguém é atingido pela pata, além do dano considerável, há uma chance de que o alvo da disciplina sofra de medo intenso e/ou confusão. Quando esses sintomas passam, dificilmente o alvo da disciplina da pata voltará a causar problemas no futuro — especialmente durante as aulas.
+A Pata de Macaco do Preconceito Extremo é exatamente o que o nome sugere. Consiste basicamente em um grande braço petrificado de macaco, cortado no ombro. Na junta do ombro, parece que uma empunhadura de uma mão foi enfiada no osso e fundida magicamente. Na outra extremidade, a pata está aberta e é o principal instrumento de dor. Quando alguém é atingido pela pata, além do dano considerável, há uma chance de que o alvo da disciplina sofra de medo intenso e/ou confusão. Quando esses sintomas passam, dificilmente o alvo da disciplina da pata voltará a causar problemas no futuro - especialmente durante as aulas.
 
 ESTATÍSTICAS:
 
@@ -7762,7 +7762,7 @@ Tipo: Uma Mão~
 @11533 = ~A Caveira Skirling +2~
 @11534 = ~A Caveira de Skirling, que se acredita ser de fabricação gnomo das profundezas, é um mangual de design notavelmente incomum: uma haste de madeira de três pés de comprimento coberta com uma cabeça de pedra esculpida para se assemelhar a uma caveira e coroada com longos e brilhantes fragmentos de cristal impossivelmente duro.
 
-Quando os cristais encantados atingem um objeto, eles vibram e emitem um lamento agudo — esses harmônicos sobrenaturais podem rasgar auras mágicas e dissipar qualquer feitiçaria que envolva o alvo. O mesmo toque também pode ensurdecer o alvo.
+Quando os cristais encantados atingem um objeto, eles vibram e emitem um lamento agudo - esses harmônicos sobrenaturais podem rasgar auras mágicas e dissipar qualquer feitiçaria que envolva o alvo. O mesmo toque também pode ensurdecer o alvo.
 
 ESTATÍSTICAS:
 
@@ -7780,7 +7780,7 @@ Tipo: Uma Mão~
 @11535 = ~Crânio de Skirling Svirfneblin +4~
 @11536 = ~O Crânio Skirling Svirfneblin, que se acredita ser de fabricação dos gnomos das profundezas, é um mangual de design notavelmente incomum: uma haste de madeira de três pés de comprimento coberta com uma cabeça de pedra esculpida para se assemelhar a uma caveira e coroada com longos e brilhantes fragmentos de cristal incrivelmente duro.
 
-Quando os cristais encantados atingem um objeto, eles vibram e emitem um lamento agudo — esses harmônicos sobrenaturais podem rasgar auras mágicas e dissipar qualquer feitiçaria ao redor do alvo. O mesmo tom de toque também pode ensurdecer o alvo.
+Quando os cristais encantados atingem um objeto, eles vibram e emitem um lamento agudo - esses harmônicos sobrenaturais podem rasgar auras mágicas e dissipar qualquer feitiçaria ao redor do alvo. O mesmo tom de toque também pode ensurdecer o alvo.
 
 ESTATÍSTICAS:
 
@@ -8246,7 +8246,7 @@ Tipo: Uma Mão~
 
 Este martelo ostenta uma haste finamente gravada com imagens de Iyachtu Xvim lutando contra legiões de paladinos. Seu martelo de mitral primorosamente trabalhado é muito maior do que a maioria dos martelos de guerra, mas não parece ser mais pesado. Como muitas armas feitas com os encantamentos profanos de Iyachtu Xvim, o metal do martelo parece absorver a luz em sua escuridão insuportável.
 
-Nas poucas ocasiões em que o Tirano Brutai Mar usou sua arma contra seus inimigos, Brutai sentiu aumento de força e precisão. Além disso, alguns dos golpes esmagadores foram acompanhados por rajadas de ácido Xvimiano — o mesmo ácido que flui pelas águas da Mão Cortada.
+Nas poucas ocasiões em que o Tirano Brutai Mar usou sua arma contra seus inimigos, Brutai sentiu aumento de força e precisão. Além disso, alguns dos golpes esmagadores foram acompanhados por rajadas de ácido Xvimiano - o mesmo ácido que flui pelas águas da Mão Cortada.
 
 ESTATÍSTICAS:
 
@@ -8469,7 +8469,7 @@ Peso: 0 kg
 Requisito de Talento: Armas Simples, Projétil
 Tipo: Uma Mão~
 @11671 = ~Teoremas de Adron +1~
-@11672 = ~A paixão do sábio Adron por argumentar só era comparável ao seu amor por enfatizar o ponto final com a maior veemência possível. De brincadeira, vários de seus alunos inscreveram muitos de seus teoremas e passagens frequentemente citadas em uma série de dardos e os presentearam ao idoso instrutor no dia de sua aposentadoria. Isso provou ser um presente de sabedoria questionável, pois Adron se irritava rapidamente e imediatamente começou a atirar os dardos em seus alunos — apenas para descobrir que os teoremas haviam dado aos dardos uma precisão sábia ao defender seus argumentos. Felizmente para os alunos, eles eram tão bons em desviar de dardos quanto em desviar de seus estudos, então, exceto por alguns pares de vestes sujas, houve pouco dano.
+@11672 = ~A paixão do sábio Adron por argumentar só era comparável ao seu amor por enfatizar o ponto final com a maior veemência possível. De brincadeira, vários de seus alunos inscreveram muitos de seus teoremas e passagens frequentemente citadas em uma série de dardos e os presentearam ao idoso instrutor no dia de sua aposentadoria. Isso provou ser um presente de sabedoria questionável, pois Adron se irritava rapidamente e imediatamente começou a atirar os dardos em seus alunos - apenas para descobrir que os teoremas haviam dado aos dardos uma precisão sábia ao defender seus argumentos. Felizmente para os alunos, eles eram tão bons em desviar de dardos quanto em desviar de seus estudos, então, exceto por alguns pares de vestes sujas, houve pouco dano.
 
 Os dardos de Adron foram guardados em uma caixa especial na escola, apenas para serem roubados como uma brincadeira da universidade muitos anos depois. Desde então, os dardos foram avistados por todos os reinos, levando os teoremas e citações de Adron por onde quer que fossem.
 
@@ -8486,7 +8486,7 @@ Requisito de Talento: Armas Simples, Projétil
 Tipo: Uma Mão
 Inteligência Mínima de 16 Requerida~
 @11673 = ~Teoremas Prolixos de Adron +3~
-@11674 = ~A paixão do sábio Adron por argumentar só era comparável ao seu amor por enfatizar o ponto final com a maior veemência possível. De brincadeira, vários de seus alunos inscreveram muitos de seus teoremas e passagens frequentemente citadas em uma série de dardos e os presentearam ao idoso instrutor no dia de sua aposentadoria. Isso provou ser um presente de sabedoria questionável, pois Adron se irritava rapidamente e imediatamente começou a atirar os dardos em seus alunos — apenas para descobrir que os teoremas haviam dado aos dardos uma precisão sábia ao defender seus argumentos. Felizmente para os alunos, eles eram tão bons em desviar de dardos quanto em desviar de seus estudos, então, exceto por alguns pares de vestes sujas, houve pouco dano.
+@11674 = ~A paixão do sábio Adron por argumentar só era comparável ao seu amor por enfatizar o ponto final com a maior veemência possível. De brincadeira, vários de seus alunos inscreveram muitos de seus teoremas e passagens frequentemente citadas em uma série de dardos e os presentearam ao idoso instrutor no dia de sua aposentadoria. Isso provou ser um presente de sabedoria questionável, pois Adron se irritava rapidamente e imediatamente começou a atirar os dardos em seus alunos - apenas para descobrir que os teoremas haviam dado aos dardos uma precisão sábia ao defender seus argumentos. Felizmente para os alunos, eles eram tão bons em desviar de dardos quanto em desviar de seus estudos, então, exceto por alguns pares de vestes sujas, houve pouco dano.
 
 Os dardos de Adron estavam guardados em um estojo especial na escola, mas foram roubados muitos anos depois, como uma brincadeira da universidade. Desde então, os dardos foram avistados por todos os reinos, levando os teoremas e citações de Adron por onde quer que fossem.
 
@@ -9311,7 +9311,7 @@ Tipo: Duas Mãos~
 @11823 = ~Tolice de Hagnen +1~
 @11824 = ~Esta besta leve recebeu o nome, não de seu criador anão, Hagnen Odestone, mas de sua esposa Miraenna, responsável por encordoar a besta com tripa de dragão e, em seguida, verificar sua mira e velocidade de tiro. Aparentemente, não havia amor entre o casal, e suas discussões sobre tudo, desde a manutenção da casa até a contabilidade, eram lendárias nos salões dos clãs. Logo após Hagnen ser esmagado até a morte no grande terremoto de 1275 CV, a esposa de Hagnen decidiu enterrar o nome do marido (e o acúmulo de trabalhos inacabados) ao terminar a última de uma série de armas encantadas que ainda estavam na oficina de Hagnen, amaldiçoando cada uma com o nome de Hagnen. Após terminar a última de suas armas, Miraenna aparentemente deixou o lar do clã anão e viajou para o sul, livrando-se alegremente do nome e das criações Odestone.
 
-Entre as outras criações de Hagnen, está uma besta pesada que também leva seu nome — ela foi avistada no Norte em diversas ocasiões.
+Entre as outras criações de Hagnen, está uma besta pesada que também leva seu nome - ela foi avistada no Norte em diversas ocasiões.
 
 Dano: +1 (projétil)
 Bônus de Ataque: +4
@@ -9323,7 +9323,7 @@ Tipo: Duas Mãos~
 @11825 = ~Tolice de Hagnen Odestone +3~
 @11826 = ~Esta besta leve recebeu o nome, não de seu criador anão, Hagnen Odestone, mas de sua esposa Miraenna, responsável por encordoar a besta com tripa de dragão e, em seguida, verificar sua mira e velocidade de tiro. Aparentemente, não havia amor entre o casal, e suas discussões sobre tudo, desde a manutenção da casa até a contabilidade, eram lendárias nos salões dos clãs. Logo após Hagnen ser esmagado até a morte no grande terremoto de 1275 CV, a esposa de Hagnen decidiu enterrar o nome do marido (e o acúmulo de trabalhos inacabados) ao terminar a última de uma série de armas encantadas que ainda estavam na oficina de Hagnen, amaldiçoando cada uma com o nome de Hagnen. Após terminar a última de suas armas, Miraenna aparentemente deixou o lar do clã anão e viajou para o sul, livrando-se alegremente do nome e das criações Odestone.
 
-Entre as outras criações de Hagnen está uma besta pesada que também leva seu nome — ela foi avistada no Norte em diversas ocasiões.
+Entre as outras criações de Hagnen está uma besta pesada que também leva seu nome - ela foi avistada no Norte em diversas ocasiões.
 
 Dano: +3 (projétil)
 Bônus de Ataque: +8
@@ -9569,7 +9569,7 @@ Tipo: Duas Mãos~
 @11867 = ~Loucura de Hagnen Odestone +3~
 @11868 = ~Esta besta pesada recebeu o nome, não de seu criador anão, Hagnen Odestone, mas de sua esposa Miraenna, que era responsável por encordoar a besta com tripa de dragão e então verificar sua mira e velocidade de tiro. Aparentemente, não havia amor entre o casal, e suas discussões sobre tudo, desde a manutenção da casa até a contabilidade, eram lendárias nos salões dos clãs. Logo após Hagnen ser esmagado até a morte no grande terremoto de 1275 CV, a esposa de Hagnen procedeu a enterrar o nome de seu marido (e o acúmulo de trabalhos inacabados) terminando a última de uma série de armas encantadas que ainda estavam na oficina de Hagnen, amaldiçoando cada uma com o nome de Hagnen. Depois de terminar a última de suas armas, Miraenna aparentemente deixou o lar do clã anão e viajou para o sul, livrando-se alegremente do nome e das criações Odestone.
 
-Entre as outras criações de Hagnen está uma besta leve que também leva seu nome — ela foi avistada no Norte em diversas ocasiões.
+Entre as outras criações de Hagnen está uma besta leve que também leva seu nome - ela foi avistada no Norte em diversas ocasiões.
 
 ESTATÍSTICAS:
 
@@ -10430,7 +10430,7 @@ ESTATÍSTICAS:
 
 Resistência: 100/- Resistência ao Fogo
 Resistência: 100/- Resistência ao Frio
-Resistência: 100/- Resistência Elétrica
+Resistência: 100/- Resistência a Eletrecidade
 Resistência: 100/- Resistência a Ácidos
 Resistência: 100/- Resistência a Dano Mágico
 Resistência: 100/- Resistência a Venenos
@@ -10665,7 +10665,7 @@ Peso: 0,5 kg (1 lb)~
 
 ESTATÍSTICAS:
 
-Pode conjurar o feitiço Feitiço Terrível uma vez por dia (CD de Vontade 25)
+Pode conjurar o feitiço Encanto Macabro uma vez por dia (CD de Vontade 25)
 
 Peso: 1 kg (2 lb).~
 //@12149 = ~Cordas da Discórdia~
@@ -10673,7 +10673,7 @@ Peso: 1 kg (2 lb).~
 
 ESTATÍSTICAS:
 
-Pode lançar o feitiço Enfeitiçar Avançado em todos os inimigos em um raio de 6 metros uma vez por dia (CD de Vontade 34).
+Pode lançar o feitiço Encanto Macabro em todos os inimigos em um raio de 6 metros uma vez por dia (CD de Vontade 34).
 
 Peso: 1 kg (2 lb).~
 //@12151 = ~Canção de Ninar de Owain~
@@ -10773,7 +10773,7 @@ Peso: 0,5 kg (1 lb).~
 //@12165 = ~Cachimbos de Craum Straug~
 @12166 = ~Quando o venerável (e senil) dragão vermelho Craum Straug vagou pelo acampamento madeireiro de Hornhollow, na orla da Floresta dos Dentes Afiados, os moradores (sabiamente) fugiram apavorados quando o dragão começou a cuspir chamas, incendiando o acampamento e fazendo com que gritos de alarme se espalhassem por toda a região. Depois que os moradores fugiram, Craum agachou seus velhos ossos sobre os prédios enegrecidos, resmungando para si mesmo e expelindo chamas pelas narinas.
 
-A algumas horas e quilômetros de distância, os moradores de Hornhollow finalmente decidiram que alguém precisava negociar com o dragão e ver o que ele queria. Como não havia voluntários disponíveis, um sorteio foi realizado — e o perdedor, um ministro viajante, Aznee Fraystrings, recebeu a perigosa tarefa de tentar lidar com o dragão. Aznee já havia cumprido sua missão no acampamento muitas noites antes, e os lenhadores não consideraram uma grande perda se Aznee ganhasse um novo lar na barriga do dragão.
+A algumas horas e quilômetros de distância, os moradores de Hornhollow finalmente decidiram que alguém precisava negociar com o dragão e ver o que ele queria. Como não havia voluntários disponíveis, um sorteio foi realizado - e o perdedor, um ministro viajante, Aznee Fraystrings, recebeu a perigosa tarefa de tentar lidar com o dragão. Aznee já havia cumprido sua missão no acampamento muitas noites antes, e os lenhadores não consideraram uma grande perda se Aznee ganhasse um novo lar na barriga do dragão.
 
 Aznee, um tanto distraído, mas de coração valente, cambaleou até o acampamento e finalmente reuniu coragem para falar com o dragão. Durante a (agora famosa) conversa que se seguiu, Aznee descobriu que Craum, que já estava em idade avançada como dragão e com a saúde debilitada, sofria do equivalente dracônico de uma tosse forte, e sua tosse e chiado mascaravam suas tentativas lamentosas de encontrar alguém, qualquer pessoa, que pudesse ajudar a curar seus acessos de tosse.
 
@@ -10947,7 +10947,7 @@ Após ler o capítulo final do livro acima, você percebe que as letras iniciais de
 
 ESTATÍSTICAS
 
-Poder Mágico: Conjurar Palavra de Poder: Cegueira (no nível 30) 1/Dia
+Poder Mágico: Conjurar Palavra de Poder: Cegar (no nível 30) 1/Dia
 Poder Mágico: Conjurar Esfera Gélida de Otiluke (no nível 30) 3/Dia
 
 Peso: 0,5 kg (1 lb).~
@@ -10965,7 +10965,7 @@ Após ler o capítulo final do livro acima, você percebe que as letras iniciais de
 ESTATÍSTICAS:
 
 Poder Mágico: Lançar Ciclone (no nível 30) 1/Dia
-Poder Mágico: Lançar Ligação Planar: Elemental do Ar (no nível 12) 2/Dia
+Poder Mágico: Lançar Vinculação Planar: Elemental do Ar (no nível 12) 2/Dia
 
 Peso: 0,5 kg (1 lb)~
 //@12205 = ~Livro das Folhas~
@@ -10981,7 +10981,7 @@ Poder Mágico: Lança uma versão mais poderosa do feitiço Pele de Árvore (bônus de
 Poder Mágico: Lança o feitiço Cambaleante 1/Dia
 Peso: 0,5 kg (1 lb)~
 //@12209 = ~Como Ser um Aventureiro~
-@12210 = ~Este livro absurdamente grande e pesado — mais uma compilação de volumes em uma única encadernação do que qualquer outra coisa — afirma ser um manual completo sobre "a fina arte da aventura". Seus muitos capítulos incluem:
+@12210 = ~Este livro absurdamente grande e pesado - mais uma compilação de volumes em uma única encadernação do que qualquer outra coisa - afirma ser um manual completo sobre "a fina arte da aventura". Seus muitos capítulos incluem:
 
 - Capangas: Companheiros Leais ou Mulas de Carga Sombrias?
 - Fazendo seu kit trabalhar para *você*
@@ -11022,7 +11022,7 @@ Concede ao leitor 10.000 Pontos de Experiência.
 Pode ser usado até seis vezes.
 Peso: 4 kg (8 lb)~
 //@12211 = ~Como Ser um Aventureiro (2ª Ed.)~
-@12212 = ~Este livro absurdamente grande e pesado — mais uma compilação de volumes em uma única encadernação do que qualquer outra coisa — afirma ser um manual completo sobre "a fina arte da aventura". Seus muitos capítulos incluem:
+@12212 = ~Este livro absurdamente grande e pesado - mais uma compilação de volumes em uma única encadernação do que qualquer outra coisa - afirma ser um manual completo sobre "a fina arte da aventura". Seus muitos capítulos incluem:
 
 - Capangas: Companheiros Leais ou Mulas de Carga Sujas?
 - Fazendo seu kit trabalhar para *você*
@@ -11398,7 +11398,7 @@ ESTATÍSTICAS:
 Pode conjurar a magia "Silêncio" (CD de Vontade 14)
 Peso: 0,5 kg (1 lb)~
 @12297 = ~Varinha da Saúde Maior~
-@12298 = ~Varinhas têm 36 cm de comprimento e são finas. São feitas de marfim, osso ou madeira e geralmente possuem uma ponta com algum objeto — metal, cristal, pedra, etc. São frágeis e tendem a quebrar facilmente. Por isso, costumam ser guardadas em est
+@12298 = ~Varinhas têm 36 cm de comprimento e são finas. São feitas de marfim, osso ou madeira e geralmente possuem uma ponta com algum objeto - metal, cristal, pedra, etc. São frágeis e tendem a quebrar facilmente. Por isso, costumam ser guardadas em est
 
 Varinhas são energizadas por cargas, e cada uso custa uma ou mais cargas (dependendo do item). Quando uma varinha fica sem cargas, ela é consumida e destruída.
 
@@ -11408,7 +11408,7 @@ Pode conceder a uma criatura 40 pontos de vida temporários por 4 horas.
 Alcance: 1,5 metros (5 pés)
 Peso: 0,5 kg (1 lb).~
 //@12299 = ~Varinha de Charme~
-@12300 = ~Varinhas têm 37 cm de comprimento e são finas. São feitas de marfim, osso ou madeira e geralmente possuem uma ponta com algum objeto — metal, cristal, pedra, etc. São frágeis e tendem a quebrar facilmente. Por isso, costumam ser guardadas em est
+@12300 = ~Varinhas têm 37 cm de comprimento e são finas. São feitas de marfim, osso ou madeira e geralmente possuem uma ponta com algum objeto - metal, cristal, pedra, etc. São frágeis e tendem a quebrar facilmente. Por isso, costumam ser guardadas em est
 
 Varinhas são energizadas por cargas, e cada uso custa uma ou mais cargas (dependendo do item). Quando uma varinha fica sem cargas, ela é consumida e destruída.
 
@@ -12870,7 +12870,7 @@ Peso: 0 kg.
 Requisito de Talento: Arma Simples, Lâmina Pequena
 Tipo: Uma Mão~
 @12645 = ~Arremessador Anão +3~
-@12646 = ~Este martelo — não confundir com o Arremessador de Anões, de fabricação élfica — só pode ser usado por anões. Nas mãos habilidosas de um guerreiro anão, o martelo pode ser arremessado contra um oponente. A magia contida no martelo o atrai de volta para a mão de seu portador. Contra gigantes e ogros, o martelo causa +7 de dano adicional, devido ao ódio especial que os anões nutrem por essas raças.
+@12646 = ~Este martelo - não confundir com o Arremessador de Anões, de fabricação élfica - só pode ser usado por anões. Nas mãos habilidosas de um guerreiro anão, o martelo pode ser arremessado contra um oponente. A magia contida no martelo o atrai de volta para a mão de seu portador. Contra gigantes e ogros, o martelo causa +7 de dano adicional, devido ao ódio especial que os anões nutrem por essas raças.
 
 Ao contrário da maioria das armas antigigantes, que são projetadas para atingir gigantes nas pernas e derrubá-los, este Arremessador Anão em particular foi projetado para atingir gigantes na cabeça. Por esse motivo, o martelo é encantado para voar mais longe do que um martelo de arremesso comum.
 
@@ -12889,7 +12889,7 @@ Peso: 1 kg (2 lb)
 Requisito de Talento: Arma Marcial, Martelo
 Tipo: Uma Mão~
 @12647 = ~Arremessador Anão +5~
-@12648 = ~Este martelo — não confundir com o Arremessador de Anões, de fabricação élfica — só pode ser usado por anões. Nas mãos habilidosas de um guerreiro anão, o martelo pode ser arremessado contra um oponente. A magia contida no martelo o atrai de volta para a mão de seu portador. Contra gigantes e ogros, o martelo causa +7 de dano adicional, devido ao ódio especial que os anões nutrem por essas raças.
+@12648 = ~Este martelo - não confundir com o Arremessador de Anões, de fabricação élfica - só pode ser usado por anões. Nas mãos habilidosas de um guerreiro anão, o martelo pode ser arremessado contra um oponente. A magia contida no martelo o atrai de volta para a mão de seu portador. Contra gigantes e ogros, o martelo causa +7 de dano adicional, devido ao ódio especial que os anões nutrem por essas raças.
 
 Ao contrário da maioria das armas antigigantes, que são projetadas para atingir gigantes nas pernas e derrubá-los, este Arremessador Anão em particular foi projetado para atingir gigantes na cabeça. Por esse motivo, o martelo é encantado para voar mais longe do que um martelo de arremesso comum.
 
@@ -12956,7 +12956,7 @@ ESTATÍSTICAS:
 
 Resistência: 100/- Resistência ao Fogo
 Resistência: 100/- Resistência ao Frio
-Resistência: 100/- Resistência a Eletrecidade
+Resistência: 100/- Resistência Elétrica
 Resistência: 100/- Resistência a Ácidos
 Resistência: 100/- Resistência a Dano Mágico
 Resistência: 100/- Resistência a Venenos
@@ -13115,7 +13115,7 @@ Poder Mágico: À vontade, pode envolver o portador com uma carapaça de tartaruga,
 Peso: 0,5 kg (1 lb).
 Sabedoria mínima necessária de 16 ~
 //@12693 = ~Braçadeiras de Pérola Islandesa~ //Versão HoF
-@12694 = ~Diz-se que estas magníficas braçadeiras foram construídas nas Montanhas da Espinha do Mundo, e não faz muito tempo. Na costa do Mar do Gelo em Movimento, vivia Prashnak, um abjurador — e teimoso, aliás. Aparentemente, Prashnak estava tendo muita dificuldade em se defender de um implacável flagelo de trolls, que sem dúvida estavam interessados apenas em seu pavilhão escavado e bem posicionado. Prashnak usou tempestades de ácido para manter os trolls afastados. No entanto, o jovem mago estava cansado dos ataques constantes, e os trolls estavam ficando mais ousados.
+@12694 = ~Diz-se que estas magníficas braçadeiras foram construídas nas Montanhas da Espinha do Mundo, e não faz muito tempo. Na costa do Mar do Gelo em Movimento, vivia Prashnak, um abjurador - e teimoso, aliás. Aparentemente, Prashnak estava tendo muita dificuldade em se defender de um implacável flagelo de trolls, que sem dúvida estavam interessados apenas em seu pavilhão escavado e bem posicionado. Prashnak usou tempestades de ácido para manter os trolls afastados. No entanto, o jovem mago estava cansado dos ataques constantes, e os trolls estavam ficando mais ousados.
 
 Após vários meses estudando os vários efeitos da magia de murchar, invocação elemental e métodos mágicos de congelamento, Prashnak estava finalmente pronto para tentar seu experimento. Após invocar um elemental da água, Prashnak evaporou componentes corporais selecionados e congelou a infeliz criatura. Isso levou à criação de esculturas de gelo verdadeiramente horríveis. Os trolls, por mais simples que fossem, se ofenderam profundamente com esses totens e, segundo relatos, fugiram da área. O experimento foi um sucesso reluzente, e o exultante Prashnak continua seus lamentáveis estudos até hoje. Não se sabe que tipo de ladrão se apoderou das braçadeiras, mas elas estão desaparecidas há vários anos.
 
@@ -13639,14 +13639,14 @@ Peso: 0,5 kg (1 lb)~
 
 ESTATÍSTICAS:
 
-Persistência: Conjurar uma magia com o talento Magia Persistente consome um espaço de magia cinco níveis a mais, em vez de seis.
+Persistência: Conjurar uma magia com o talento Persistir Magia consome um espaço de magia cinco níveis a mais, em vez de seis.
 Peso: 0 kg.~
 @12813 = ~Anel da Maior Persistência~
 @12814 = ~Um anel é uma pequena faixa de metal precioso usada como joia. Alguns anéis raros possuem encantamentos que conferem diversas habilidades mágicas. Esses anéis são muito procurados, especialmente por aventureiros. Sem motivo aparente, este anel é quente ao toque.
 
 ESTATÍSTICAS:
 
-Persistência: Conjurar uma magia com o talento Magia Persistente consome um espaço de magia quatro níveis a mais, em vez de seis.
+Persistência: Conjurar uma magia com o talento Persistir Magia consome um espaço de magia quatro níveis a mais, em vez de seis.
 Peso: 0 kg.~
 @12815 = ~Manto da Reflexão~
 @12816 = ~A capa pode ser feita em todos os formatos possíveis com praticamente todos os tipos de tecido. Os formatos mais comuns são um pedaço circular de tecido com um furo no centro para a cabeça e um tecido pendurado no pescoço, conectado por uma corrente, broche, cordão ou alfinetes.
