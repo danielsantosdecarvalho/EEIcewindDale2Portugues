@@ -196,11 +196,11 @@ Desvantagens:
 @100094=~Guarda Hobgoblin~
 @100095=~Gark~
 @100096=~Gark~
-@100097=~Aranha Lanuda~
+@100097=~Aranha Felpuda~
 @100098=~Magdar Shenlen~
-@100099=~Aranha Lanuda Aranha~
-@100100=~Rainha Aranha Lanuda~
-@100101=~Rainha Aranha Lanuda~
+@100099=~Aranha Felpuda~
+@100100=~Rainha Aranha Felpuda~
+@100101=~Rainha Aranha Felpuda~
 @100102=~Gumph~
 @100103=~Gumph~
 @100104=~Orog~
@@ -599,7 +599,7 @@ Peso: 0,5 kg (1 lb).
 @100468=~Enviado da Rainha Bruxa~
 @100469=~Encanto do Lobo~
 @100470=~"Matem! Toquem os tambores e matem!"~
-@100471=~"Tambores! Eu pego os tambores!"~
+@100471=~"Os tambores! Eu cuido dos tambores!"~
 @100472=~"Batam nos tambores! Matem os inimigos!"~
 @100473=~"Preciso encontrar comida."~
 @100474=~"Estou com fome."~
@@ -1093,7 +1093,7 @@ Na manhã seguinte, eles haviam desaparecido, sem deixar vestígios, apenas quarto
 @100810=~Emma Moonblade~
 @100811=~Você tentou encontrar uma solução pacífica com Gaernat.~
 @100812=~Emma Moonblade~
-@100813=~Você removeu uma das armadilhas colocadas pelos rangers Aurilite.~
+@100813=~Você removeu uma das armadilhas colocadas pelos rangers Aurilita.~
 @100814=~Mestre do Ódio~
 @100815=~Mestre do Ódio~
 @100816=~Gato de Batalha~
@@ -1160,7 +1160,7 @@ Fator de Velocidade: 1
 Tipo de Proficiência: Adagas
 Tipo: Uma mão
 ~
-@100868=~Orc Elite~
+@100868=~Orc de Elite~
 @100869=~Salamandra~
 @100870=~Salamandra de Gelo~
 @100871=~Sombra de Buff~
@@ -1282,7 +1282,7 @@ Peso: 0 lb.
 @100970=~Ho-ho, conseguimos romper! Excelente trabalho, aventureiros... Sou Ingrath Mariner, capitão do que restou das forças de Neverwinter. Este é o Sargento Rahm Dammel...~
 @100971=~~
 @100972=~Não tão rápido, Rahm - e aquela diabólica mulher-dragão e os wyverns? Já perdemos o Capitão Yurst e muitos soldados para eles - não podemos fazer as tropas marcharem por aquele labirinto de gelo derretendo enquanto eles ainda estiverem por perto.~
-@100973=~Sherincal foi derrotado - é seguro mover seus homens por ali.~
+@100973=~Sherincal foi derrotada - é seguro mover seus homens por ali.~
 @100974=~Hrm... sim... entendi. Bem, então, devo dizer - excelente trabalho, novamente! Parece que o inimigo nunca esperou aventureiros do *seu* calibre...~
 @100975=~Ingrath - Trouxe esta carta de Garradun para sua noiva.~
 @100976=~~
@@ -3080,7 +3080,7 @@ Este feitiço curará uma criatura de todas as seguintes doenças: drenagem de ener
 @101823=~Como você sabe que ele está morto?~
 @101824=~Encontrei o bote dele encalhado na praia, é assim que eu sei. Encontrei isso há alguns invernos - coitado do Donovan, um bom sujeito, mas não sabia beber cerveja e também não era muito esperto.~
 @101825=~Você tem um pedaço do barco dele? Poderia me dar?~
-@101826=~Bem, sim, eu tenho por aqui - tão detonado quanto o próprio Donovan. Se você quiser, é seu. É o mínimo que posso fazer depois de você ter expulsado aqueles bastardos goblins dos Docks.~
+@101826=~Bem, sim, eu tenho por aqui - tão detonado quanto o próprio Donovan. Se você quiser, é seu. É o mínimo que posso fazer depois de você ter expulsado aqueles bastardos goblins das Docas.~
 @101827=~Agradeço. Obrigado.~
 @101828=~Então não vamos te impedir de buscá-lo.~
 @101829=~Aqui está. "O Olhar de Viera", bem ali na proa. Nome da pobre esposa dele, eu acho. Ouvi dizer que ela morreu de tristeza, pelo que dizem.~
@@ -3948,7 +3948,7 @@ Tipo: Uma mão
 @102375=~Você matou o chefe orc.~
 @102376=~Você obteve a ajuda do Druida de Shaengarne.~
 @102377=~Eu ficaria feliz em fazer isso. Usarei um feitiço de mensagem simples para pedir que ele venha imediatamente.~
-@102378=~Sou grata, sacerdotisa.~
+@102378=~Sou grato, sacerdotisa.~
 @102379=~Está feito. Ele e Sabrina já estão a caminho. Devem chegar a qualquer momento.~
 @102380=~Por favor! Ajude-me a derrotar esses orcs!~
 @102381=~Muito bem, eu ajudarei.~
@@ -4616,7 +4616,7 @@ Peso: 2 kg (4 lb).
 Requisito de Talento: Arma Simples, Cajado
 Tipo: Duas Mãos
 ~
-@102805=~Like others of its type, this halberd consists of a cleaver-like axe blade mounted on a staff approximately six feet in length. It has also been bestowed with a small number of magical properties, however, thus making it more effective in combat. Its keen blade, for instance, will shear through your opponents flesh to find the bone while its barbed tip will seek out gaps in their armor.
+@102805=~Como outras de seu tipo, esta alabarda consiste em uma lâmina de machado montada em uma haste de aproximadamente dois metros. Ela foi agraciada com propriedades mágicas que a tornam muito eficaz em combate. Sua lâmina afiada rasga a carne dos oponentes até encontrar o osso, enquanto sua ponta farpada busca brechas na armadura.
 ESTATÍSTICAS:
 
 Dano: 1d10 + 1
@@ -5806,7 +5806,7 @@ Esta magia causa uma sensação de perdição que domina o alvo. Durante a duração d
 @103418=~Voltarei se descobrir algo. Adeus, Venla.~
 @103419=~Bem, estou encarregada de coletar ervas e plantas medicinais, além de cuidar dos doentes e feridos. Tem sido difícil ultimamente, já que os Pântanos Frios se tornaram tão perigosos.~
 @103420=~[XAN 1] Agradeço a vocês pela minha liberdade, amigos, pois definhei nestes cofres sombrios por tempo demais.~
-@103421=~Este anel é quase idêntico a um que Marketh usa. Foi construído por Norl, um lapidador de gemas aleijado em Dorn's Deep.~
+@103421=~Este anel é quase idêntico a um que Marketh usa. Foi construído por Norl, um lapidador de gemas aleijado no Abismo de Dorn~
 @103422=~Posso ajudar em algo?~
 @103423=~Cópia do Anel de Marketh~
 @103424=~Entendo. Adeus, Venla.~
@@ -9774,10 +9774,10 @@ Peso: 0 kg.
 @106070=~Esta chave de aparência bastante comum foi recuperada de um hobgoblin. Ele estava posicionado perto da porta de ferro gradeada na entrada da Toca dos Goblins.
 Peso: 0 kg.
 ~
-@106071=~Corpo de Aranha Lanuda~
-@106072=~Corpo de Aranha Lanuda~
+@106071=~Corpo de Aranha Felpuda~
+@106072=~Corpo de Aranha Felpuda~
 @106073=~Anel da Loucura~
-@106074=~O corpo de uma grande aranha lanuda.
+@106074=~O corpo de uma grande aranha Felpuda.
 Peso: 10 kg (20 lb).
 ~
 @106075=~Pedra de Proteção Prateada~
@@ -9873,7 +9873,7 @@ Tipo: Uma mão
 @106124=~Então... qual é essa outra rota sobre a Espinha do Mundo?~
 @106125=~Através do Subterrâneo: você deve seguir o Rio Corvo Negro até onde ele deságua na Espinha do Mundo. Lá você encontrará uma rede de cavernas - leve corda, pois você precisará descer de rapel por elas...~
 @106126=~Continue...~
-@106127=~...os monges podem ou não cooperar, mas abaixo da área há uma entrada para o Subterrâneo. Encontre as antigas ruínas anãs de Dorn's Deep - de lá, você pode emergir para o lado norte da Espinha do Mundo.~
+@106127=~...os monges podem ou não cooperar, mas abaixo da área há uma entrada para o Subterrâneo. Encontre as antigas ruínas anãs do Abismo de Dorn - de lá, você pode emergir para o lado norte da Espinha do Mundo.~
 @106128=~Obrigado. Vamos tratar de negócios agora.~
 @106129=~Obrigado, Nym. Eu tinha algumas perguntas.~
 @106130=~Então iremos por ali. Obrigado, Nym, e até logo.~
@@ -14334,9 +14334,9 @@ Peso: 7,5 kg (15 lb).
 @108274=~Bem, a estalagem se chama A Viúva Chorona, mas a parte sobre aquela pobre mulher se atirar da janela costuma fazer os hóspedes irem embora rapidinho.~
 @108275=~Você disse a Cahl-Hyred que fez o choro de Veira parar.~
 @108276=~Você identificou a garrafa para Cahl-Hyred... só para descobrir que o idiota não a quer.~
-@108277=~Sério? Então aqui está a chave do quarto - ela deve te ajudar a passar pela trava na porta. Se você puder ajudar a acalmar o espírito daquela pobre mulher, ficarei grato, e o farei. Ela chora principalmente à noite, então esse provavelmente seria o melhor horário para vê-la.~
+@108277=~Sério? Então aqui está a chave do quarto - ela deve te ajudar a passar pela Proteção na porta. Se você puder ajudar a acalmar o espírito daquela pobre mulher, ficarei grato, e o farei. Ela chora principalmente à noite, então esse provavelmente seria o melhor horário para vê-la.~
 @108278=~~
-@108279=~Ala na porta? Que ala?~
+@108279=~Proteção na porta? Que proteção?~
 @108280=~Podemos descansar aqui até a noite, então?~
 @108281=~Muito bem. Preciso descansar primeiro para recuperar minhas forças.~
 @108282=~Hum. Já é noite. Talvez eu vá ver o que posso fazer.~
@@ -19769,7 +19769,7 @@ NÃO TRANSFIRA
 @111732=~Alain~
 @111733=~Seu sucesso na ponte pode ser o ponto de virada no conflito - devemos atacá-los agora, enquanto estão desestabilizados, ou eles nos esmagarão antes que os reforços cheguem.~
 @111734=~Você defendeu a adoração da natureza. ~
-@111735=~Para isso, precisaríamos saber onde fica o quartel-general da força principal de goblins.~
+@111735=~Para isso, precisaríamos saber onde fica o quartel-general da força principal dos goblins.~
 @111736=~[Sombria com a notícia da falha do jogador]Ouvi falar do que aconteceu na ponte... parece que as Forças de Neverwinter precisarão contornar o Passo Ocidental para chegar a Targos, e isso significa que precisaremos partir para o ataque.~
 @111737=~[Chicken Cluck3] cluck caw bucbuc becaw~
 @111738=~[MERCADORES 4]~
@@ -19883,7 +19883,7 @@ Peso: 2,5 kg (5 lb).
 Talento necessário: Arma Marcial, Mangual
 Tipo: Uma mão
 ~
-@111811=~"Sua incompetência me deixa perplexo."~
+@111811=~"Sua incompetência me deixa perplexa."~
 @111812=~"Vamos destruir os humanos. Confie em mim."~
 @111813=~"Eu destruirei Targos. Então meu exército destruirá você, Sherincal. E sua legião..."~
 @111814=~Égide~
@@ -28024,7 +28024,7 @@ Esta magia invoca um monstro que auxiliará o conjurador durante a duração da mag
 ~
 @116166=~"Malditas unhas! Não é tão esperto agora, né?! É MESMO?!"~
 @116167=~Illium Ar'Ghrenoir~
-@116168=~Aurilite Ranger~
+@116168=~Aurilita Ranger~
 @116169=~"Oh, meu Deus! Espero não estar em apuros..."~
 @116170=~Invocar Monstro VII (Conjuração)
 Nível: Clérigo 7, Fet/Mag 7, Tempus 7
@@ -28513,7 +28513,7 @@ Tipo de proficiência:
 @116319=~"Eu *mandei* você parar?! Se precisar, dê um soco no ar!"~
 @116320=~"Continuem assim, rapazes! Ou então!"~
 @116321=~[EDIÇÃO MAINGUI]PAUSADO~
-@116322=~[MAINGUI EDIT]SEM PAUSA~
+@116322=~[MAINGUI EDIT]DESPAUSADO~
 @116323=~Filho Morto de Brun~
 @116324=~Filho Morto de Brun~
 @116325=~::Hhrrg::~
@@ -28540,7 +28540,7 @@ Teste de resistência: Nenhum
 Esta magia restaura os níveis perdidos devido à drenagem de energia e dissipa quaisquer efeitos que reduzam os atributos, incluindo, entre outros, Enfraquecer o Intelecto, contágio e enfraquecimento.
 
 ~
-@116339=~Comandante Ranger Aurilite~
+@116339=~Comandante Ranger Aurilita~
 @116340=~"Droga! Errei de novo!"~
 @116341=~Tchazar é o nome comum dado à aragonita, uma gema amarelo-palha encontrada em forma de cristal alongado em forma de prisma. É macia e frágil, e requer lapidação habilidosa para produzir gemas facetadas.~
 @116342=~Nashkel ao Sul~
@@ -28554,7 +28554,7 @@ Esta magia restaura os níveis perdidos devido à drenagem de energia e dissipa qu
 @116350=~Iyachtu Xvim~
 @116351=~Beodaewn~
 @116352=~Vulnerabilidade Racial à Luz~
-@116353=~Aurilite Ranger~
+@116353=~Aurilita Ranger~
 @116354=~Druida Aurilita~
 @116355=~Leste para Nashkel~
 @116356=~Agog~
@@ -29058,12 +29058,12 @@ Tipo: Uma mão
 @116471=~Dano Duplo de Golpe pelas Costas~
 @116472=~Dano Triplo de Golpe pelas Costas~
 @116473=~Dano Quádruplo por Golpe pelas Costas~
-@116474=~Dano Quíntuplo de Backstab~
+@116474=~Dano Quíntuplo de Golpe pelas Costas~
 @116475=~Dano Sextupla de Golpe pelas Costas~
 @116476=~Todos na estalagem descansam por <HOUR> horas e recuperam <HP> pontos de vida. As magias são memorizadas com sucesso.~
 @116477=~Espada do Caos~
 @116478=~Espada do Caos~
-@116479=~...as cavernas estão repletas de monstros quitinosos com ganchos nas mãos, que frequentemente se agarram ao alto das paredes para atacar os desavisados ??de surpresa. Além das cavernas, encontra-se um mosteiro isolado, escondido no alto dos picos das montanhas...~
+@116479=~...as cavernas estão repletas de monstros quitinosos com ganchos nas mãos, que frequentemente se agarram ao alto das paredes para atacar os desavisados de surpresa. Além das cavernas, encontra-se um mosteiro isolado, escondido no alto dos picos das montanhas...~
 @116480=~<CLASS>: Nível <LEVEL>
 ~
 @116481=~Mansão~
@@ -29253,16 +29253,16 @@ Tipo: Uma mão
 @116558=~Soarsmen~
 @116559=~Arquivo de texto de saída~
 @116560=~Veado~
-@116561=~Culto do Necromante Dragão~
+@116561=~Culto do Dragão Necromante~
 @116562=~Jovem Remorhaz~
-@116563=~Postulante Aurilite~
-@116564=~Irmã Tempestade Aurilite~
+@116563=~Postulante Aurilita~
+@116564=~Irmã da Tempestade Aurilita~
 @116565=~Jovem Remorhaz~
 @116566=~Zack Boosenburry~
 @116567=~Veado~
-@116568=~Aurilite Frosttouch~
-@116569=~Irmã Tempestade Aurilite~
-@116570=~Postulante Aurilite~
+@116568=~Aurilita Frosttouch~
+@116569=~Irmã da Tempestade Aurilita~
+@116570=~Postulante Aurilita~
 @116571=~Golem de Cristal~
 @116572=~Vrassillus~
 @116573=~Xhaan~
@@ -29279,15 +29279,15 @@ Se desejar importar um personagem predefinido, utilize a opção Importar Personag
 @116582=~Guerreiro Talismã~
 @116583=~Guerreiro Talismã~
 @116584=~Golem de Cristal~
-@116585=~Irmão da Tempestade Aurilite~
+@116585=~Irmão da Tempestade Aurilita~
 @116586=~Chave da Cela~
 @116587=~Chave da Cela~
 @116588=~Sacerdotisa Mestiça Yuan-ti~
 @116589=~Rielev~
 @116590=~Rielev~
-@116591=~Aurilite Frosttouch~
+@116591=~Aurilita Frosttouch~
 @116592=~Sacerdotisa Mestiça Yuan-ti~
-@116593=~Irmão da Tempestade Aurilite~
+@116593=~Irmão da Tempestade Aurilita~
 @116594=~Campeão Golem de Gelo~
 @116595=~Campeão Golem de Gelo~
 @116596=~Nathaniel~
@@ -30379,7 +30379,7 @@ Tipo: Uma mão
 @116902=~Treant Sombrio Ancião~
 @116903=~Chave do Templo da Alta Sacerdotisa Cathin~
 @116904=~Chave do Templo da Alta Sacerdotisa Cathin~
-@116905=~Esta elaborada chave feita de gelo encantado pertence à Alta Sacerdotisa Aurilite Cathin.
+@116905=~Esta elaborada chave feita de gelo encantado pertence à Alta Sacerdotisa Aurilita Cathin.
 Peso: 0 kg.
 ~
 @116906=~Lobo Invernal Maior~
@@ -30818,7 +30818,7 @@ Ao término desta magia, uma grande carapaça hemisférica semelhante à de uma tart
 ~
 @117102=~Adaga de Nester~
 @117103=~Anjo, o gato~
-@117104=~Escreva Magia~
+@117104=~Memorizar Magia~
 @117105=~Feitiço~
 @117106=~Rolar~
 @117107=~Adaga Enferrujada~
@@ -31878,18 +31878,18 @@ Especial:
 @117549=~Filmes~
 @117550=~Lendarn~
 @117551=~Lendarn~
-@117552=~Comando Kobold~
-@117553=~Comando Kobold~
+@117552=~Kobold Comando~
+@117553=~Kobold Comando~
 @117554=~Cavaleiro Fantasma~
 @117555=~Cavaleiro Fantasma~
 @117556=~Pausa para leitura do texto do capítulo~
 @117557=~Pausa para assistir ao filme~
 @117558=~Pausa para tela de descanso~
-@117559=~Hobgoblin Witch Doctor
+@117559=~Hobgoblin Feiticeiro 
 ~
-@117560=~Elite dos Duendes~
-@117561=~Ogre Berserker~
-@117562=~Ogre Berserker~
+@117560=~Hobgoblin de Elite~
+@117561=~Ogro Berserker~
+@117562=~Ogro Berserker~
 @117563=~Esta armadura enferrujada deve ter séculos. Pelo que você descreveu, deve ter sido um dia uma magnífica armadura de placas.
 Peso: 7,5 kg (15 lb).
 ~
@@ -33962,7 +33962,7 @@ Esta magia permite ao conjurador trocar de posição com outra criatura — criatura
 @118572=~Cristiana Knight~
 @118573=~Iholikan Quinval~
 @118574=~Reise Coppersky~
-@118575=~Cavaleiro de Gelo Negro~
+@118575=~Cavaleiro do Gelo Negro~
 @118576=~Aldeão Cativo~
 @118577=~"Morte certa?"~
 @118578=~Liberdade de Movimento~
@@ -34597,7 +34597,7 @@ Ao ser arremessado, todas as criaturas em um raio de 1,5 metro do ponto de impac
 @118877=~Guarda Espectral~
 @118878=~Marçom de Águas Profundas~
 @118879=~Reise Coppersky~
-@118880=~Cavaleiro de Gelo Negro~
+@118880=~Cavaleiro do Gelo Negro~
 @118881=~Guarda Espectral~
 @118882=~Cristiana Knight~
 @118883=~Ataques Maximizados~
@@ -35349,7 +35349,7 @@ Tipo: Uma mão
 @119339=~Dardo de Osso~
 @119340=~Óleo de Efeito Nulo~
 @119341=~Esta poção é o resultado da interferência de sábios derro em unguentos mágicos. Quando aplicada sobre o corpo de uma criatura viva, ela anula todos os efeitos mágicos, incluindo todas as maldições, contingências e feitiços de geas.~
-@119342=~Você convenceu Flozem a deixar Lower Dorn's Deep e seguir carreira como artista.~
+@119342=~Você convenceu Flozem a deixar o Abismo de Dorn Inferior e seguir carreira como artista.~
 @119343=~Quem é você?~
 @119344=~Isto é um cadáver.
 Peso: 65 kg (130 lb).
@@ -38161,7 +38161,7 @@ Tipo: Uma mão
 @121582=~Quem é você?~
 @121583=~O que você é?~
 @121584=~Por que você está aqui?~
-@121585=~Você comanda esses Aurilites?~
+@121585=~Você comanda esses Aurilitas?~
 @121586=~Você deixou o Capitão Yurst cair para a morte?~
 @121587=~Você enganou o Capitão Yurst para que ele bebesse uma Poção de Explosões.~
 @121588=~O que é a Legião da Quimera?~
@@ -38927,7 +38927,7 @@ Tipo: Uma mão
 @122106=~Reunimos uma grande congregação e em breve faremos chover morte gélida sobre nossos inimigos - começando por vocês mesmos.~
 @122107=~Seus inimigos?~
 @122108=~Chegou a sua hora de morrer!~
-@122109=~Nossos inimigos são Kuldahar, as Dez Cidades, e qualquer um tolo o suficiente para protegê-los. Eles devem pagar por seu sacrilégio contra Auril... e pelo que fizeram a Lysan.~
+@122109=~Nossos inimigos são de Kuldahar, os das Dez Cidades e qualquer um tolo o suficiente para protegê-los. Eles devem pagar pelo sacrilégio contra Auril... e pelo que fizeram a Lysan ~
 @122110=~Lysan?~
 @122111=~Oswald, levante-se agora ou pegaremos sua nave e o jogaremos em Maer Dualdon!~
 @122112=~Muito bem, Oswald - muito engraçado. Agora levante-se.~
@@ -39564,7 +39564,7 @@ Tipo: Uma mão
 @122586=~Havia dezenas dessas criaturas miseráveis espalhadas pelas regiões mais baixas do Abismo de Dorn. Para meu desespero, descobri que minha irmã, Ginafae, estava entre elas. Eu pensava que ela havia morrido anos atrás, antes da revolta.~
 @122587=~Prostituta~
 @122588=~A chave renal~
-@122589=~Os driders não se contentavam em viver de nossas sobras em Dorn's Deep. Não podemos culpá-los, pois só existem nesse estado deplorável devido à maldição de Lolth. Agora, porém, eles se voltaram contra nós em peso.~
+@122589=~Os driders não se contentavam em viver de nossas sobras no Abismo de Dorn. Não podemos culpá-los, pois só existem nesse estado deplorável devido à maldição de Lolth. Agora, porém, eles se voltaram contra nós em peso.~
 @122590=~Como assim?~
 @122591=~Os driders, liderados pela minha irmã, Ginafae, escolheram se aliar à Legião da Quimera na Mão Cortada. Eles se posicionaram em locais estratégicos por toda a Infraescuridão para impedir nossa passagem. Imagino que a sua também.~
 @122592=~Por que os driders formaram essa aliança?~
@@ -40723,7 +40723,7 @@ Anotações para mim mesma: Provavelmente deveria complementar com algo de valor n
 @123485=~Você se infiltrou na congregação Aurilita.~
 @123486=~Excelente! [Garantindo ao jogador] Não deve demorar nada para fazer. Volte a falar comigo mais tarde... [Tentando não parecer insistente] Ah, e não se esqueça de trazer ouro suficiente.~
 @123487=~Você consegue fazer outra coisa com essa carapaça de besouro sem graça?~
-@123488=~Prisioneiros mantidos no templo de gelo de Aurilite estavam sendo sacrificados à Deusa Auril, mas encontramos uma maneira de libertá-los.~
+@123488=~Prisioneiros mantidos no templo de gelo de Aurilita estavam sendo sacrificados à Deusa Auril, mas encontramos uma maneira de libertá-los.~
 @123489=~Um dos prisioneiros detidos no templo de gelo nos contou que Nathaniel, o druida que encontramos em Kuldahar, foi arrastado esta manhã para uma sala ao norte da prisão e não foi visto desde então. Talvez ele esteja por aqui em algum lugar - se ainda estiver vivo.~
 @123490=~Um dos prisioneiros detidos no templo de gelo parecia nos conhecer e nos contou que um druida chamado Nathaniel foi arrastado esta manhã para uma sala ao norte da prisão e não foi visto desde então. O prisioneiro nos pediu para encontrar Nathaniel, caso ele ainda esteja vivo.~
 @123491=~Você libertou este prisioneiro de sua cela.~
@@ -41000,8 +41000,8 @@ Anotações para mim mesma: Provavelmente deveria complementar com algo de valor n
 @123760=~Não faça isso, Oria. Você vai nos matar a todos com seu golpe de vingança.~
 @123761=~Não, você vai nos matar a todos com seu ataque retaliatório. Nós nos rendemos.~
 @123762=~Isso é uma armadilha. Você quer viver tanto quanto nós.~
-@123763=~O que há de tão especial em sua equipe?~
-@123764=~Quebre. Que nos importa?~
+@123763=~O que há de tão especial em seu cajado?~
+@123764=~Quebre-o. Não nos importamos.~
 @123765=~Chega de conversa! Prepare-se para morrer!~
 @123766=~A vida é uma distração para o espectador - apenas me preparando para a MAIOR glória de sentar ao lado de Auril em seu trono de frio invernal. Partir agora, ou depois, é de pouca importância.~
 @123767=~Você invocou o verdadeiro nome da tempestade Aeij-Kllenzr't, ou Fúria Enjaulada, expulsando-o do altar de Auril.~
@@ -41208,7 +41208,7 @@ Anotações para mim mesma: Provavelmente deveria complementar com algo de valor n
 @123967=~Sua história não vai salvar sua vida!~
 @123968=~Fui generosamente pago pelas altas sacerdotisas para construir este templo às pressas, mas o teria feito de graça se Oria tivesse me pedido. Eu ainda a amo, mas o destino obscureceu seu coração... Não te culpo pelo que foi ou será feito.~
 @123969=~~
-@123970=~Encontramos Sherincal, uma imponente meio-dragão azul que guarda a entrada do templo de gelo Aurilite. Ela alegou liderar as forças de algo chamado "Legião da Quimera" na região oeste de Icewind Dale. Parece que os estranhos estandartes que temos visto pertencem a eles.~
+@123970=~Encontramos Sherincal, uma imponente meio-dragão azul que guarda a entrada do templo de gelo Aurilita. Ela alegou liderar as forças de algo chamado "Legião da Quimera" na região oeste de Icewind Dale. Parece que os estranhos estandartes que temos visto pertencem a eles.~
 @123971=~Conversando mais a fundo com Sherincal, descobrimos que esta Legião da Quimera é uma organização composta pelos marginalizados e excêntricos de Faerûn.~
 @123972=~Também ficamos sabendo por Sherincal que Isair e Madae são gêmeas que governam a Legião da Quimera a partir de sua capital, a Mão Cortada.~
 @123973=~[Impressionado]Então você é quem causou mais problemas do que um deva no Abismo? [Comandando]Largue suas armas e renda-se, criatura insignificante. Sua jornada, por mais impressionante que seja, termina aqui.~
@@ -41218,7 +41218,7 @@ Anotações para mim mesma: Provavelmente deveria complementar com algo de valor n
 @123977=~Por que você está aqui?~
 @123978=~Você consegue fazer outra coisa com essa pele de lobo de inverno?~
 @123979=~~
-@123980=~Você comanda esses Aurilites?~
+@123980=~Você comanda esses Aurilitas?~
 @123981=~Você deixou o Capitão Yurst cair para a morte?~
 @123982=~[Assertivo e profissional]Meu nome é [Share-in-kull]Sherincal, e eu lidero a Legião das forças da [kai-MEE-rah]Quimera nesta região. [Ameaçador]No entanto, não cairei tão facilmente quanto meu subordinado [GUTH'muh]Guthma.~
 @123983=~O que é a Legião da Quimera?~
@@ -48216,7 +48216,7 @@ Tipo: Uma mão
 @128348=~- Então a morte retornou à morte - - A promessa de um marido finalmente cumprida -
 - O destino dele não mais ancorará o meu -
 ~
-@128349=~Descanse agora, Veira - deixe-se levar para o reino da morte, como era seu propósito.~
+@128349=~Descanse em paz agora, Veira - deixe-se levar para o reino dos morte, como era seu propósito.~
 @128350=~Este assunto completou um ciclo, espírito. Agora deixe este lugar e não o assombre mais.~
 @128351=~- Primeiro, uma dívida precisa ser paga - - Assim como você me devolveu meu marido -
 =- Retribuirei a gentileza com a mesma moeda.
@@ -48439,7 +48439,7 @@ Peso: 0,5 Kg (1 lb).
 @128444=~Entendido. Adeus.~
 @128445=~Não vou nem chegar perto desse comentário. Adeus, Deirdre.~
 @128446=~Só o tempo dirá. Adeus.~
-@128447=~Parabéns! Ouvi dizer que você matou o *líder* goblin na própria fortaleza dele! Deve ter sido uma batalha e tanto!~
+@128447=~Parabéns! Ouvi dizer que você matou o *líder* dos goblin na própria fortaleza dele! Deve ter sido uma batalha e tanto!~
 @128448=~Bem, talvez não estivéssemos aqui se aquela mulher meio dragão tivesse ficado. Que lugar é este?~
 @128449=~Bem, talvez não estivéssemos aqui se aquela mulher meio dragão tivesse ficado. Que lugar é esse mesmo?~
 @128450=~No Pavilhão Targos, um batedor ferido chamado Garradun Tanner nos pediu para levar uma carta ao Capitão Mariner, comandante das forças de socorro de Neverwinter. Garradun parece pessimista quanto às suas chances de sobrevivência e escreveu esta carta de amor para sua futura esposa.~
@@ -48487,7 +48487,7 @@ Peso: 0,5 Kg (1 lb).
 @128492=~Vamos descansar por oito horas.~
 @128493=~Vamos descansar até estarmos completamente curados.~
 @128494=~Não se preocupe. Há mais alguma coisa que você possa ajudar?~
-@128495=~Não acho que consiga aguentar muito mais tempo aqui... Mas não se preocupe comigo, seu dever para com as cidades é maior.~
+@128495=~Não acho que consiga aguentar muito mais tempo aqui... mas não se preocupe comigo; seu dever com as Dez Cidades é mais importante.~
 @128496=~Ele estará no quarto andar e se chama Orrick. Tem certeza de que não quer que eu o acompanhe até lá?~
 @128497=~O QUE VOCÊ QUER DA PÚSTULA?! Sabe, você é burro como uma gota de limão. Pústula finja que você está caindo agora. Pústula passe por cima da gota de limão, não fique tão sujo. ::cheirando:: Você fede a gota de limão, tu. Você se deu mal.~
 @128498=~E aí?! E aí, você não entende Pústula? Você precisa de um tapa de Pustule em sua cabeça grande?! Vá em frente! Você vai tahk estranho Harcourt!~
@@ -48734,8 +48734,8 @@ Peso: 0 kg.
 @128701=~~
 @128702=~~
 @128703=~Braston~
-@128704=~Corpo da Rainha Aranha Lanuda~
-@128705=~Corpo da Rainha Aranha Lanuda~
+@128704=~Corpo da Rainha Aranha Felpuda~
+@128705=~Corpo da Rainha Aranha Felpuda~
 @128706=~O corpo da Rainha Aranha Lanosa.
 
 Peso: 12,5 kg (25 lb).
@@ -48760,8 +48760,8 @@ Peso: 12,5 kg (25 lb).
 @128724=~Veremos como pagaremos a eles depois que os goblins forem expulsos da cidade.~
 @128725=~Ah, perfeitamente. É um de um par, e é por isso que preciso pegá-lo de você.~
 @128726=~Ainda não. Estou trabalhando nisso. Voltarei quando terminar.~
-@128727=~AAAAHHHHH! SAI DA MINHA CABEÇA, SUA BESTA INFERNAL! AS ARANHAS! AS ARANHAS! AAAHHHH!~
-@128728=~Entendido. Há mais alguma coisa que você possa ajudar?~
+@128727=~AAAAHHHHH! SAI DA MINHA C ABEÇA, SUA BESTA INFERNAL! AS ARANHAS! AS ARANHAS! AAAHHHH!~
+@128728=~Entendido. Há mais alguma coisa em que você possa ajudar?~
 @128729=~Beba esta infusão de água da chuva, Ennelia. Deve ajudar no seu estado.~
 @128730=~Beba este Elixir da Saúde, Ennelia. Deve ajudar na sua condição.~
 @128731=~Ah, com certeza nos serviremos do que precisarmos.~
@@ -49090,7 +49090,7 @@ Peso: 0 kg.
 @129052=~Sim - o que é agora? Devo encantar sua vida tediosa com histórias significativas que você só sonhou?~
 @129053=~Tem certeza de que recuperou a lucidez?~
 @129054=~Você sabe como posso chegar a alguém conectado a este plano de existência, mas não afetado por ele?~
-@129055=~Conte-me sobre Caged Fury.~
+@129055=~Conte-me sobre a Fúria Enjaulada.~
 @129056=~Servo... escravo infantil... coletor de urina... qualquer apelido que você prefira no momento pouco me importa.~
 @129057=~Não sou servo nem tenho nenhum desses outros títulos.~
 @129058=~Ninguém me chama de coletor de urina e vive para contar a história!~
@@ -49503,7 +49503,7 @@ Usando esta magia, um mago pode tentar reduzir a resistência a magia de uma cria
 @129229=~~
 @129230=~Você intimidou Goublika por causa de Illium Ar'Ghrenoir.~
 @129231=~Você convenceu Illium Ar'Ghrenoir a não lançar um ataque contra Goublika.~
-@129232=~Você removeu uma das armadilhas colocadas pelos guardas Aurilite.~
+@129232=~Você removeu uma das armadilhas colocadas pelos guardas Aurilita.~
 @129233=~Um guarda florestal chamado Illium Ar'Ghrenoir nos disse que tinha beladona, mas como era rara nesta época do ano, ele não a venderia nem a trocaria.~
 @129234=~Você contou a Illium Ar'Ghrenoir sobre o gigante verbeeg que você viu.~
 @129235=~~
@@ -50069,10 +50069,10 @@ Tipo: Uma mão
 @129613=~~
 @129614=~Alexandre~
 @129615=~Trapaceiro~
-@129616=~Backblighter é uma arma fabricada com técnicas incríveis. A lâmina de barba dupla é feita do melhor aço com fio de mithril. O cabo é de carvalho oco com um núcleo de aço reforçado. Ao longo do cabo, há uma série de runas anãs brilhantes fundidas em ouro. A arma é leve, rápida e mortal.
-A arma também foi forjada com dois encantamentos especiais. Em caso de acerto, há uma chance de Backblighter lançar um feitiço de medo e um de lentidão sobre o alvo, fazendo-o virar as costas e fugir lentamente. Isso permite ataques devastadores pelas costas do oponente, daí o nome da arma.
+@129616=~Assola-Costas é uma arma fabricada com técnicas incríveis. A lâmina de barba dupla é feita do melhor aço com fio de mithril. O cabo é de carvalho oco com um núcleo de aço reforçado. Ao longo do cabo, há uma série de runas anãs brilhantes fundidas em ouro. A arma é leve, rápida e mortal.
+A arma também foi forjada com dois encantamentos especiais. Em caso de acerto, há uma chance de Assola-Costas lançar um feitiço de medo e um de lentidão sobre o alvo, fazendo-o virar as costas e fugir lentamente. Isso permite ataques devastadores pelas costas do oponente, daí o nome da arma.
 
-Backblighter foi forjado pelo ferreiro anão Braegar de Dorn's Deep.
+Assola-Costas foi forjado pelo ferreiro anão Braegar do Abismo de Dorn.
 
 ESTATÍSTICAS:
 
@@ -51342,7 +51342,7 @@ Peso: 0
 @130228=~Você ensinou esse remorhaz a cavar através de portas.~
 @130229=~~
 @130230=~Procuraremos seu equipamento quando encontrarmos o nosso. Até logo.~
-@130231=~Quando vimos os Aurilites erguendo uma muralha de gelo, fui enviado aqui para destruí-la. Mas meu plano falhou, e agora essa muralha se transformou em uma geleira!~
+@130231=~Quando vimos os Aurilitas erguendo uma muralha de gelo, fui enviado aqui para destruí-la. Mas meu plano falhou, e agora essa muralha se transformou em uma geleira!~
 @130232=~Irmão, a natureza te abandonou?~
 @130233=~Abdoshanheth~
 @130234=~Beelthot~
@@ -51615,7 +51615,7 @@ Peso: 0,5 kg (1 lb).
 @130445=~Você tem alguma ideia de onde eles possam ter levado seu equipamento?~
 @130446=~~
 @130447=~Você sabe o que está acontecendo aqui?~
-@130448=~Como podemos deter esses Aurilites?~
+@130448=~Como podemos deter esses Aurilitas?~
 @130449=~Onde você disse que estava a milícia de Neverwinter?~
 @130450=~Shagbag~
 @130451=~Shagbag~
@@ -53222,11 +53222,11 @@ Lamento por tais jogos, mas é certo que somente você saberá disso. Aguardo sua c
 @131525=~Eu não pertenço a este lugar... meus companheiros se foram, até mesmo meus antigos captores não existem mais. Eu irei agora... adeus.~
 @131526=~Adeus.~
 @131527=~Carynara, a Dríade~
-@131528=~Cleaver~
+@131528=~Grande Golpe~
 @131529=~O cutelo não é uma arma sofisticada. Foi criado com um único propósito em mente: abater os inimigos. A lâmina de um metro e vinte é feita de aço comum. O cabo e a guarda são desprovidos de adornos e puramente funcionais. No geral, o cutelo parece barato e insignificante.
 A verdadeira beleza do Cutelo se revela em batalha. Apesar de seu tamanho avantajado, a arma é surpreendentemente leve e fácil de manejar. A lâmina encantada ignora qualquer armadura e atinge diretamente a força vital do alvo. Infelizmente, ela é incapaz de afetar qualquer criatura sem essa força vital. Portanto, mortos-vivos e constructos são imunes.
 
-Cleaver foi originalmente forjada para Dwelnar, o Piedoso, um guerreiro que aspirava a se tornar um paladino. Ele exigiu que a lâmina fosse simples e discreta, refletindo sua própria humildade. Somente em batalha a arma mostraria seu valor. Infelizmente, seus inimigos logo descobriram a natureza da lâmina e lançaram uma horda de mortos-vivos contra ele. Dwelnar caiu rapidamente em batalha e a espada foi perdida.
+Grande Golpe foi originalmente forjada para Dwelnar, o Piedoso, um guerreiro que aspirava a se tornar um paladino. Ele exigiu que a lâmina fosse simples e discreta, refletindo sua própria humildade. Somente em batalha a arma mostraria seu valor. Infelizmente, seus inimigos logo descobriram a natureza da lâmina e lançaram uma horda de mortos-vivos contra ele. Dwelnar caiu rapidamente em batalha e a espada foi perdida.
 
 ESTATÍSTICAS:
 
@@ -53528,7 +53528,7 @@ Tipo: Uma mão
 @131586=~Você libertou Xhaan e o resto dos abishai brancos do controle mental de Fúria Enjaulada.~
 @131587=~Parem com essa violência - eu imploro! Não somos nós mesmos e não conseguimos resistir à sede de sangue.~
 @131588=~Você convenceu Illium Ar'Ghrenoir a não lançar um ataque contra Goublika.~
-@131589=~Você removeu uma das armadilhas colocadas pelos guardas Aurilite.~
+@131589=~Você removeu uma das armadilhas colocadas pelos guardas Aurilita.~
 @131590=~~
 @131591=~Estou ouvindo.~
 @131592=~Podemos atravessar esta área em segurança?~
@@ -54041,8 +54041,8 @@ Tipo: Uma mão
 @131906=~Não faça isso, Oria. Você vai nos matar a todos com o golpe retaliatório do seu Cajado do Poder.~
 @131907=~~
 @131908=~Isso é uma armadilha. Você quer viver tanto quanto nós.~
-@131909=~O que há de tão especial em sua equipe?~
-@131910=~Quebre. Que nos importa?~
+@131909=~O que há de tão especial em seu cajado?~
+@131910=~Quebre-o. Não nos importamos.~
 @131911=~Chega de conversa! Prepare-se para morrer!~
 @131912=~A vida é uma distração para o espectador - apenas me preparando para a MAIOR glória de sentar ao lado de Auril em seu trono de frio invernal. Partir agora, ou depois, é de pouca importância.~
 @131913=~Você não faria isso...~
@@ -54123,7 +54123,7 @@ Tipo: Uma mão
 @131988=~Que você apodreça nos infernos ao lado do seu novo mestre!~
 @131989=~Rainha Remorhaz~
 @131990=~Rainha Remorhaz~
-@131991=~Culto do Necromante Dragão~
+@131991=~Culto do Dragão Necromante~
 @131992=~Este poste não pode ser usado para lançar outra armadilha até que suas pedras sejam recolhidas.~
 @131993=~Aparentemente, esta porta só pode ser destrancada por um mecanismo próximo.~
 @131994=~~
@@ -54281,8 +54281,8 @@ Tipo: Uma mão
 @132086=~Vamos descansar até estarmos completamente curados.~
 @132087=~De que outra forma você pode ajudar?~
 @132088=~Chega de coisas. Mas Pondmuk gosta de você. Você é esperto e traz comida. Você é bom.~
-@132089=~Você dá para a rainha aranha! Hummm! Pondmuk fica com a barriga feliz! Extra crocante, mais satisfatório. Pondmuk *gosta muito* de você agora. Pondmuk te conta a senha da porta. A senha é Quimera. O duende bobo abre a porta para você com a senha.~
-@132090=~Você dá comida para a rainha aranha! Hummm! Pondmuk fica com a barriga feliz! Extra crocante, mais satisfatório. Sem mais aranhas. Mas Pondmuk gosta de você. Você é esperto e traz comida. Você é bom.~
+@132089=~Você deu a rainha aranha para Pondmuk! Hummm Pondmuk fica com a barriga feliz! Extra crocante, mais satisfatório. Pondmuk *gosta muito* de você agora. Pondmuk te conta a senha da porta. A senha é Quimera. O duende bobo abre a porta para você com a senha.~
+@132090=~Você deu a rainha aranha para Pondmuk! Hummm! Pondmuk fica com a barriga feliz! Extra crocante, mais satisfatório. Sem mais aranhas. Mas Pondmuk gosta de você. Você é esperto e traz comida. Você é bom.~
 @132091=~Lendas antigas dos anões contam sobre uma época em que o mais nobre dos metais não era o aço anão, nem o ferro meteórico, nem o mithril, mas sim o dykhast — uma liga tão forte que o fio de uma lâmina jamais se cegaria com o trabalho ou a batalha, e com uma superfície tão perfeita e brilhante que seu brilho podia ser visto a uma distância de voo de dragão. Os anões mais velhos falam de lâminas de dykhast com lágrimas de doce lembrança nos olhos e cospem com desprezo ao ouvirem falar dos diversos metais fracos e insignificantes dos quais as armas e armaduras de hoje são feitas.
 Há rumores, porém, de um antigo e secreto templo chamado Chogoh Kyn - dizem as lendas que é lá que as lâminas de dykhast ainda são feitas à moda antiga. O preço pode ser alto, mas para o verdadeiro conhecedor, não há nada que se compare à glória, à perfeição, à alegria absoluta... do dykhast.
 
@@ -54599,7 +54599,7 @@ Peso: 1,5 Kg (3 lb).
 @132271=~Ah, eu senti seu cheiro chegando. Você está com minhas braçadeiras?~
 @132272=~Sim, aqui.~
 @132273=~Mudei de ideia. Quero ficar com eles.~
-@132274=~Excelente! São eles! Muito bem! Agora vou cumprir minha parte do acordo. Aqui, pegue a maldita mensagem de Yquog e este item encantado, e suma daqui.~
+@132274=~Excelente! São elas! Muito bem! Agora vou cumprir minha parte do acordo. Aqui, pegue a maldita mensagem de Yquog e este item encantado, e suma daqui.~
 @132275=~Obrigado. Mas, antes de ir, você pode me dizer o que está escrito na mensagem?~
 @132276=~O quê, mortal de carne? Você sabe a senha, então vá agora! Ilquog, filhote ocupado, guarde os goblins mastigadores dekanter!~
 @132277=~::cheirando:: ::cheirando:: Você matou Yquog! Eu sinto o cheiro de sangue de Yquog! Você vai morrer agora!~
@@ -54925,9 +54925,9 @@ Esta magia faz com que todas as criaturas a até 3 metros do conjurador desapareç
 @132548=~~
 @132549=~Certamente. O que lhe vem à mente?~
 @132550=~DE JEITO NENHUM! Hehehe - só uma brincadeira. Claro, o que você gostaria de saber?~
-@132551=~*Ufa!* Eu te digo, BW, eu estava mesmo acabada - meus cânticos quase se esgotaram, e se eu não tivesse colocado aquele verme maldito para dormir, eu... Oh, desculpe. Ora, OLÁ!~
+@132551=~*Ufa!* Eu te digo, BW, eu estava mesmo acabado - meus cânticos quase se esgotaram, e se eu não tivesse colocado aquele verme maldito para dormir, eu... Oh, desculpe. Ora, OLÁ!~
 @132552=~Olá. Eu sou <CHARNAME>.~
-@132553=~Prazer em conhecê-lo(a). Sou <CHARNAME>.~
+@132553=~Prazer em conhecê-lo. Sou <CHARNAME>.~
 @132554=~Meu nome é Zack... Zack Boosenburry... clérigo/ilusionista de Baervan Wildwanderer. Com licença por um instante. Aocha? *Aocha?* AOCHA?!~
 @132555=~Se você for o Zack, então esta deve ser a sua mensagem.~
 @132556=~Aocha?~
@@ -56992,7 +56992,7 @@ Peso: 1 kg (2 lb).
 @133555=~Oswald... ele estava em transe quando caímos no sopé da montanha. Quase perdemos a voz tentando acordá-lo.~
 @133556=~Oswald... ele estava em transe quando caímos no sopé da montanha. O barulho que fizemos depois o acordou.~
 @133557=~[sem texto]~
-@133558=~Esses Aurilites *devem* ser a causa desse clima sinistro, mas como? Por quê? Sem saber mais, não há nada que eu possa fazer. Eu preciso da sua ajuda.~
+@133558=~Esses Aurilitas *devem* ser a causa desse clima sinistro, mas como? Por quê? Sem saber mais, não há nada que eu possa fazer. Eu preciso da sua ajuda.~
 @133559=~Vamos procurar as informações que pudermos e retornaremos. Até logo.~
 @133560=~Não posso te ajudar. Adeus.~
 @133561=~Que ótima notícia, <CHARNAME>...! No entanto, receio que o frio no ar ainda persista... será que existe outro altar?~
@@ -57186,7 +57186,7 @@ Normal: Um personagem que usa uma arma sem ser proficiente com ela sofre uma pen
 @133736=~Estátua do Sol~
 @133737=~Armadilha de Fogueira~
 @133738=~[sem texto]~
-@133739=~Diante de você está um autômato. Sua armadura está amassada e marcada por cicatrizes, e há um símbolo Aurilite inscrito em seu elmo. Ele para por um instante quando você se aproxima, depois continua, como se estivesse procurando por algo.~
+@133739=~Diante de você está um autômato. Sua armadura está amassada e marcada por cicatrizes, e há um símbolo Aurilita inscrito em seu elmo. Ele para por um instante quando você se aproxima, depois continua, como se estivesse procurando por algo.~
 @133740=~~
 @133741=~Eu sou <CHARNAME>. Matei Yquog, seus lacaios e seus guardas que estavam bloqueando a entrada norte.~
 @133742=~Eu sou <CHARNAME>. Matei Yquog, seus lacaios e seus guardas que bloqueavam as entradas norte e sul.~
@@ -57910,7 +57910,7 @@ Peso: 2 kg (4 lb).
 @134225=~*Este* é o mundo em que Odea e os outros nasceram. Eu jurei NUNCA deixar que o que seus pais sofreram acontecesse com eles.~
 @134226=~Eu permitirei.~
 @134227=~Sim, o que você precisa saber?~
-@134228=~Desativamos a barreira mágica criada pelos guardiões Aurilite que cobria o arco de entrada para o vilarejo deles, Andora. Parece seguro passar agora.~
+@134228=~Desativamos a barreira mágica criada pelos guardiões Aurilita que cobria o arco de entrada para o vilarejo deles, Andora. Parece seguro passar agora.~
 @134229=~A Poção de Doug Drealer~
 @134230=~Poção de Doug Drealer~
 @134231=~Desativamos uma barreira mágica que cobria o arco de entrada para um lugar chamado Andora. Parece seguro passar agora.~
@@ -59663,7 +59663,7 @@ Peso: 2,5 kg (5 lb).
 @135331=~Entendo. Adeus.~
 @135332=~Ah, não, não, não - ele está bem. Só está em mais uma de suas missões.~
 @135333=~A propósito, a Passagem Leste estava longe de ser desprotegida como você disse que estaria. Então, a geleira foi destruída?~
-@135334=~Ahhh, sim - com certeza! Duvido que esses Aurilites nos causem mais problemas.~
+@135334=~Ahhh, sim - com certeza! Duvido que esses Aurilitas nos causem mais problemas.~
 @135335=~Infelizmente... Em minhas provações contra a Legião da Quimera, fiz sacrifícios que desafiam a própria natureza do meu ser. Rogo aos deuses que possam restaurar meu caminho de retidão — talvez salvar quaisquer druidas andoranos que vocês tenham poupado seja um bom começo.~
 @135336=~Já mencionamos os andorianos para você, Nathaniel? Não me lembro.~
 @135337=~Caminho da retidão? Nathaniel, como colega druida, você não quis dizer caminho do equilíbrio cíclico?~
@@ -60303,7 +60303,7 @@ Tipo: Uma mão
 @135771=~Arma Marcial: Espada Grande~
 @135772=~Arma Simples: Lâmina Pequena~
 @135773=~Ambidestria~
-@135774=~Ataque Arterial~
+@135774=~Golpe Arterial~
 @135775=~Proficiência em Armaduras~
 @135776=~Proficiência em Armaduras (leves)~
 @135777=~Proficiência em Armaduras (média)~
@@ -60321,7 +60321,7 @@ Tipo: Uma mão
 @135789=~Iniciativa Aprimorada~
 @135790=~Curvas Aprimoradas~
 @135791=~Vontade de Ferro~
-@135792=~Reflexos Relâmpago~
+@135792=~Reflexos Rápidos~
 @135793=~Canção Persistente~
 @135794=~Ataque Poderoso~
 @135795=~Tiro Preciso~
@@ -60954,11 +60954,11 @@ Benefício: Quando você usa um tipo de armadura com a qual possui proficiência, a
 Normal: Um personagem que estiver usando uma armadura com a qual não seja proficiente sofre a penalidade de armadura em jogadas de ataque e em todos os testes de perícia que envolvam movimento.
 
 Tipos de proficiência:
-1 - Luz
+1 - Leve
 2 - Médio
 3 - Pesado
 ~
-@136290=~ATAQUE ARTERIAL:
+@136290=~GOLPE ARTERIAL:
 Sua habilidade com ataques furtivos permite que você cause um ferimento com sangramento.
 
 Pré-requisito: Pelo menos um nível de ladino, bônus de ataque base +4 ou superior.
@@ -61106,7 +61106,7 @@ Benefício: Este talento concede a habilidade de conjurar magias mesmo estando em
 @136312=~Durante o julgamento, a questão da culpa de Izbelah foi discutida e as provas apresentadas, mas a sessão foi suspensa porque Venomin precisava fazer algumas perguntas ao Embaixador Jasper, que estava viajando a negócios. Supostamente, Venomin provou a inocência de Izbelah hoje.~
 @136313=~Usa Telecinese~
 @136314=~Ambidestria~
-@136315=~Ataque Arterial~
+@136315=~Golpe Arterial~
 @136316=~Luta às Cegas~
 @136317=~Lançamento de Combate~
 @136318=~Traço~
@@ -61123,7 +61123,7 @@ Benefício: Este talento concede a habilidade de conjurar magias mesmo estando em
 @136329=~Curvas Aprimoradas~
 @136330=~Vontade de Ferro~
 @136331=~Proficiência em Armaduras (leves)~
-@136332=~Reflexos Relâmpago~
+@136332=~Reflexos Rápidos~
 @136333=~Canção Persistente~
 @136334=~Arma Marcial, Machado~
 @136335=~Arma Marcial, Arco~
@@ -61241,7 +61241,7 @@ Benefício: Este talento concede a habilidade de conjurar magias mesmo estando em
 @136447=~Sim, seu porco imundo. Eu vi você expulsar a Kaitlin. Amaldiçoo você e a cria do abismo que te expulsou do ventre! Nos encontraremos novamente, cão, e acertaremos as contas entre nós!~
 @136448=~Sim, seu porco imundo. Eu vi você matar a Kaitlin. Eu amaldiçoo você e a cria do abismo que te expulsou do ventre! Nos encontraremos novamente, cão, e acertaremos as contas entre nós!~
 @136449=~Ah! Estou em dívida com você. Devo recompensá-lo pelos seus esforços.~
-@136450=~Sou grata, sacerdotisa.~
+@136450=~Sou grato, sacerdotisa.~
 @136451=~Sou grata, sacerdotisa, mas não posso aceitar uma recompensa. Os preceitos da minha fé não o permitem.~
 @136452=~Não é necessária recompensa, Sacerdotisa. Fico feliz por ter ajudado aqueles que precisavam.~
 @136453=~Se eu puder te ajudar, basta pedir.~
@@ -61704,7 +61704,7 @@ Tipo: Uma mão
 @136871=~A força psíquica que selava os portões traseiros da Cidadela de Z'hinda foi quebrada.~
 @136872=~Paladino de Helm~
 @136873=~Paladino de Mystra~
-@136874=~Égide da Geada~
+@136874=~Égide da Rima~
 @136875=~Paladino de Ilmater~
 @136876=~Este parece ser um pequeno, mas bem abastecido laboratório de alquimia.~
 @136877=~Monge da Velha Ordem~
@@ -62177,16 +62177,16 @@ Peso: 5 kg (10 lb).
 @137244=~Zaem Astyr... Eu não deveria ter revelado o nome dele, mas você parece ser confiável.~
 @137245=~Sim... Estou com fome... o tempo todo... Preciso comer. Você pode me ajudar?~
 @137246=~Teimoso~
-@137247=~Clicar~
+@137247=~Grande Golpe~
 @137248=~Magia Arcana Bônus, 3º nível~
-@137249=~TEIRIÇO:
+@137249=~TEIMOSO:
 A teimosia e a determinação da sua espécie são lendárias. Vocês são excepcionalmente obstinados e difíceis de desviar do caminho que escolheram.
 
 Pré-requisito: Humano ou anão
 
 Benefício: Você recebe um bônus de +1 em testes de Vontade e um bônus de +2 em testes de Intimidação.
 ~
-@137250=~CLEAVE:
+@137250=~Grande Golpe:
 Você pode finalizar com golpes poderosos.
 
 Pré-requisito: Força 13+, talento Ataque Poderoso. Observação: Para obter um segundo nível neste talento, é necessário um Bônus de Ataque Base de pelo menos +4.
@@ -62286,7 +62286,7 @@ Pré-requisito: Dilema Irritante, 7 pontos em Avaliação, Alquimia ou Arcano do Co
 
 Benefício: O alvo submetido a este enigma deve fazer um teste de Vontade ou ficará confuso por cinco rodadas. Pode ser usado 1 vez por dia.
 ~
-@137284=~A MALDIÇÃO DO HEREGE:
+@137284=~A RUÍNA DOS HEREGES:
 Seu personagem é particularmente hábil em combater os lacaios das religiões inimigas.
 
 Pré-requisito: Habilidade para conjurar magias divinas, bônus de ataque base +4 ou superior.
@@ -65573,7 +65573,7 @@ Peso: 0,5 kg (1 lb).
 @139785=~Esta geleira é o último obstáculo para a Passagem Ocidental. Não podemos falhar.~
 @139786=~CARAMBA! Sou bom ou *o quê?!~
 @139787=~Ei, você aí! Estou um pouco perdido. Por acaso você saberia o caminho para o sopé da montanha?~
-@139788=~Sim, acabamos de vir de lá. Prazer em conhecê-lo(a). Eu sou <CHARNAME>. Quem são-~
+@139788=~Sim, acabamos de vir de lá. Prazer em conhecê-lo. Eu sou <CHARNAME>. Quem são-~
 @139789=~<CHARNAME>?! Você demorou bastante para chegar, não é? Nathaniel disse que você nos resgataria, mas *O Mestre das Fechaduras* não espera por ninguém!~
 @139790=~Nathaniel?~
 @139791=~Sim, ele está preso no primeiro andar do templo de gelo, esperando que você o resgate... tente não falhar como aqueles outros *heróis*, certo? Hum, eu adoraria ficar, mas conversar com você e escapar de Aurilitas enlouquecidos são eventos mutuamente exclusivos, então-~
@@ -65604,7 +65604,7 @@ Peso: 0,5 kg (1 lb).
 @139816=~Penalidade de Armadura~
 @139817=~Ataque Poderoso~
 @139818=~Especialização~
-@139819=~Ataque Arterial~
+@139819=~Golpe Arterial~
 @139820=~Isquiotibiais~
 @139821=~Tiro Rápido~
 @139822=~Penalidade de Escudo~
@@ -65955,7 +65955,7 @@ Peso: 0 kg.
 @140111=~Você também segue a luz da deusa Selune? Eu sou um Estrela Prateada, um de seus sacerdotes.~
 @140112=~A lua pode ser uma aliada bastante poderosa. Muita coisa na natureza depende dela.~
 @140113=~Estamos simplesmente seguindo Beodaewn. Algum dia, ele nos levará a Birith Mal.~
-@140114=~Nascimento Mal?~
+@140114=~Birith Mal?~
 @140115=~Através da vila de Andora, mas eu não iria por esse caminho. Seus moradores parecem empenhados em impedir que alguém se aventure mais adentro das montanhas.~
 @140116=~Aquela nave que caiu era sua? Uma visão realmente impressionante. Você deveria falar com Beodaewn. Ele pode ter o que você precisa. Ele pode ser seu salvador, como foi para mim.~
 @140117=~Culto? Bobagem! Beodaewn é simplesmente um professor, um homem, como qualquer outro... que deve ser *reverenciado* como um *profeta!*~
@@ -66831,7 +66831,7 @@ Peso: 2,5 kg (5 lb).
 @140976=~[MAINGUI BUTTON]Clique com o botão direito para personalizar este botão~
 @140977=~São eles - aqueles sobre os quais fomos avisados! Auril, deixe-nos servi-lo na vitória... ou morrer na derrota!~
 @140978=~~
-@140979=~Bomdia.~
+@140979=~Bom dia.~
 @140980=~~
 @140981=~Tarde.~
 @140982=~Um grupo mercenário de Luskan anda causando problemas daqui até Targos. Aliás, as três irmãs estão inquietas.~
@@ -66853,7 +66853,7 @@ Peso: 2,5 kg (5 lb).
 @140998=~Quantos estão com eles? Devem estar liderando um exército para terem chegado tão longe!~
 @140999=~Espero que você esteja certo.~
 @141000=~Esta geleira é o último obstáculo para a Passagem Ocidental. Não podemos falhar.~
-@141001=~PEGUE ELE!~
+@141001=~PEGUEM ELE!~
 @141002=~Ei, você aí! Estou um pouco perdido. Por acaso você saberia o caminho para o sopé da montanha?~
 @141003=~Sim, acabamos de vir de lá. Prazer em conhecê-lo(a). Eu sou <CHARNAME>. Quem são vocês?~
 @141004=~<CHARNAME>?! Você demorou bastante para chegar, não é? Nathaniel disse que você nos resgataria, mas *O Mestre das Fechaduras* não espera por ninguém!~

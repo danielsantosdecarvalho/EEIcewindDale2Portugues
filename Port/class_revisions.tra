@@ -443,7 +443,7 @@ Pré-requisitos: Capacidade de lançar magias de 2º nível.
 
 Benefício: Você ganha a habilidade Magia Estendida, que pode ser usada à vontade como uma ação livre. Usá-la dobra a duração da próxima magia que você lançar, mas faz com que ela ocupe um nível mais alto. Magia Estendida não tem efeito sobre magias com uma duração base de menos de 5 rodadas.~
 @353 = ~Magia Maximizadora~
-@354 = ~METAMÁGICA, MAGIA MAXIMIZADORA:
+@354 = ~MAGIA MAXIMIZADORA:
 
 Você pode maximizar o poder de suas magias.
 
@@ -451,7 +451,7 @@ Pré-requisitos: Capacidade de lançar magias de 4º nível.
 
 Benefício: Você ganha a habilidade Magia Maximizadora, que pode ser usada à vontade como uma ação livre. Usá-la faz com que sua próxima magia cause o dano máximo e cure o número máximo de pontos de vida, mas também faz com que ela ocupe um nível de magia três níveis mais alto.~
 @355 = ~Magia Persistente~
-@356 = ~METAMÁGICA, MAGIA PERSISTENTE:
+@356 = ~MAGIA PERSISTENTE:
 
 Você pode aumentar a duração de suas magias para 8 horas completas.
 
@@ -459,7 +459,7 @@ Pré-requisitos: Capacidade de lançar magias de 7º nível.
 
 Benefício: Você ganha a habilidade Magia Persistente, que pode ser usada à vontade como uma ação livre. Usá-la aumenta a duração da próxima magia para 8 horas, mas faz com que ela ocupe um nível de magia seis níveis mais alto. Magia Persistente não tem efeito sobre magias com uma duração base de menos de 5 rodadas.~
 @357 = ~Magia Acelerada~
-@358 = ~METAMÁGICA, MAGIA ACELERADA:
+@358 = ~MAGIA ACELERADA:
 
 Você pode lançar uma magia extra rapidamente a cada rodada.
 
@@ -467,7 +467,7 @@ Pré-requisitos: Capacidade de lançar magias de 3º nível.
 
 Benefício: Você ganha a habilidade Magia Acelerada, que pode ser usada à vontade como uma ação livre. Usá-la permite que você lance instantaneamente uma magia, mesmo que já tenha lançado uma magia naquela rodada. A magia acelerada ocupa um nível de magia dois níveis mais alto. Apenas uma magia pode ser acelerada por rodada.~
 @359 = ~Magia Segura~
-@360 = ~METAMÁGICA, MAGIA SEGURA:
+@360 = ~MAGIA SEGURA:
 
 Você pode moldar a área de efeito de suas magias para evitar prejudicar aliados.
 
@@ -475,7 +475,7 @@ Pré-requisitos: Capacidade de lançar magias de 2º nível.
 
 Benefício: Você ganha a habilidade Magia Segura, que pode ser usada à vontade como uma ação livre. Usá-la impede que a próxima magia que você lançar prejudique aliados, mas faz com que ela ocupe um nível de magia um nível mais alto.~
 @361 = ~Magia Ampliada~
-@362 = ~METAMÁGICA, MAGIA AMPLIADA:
+@362 = ~MAGIA AMPLIADA:
 
 Você pode aumentar a área de efeito de suas magias.
 
@@ -483,7 +483,7 @@ Pré-requisitos: Capacidade de lançar magias de 2º nível.
 
 Benefício: Você ganha a habilidade Magia Ampliada, que pode ser usada à vontade como uma ação livre. Usá-la aumenta a área de efeito da próxima magia que você lançar em 50%, mas faz com que ela ocupe um nível de magia um nível mais alto.~
 @363 = ~Magia em Massa~
-@364 = ~METAMÁGICA, MAGIA EM MASSA:
+@364 = ~MAGIA EM MASSA:
 
 Você pode fazer suas magias afetarem uma área em vez de um único alvo.
 
@@ -517,7 +517,7 @@ Dois níveis nesse talento permite que você faça um número de ataques de oportuni
 @369 = ~Reflexos de Combate~
 @370 = ~REFLEXOS DE COMBATE:
 
-Você pode revidar rápidamente e repetidamente contra oponentes que abaixam suas defesas.
+Você pode revidar rapidamente e repetidamente contra oponentes que abaixam suas defesas.
 
 Pré-requisito: Bônus de ataque base +1 ou superior
 
@@ -1218,14 +1218,14 @@ Você aprendeu a maximizar o efeito de seus ataques enquanto realiza um ataque cu
 Pré-requisitos: 4 pontos em Concentração e Especialização em Arma em 2 armas.
 
 Benefício: Todos os ataques causam dano máximo por 5 rodadas. Se você tiver 12 ou mais níveis de guerreiro, também ganha +4 de bônus em ataque e +4 de alcance de ameaça crítica durante esse período.~
-@670 = ~VITALIDADE:
+@670 = ~RESISTÊNCIA:
 
 Você é mais resistente do que o normal.
 
 Benefício: Cada vez que você pegar essa perícia, ganha +3 pontos de vida, além de mais 1 ponto de vida por nível. Bárbaros ganham +3 pontos de vida por nível de bárbaro em vez de +1. Em futuros aumentos de nível, você ganhará pontos de vida adicionais.
 
 Especial: Você pode ganhar essa perícia até 5 vezes em Icewind Dale 2.~
-@671 = ~FORTITUDE MAIOR:
+@671 = ~GRANDE FORTALEZA:
 
 Você é mais resistente do que o normal.
 
@@ -1442,7 +1442,7 @@ Embora qualquer pessoa possa agarrar algo, você tem a habilidade de agarrar até 
 Benefício: Você ganha uma habilidade que permite agarrar uma criatura adjacente. A habilidade pode ser usada uma vez por rodada. O alvo deve fazer um teste de Reflexos (CD 12 + metade do seu nível + seu modificador de Força ou Destreza, o que for maior) ou ser agarrado por você por 2 rodadas. Enquanto agarrado, a criatura recebe uma penalidade de -4 para ataques, tem 50% de chance de falhar ao lançar magias e não pode se mover para longe de você. Se você se mover, pode puxar a criatura com você.
 
 Para agarrar, você deve ter pelo menos uma mão livre. O teste de resistência ganha +4 de CD se você tiver ambas as mãos livres. Ele perde -4 de CD para cada vez que alguém tentou agarrar o alvo nas últimas 10 rodadas. Se você agarrar um aliado ou uma criatura paralisada, atordoada, dormindo ou derrubada, não há teste de resistência. Criaturas maiores que você não podem ser agarradas.~
-@705 = ~ARCANO ARMADO:
+@705 = ~ARCANO BLINDADO:
 
 Você pode lançar magias com menos chance de falha enquanto usa armaduras.
 
