@@ -10,13 +10,21 @@ Pontos de Vida por Nível: 1-10
 
 Vantagens:
 * Proficiência com todas as armas simples e marciais, armaduras leves, médias e escudos.
-* Rangers podem escolher um Inimigo Predileto no primeiro nível. Eles ganham +1 no ataque e +4 no dano contra criaturas daquele tipo de raça. Rangers ganham um Inimigo Predileto adicional a cada cinco níveis, e o bônus de ataque contra Inimigos Predileto anteriores aumenta em 1.
+
+* Rangers podem escolher um Inimigo Predileto (Favored Enemy) no primeiro nível. Eles ganham +1 no ataque e +4 no dano contra criaturas daquele tipo de raça. Rangers ganham um Inimigo Predileto adicional a cada cinco níveis, e o bônus de ataque contra Inimigos Predileto anteriores aumenta em 1.
+
 * Rangers podem lutar com duas armas como se tivessem os talentos Ambidestria e Luta com Duas Armas, desde que estejam usando apenas armadura leve ou nenhuma armadura.
+
 * Nível 2: Conjuração. Rangers ganham a habilidade de lançar magias.
-* Nível 6: O ranger pode escolher o talento Ataque Giratório, desde que cumpra o requisito de Destreza, ignorando todos os outros requisitos.
-* Nível 6: Armadilha Natural. Esta habilidade monta uma armadilha que, ao ser acionada por um inimigo, prende todos os inimigos num raio de 6 metros (20 pés) por 5 rodadas, se falharem num teste de Reflexos. A CD do teste é 6 mais a perícia do ranger em Conhecimento da Natureza. O ranger ganha uma utilização adicional da Armadilha Natural a cada 6 níveis após o 6º.
-* Nível 7: Caminho da Floresta. O ranger fica imune a Emaranhar, Teia e Crescer Espinho.
+
+* Nível 6: O ranger pode escolher o talento Ataque Giratório (Whirlwind Attack), desde que cumpra o requisito de Destreza, ignorando todos os outros requisitos.
+
+* Nível 6: Armadilha Natural (Set Natural Snare): Esta habilidade monta uma armadilha que, ao ser acionada por um inimigo, prende todos os inimigos num raio de 6 metros (20 pés) por 5 rodadas, se falharem num teste de Reflexos. A CD do teste é 6 mais a perícia do ranger em Conhecimento da Natureza. O ranger ganha uma utilização adicional da Armadilha Natural a cada 6 níveis após o 6º.
+
+* Nível 7: Caminho da Floresta (Woodland Stride): O ranger fica imune a Emaranhar, Teia e Crescer Espinho.
+
 * Nível 9: O ranger pode escolher os talentos Luta com Duas Armas Aprimorada e Tiro Múltiplo, mesmo que não cumpra os pré-requisitos.
+
 * Nível 15: O ranger pode escolher os talentos Luta com Duas Armas Aprimorada e Tiro Múltiplo uma segunda vez, o que nenhuma outra classe pode fazer.
 
 Desvantagens:
@@ -118,7 +126,7 @@ Peso: 0 kg.
 Lançador: Funda~
 @35653 = ~Repulsão~
 @36653 = ~Repulsão
-(Abjuração)
+Repulsion (Abjuração)
 Nível: Bardo 7, Clérigo 6, Fet/Mag 7, Helm 5
 Alcance: Conjurador
 Duração: 3 rodadas
@@ -130,7 +138,7 @@ Esta magia concede ao conjurador uma aura que repele inimigos próximos, lançando
 @55716=~Conjure a magia <EXCCSPELL>~
 @1010 = ~Círculo de Ossos~
 @1011 = ~Círculo de Ossos
-(Necromancia)
+Circle of Bones (Necromancia)
 Nível: Clr 3
 Alcance: Conjurador
 Duração: 3 rodadas
@@ -141,7 +149,7 @@ Teste de Resistência: Nenhum
 Esta magia conjura uma barreira de ossos flutuantes que giram rapidamente ao redor do conjurador. Qualquer um que entre em seu caminho sofre 2d6 de dano contusão e 2d6 de dano cortante por rodada. Esta magia não provoca um ataque de oportunidade. ~
 @1016 = ~Veneno~
 @1017 = ~Veneno
-(Necromancia)
+Poison (Necromancia)
 Nível: Clr 4, Drd 3
 Alcance: Toque
 Duração: 30 segundos
@@ -152,7 +160,7 @@ Resistência: Fortitude nega
 Esta magia concede ao conjurador a habilidade de tocar uma criatura e envenená-la instantaneamente. O veneno causa 2 de dano por segundo durante 30 segundos e então se dissipa do corpo do alvo. A cada 6 níveis de conjurador, o veneno causa mais um ponto de dano por segundo, até um máximo de 7 de dano por segundo no nível 30. Um teste de Fortitude bem-sucedido nega qualquer efeito. Esta magia não provoca um ataque de oportunidade. ~
 @1022 = ~Círculo de Lâminas~
 @1023 = ~Círculo de Lâminas
-(Evocação)
+Circle of Blades (Evocação)
 Nível: Clr 6, Pal 5, Helm 6, Tempus 6
 Alcance: Conjurador
 Duração: 2 rodadas
@@ -163,7 +171,7 @@ Teste de Resistência: Reflexo metade
 Esta magia conjura uma parede de lâminas circulares e afiadas que giram e brilham ao redor do conjurador. Qualquer criatura que tentar atravessar a barreira de lâminas sofre 10d8 pontos de dano, com um teste de Reflexos bem-sucedido para metade do dano. Esta magia não provoca um ataque de oportunidade. ~
 @1024 = ~Ira Espiritual~
 @1025 = ~Ira Espiritual
-(Evocação)
+Spiritual Wrath (Evocação)
 Nível: Clr 6, Pal 6, Helm 7, Tempus 6
 Alcance: Visão do Conjurador
 Duração: Instantânea
@@ -174,7 +182,7 @@ Teste de Resistência: Reflexo metade
 Ao completar esta magia, o conjurador se torna um foco de energia espiritual, que então é disparada do conjurador em quatro direções, como raios. O conjurador especifica a direção de um dos raios e os outros raios são disparados na direção oposta e perpendicular a essa direção, completando um padrão em forma de cruz. Todas as criaturas no caminho dos raios sofrem 5d20 pontos de dano mágico, com um teste de Reflexos para metade. Criaturas com a mesma tendência moral (bom, neutro, maligno) que o conjurador não são afetadas pela magia. Esta magia não provoca um ataque de oportunidade. ~
 @1136 = ~Fúria de Malavon~
 @1137 = ~Fúria de Malavon
-(Evocação)
+Malavon's Rage (Evocação)
 Nível: Fet/Mag 7
 Alcance: Conjurador
 Duração: Instantânea
@@ -187,7 +195,7 @@ A Fúria de Malavon foi criada pelo feiticeiro elfo negro Malavon. Ela dispara da
 Como a maioria das magias criadas por drow, a Fúria de Malavon foi projetada para contornar a resistência à magia, já que os drow costumam lutar contra inimigos que resistem à magia... como outros drows. ~
 @1623 = ~Fúria Animal~
 @1624 = ~Fúria Animal
-(Encantamento)
+Animal Rage (Encantamento)
 Nível: Drd 4, Rgr 3
 Alcance: Visão do Conjurador
 Duração: 10 rodadas
@@ -198,7 +206,7 @@ Teste de Resistência: Especial
 Esta magia imbui a criatura alvo com ferocidade animal. A criatura alvo ganha +4 de força, +4 de constituição, +20% de movimento e +2 em todos os testes de resistência. O alvo perde a habilidade de conjurar magias enquanto a Fúria Animal estiver em vigor. Ele ou ela pode ser controlado normalmente, a menos que haja inimigos à vista, momento em que o alvo ataca imediatamente em combate corpo a corpo, usando o que estiver em mãos. Há 5% de chance por rodada de o alvo entrar em frenesi, atacando amigos e inimigos igualmente. Aliados são afetados automaticamente, enquanto inimigos podem fazer um teste de Vontade para evitar os efeitos. ~
 @1680 = ~Leque Cromático~
 @1681 = ~Leque Cromático
-(Ilusão)
+Color Spray (Ilusão)
 Nível: Brd 1, Sor/Wiz 1
 Alcance: Conjurador
 Duração: Instantâneo
@@ -215,7 +223,7 @@ Até 2: Inconsciente por 5 rodadas
 Um teste de Vontade bem-sucedido com +2 CD anulará o efeito. Criaturas cegas não são afetadas pelo Leque Cromático. Esta magia não provoca um ataque de oportunidade. ~
 @1893 = ~Mãos Flamejantes~
 @1894 = ~Mãos Flamejantes
-(Transmutação)
+Burning Hands (Transmutação)
 Nível: Drd 1, Fet/Mag 1
 Alcance: Conjurador
 Duração: Instantâneo
@@ -226,7 +234,7 @@ Teste de Resistência: Reflexo metade
 Quando o mago conjura esta magia, um jato de chamas abrasadoras sai da ponta dos seus dedos. Os jatos de chamas têm 1,5 metro de comprimento e se espalham em um arco horizontal de cerca de 120 graus à frente do mago. Qualquer criatura na área de efeito sofre 1d4 pontos de dano por nível do conjurador (máximo de 5d4). Um teste de Reflexos bem-sucedido reduz o dano pela metade. Esta magia não provoca um ataque de oportunidade. ~
 @31117 = ~Dedos de Gelo~
 @32117 = ~Dedos de Gelo
-(Transmutação)
+Frost Fingers (Transmutação)
 Nível: Drd 1
 Alcance: Conjurador
 Duração: Instantânea
@@ -237,7 +245,7 @@ Resistência: Reflexo metade
 Ao completar esta magia, um gelo congelante emana das mãos do conjurador na forma de uma cunha à sua frente. Qualquer criatura na área de efeito sofre 1d3 + 1 de dano de frio por nível de conjurador, até um máximo de 1d3 + 10 de dano de frio. Além disso, a criatura sofre lentidão por 2 rodadas. Um teste de Reflexos bem-sucedido reduz o dano pela metade e anula o efeito de lentidão. Esta magia não provoca um ataque de oportunidade. ~
 @31226 = ~Gotas da Lua~
 @32226 = ~Gotas da Lua
-(Conjuração)
+Moon Motes (Conjuração)
 Nível: Drd 2, Selune 1
 Alcance: Conjurador
 Duração: Instantânea
@@ -248,7 +256,7 @@ Resistência: Reflexo metade
 Esta magia invoca a conexão de Selune com o luar e a magia para invocar uma chuva de esferas brilhantes. A magia causa 1d6 de dano mágico por nível (máximo de 5d6) a cada criatura em seu caminho. Criaturas podem fazer uma resistência de Reflexos para reduzir o dano pela metade. Esta magia não provoca um ataque de oportunidade. ~
 @31409 = ~Manto do Medo~
 @32409 = ~Manto do Medo
-(Conjuração)
+Cloak of Fear (Conjuração)
 Nível: Clr 4, Bane 4
 Alcance: Conjurador
 Duração: 6 rodadas
@@ -259,7 +267,7 @@ Teste de Resistência: Vontade nega
 Manto do Medo concede ao conjurador uma aura de medo em um raio de 1,5 metro. Todos os inimigos que entrarem na área de efeito do manto devem fazer um teste de Vontade ou fugir em pânico por 1 rodada, e devem continuar a fazer testes de Vontade duas vezes por rodada enquanto estiverem na área de efeito do manto do medo. A aura não afeta criaturas mortas-vivas. Esta magia não provoca um ataque de oportunidade. ~
 @33519 = ~Fogo Solar~
 @34519 = ~Fogo Solar
-(Evocação)
+Sunfire (Evocação)
 Nível: Fet/Mag 5
 Alcance: Conjurador
 Duração: Instantânea
@@ -294,18 +302,30 @@ Pontos de Vida por Nível: 1-6
 
 Vantagens:
 * Proficiente com todas as armas simples, armaduras leves, armaduras médias e escudos. O bardo também é proficiente com espadas grandes.
+
 * Ganha um ponto em Arcano Blindado, reduzindo a falha de magia arcana em 35%.
+
 * +1 em Alquimia, Conhecimento (Arcano) e Conhecimento de Magia.
+
 * 2º nível: Conjuração. Bardos ganham a habilidade de conjurar magias arcanas.
+
 * 7º nível: O bardo pode substituir uma de suas magias conhecidas por outra do mesmo nível. Ele pode fazer isso novamente a cada 3 níveis após o nível 7. O bardo só pode substituir magias pelo menos dois níveis abaixo do nível mais alto que ele pode conjurar (por exemplo, apenas uma magia de 1º nível quando o bardo atinge o 7º nível), embora possa substituir magias de 7º nível a partir do nível 25 e magias de 8º nível a partir do nível 28.
+
 * Muitas perícias de ladino são perícias de classe do Bardo.
+
 * Canções de Bardo. Bardos têm a habilidade de cantar melodias que têm efeitos mágicos em criaturas em um raio de 9 metros. À medida que avançam de nível, ganham canções adicionais. As canções são descritas em detalhes abaixo.
-* 1º nível: O Conto de Curran Strongheart. Quando usada, todos os aliados do bardo ganham +1 de bônus de ataque, +1 de dano e imunidade a medo e desesperança. Os bônus de ataque e dano aumentam em 1 nos níveis 10, 25 e 40.
-* 3º nível: A Canção dos Kaudies. Quando usada, os aliados do bardo são imunes a magias e habilidades nocivas baseadas em som, incluindo Comando, Silêncio, Comando Maior, Palavra Sagrada, Blasfêmia, Palavra de Poder: Sono, Explosão Sonora, Grito, Palavra de Poder: Silêncio, Palavra de Poder: Atordoamento, Palavra de Poder: Cegar, Grande Grito, Grito da Banshee, Palavra de Poder: Matar, grito de harpia e os efeitos exclusivos para inimigos de Canto, Prece e Recitação.
-* 5º nível: Melodia de Tymora. Quando usada, a Melodia de Tymora concede aos aliados do bardo +1 de sorte, +1 em testes de resistência e +2 em Conhecimento (arcano), Alquimia e perícias de ladino. Nos níveis 15 e 35, esta canção concede +1 adicional em testes de sorte e resistência e +2 em testes de perícia.
-* 9º nível: O Anseio da Sereia. Quando tocada, toda criatura que ouvir a canção sofre uma penalidade cumulativa de -1 em seus testes de Vontade por 10 rodadas e deve fazer um teste de Vontade ou será aprisionada, incapaz de realizar ações por uma rodada ou até sofrer dano. A CD de Vontade é igual ao nível do bardo. Portanto, a canção de um bardo de nível 15 tem CD 15.
-* 13º nível: O Canto de Guerra dos Sith. Quando tocada, os aliados do bardo ganham um bônus de armadura genérico de +2, resistência a dano físico de 3/- e regeneram 3 pontos de dano por rodada em combate. Nos níveis 28 e 45, esta canção concede +2 adicional na CA, resistência a dano físico de 3/- e 3 pontos de vida curados por rodada.
-* 20º nível: A Balada dos Três Heróis. Ao ser tocada, os aliados do bardo ganham +5 de resistência à magia, 5/- de resistência a todas as formas de dano mágico e os efeitos do Conto de Curran Coração Forte, da Melodia de Tymora e do Canto de Guerra dos Sith. Nos níveis 30 e 50, esta canção concede +5 de resistência à magia e 5/- de resistência a dano mágico.
+
+* 1º nível: O Conto de Curran Strongheart (The Tale of Curran Strongheart): Quando usada, todos os aliados do bardo ganham +1 de bônus de ataque, +1 de dano e imunidade a medo e desesperança. Os bônus de ataque e dano aumentam em 1 nos níveis 10, 25 e 40.
+
+* 3º nível: A Canção dos Kaudies (The Song of Kaudies): Quando usada, os aliados do bardo são imunes a magias e habilidades nocivas baseadas em som, incluindo Comando, Silêncio, Comando Maior, Palavra Sagrada, Blasfêmia, Palavra de Poder: Sono, Explosão Sonora, Grito, Palavra de Poder: Silêncio, Palavra de Poder: Atordoamento, Palavra de Poder: Cegar, Grande Grito, Grito da Banshee, Palavra de Poder: Matar, grito de harpia e os efeitos exclusivos para inimigos de Canto, Prece e Recitação.
+
+* 5º nível: Melodia de Tymora (Tymora's Melody): Quando usada, a Melodia de Tymora concede aos aliados do bardo +1 de sorte, +1 em testes de resistência e +2 em Conhecimento (arcano), Alquimia e perícias de ladino. Nos níveis 15 e 35, esta canção concede +1 adicional em testes de sorte e resistência e +2 em testes de perícia.
+
+* 9º nível: O Anseio da Sereia (The Siren's Yearning): Quando tocada, toda criatura que ouvir a canção sofre uma penalidade cumulativa de -1 em seus testes de Vontade por 10 rodadas e deve fazer um teste de Vontade ou será aprisionada, incapaz de realizar ações por uma rodada ou até sofrer dano. A CD de Vontade é igual ao nível do bardo. Portanto, a canção de um bardo de nível 15 tem CD 15.
+
+* 13º nível: O Canto de Guerra dos Sith (The War Chant of Sith): Quando tocada, os aliados do bardo ganham um bônus de armadura genérico de +2, resistência a dano físico de 3/- e regeneram 3 pontos de dano por rodada em combate. Nos níveis 28 e 45, esta canção concede +2 adicional na CA, resistência a dano físico de 3/- e 3 pontos de vida curados por rodada.
+
+* 20º nível: A Balada dos Três Heróis (The Ballad of Three Heroes): Ao ser tocada, os aliados do bardo ganham +5 de resistência à magia, 5/- de resistência a todas as formas de dano mágico e os efeitos do Conto de Curran Coração Forte, da Melodia de Tymora e do Canto de Guerra dos Sith. Nos níveis 30 e 50, esta canção concede +5 de resistência à magia e 5/- de resistência a dano mágico.
 
 Um bardo não pode beneficiar o grupo com mais de uma canção ao mesmo tempo. Mas se o grupo tiver vários bardos, os efeitos da canção de cada bardo se acumularão. Criaturas invocadas não se beneficiam das canções de bardo.
 
@@ -324,6 +344,7 @@ Pontos de Vida por Nível: 1-4
 
 Vantagens:
 * Proficiente com todas as armas simples.
+
 * 6º nível: O feiticeiro pode substituir uma de suas magias conhecidas por outra magia do mesmo nível. Eles podem fazer isso novamente a cada 2 níveis após o nível 6. O feiticeiro só pode substituir magias pelo menos dois níveis abaixo do nível máximo que ele pode conjurar (por exemplo, apenas uma magia de 1º nível quando o feiticeiro atinge o 6º nível), embora possa substituir magias de 8º nível a partir do nível 20 e magias de 9º nível a partir do nível 22.
 
 Desvantagens:
@@ -353,7 +374,7 @@ Desvantagens:
 @55789=~Substituição de Magia: Nível 9~
 @1871 = ~Bênção~
 @1872 = ~Bênção
-(Conjuração)
+Bless (Conjuração)
 Nível: Clr 1, Pal 1, Tempus 1
 Alcance: Visão do Conjurador
 Duração: 1 minuto / nível
@@ -364,7 +385,7 @@ Teste de Resistência: Nenhum
 Ao conjurar esta magia, o conjurador Aumenta o bônus de ataque e as jogadas de resistência de criaturas aliadas na área de efeito em +1. Abençoa os contadores e dissipa a Maldição Menor. ~
 @1873 = ~Maldição Menor~
 @1874 = ~Maldição Menor
-(Encantamento)
+Bane (Encantamento)
 Nível: Clr 1, Bane 1
 Alcance: Visão do Conjurador
 Duração: 1 minuto / nível
@@ -378,7 +399,7 @@ Maldição Menor é o inverso de Beção e reduz o bônus de ataque e as jogadas de re
 Esta habilidade permite que um aliado não maligno suporte muito mais dor, mas também sofra mais dor, concedendo a ele um bônus de Constituição de +20 e uma vulnerabilidade de -3 a dano físico por 8 horas.~
 @31802 = ~Cura Completa em Massa~
 @32802 = ~Cura Completa em Massa
-(Conjuração)
+Mass Heal (Conjuração)
 Nível: Clr 8, Drd 9, Lathander 9
 Alcance: Visão do Conjurador
 Duração: Instantânea
@@ -389,7 +410,7 @@ Teste de Resistência: Nenhum
 Cura Completa em Massa elimina doenças e ferimentos de todos os aliados vivos na área de efeito. Cura cegueira, doenças, imbecilidade e restaura os alvos ao máximo de pontos de vida caso tenham sido feridos. Mortos-vivos inimigos na área de efeito sofrem os efeitos de uma magia de Doença Plena se o conjurador for bem-sucedido em um ataque de toque à distância para cada um deles. ~
 @35952 = ~Doença Plena em Massa~
 @36952 = ~Doença Plena em Massa
-(Necromancia)
+Mass Harm (Necromancia)
 Nível: Clr 9
 Alcance: Visão do Conjurador
 Duração: Instantânea
@@ -400,7 +421,7 @@ Teste de Resistência: Fortitude nega
 Doença Plena em Massa libera energia negativa destrutiva sobre todos os inimigos vivos na área de efeito. O conjurador realiza ataques de toque à distância contra cada uma dessas criaturas; cada uma atingida deve fazer uma Jogada de Proteção contra Fortitude ou perder todos os pontos de vida, exceto um. A CD é a mesma da magia de Doença Plena de 6º nível. Mortos-vivos aliados na área de efeito são curados até a saúde completa, como em uma magia de Cura Completa. ~
 @1126 = ~Corpo de Ferro~
 @1127 = ~Corpo de Ferro
-(Transmutação)
+Iron Body (Transmutação)
 Nível: Fet/Mag 8, Helm 8
 Alcance: Conjurador
 Duração: 1 rodada / nível
@@ -411,7 +432,7 @@ Teste de Resistência: Nenhum
 Esta magia transforma o corpo do conjurador em ferro vivo, concedendo-lhe diversas resistências e habilidades poderosas. Enquanto a magia estiver em efeito, o conjurador tem 15/- de resistência a fogo, frio e todas as formas de dano físico, mas também +15 de vulnerabilidade à eletricidade. Magias que afetam a respiração ou a fisiologia do conjurador são completamente ignoradas, como veneno, cegueira, surdez e doença, para citar algumas, e o conjurador se torna pesado demais para ser repelido com magias como Lufada de Vento, Arremesso ou Repulsão. Além disso, o conjurador ganha um bônus de +8 em força e constituição e uma penalidade de -8 em destreza. Infelizmente, o movimento do conjurador torna-se lento e desajeitado sob o peso de seu novo corpo, fazendo com que sua taxa de movimento seja reduzida à metade da taxa normal, e ele recebe uma penalidade de -2 na velocidade de conjuração. ~
 @1857 = ~Névoa da Morte~
 @1858 = ~Névoa da Morte
-(Transmutação)
+Death Fog (Transmutação)
 Nível: Fet/Mag 6
 Alcance: Visão do Conjurador
 Duração: 10 rodadas
@@ -422,7 +443,7 @@ Teste de Resistência: Nenhum
 Esta magia cria uma nuvem ondulante de névoa ácida. A névoa espessa limita o movimento a 50% da taxa de movimento atual da criatura. Além disso, todas as criaturas presas na névoa sofrem 3d6 pontos de dano ácido por rodada. ~
 @37955 = ~Névoa Corrosiva de Malavon~
 @38955 = ~Névoa Corrosiva de Malavon
-(Conjuração)
+Malavon's Corrosive Fog (Conjuração)
 Nível: Fet/Mag 9
 Alcance: Visão do Conjurador
 Duração: 30 rodadas
@@ -436,15 +457,15 @@ A Névoa Corrosiva de Malavon é outra magia criada pelo feiticeiro elfo negro Mal
 @56005 = ~Drenagem de Habilidade~
 @55370 = ~sônico~
 @55603 = ~ (Lich)~
-@316 = ~ATROPELAR:
+@316 = ~DERRUBAR:
 
-Você é treinado para atropelar ou derrubar inimigos em combate corpo a corpo.
+Você é treinado para derrubar ou dar rasteira em inimigos em combate corpo a corpo.
 
 Pré-requisito: Bônus base de ataque +6 ou superior
 
-Benefício: Você ganha uma habilidade que lhe permite atropelar ou derrubar uma criatura adjacente. A habilidade pode ser usada uma vez por rodada. Se sua Destreza for maior que sua Força, você tenta derrubar o alvo, que deve fazer um teste de Reflexos (CD 5 + metade do seu bônus base de ataque + seu modificador de Destreza) ou cair por 4 segundos. Caso contrário, você tenta derrubar seu alvo, que deve fazer um teste de Fortitude (CD 5 + metade do seu bônus base de ataque + seu modificador de Força) ou cair por 4 segundos. A CD recebe -4 para cada vez que alguém tentou atropelar ou derrubar o alvo nas últimas 10 rodadas. Também recebe -4 se o alvo tiver mais de duas pernas ou for mais estável do que um humanoide normal (como um anão). Criaturas maiores que você não podem ser atropeladas ou derrubadas. O tempo gasto para executar esta habilidade faz com que o personagem tenha um ataque a menos na rodada seguinte.
+Benefício: Você ganha uma habilidade que lhe permite derrubar ou dar rasteira em uma criatura adjacente. A habilidade pode ser usada uma vez por rodada. Se sua Destreza for maior que sua Força, você tenta derrubar o alvo, que deve fazer um teste de Reflexos (CD 5 + metade do seu bônus base de ataque + seu modificador de Destreza) ou cair por 4 segundos. Caso contrário, você tenta derrubar seu alvo, que deve fazer um teste de Fortitude (CD 5 + metade do seu bônus base de ataque + seu modificador de Força) ou cair por 4 segundos. A CD recebe -4 para cada vez que alguém tentou atropelar ou derrubar o alvo nas últimas 10 rodadas. Também recebe -4 se o alvo tiver mais de duas pernas ou for mais estável do que um humanoide normal (como um anão). Criaturas maiores que você não podem ser atropeladas ou derrubadas. O tempo gasto para executar esta habilidade faz com que o personagem tenha um ataque a menos na rodada seguinte.
 
-Este talento pode ser escolhido duas vezes. Quando escolhido pela segunda vez, o talento é Atropelar Aprimorado, que adiciona um bônus de +2 à CD e permite que você atropele ou derrube criaturas uma categoria de tamanho maior que você (criaturas cujo círculo não tenha mais que o dobro do raio do seu círculo).
+Este talento pode ser escolhido duas vezes. Quando escolhido pela segunda vez, o talento é Derrubar Aprimorado, que adiciona um bônus de +2 à CD e permite que você atropele ou derrube criaturas uma categoria de tamanho maior que você (criaturas cujo círculo não tenha mais que o dobro do raio do seu círculo).
 (Original: Knockdown)~
 @389 = ~LICHDOM:
 
@@ -512,7 +533,7 @@ ESTATÍSTICAS:
 
 Peso: 0,5 kg (1 lb)~
 @1105 = ~Grito
-(Evocação)
+Shout (Evocação)
 Nível: Brd 3, Sor/Wiz 4, Oghma 4
 Alcance: Curto, 10 metros (30 pés) de comprimento, 3 metros (10 pés) de diâmetro
 Duração: Instantâneo
@@ -522,7 +543,7 @@ Teste de Resistência: Fortitude parcial
 
 O conjurador emite um grito ensurdecedor que ensurdece e causa dano a criaturas em seu caminho. Qualquer criatura dentro da área de efeito fica ensurdecida por 5 rodadas, atordoada por 2 rodadas e sofre 5d6 pontos de dano sônico. Um teste de resistência bem-sucedido anula a surdez e o atordoamento e reduz o dano pela metade. Uma criatura ensurdecida tem 50% de chance de resistir a esta magia. ~
 @1145 = ~Toque do Lich
-(Necromancia)
+Lich Touch (Necromancia)
 Nível: Fet/Mag 6
 Alcance: Toque
 Duração: 1 rodada/nível
@@ -532,7 +553,7 @@ Resistência: Fortitude metade
 
 Esta magia confere os poderes do toque de um lich. As mãos do mago são imbuídas de uma força congelante de energia negativa, permitindo ao conjurador causar 3d10+5 de dano de frio (mais bônus de dano de Força, proficiências, magias, itens e outros efeitos) a cada acerto e paralisar vítimas vivas por 10 rodadas em caso de falha na salvaguarda de Fortitude. O ataque utiliza a proficiência em Arma Simples: Lâmina Pequena/Ataque de Toque. ~
 @1497 = ~Esplendor da Águia
-(Transmutação)
+Eagle's Splendor (Transmutação)
 Nível: Brd 2, Drd 2, Pal 2, Sor/Wiz 2, Oghma 1
 Alcance: Conjurador
 Duração: 1 hora / nível
@@ -542,7 +563,7 @@ Teste de Resistência: Nenhum
 
 A criatura transmutada torna-se mais equilibrada, articulada e pessoalmente poderosa. A magia concede +4 de Carisma, adicionando os benefícios usuais de perícias e habilidades baseadas em Carisma. ~
 @1622 = ~Grande Grito
-(Evocação)
+Great Shout (Evocação)
 Nível: Brd 6, Sor/Wiz 8, Oghma 7
 Alcance: Conjurador
 Duração: Instantâneo
@@ -552,7 +573,7 @@ Teste de Resistência: Fortitude metade
 
 Ao proferir o Grande Grito, o conjurador libera uma força atordoante de sua boca em um cone de 10 metros de comprimento e 3 metros de diâmetro. Criaturas dentro da área de efeito sofrem 10d10 de dano sônico com um teste de Fortitude para metade. Aqueles que falharem no teste ficam atordoados por 5 rodadas e ensurdecidos por 10 rodadas. Criaturas ensurdecidas têm 25% de chance de resistir a esta magia. ~
 @34623 = ~Velocidade em Massa
-(Transmutação)
+Mass Haste (Transmutação)
 Nível: Brd 6, Fet/Mag 6
 Alcance: Visão do Conjurador
 Duração: 3 rodadas + 1 rodada/nível
@@ -562,7 +583,7 @@ Teste de Resistência: Nenhum
 
 Velocidade em Massa concede os efeitos da magia de 3º nível Aceleração a todos os aliados na área de efeito. Esses aliados ganham +4 de CA e um ataque extra por rodada, além de se moverem duas vezes mais rápido. Esses efeitos não se acumulam com a magia de 3º nível. Velocidade em Massa dissipa efeitos de Lentidão. ~
 @38252 = ~Explosão Sonora
-(Evocação)
+Sound Burst (Evocação)
 Nível: Brd 2
 Alcance: Visão do Conjurador
 Duração: 1 rodada
@@ -572,7 +593,7 @@ Teste de Resistência: Fortitude parcial
 
 Esta magia libera uma explosão sonora extremamente alta e estridente. Criaturas na área de efeito sofrem 1d8 de dano sônico e devem fazer um teste de Fortitude ou ficarão atordoadas por 1 rodada. Criaturas surdas não ficam atordoadas, mas ainda sofrem dano. O conjurador não é afetado por esta magia. ~
 @1009 = ~Carapaça de Tartaruga
-(Abjuração)
+Tortoise Shell (Abjuração)
 Nível: Drd 3, Rgr 3
 Alcance: Visão do Conjurador
 Duração: 4 rodadas
@@ -582,7 +603,7 @@ Teste de Resistência: Nenhum
 
 Ao completar esta magia, um grande casco hemisférico semelhante ao de uma tartaruga envolve a criatura alvo, protegendo-a do mundo exterior. A criatura envolvida não pode realizar nenhuma ação, mas, por sua vez, é imune a todos os efeitos. A Carapaça de Tartaruga tem 50 pontos de vida, mais outros 50 pontos de vida para cada 10 níveis que o druida alcançou. Carapaça de Tartaruga só afeta aliados.~
 @1679 = ~Esfera Resiliente de Otiluke
-(Evocação)
+Otiluke's Resilient Sphere (Evocação)
 Nível: Fet/Mag 4
 Alcance: Visão do Conjurador
 Duração: 4 rodadas
@@ -601,9 +622,13 @@ Pontos de Vida por Nível: 1-8
 
 Vantagens:
 * Proficiente com todas as armas simples, bem como martelos, manguais, armaduras leves, armaduras médias, armaduras pesadas e escudos.
+
 * Clérigos podem conjurar poderosas magias defensivas e de cura.
+
 * Clérigos têm a habilidade de Expulsar Mortos-Vivos. Quando este poder é invocado, o clérigo canaliza energia positiva ou negativa, que tem vários efeitos sobre os mortos-vivos. Quanto maior o nível e o carisma do clérigo, maior a sua chance de sucesso. Se o clérigo for bom ou um seguidor neutro de uma divindade não maligna, seu expulsivo faz com que os mortos-vivos fujam ou os destrói completamente se a rolagem de expulsá-los for alta o suficiente. Se o clérigo for maligno ou um seguidor neutro de uma divindade maligna, sua reversão faz com que mortos-vivos hostis se acovardem diante dele ou assuma o controle dos mortos-vivos se a rolagem de reversão de mortos-vivos for alta o suficiente, enquanto mortos-vivos aliados são fortalecidos, tornando-os mais difíceis de serem revertidos por clérigos inimigos. Se um morto-vivo aliado foi revertido por um clérigo inimigo, um clérigo maligno pode dissipar a reversão com uma reversão por conta própria.
+
 * Clérigos recebem poderes e magias especiais de sua divindade.
+
 * Conjuração Espontânea: Clérigos podem converter suas magias em magias de cura (se boas ou neutras) ou infligir (se más) do nível mais próximo quando um jogador pressiona Shift e clica em uma magia no momento da conjuração. A magia clicada é imediatamente removida da lista memorizada do personagem e conjurada como a magia de cura ou infligir mais próxima do mesmo nível.
 
 Conjuração Espontânea de Magias:
@@ -775,7 +800,7 @@ Resistência: 20/- Resistência a Dano Mágico
 Todo o dano mágico causado pelo personagem é aumentado em 20%
 Peso: 1,5 kg (3 lb) ~
 @38359 = ~Loquacidade
-(Encantamento)
+Glibness (Encantamento)
 Nível: Brd 3
 Alcance: Conjurador
 Duração: 10 rodadas/nível
@@ -831,7 +856,7 @@ Nível 17+: 1d8+5
 * Quando não estiver usando armadura (túnicas são aceitáveis), o monge adiciona seu bônus de Sabedoria à sua CA da mesma forma que seu bônus de Destreza. Se o monge for metamorfoseado, ele só ganhará esse benefício se seu nível de monge for maior ou igual ao nível mínimo necessário para se metamorfosear naquela forma.
 * Ataques Atordoantes: Quando esta habilidade é usada, todos os ataques desarmados do monge na próxima rodada forçam a vítima a fazer um teste de Fortitude (CD 10 + modificador de Sabedoria + metade do nível do monge) ou ficar atordoada por 1 rodada. Um monge pode realizar um ataque atordoante 1/dia/nível.
 * Evasão: Monges têm a habilidade de escapar do dano de magias de área de efeito. Sempre que um monge fizer um teste de Reflexos bem-sucedido contra uma magia de área de efeito que permita um teste de reflexos com metade do dano, ele não sofre dano.
-* 2º nível: Desviar Objetos. O monge ganha o talento Desviar Objetos, concedendo um bônus de +1 em diversos ataques contra armas de projéteis. Além disso, o monge bloqueia automaticamente a primeira ocorrência de dano de projétil que o atingir a cada rodada. O monge deve ter uma mão livre para bloquear projéteis dessa forma.
+* 2º nível: Desviar Flechas. O monge ganha o talento Desviar Flechas, concedendo um bônus de +1 em diversos ataques contra armas de projéteis. Além disso, o monge bloqueia automaticamente a primeira ocorrência de dano de projétil que o atingir a cada rodada. O monge deve ter uma mão livre para bloquear projéteis dessa forma.
 * 3º nível: Movimento Rápido. O monge se move 3 metros mais rápido que um personagem normal (a velocidade de movimento normal é de 9 metros), mas apenas enquanto o monge não estiver sobrecarregado ou usando armadura. O monge ganha mais 3 metros de movimento a cada 3 níveis subsequentes.
 * 3º nível: Mente Tranquila. O monge ganha um bônus de +2 em testes de resistência contra magias e efeitos da escola de Encantamento.
 * 5º nível: Pureza Corporal. O monge ganha controle sobre o sistema imunológico do seu corpo. Ele ganha imunidade a todas as doenças.
@@ -952,7 +977,7 @@ Especial:
   Regeneração: O usuário regenera 1 ponto de vida por rodada
 Peso: 7,5 kg (15 lb).~
 @38256 = ~Escuridão
-(Ilusão)
+Darkness (Ilusão)
 Nível: Brd 2, Clr 2, Sor/Wiz 2
 Alcance: Visão do Conjurador
 Duração: 4 rodadas
@@ -962,7 +987,7 @@ Teste de Resistência: Fortitude nega
 
 Esta magia cria escuridão mágica na área de efeito. Criaturas sem visão no escuro devem realizar um teste de resistência de Fortitude com CD +3 ou serão efetivamente cegadas. Criaturas com visão no escuro não ficam cegas, mas mesmo elas têm uma capacidade limitada de enxergar através da escuridão mágica, recebendo uma penalidade de -4 no ataque em caso de falha na defesa. Criaturas com visão no escuro superior a 36 metros (por exemplo, drows, anões cinzentos ou gnomos das profundezas) recebem apenas uma penalidade de -2 no ataque. Demônios e criaturas imunes à cegueira não são afetados. ~
 @1001 = ~Desespero
-(Encantamento)
+Doom (Encantamento)
 Nível: Clr 1, Talos 1, Bardo 2
 Alcance: Visão do Conjurador
 Duração: 10 rodadas / nível
@@ -977,7 +1002,7 @@ Este feitiço causa uma sensação de destruição que toma conta do alvo. Durante a 
 @30070=~10 de dano resistido de arma não maligna e não caótica~
 @30071=~15 de dano resistido de arma não maligna e não caótica~
 @1031 = ~Névoa de Eldath
-(Conjuração) [Bom]
+Mist of Eldath (Conjuração) [Bom]
 Nível: Drd 7, Ilmater 8
 Alcance: Visão do Conjurador
 Duração: 1 rodada
@@ -987,7 +1012,7 @@ Teste de Resistência: Nenhum
 
 Esta magia cobre a área de efeito com uma névoa verde - qualquer criatura viva e não hostil dentro da névoa será curada de doença, veneno e 80 pontos de dano. Esta magia não pode ser conjurada por personagens malignos.~
 @1697 = ~Palavra de Poder: Cegar
-(Adivinhação)
+Power Word: Blind (Adivinhação)
 Nível: Brd 7, Fet/Mag 8, Tempus 7, Bane 8
 Alcance: Visão do Conjurador
 Duração: Especial
@@ -997,7 +1022,7 @@ Teste de Resistência: Nenhum
 
 Esta magia cega criaturas inimigas dentro da área de efeito. A duração da cegueira depende dos Dados de Vida da criatura. Criaturas com 9 Dados de Vida ou menos ficam cegas permanentemente, enquanto aquelas com 10 Dados de Vida ou mais ficam cegas por 3 rodadas. Uma criatura não pode ser afetada por esta magia mais de uma vez a cada 8 horas. Esta magia não tem efeito em criaturas surdas.~
 @38154 = ~Invocação Simples
-(Conjuração)
+Simple Summoning (Conjuração)
 Nível: Brd 2, Clr 2, Fet/Mag 1
 Alcance: Visão do Conjurador
 Duração: Instantânea
@@ -1007,7 +1032,7 @@ Teste de Resistência: Vontade nega
 
 Invocação Simples invoca o alvo da magia. O alvo é teletransportado instantaneamente para o lado do conjurador se falhar em um teste de Vontade. Ao contrário da maioria das outras magias de invocação, Invocação Simples não concede controle sobre a criatura. Esta magia pode ser usada para resgatar um aliado (por exemplo, se o aliado estiver paralisado e sendo atacado por inimigos) ou para transportar um inimigo para uma posição vulnerável. Aliados são afetados sem necessidade de teste de Vontade. Criaturas e objetos que fazem parte de uma estrutura (por exemplo, vigas de suporte) não são afetados. ~
 @1872 = ~Bênção
-(Conjuração)
+Bless (Conjuração)
 Nível: Clr 1, Pal 1, Tempus 1
 Alcance: Visão do Conjurador
 Duração: 10 rodadas / nível
@@ -1017,7 +1042,7 @@ Teste de Resistência: Nenhum
 
 Ao conjurar esta magia, o conjurador aumenta o bônus de ataque e os testes de resistência de criaturas aliadas na área de efeito em +1. Abençoar neutraliza e dissipa a Maldição Menor.~
 @1874 = ~Maldição Menor
-(Encantamento)
+Bane (Encantamento)
 Nível: Clr 1, Bane 1
 Alcance: Visão do Conjurador
 Duração: 10 rodadas / nível
@@ -1026,8 +1051,8 @@ Tempo de Conjuração: 2
 Teste de Resistência: Nenhum
 
 Maldição Menor é o inverso de Abençoar e reduz o bônus de ataque e os testes de resistência de criaturas inimigas na área de efeito em 1 enquanto durar a magia. Maldição Menor anula e dissipa Bênção.~
-@1898 = ~Porrete de Carvalho (Shillelagh)
-(Transmutação)
+@1898 = ~Porrete de Carvalho
+Shillelagh (Transmutação)
 Nível: Drd 1, Rgr 1
 Alcance: Conjurador
 Duração: 5 rodadas + 1 rodada/nível
@@ -1037,7 +1062,7 @@ Teste de Resistência: Nenhum
 
 Esta magia cria um porrete mágico (Shillelagh) que tem +1 de bônus de ataque e causa 1d10+1 de dano de contusão por golpe. Os bônus de encantamento, ataque e dano do Shillelagh aumentam para +2 no nível 6, +3 no nível 9, +4 no nível 12 e +5 no nível 15. O Shillelagh também ganha o bônus de Sabedoria do personagem para ataque e dano em vez de Força se sua Sabedoria for maior. O Shillelagh usa a Arma Simples: Proficiência em Maça. ~
 @32107 = ~Proteção contra o Mal
-(Abjuração) [Bom]
+Protection from Evil (Abjuração) [Bom]
 Nível: Clr 1, Pal 1, Fet/Mag 1
 Alcance: Toque
 Duração: 10 rodadas / nível
@@ -1047,7 +1072,7 @@ Teste de Resistência: Nenhum
 
 Esta magia forma uma barreira mágica ao redor da criatura alvo, concedendo um bônus genérico de +2 na CA e em testes de resistência contra ataques, magias e habilidades de criaturas malignas. Além disso, a criatura é imune a efeitos de encantamento e dominação. Demônios invocados não atacarão seu invocador ou os aliados dele se o invocador tiver Proteção contra o Mal. ~
 @32408 = ~Círculo Mágico Contra o Mal
-(Abjuração) [Bom]
+Magic Circle Against Evil (Abjuração) [Bom]
 Nível: Clr 4, Pal 4, Sor/Wiz 4, Ilmater 3
 Alcance: Conjurador
 Duração: 10 rodadas / nível
@@ -1057,7 +1082,7 @@ Teste de Resistência: Nenhum
 
 Quando esta magia é conjurada, todas as criaturas em um raio de 3 metros (10 pés) são afetadas individualmente por Proteção contra o Mal, concedendo-lhes +2 de CA e +2 em Testes de Resistência contra criaturas malignas, além de imunidade a efeitos de encantamento e dominação dessas criaturas. ~
 @32523 = ~Carga Estática
-(Transmutação)
+Static Charge (Transmutação)
 Nível: Drd 5, Rgr 6, Talos 4
 Duração: 50 rodadas
 Tempo de Conjuração: 1 rodada
@@ -1066,7 +1091,7 @@ Teste de Resistência: Reflexo metade
 
 Carga Estática é semelhante a Convocar Relâmpago, exceto que pode ser usada em ambientes internos. Ao completar esta magia, uma criatura inimiga dentro da área de efeito é frita por uma descarga estática, causando 1d8 de dano elétrico por nível do conjurador, até um máximo de 16d8 de dano elétrico. Um teste de Reflexos bem-sucedido com +4 de CD reduz o dano pela metade. Uma vez liberada, a carga estática se acumulará novamente no conjurador, descarregando-se uma vez a cada 5 rodadas durante a duração do feitiço. ~
 @32704 = ~Destruição Rastejante
-(Conjuração)
+Creeping Doom (Conjuração)
 Nível: Drd 7
 Alcance: Visão do Conjurador
 Duração: 1 rodada / nível
@@ -1076,7 +1101,7 @@ Teste de Resistência: Nenhum
 
 Destruição Rastejante invoca uma horda de insetos composta por vários pequenos besouros, aranhas e outras criaturas. O enxame é capaz de causar dano devastador em um curto período de tempo, mas é frágil e facilmente morto. ~
 @1063 = ~Santidade Impermeável da Mente
-(Abjuração)
+Impervious Sanctity of Mind (Abjuração)
 Nível: Clr 7, Ilmater 7, Helm 7
 Alcance: Visão do Conjurador
 Duração: 10 rodadas/nível
@@ -1086,7 +1111,7 @@ Teste de Resistência: Nenhum
 
 Esta magia fortalece a mente do alvo contra qualquer influência externa. Encantamento, Comando, Confusão, Dominar Pessoa, Medo, Imbecilidade, Contenção, Sono, Atordoamento, Desesperança e qualquer ataque psiônico direcionado ao alvo falharão enquanto esta magia estiver em efeito. ~
 @34101 = ~Graxa
-(Conjuração)
+Grease (Conjuração)
 Nível: Brd 1, Sor/Wiz 1
 Alcance: Visão do Conjurador
 Duração: 10 rodadas
@@ -1096,7 +1121,7 @@ Teste de Resistência: Reflexo metade
 
 A magia Graxa cobre o chão com uma camada escorregadia de natureza gordurosa e oleosa. Qualquer criatura que entrar na área ou for pega nela quando a magia for conjurada deve fazer um teste de Reflexos a cada rodada ou terá sua taxa de movimento reduzida a um engatinhar enquanto estiver na área de efeito. Aqueles que conseguem salvar a si mesmos ainda se movem com metade da velocidade normal enquanto estão na área coberta pela graxa. ~
 @34206 = ~Invisibilidade
-(Ilusão)
+Invisibility (Ilusão)
 Nível: Brd 2, Rgr 2, Sor/Wiz 2
 Alcance: Toque
 Duração: 10 rodadas / nível
@@ -1106,7 +1131,7 @@ Teste de Resistência: Nenhum
 
 Esta magia torna uma criatura invisível e a torna indetectável pela visão normal ou no escuro. A magia permanece em efeito até que a duração expire, seja magicamente quebrada ou dissipada, ou até que o receptor fale ou ataque qualquer criatura. Assim, o ser invisível pode abrir portas, comer, subir escadas, etc., mas se atacar ou conjurar uma magia, torna-se imediatamente visível (embora a invisibilidade o habilite a atacar primeiro). ~
 @1750 = ~Névoa Fétida
-(Necromancia)
+Stinking Cloud (Necromancia)
 Nível Fet/Mag 3
 Alcance: Médio
 Duração: 10 rodadas
@@ -1116,7 +1141,7 @@ Teste de Resistência: Fortitude nega
 
 A Névoa Fétida cria uma massa ondulante de vapores nocivos a até 9 metros de distância do mago. Qualquer criatura viva capturada dentro da nuvem deve fazer um teste de Fortitude bem-sucedido com -2 CD ou ficará nauseada, tornando-a incapaz de atacar, conjurar magias, concentrar-se em magias e assim por diante. Esses efeitos duram enquanto o personagem permanecer na nuvem. ~
 @34311 = ~Proteção contra Flechas
-(Abjuração)
+Protection from Arrows (Abjuração)
 Nível: Fet/Mag 2, Helm 3
 Alcance: Toque
 Duração: 10 rodadas / nível
@@ -1126,7 +1151,7 @@ Teste de Resistência: Nenhum
 
 Esta magia concede ao alvo uma redução de dano de 10/+1 contra projéteis enquanto durar a magia. A redução de dano aumenta com o nível do conjurador para 10/+2 no 5º nível, 10/+3 no 10º, 10/+4 no 15º e 10/+5 no 20º. ~
 @34321 = ~Esfera de Invisibilidade
-(Ilusão)
+Invisibility Sphere (Ilusão)
 Nível: Brd 3, Fet/Mag 3, Mask 3
 Alcance: Conjurador
 Duração: 10 rodadas / nível
@@ -1136,7 +1161,7 @@ Teste de Resistência: Nenhum
 
 Esta magia faz com que todas as criaturas a até 3 metros do conjurador desapareçam de vista e se tornem indetectáveis pela visão normal ou mesmo pela visão no escuro. É claro que a criatura invisível não é silenciada magicamente, e certas outras condições podem torná-la detectável. Mesmo aliados não podem ver a criatura invisível ou seu equipamento, a menos que esses aliados normalmente consigam ver coisas invisíveis ou usem magia para isso. Itens derrubados ou deixados pela criatura invisível tornam-se visíveis, e itens pegos desaparecem se guardados nas roupas ou bolsas usadas pela criatura. O feitiço permanece em vigor até ser magicamente quebrado ou dissipado, até que o mago ou o destinatário o cancele, até que o destinatário ataque qualquer criatura ou até que a duração expire. Assim, o ser invisível pode abrir portas, falar, comer, subir escadas, etc., mas se atacar, torna-se imediatamente visível, embora a invisibilidade o permita atacar primeiro. ~
 @38455 = ~Metamorfose Pessoal
-(Transmutação)
+Polymorph Self (Transmutação)
 Nível: Fet/Mag 4
 Alcance: Conjurador
 Duração: 10 rodadas / nível
@@ -1151,7 +1176,7 @@ Metamorfose Pessoal permite que o conjurador assuma a forma de uma criatura de p
 * Umber Hulk (inimigos próximos devem fazer um teste de Vontade a cada rodada ou ficarão confusos)
 * Wyvern (pode voar e cada acerto envenena o alvo em caso de falha no teste de Fortitude) ~
 @38955 = ~ Névoa Corrosiva de Malavon
-(Conjuração)
+Malavon's Corrosive Fog (Conjuração)
 Nível: Fet/Mag 9
 Alcance: Visão do Conjurador
 Duração: 20 rodadas
@@ -1300,7 +1325,7 @@ Benefício: Você recebe 5% de desconto na compra de itens e 10% de acréscimo na v
 @24037=~Raio de Eletricidade~
 @24038=~Raio de Petrificação~
 @1121 = ~Carne para Pedra
-(Transmutação)
+Flesh to Stone (Transmutação)
 Nível: Fet/Mag 6
 Alcance: Visão do Conjurador
 Duração: Permanente
@@ -1310,7 +1335,7 @@ Teste de Resistência: Fortitude nega
 
 Esta magia transforma uma criatura viva em pedra em caso de falha em um teste de Fortitude. Os efeitos desta magia podem ser revertidos com a magia de mago de 6º nível, Pedra em Carne. Esta magia não tem efeito sobre mortos-vivos. ~
 @38457 = ~Conjuração do Caos
-(Universal)
+Chaos Cast (Universal)
 Nível: Fet/Mag 4
 Alcance: Visão do Conjurador
 Duração: Especial
@@ -1324,7 +1349,7 @@ A principal vantagem de Conjuração do Caos é que a magia aleatória será de nível
 @30365=~Protegido por Absorção Elemental~
 @35958 = ~Absorção Elemental~
 @36958 = ~Absorção Elemental
-(Abjuração)
+Elemental Absorption (Abjuração)
 Nível: Drd 9
 Alcance: Toque
 Duração: 12 rodadas
@@ -1335,7 +1360,7 @@ Teste de Resistência: Nenhum
 Esta magia permite que o receptor absorva ataques elementais, curando-se em vez de receber dano. Durante a duração, se o alvo sofrer dano de fogo, frio, elétrico ou ácido, ele cura Pontos de Vida equivalentes ao dano que teria sofrido. ~
 @37866 = ~Clone~
 @38866 = ~Clone
-(Necromancia)
+Clone (Necromancia)
 Nível: Fet/Mag 8
 Alcance: Visão do Conjurador
 Duração: Permanente até ser usado
@@ -1400,15 +1425,25 @@ Pontos de vida por nível: 1-12
 
 Vantagens:
 * Proficiente com todas as armas simples e marciais, armaduras leves, armaduras médias e escudos.
-* Fúria Bárbara: Pode entrar em fúria uma vez por dia a cada 4 níveis (começa no 1º nível com um uso). A Fúria concede +4 em Força e Constituição (que se acumulam com outros bônus de Força e Constituição), além de -2 de penalidade na CA, +2 em testes de Vontade e imunidade a medo, atordoamento, sono, encantamento, dominação, confusão, inconsciência, paralisia, imbecilidade e desesperança. A fúria dura um número de rodadas igual a 3 mais o bônus de Constituição (recentemente aprimorado) do bárbaro. Após entrar em fúria, o bárbaro ficará fatigado por três rodadas, concedendo -2 de penalidade em Força e Destreza.
-* Movimento Rápido: Bárbaros podem se mover 3 metros mais rápido que um personagem padrão, desde que não estejam sobrecarregados ou usando armadura pesada.
-* 2º nível: Redução de Dano. O bárbaro ganha 1/- ponto de resistência a danos cortantes, perfurantes e contundentes. Ele ou ela ganha 1/- ponto adicional de resistência nos níveis 5, 8, 11 e a cada 3 níveis subsequentes. Se o bárbaro usar armadura média, a redução de dano concedida por esta habilidade é dobrada.
-* 2º nível: Esquiva Sobrenatural. Bárbaros mantêm seu bônus de Destreza na Classe de Armadura se forem atacados por inimigos invisíveis.
-* 5º nível: Esquiva Sobrenatural Aprimorada. Bárbaros não podem sofrer Ataques Furtivos de ladinos, a menos que o atacante seja pelo menos quatro níveis superior ao bárbaro.
-* 15º nível: Fúria Maior. Todas as fúrias do bárbaro se tornam fúrias maiores, o que aumenta os bônus de força e constituição para +6 e o bônus de teste de resistência para +3. Ele ou ela ainda recebe a penalidade de -2 na CA.
-* 20º nível: Fúria Incansável. O bárbaro não fica mais fatigado após uma fúria.
-* 21º nível: Fúria Poderosa. A habilidade de fúria do bárbaro agora concede +8 em Força e Constituição e +4 em testes de Vontade.
+
+* Fúria Bárbara (Barbarian Rage): Pode entrar em fúria uma vez por dia a cada 4 níveis (começa no 1º nível com um uso). A Fúria concede +4 em Força e Constituição (que se acumulam com outros bônus de Força e Constituição), além de -2 de penalidade na CA, +2 em testes de Vontade e imunidade a medo, atordoamento, sono, encantamento, dominação, confusão, inconsciência, paralisia, imbecilidade e desesperança. A fúria dura um número de rodadas igual a 3 mais o bônus de Constituição (recentemente aprimorado) do bárbaro. Após entrar em fúria, o bárbaro ficará fatigado por três rodadas, concedendo -2 de penalidade em Força e Destreza.
+
+* Movimento Rápido (Fast Movement): Bárbaros podem se mover 3 metros mais rápido que um personagem padrão, desde que não estejam sobrecarregados ou usando armadura pesada.
+
+* 2º nível: Redução de Dano (Damage Reduction): O bárbaro ganha 1/- ponto de resistência a danos cortantes, perfurantes e contundentes. Ele ou ela ganha 1/- ponto adicional de resistência nos níveis 5, 8, 11 e a cada 3 níveis subsequentes. Se o bárbaro usar armadura média, a redução de dano concedida por esta habilidade é dobrada.
+
+* 2º nível: Esquiva Sobrenatural (Uncanny Dodge): Bárbaros mantêm seu bônus de Destreza na Classe de Armadura se forem atacados por inimigos invisíveis.
+
+* 5º nível: Esquiva Sobrenatural Aprimorada (Improved Uncanny Dodge): Bárbaros não podem sofrer Ataques Furtivos de ladinos, a menos que o atacante seja pelo menos quatro níveis superior ao bárbaro.
+
+* 15º nível: Fúria Maior (Greater Rage): Todas as fúrias do bárbaro se tornam fúrias maiores, o que aumenta os bônus de força e constituição para +6 e o bônus de teste de resistência para +3. Ele ou ela ainda recebe a penalidade de -2 na CA.
+
+* 20º nível: Fúria Incansável (Tireless Rage): O bárbaro não fica mais fatigado após uma fúria.
+
+* 21º nível: Fúria Poderosa (Mighty Rage): A habilidade de fúria do bárbaro agora concede +8 em Força e Constituição e +4 em testes de Vontade.
+
 * 25º nível: A fúria do bárbaro agora concede +10 em Força e Constituição e +5 em testes de Vontade.
+
 * 29º nível: A fúria do bárbaro agora concede +12 em Força e Constituição e +6 em testes de Vontade.
 
 Desvantagens:
@@ -1457,7 +1492,7 @@ Magias de Domínio:
 9: Olhos do Carrasco, Onivisão em Massa~
 @55494=~Falha na magia: Esta magia não pode ser conjurada enquanto o tempo estiver parado.~
 @38959 = ~Parar o Tempo
-(Transmutação)
+Time Stop (Transmutação)
 Nível: Fet/Mag 9
 Alcance: Conjurador
 Duração: 3 rodadas
@@ -1719,7 +1754,7 @@ Penalidade de Armadura Genérica: -4
 Peso: 5 kg (10 lb).~
 @35156 = ~Escudo de Entropia Menor~
 @36156 = ~Escudo de Entropia Menor
-(Abjuração)
+Lesser Entropy Shield (Abjuração)
 Nível: Nível 1
 Alcance: Conjurador
 Duração: 10 rodadas/nível
@@ -1730,7 +1765,7 @@ Teste de Resistência: Nenhum
 Uma versão mais fraca da magia Divine Shell de 6º nível, esta magia cria um campo mágico ao redor do conjurador que tem 20% de chance de desviar ataques de mísseis direcionados a ele. Isso inclui não apenas ataques com armas de longo alcance, mas também certas magias, incluindo Orbe Cromática, Míssil Mágico, Flecha Ácida de Melf, Flecha de Chamas, Lança de Alicórnio, Lança de Gelo, Lança da Ruptura, Mísseis de Força de Mordenkainen, Esfera Vitriólica, Esfera Gélida de Otiluke e Orbe Ardente de Sol. ~
 @37867 = ~Parede Prismática~
 @38867 = ~Parede Prismática
-(Abjuração)
+Prismatic Wall (Abjuração)
 Nível: Mago/Mago 8
 Alcance: 1,5 m
 Duração: 10 rodadas
@@ -2007,24 +2042,42 @@ Pontos de Vida por Nível: 1-8
 
 Vantagens:
 * Proficiente com todas as armas simples, exceto a besta, as armas marciais espada grande e arma de haste, além de armaduras leves, armaduras médias e escudos.
+
 * Druidas podem conjurar poderosas magias ofensivas e de cura.
+
 * Conjuração Espontânea: Druidas podem converter suas magias em magias de Invocação de Aliado da Natureza do mesmo nível quando um jogador pressiona Shift e clica em uma magia no momento da conjuração. A magia clicada é imediatamente removida da lista memorizada do personagem e conjurada como a magia de Invocação de Aliado da Natureza mais próxima do mesmo nível.
-* 2º nível: Passo da Floresta. O druida se torna imune a Emaranhar, Teia e Crescer Espinho.
-* No 5º nível, os Druidas começam a ganhar habilidades de Forma Selvagem, que os permitem se transformar em animais, feras mágicas, elementais e outras formas. Em níveis mais altos, os Druidas ganham opções adicionais para formas e podem usar a Forma Selvagem mais vezes por dia.
-* 5º nível: Forma Selvagem: Lobo do Inverno. O druida ganha a habilidade de se transformar em um lobo do inverno. Enquanto estiver na forma de lobo do inverno, o Druida é imune ao frio e pode atacar uma vez por rodada com o hálito de gelo do lobo do inverno, que causa 4d4 de dano de frio (Reflexos CD 10 para metade). A cada 5 níveis subsequentes, o dano do hálito aumenta em 2d4 e a CD de resistência aumenta em 5.
+
+* 2º nível: Passo da Floresta (Woodland Stride): O druida se torna imune a Emaranhar, Teia e Crescer Espinho.
+
+* No 5º nível, os Druidas começam a ganhar habilidades de Forma Selvagem (Wild Shape), que os permitem se transformar em animais, feras mágicas, elementais e outras formas. Em níveis mais altos, os Druidas ganham opções adicionais para formas e podem usar a Forma Selvagem mais vezes por dia.
+
+* 5º nível: Forma Selvagem: Lobo do Inverno (Wild Shape): O druida ganha a habilidade de se transformar em um lobo do inverno. Enquanto estiver na forma de lobo do inverno, o Druida é imune ao frio e pode atacar uma vez por rodada com o hálito de gelo do lobo do inverno, que causa 4d4 de dano de frio (Reflexos CD 10 para metade). A cada 5 níveis subsequentes, o dano do hálito aumenta em 2d4 e a CD de resistência aumenta em 5.
+
 * 5º nível: O Druida tem nível alto o suficiente para escolher dois talentos especiais: Forma Selvagem: Cão Teleportador e Forma Selvagem: Destruição Rastejante.
+
 * 7º nível: Forma Selvagem: Urso Polar. Enquanto estiver na forma de urso polar, o Druida ganha um ataque adicional por rodada em comparação à sua forma natural. A cada 3 níveis subsequentes, a forma de urso polar ganha +1 em Força, Destreza e Constituição, e seu dano de ataque aumenta.
+
 * 8º nível: O Druida tem nível alto o suficiente para escolher outro talento especial: Forma Selvagem: Besouro Rinoceronte.
+
 * 9º nível: Forma Selvagem: Víbora Gigante. Enquanto estiver na forma de víbora gigante, os ataques do Druida envenenam o alvo, causando 2 de dano por segundo durante 6 segundos (Fortitude CD 15). A cada 3 níveis subsequentes, a forma de víbora gigante ganha +1 em Força, Destreza e Constituição, +1 na CA, e a CD de resistência contra seu veneno aumenta em 3.
+
 * 9º nível: Imunidade a Veneno. O druida se torna imune a todas as formas de veneno.
+
 * 11º nível: Forma Elemental: Salamandra. Enquanto estiver na forma de salamandra, o Druida é imune ao fogo, fraco ao frio e irradia uma aura de calor extremo que causa 2d6 de dano de fogo a criaturas próximas por rodada. A cada 5 níveis subsequentes, o dano da aura de fogo da forma salamandra aumenta em 1d6.
+
 * 11º nível: Forma Elemental: Salamandra de Gelo. Enquanto estiver na forma salamandra de gelo, o Druida é imune ao frio, fraco ao fogo e irradia uma aura de frio extremo que causa 2d6 de dano de frio a criaturas próximas por rodada. A cada 5 níveis subsequentes, o dano da aura de frio da forma salamandra de gelo aumenta em 1d6.
+
 * 13º nível: Forma Selvagem: Arbusto Errante. Enquanto estiver na forma monte cambaleante, o Druida é imune à eletricidade, resistente a dano contundente e tem 50% de chance a cada ataque de engolfar o alvo (Fortitude CD 17), imobilizando-o, cegando-o e causando 3d4 de dano extra na próxima rodada. A cada 3 níveis subsequentes, a forma trôpega ganha +1 de Força, +2 de Constituição, a chance de engolfar é aumentada em 10% e a CD de resistência contra ela é aumentada em 3.
+
 * 15º nível: Forma Elemental: Elemental de Fogo. Enquanto estiver na forma elemental de fogo, o Druida é imune a fogo, fraco a frio e tem redução de dano de 5/+1. Ele tem um ataque a menos por rodada em comparação com a forma natural do Druida, mas causa alto dano por acerto. A cada 5 níveis subsequentes, a forma elemental de fogo ganha +2 de Força, +1 de Destreza, +2 de Constituição, seu dano de ataque aumenta e sua redução de dano aumenta (para 10/+2, depois 15/+3 e depois 20/+4).
+
 * 15º nível: Forma Elemental: Elemental de Terra. Enquanto estiver na forma elemental de terra, o Druida tem resistência a dano físico de 5/-, bem como redução de dano de 5/+1. Possui um ataque a menos por rodada em comparação com a forma natural do Druida, mas causa alto dano por acerto. Além disso, sempre que o Druida estiver acima de um piso de pedra, ele pode se enterrar no chão para evitar ataques, subindo para atacar ou lançar um feitiço. A cada 5 níveis subsequentes, a forma elemental da terra ganha +2 de Força, +1 de Destreza, +2 de Constituição, seu dano de ataque aumenta e sua redução de dano aumenta (para 10/+2, depois 15/+3 e depois 20/+4).
+
 * 15º nível: Forma Elemental: Elemental da Água. Enquanto estiver na forma elemental da água, o Druida é imune a fogo e ácido, fraco à eletricidade e tem redução de dano de 5/+1. Possui um ataque a menos por rodada em comparação com a forma natural do Druida, mas causa alto dano por acerto. A cada 5 níveis subsequentes, a forma elemental da água ganha +2 de Força, +1 de Destreza, +2 de Constituição, seu dano de ataque aumenta e sua redução de dano aumenta (para 10/+2, depois 15/+3 e depois 20/+4).
+
 * 15º nível: Forma Elemental: Elemental do Ar. Enquanto estiver na forma elemental do ar, o Druida é resistente à eletricidade e tem redução de dano de 5/+1. Ele causa menos dano do que as outras formas elementais, mas tem CA e Destreza altas. A cada 5 níveis subsequentes, a forma elemental do ar ganha +2 de Força, +2 de Destreza, +1 de Constituição, seu dano de ataque aumenta e sua redução de dano aumenta (para 10/+2, depois 15/+3 e depois 20/+4).
-* 40º nível: Forma de Dragão: Dragão Negro. O Druida ganha a habilidade de se transformar em um dragão negro adulto. Enquanto estiver na forma de dragão negro, o Druida é imune a ácido e tem CA extremamente alta. O Druida atacará apenas duas vezes por rodada, mas causará dano enorme por acerto a longa distância.
+
+* 40º nível: Forma de Dragão: Dragão Negro: O Druida ganha a habilidade de se transformar em um dragão negro adulto. Enquanto estiver na forma de dragão negro, o Druida é imune a ácido e tem CA extremamente alta. O Druida atacará apenas duas vezes por rodada, mas causará dano enorme por acerto a longa distância.
 
 Desvantagens:
 * Druidas não têm acesso a muitas magias defensivas poderosas.
@@ -2073,7 +2126,7 @@ Tipo: Uma Mão~
 @19915 = ~Talvez em outra ocasião. Até logo.~
 @19916 = ~Tudo pronto. Aqui está a armadura. Use-a bem, amigo.~
 @1834 = ~Queimadura Solar
-(Evocação)
+Sunscorch (Evocação)
 Nível: Drd 1, Rgr 1, Lathander 1, Selune 1
 Alcance: Visão do Conjurador
 Duração: Instantânea
@@ -2083,7 +2136,7 @@ Teste de Resistência: Reflexos reduz o dano à metade
 
 Ao concluir esta magia, um raio brilhante de calor escaldante desce do céu e queima a criatura alvo, causando 1d6 + 1 de dano de fogo por nível do conjurador (até um máximo de 1d6 + 15). Mortos-vivos, fungos, gosmas e drows e anões cinzentos sofrem 1d6 + 2 de dano de fogo por nível do conjurador (até um máximo de 1d6 + 30). As vítimas devem ser bem-sucedidas em um teste de Reflexos ou ficarão cegas por 3 rodadas. Drows e anões cinzentos ficam cegos pelo efeito da magia por 3 rodadas (sem direito a teste de resistência). Esta magia ignora a resistência a magia de criaturas como drows, que são vulneráveis ??a ela.~
 @32204 = ~Enfeitiçar Pessoa ou Animal
-(Encantamento)
+Charm Person or Animal (Encantamento)
 Nível: Drd 2
 Alcance: Visão do Conjurador
 Duração: 4 rodadas + 1 rodada/nível
@@ -2094,7 +2147,7 @@ Teste de Resistência: Vontade anula
 Esta magia afeta qualquer pessoa ou animal sobre o qual for conjurada. O termo "pessoa" inclui qualquer humano bípede, semi-humano ou humanoide de tamanho humano ou menor, como anões, elfos, gnolls, gnomos, goblins, meio-elfos, halflings, meio-orcs, hobgoblins, humanos, homens-lagarto, orcs, trogloditas e outros.
 Portanto, um guerreiro de 10º nível poderia ser encantado, mas um ogro não. Se o teste de resistência falhar, a vítima considera o conjurador um amigo e aliado de confiança, a quem deve obedecer e proteger. O conjurador pode dar ordens a ele, e o indivíduo enfeitiçado as cumprirá sem questionar. As criaturas se lembram de tudo enquanto enfeitiçadas e, portanto, geralmente se tornam hostis ao conjurador após o término do efeito da magia. A Resistência à Magia do alvo, se houver, não afeta esta magia.~
 @1043 = ~Tempestade de Chuva
-(Evocação)
+Rainstorm (Evocação)
 Nível: Drd 2
 Alcance: Visão do Conjurador
 Duração: 2 rodadas
@@ -2104,7 +2157,7 @@ Teste de Resistência: Reflexos reduz à metade
 
 Esta magia, que só pode ser conjurada ao ar livre, invoca uma chuva mágica que satura a área de efeito. A chuva concede resistência 5/- a fogo, mas uma fraqueza de -5 a dano de frio e eletricidade, e causa 8d6 pontos de dano de frio a criaturas do elemento Fogo. Além disso, todas as criaturas na área de efeito são atingidas por raios que causam 2d6 de dano elétrico, com um teste de Reflexos para reduzir o dano à metade. Magias como Lâmina Flamejante, Manto de Chamas e auras de salamandra também são extintas. ~
 @1011 = ~Círculo de Ossos
-(Necromancia)
+Circle of Bones (Necromancia)
 Nível: Clr 3
 Alcance: Conjurador
 Duração: 3 rodadas
@@ -2114,7 +2167,7 @@ Teste de Resistência: Nenhum
 
 Esta magia conjura uma barreira de ossos flutuantes que giram rapidamente ao redor do conjurador. Qualquer um que entrar em seu caminho sofre 2d6 de dano de impacto e 2d6 de dano cortante por rodada, ignorando resistência a magia. Esta magia não provoca ataques de oportunidade. Círculo de Ossos não pode estar ativo ao mesmo tempo que Círculo de Lâminas, pois os ossos e as lâminas interferem um no outro. ~
 @32405 = ~Dominação Mental
-(Encantamento)
+Mental Domination (Encantamento)
 Nível: Clr 4
 Alcance: Visão do Conjurador
 Duração: 1 rodada/nível
@@ -2124,7 +2177,7 @@ Teste de Resistência: Vontade anula
 
 Esta magia permite ao conjurador invadir a mente da criatura alvo, permitindo que o conjurador a obrigue a realizar quaisquer ações que desejar. A criatura alvo resistirá aos efeitos se obtiver sucesso em um teste de Vontade com CD +2. Enquanto uma criatura estiver dominada dessa maneira, sua mente fica confusa e o pensamento é prejudicado - conjurar magias é impossível e os bônus de ataque são feitos com uma penalidade de -2. Esta magia ignora resistência a magia.~
 @1021 = ~Onda Esmagadora
-(Evocação)
+Smashing Wave (Evocação)
 Nível: Drd 5, Rgr 5
 Alcance: 12 metros
 Duração: Instantânea
@@ -2134,8 +2187,8 @@ Teste de Resistência: Reflexos reduz o dano à metade
 
 Esta magia invoca uma onda de água que se move na direção desejada pelo conjurador, atingindo tudo em seu caminho com força massiva. A onda causa 1d8 de dano esmagador por nível do conjurador (máximo de 15d8), e toda criatura atingida pela onda deve fazer um teste de Reflexos ou será empurrada para trás e derrubada por 1 rodada. Criaturas de Fogo Elemental são extremamente vulneráveis a esta magia, sofrendo o dobro do dano. Esta magia ignora resistência a magia.~
 @1023 = ~Círculo de Lâminas
-(Evocação)
-Nível: Clr 6, Pal 5, Elmo 6, Tempus 6
+Circle of Blades (Evocação)
+Nível: Clr 6, Pal 5, Helm 6, Tempus 6
 Alcance: Conjurador
 Duração: 2 rodadas
 Tempo de Conjuração: 9
@@ -2144,8 +2197,8 @@ Teste de Resistência: Reflexos reduz o dano à metade
 
 Esta magia conjura uma parede de lâminas afiadas que giram e brilham ao redor do conjurador. Qualquer criatura que tente atravessar a barreira de lâminas sofre 10d8 pontos de dano, ignorando resistência a magia, com um teste de Reflexos bem-sucedido para reduzir o dano à metade. Esta magia não provoca ataques de oportunidade. Círculo de Lâminas não pode estar ativo ao mesmo tempo que Círculo de Ossos, pois os ossos e as lâminas interferem um no outro.~
 @32608 = ~Orbe Ardente de Sol
-(Evocação)
-Nível: Clérigo 6, Druida 5, Ladrão 5
+Sol's Searing Orb (Evocação)
+Nível: Clr 6, Drd 5, Rgr 5
 Alcance: Visão do Conjurador
 Duração: Instantânea
 Tempo de Conjuração: 6
@@ -2154,7 +2207,7 @@ Teste de Resistência: Reflexos reduz à metade
 
 Ao concluir esta magia, o conjurador lança uma esfera brilhante e flamejante em uma criatura alvo. Quando atinge o alvo, explode em um clarão de luz, cegando a criatura e causando 9d12 pontos de dano de fogo. Um teste de Reflexos bem-sucedido evita a cegueira e reduz o dano à metade. Drows e anões cinzentos devem fazer um teste de Reflexos contra cegueira com CD +4. Criaturas mortas-vivas são particularmente vulneráveis a esta magia e sofrem o dobro do dano. Esta magia ignora a resistência a magia de criaturas como drows, que são vulneráveis a ela. ~
 @1592 = ~Raio de Sol
-(Evocação)
+Sunbeam (Evocação)
 Nível: Drd 8, Lathander 7
 Alcance: Visão do Conjurador
 Duração: 4 rodadas
@@ -2164,8 +2217,8 @@ Teste de Resistência: Reflexos parcial
 
 Esta magia permite ao conjurador evocar feixes deslumbrantes de luz intensamente quente. A cada rodada, todas as criaturas no raio ficam cegas por 3 rodadas e sofrem 4d6 pontos de dano de fogo, ou 16d6 de dano ao longo de 4 rodadas. Um teste de Reflexos bem-sucedido anula a cegueira e reduz o dano pela metade. Drows e anões cinzentos sofrem 8d6 de dano por rodada e não têm direito a teste de resistência contra a cegueira. Criaturas mortas-vivas, fungos e gosmas atingidos pelo raio sofrem 1d6 pontos de dano por nível do conjurador (máximo de 20d6) por rodada. Esta magia ignora a resistência a magia de criaturas como drows, que são vulneráveis ??a ela.~
 @34104 = ~Enfeitiçar Pessoa
-(Encantamento)
-Nível: Bardo 1, Feiticeiro/Mago 1
+Charm Person (Encantamento)
+Nível: Brd 1, Fet/Mag 1
 Alcance: Visão do Conjurador
 Duração: 5 rodadas
 Tempo de Conjuração: 1
@@ -2175,8 +2228,8 @@ Teste de Resistência: Vontade anula
 Esta magia afeta qualquer pessoa sobre a qual for conjurada. O termo "pessoa" inclui qualquer humano bípede, semi-humano ou humanoide de tamanho igual ou menor que um homem, como brownies, dríades, anões, elfos, gnolls, gnomos, goblins, meio-elfos, halflings, meio-orcs, hobgoblins, humanos, kobolds, homens-lagarto, ninfas, orcs, fadas, sprites, trogloditas e outros. Assim, um guerreiro de 10º nível poderia ser enfeitiçado, mas um ogro não. A pessoa recebe um teste de Vontade para evitar o efeito. Se o alvo da magia falhar no teste de resistência, ele considera o conjurador um amigo e aliado de confiança a ser ouvido e protegido. O conjurador pode dar ordens a ele, e o indivíduo enfeitiçado as cumprirá o mais rápido possível.
 Se o conjurador ferir, ou tentar ferir, a pessoa enfeitiçada por alguma ação explícita, ou se uma magia de dissipar magia for lançada com sucesso sobre a pessoa enfeitiçada, a magia de encantamento é quebrada. Se dois ou mais efeitos de encantamento afetarem simultaneamente uma criatura, o encantamento mais recente prevalece. Observe que o alvo tem memória completa dos eventos que ocorreram enquanto estava enfeitiçado. Observe também que você não pode fazer com que uma criatura enfeitiçada saia da área onde foi enfeitiçada. A Resistência à Magia do alvo, se houver, não afeta esta magia.~
 @1681 = ~Leque Cromático
-(Ilusão)
-Nível: Bardo 1, Feiticeiro/Mago 1
+Color Spray (Ilusão)
+Nível: Brd 1, Fet/Mag 1
 Alcance: Conjurador
 Duração: Instantânea
 Tempo de Conjuração: 1
@@ -2191,7 +2244,7 @@ Até 2: Inconsciente por 5 rodadas
 
 Um teste de Vontade bem-sucedido anula o efeito. Criaturas cegas não são afetadas por Leque Cromático. Esta magia não provoca ataques de oportunidade.~
 @34316 = ~Encanto Macabro
-(Encantamento)
+Dire Charm (Encantamento)
 Nível: Brd 2, Fet/Mag 3, Bane 3
 Alcance: Visão do Conjurador
 Duração: 8 rodadas
@@ -2201,8 +2254,8 @@ Teste de Resistência: Vontade anula
 
 Esta magia é semelhante à magia Enfeitiçar Pessoa. No entanto, a criatura afetada entra em um estado de fúria, não querendo que ninguém machuque seu mestre (o conjurador). Assim, a criatura lutará contra os inimigos do conjurador, até mesmo antigos aliados. Encanto Macabro pode afetar tanto humanoides quanto gigantes. Esta magia ignora resistência a magia.~
 @1091 = ~Lança da Ruptura
-(Evocação)
-Nível: Feiticeiro/Mago 3
+Lance of Disruption (Evocação)
+Nível: Fet/Mag 3
 Alcance: 18 metros
 Duração: Instantânea
 Tempo de Conjuração: 3
@@ -2211,8 +2264,8 @@ Teste de Resistência: Reflexos reduz o dano à metade
 
 Esta magia cria uma lança de força, que se estende do conjurador até um ponto especificado a 18 metros de distância. Quaisquer criaturas no caminho da lança sofrem 5d4 pontos de dano perfurante, +2 pontos de dano por nível do conjurador (máximo de +50). As vítimas podem fazer um teste de Reflexos para reduzir o dano à metade. Esta magia ignora resistência a magia.~
 @1679 = ~Esfera Resiliente de Otiluke
-(Evocação)
-Nível: Feiticeiro/Mago 4
+Otiluke's Resilient Sphere (Evocação)
+Nível: Fet/Mag 4
 Alcance: Visão do Conjurador
 Duração: 4 rodadas
 Tempo de Conjuração: 1
@@ -2221,8 +2274,8 @@ Teste de Resistência: Reflexos anula
 
 Quando esta magia é conjurada, o resultado é um globo de força cintilante que envolve a criatura alvo. A esfera resiliente conterá seu alvo durante a duração da magia. Uma criatura não aliada pode fazer um teste de Reflexos com CD +8 para se esquivar da magia. A esfera é completamente imune a todos os danos; o único método de remover a esfera é usando a magia Dissipar Magia. Portanto, a criatura presa dentro do globo está completamente segura de todos os ataques, mas ao mesmo tempo é completamente incapaz de afetar o mundo exterior. Esta magia ignora resistência a magia.~
 @1107 = ~Dominação
-(Encantamento)
-Nível: Bardo 5, Feiticeiro/Mago 6, Maldição 5
+Domination (Encantamento)
+Nível: Brd 5, Fet/Mag 6, Bane 5
 Alcance: Visão do conjurador
 Duração: 3 rodadas / nível
 Tempo de Conjuração: 5
@@ -2231,7 +2284,7 @@ Teste de Resistência: Vontade anula
 
 A magia Dominação permite ao conjurador controlar as ações de qualquer criatura enquanto a magia estiver em efeito. Esse controle é mantido por meio de uma ligação telepática entre o conjurador e a vítima. O alvo tem direito a um teste de Vontade com CD +2 para evitar o efeito. Esta magia ignora resistência a magia.~
 @1814 = ~Dominar em Massa
-(Encantamento)
+Mass Dominate (Encantamento)
 Nível: Brd 8, Fet/Mag 9, Bane 9
 Alcance: Visão do Conjurador
 Duração: 1 rodada/nível
@@ -2241,7 +2294,7 @@ Teste de Resistência: Vontade anula
 
 Esta magia força todas as criaturas não aliadas ao conjurador na área de efeito a fazerem um teste de Vontade ou serão dominadas como se estivessem sob o efeito da magia Dominar Pessoa. Mortos-vivos não são afetados por esta magia. Esta magia ignora resistência a magia.~
 @36956 = ~Tornado
-(Evocação)
+Tornado (Evocação)
 Nível: Drd 9
 Alcance: Visão do Conjurador
 Duração: 3 rodadas
@@ -2251,7 +2304,7 @@ Teste de Resistência: Nenhum
 
 Uma versão mais poderosa da magia Ciclone, esta magia cria um tornado no ponto alvo que se move aleatoriamente. Criaturas que se aproximam a 4,5 metros do tornado são sugadas para dentro dele, sofrendo 3d8 de dano cortante por segundo enquanto permanecerem dentro dele. As criaturas geralmente são ejetadas do tornado após cerca de uma rodada. Criaturas Enormes, como gigantes de gelo e dragões, não são sugadas para dentro do tornado, mas ainda sofrem dano enquanto estiverem na área de efeito. Apenas um tornado pode estar ativo por vez. Esta magia só pode ser conjurada ao ar livre e ignora resistência a magia.~
 @38251 = ~Identificar Criatura
-(Adivinhação)
+Identify Creature (Adivinhação)
 Nível: Brd 2, Drd 2, Rgr 2, Fet/Mag 2
 Alcance: Visão do Conjurador
 Duração: Instantânea
@@ -2261,7 +2314,7 @@ Teste de Resistência: Nenhum
 
 Identificar Criatura revela informações úteis de combate sobre a criatura alvo. As informações incluem o nível da criatura, seus pontos de vida atuais e máximos, número de ataques por rodada, atributos, resistências, testes de resistência e várias outras características que dependem da criatura. Esta magia ignora resistência a magia.~
 @38653 = ~Rocha Rolante
-(Conjuração)
+Boulder Roll (Conjuração)
 Nível: Drd 6, Fet/Mag 6
 Alcance: Especial
 Duração: Instantânea
@@ -2271,7 +2324,7 @@ Teste de Resistência: Reflexos parcial
 
 Rocha Rolante cria uma grande rocha que rola para a frente a partir do conjurador, esmagando criaturas em seu caminho, até atingir uma parede. Criaturas atingidas sofrem 12d8 de dano de impacto e são derrubadas por 2 rodadas. Um teste de Reflexos bem-sucedido reduz o dano à metade e impede que a criatura seja derrubada. A pedra ignora a resistência a magia e sempre se move diretamente para o sul a partir do conjurador.~
 @38853 = ~Escravizar
-(Encantamento)
+Enslave (Encantamento)
 Nível: Brd 7, Fet/Mag 8
 Alcance: Visão do Conjurador
 Duração: Permanente
@@ -2357,7 +2410,7 @@ Benefício: Qualquer canção de bardo que você tocar e que afete aliados concede u
 @30371=~... Coroa da Praga.~
 @30372=~... Chuva de Fogo.~
 @32106 = ~Pedra Mágica
-(Encantamento)
+Magic Stone (Encantamento)
 Nível: Clr 1, Drd 1, Rgr 1
 Alcance: Conjurador
 Duração: 30 rodadas ou até acabar
@@ -2369,7 +2422,7 @@ Esta magia aprimora as balas de funda do conjurador. Qualquer bala lançado pelo 
 
 Embora os rangers normalmente lancem magias com metade do seu nível de conjurador, Pedra Mágica será lançada com o nível de conjurador completo do ranger.~
 @32107 = ~Proteção contra o Mal
-(Abjuração) [Bom]
+Protection from Evil (Abjuração) [Bom]
 Nível: Clr 1, Pal 1, Fet/Mag 1
 Alcance: Toque
 Duração: 10 rodadas / nível
@@ -2379,7 +2432,7 @@ Teste de Resistência: Nenhum
 
 Esta magia forma uma barreira mágica ao redor da criatura alvo, impondo uma penalidade de -2 para acertá-la a criaturas malignas e reduzindo a CD de resistência de magias e habilidades de criaturas malignas que a atingiriam em 2. Além disso, a criatura é imune a efeitos de encantamento e dominação. Os demônios invocados não atacarão seu invocador ou os aliados do invocador se o invocador tiver Proteção contra o Mal.~
 @32408 = ~Círculo Mágico Contra o Mal
-(Abjuração) [Bom]
+Magic Circle Against Evil (Abjuração) [Bom]
 Nível: Clr 4, Pal 4, Fet/Mag 4, Ilmater 3
 Alcance: Conjurador
 Duração: 10 rodadas / nível
@@ -2389,7 +2442,7 @@ Teste de Resistência: Nenhum
 
 Quando esta magia é conjurada, todas as criaturas em um raio de 3 metros (10 pés) são afetadas individualmente por Proteção contra o Mal, concedendo às criaturas malignas uma penalidade de -2 para acertá-las e reduzindo a CD de resistência de magias e habilidades de criaturas malignas que as atingiriam em 2, além de imunidade a efeitos de encantamento e dominação.~
 @36454 = ~Pedras em Rochas
-(Transmutação)
+Pebbles to Boulders (Transmutação)
 Nível: Clr 5, Drd 4, Rgr 4
 Alcance: Conjurador
 Duração: 5 rodadas/nível ou até ser usada
@@ -2401,7 +2454,7 @@ Esta magia transforma as baldas da funda do conjurador em rochas. Enquanto a mag
 
 Embora os rangers normalmente conjurarem magias com metade do seu nível de conjurador, Pedras em Pedregulhos será conjurado com o nível de conjurador completo do ranger.~
 @1685 = ~Garras de Fera
-(Transmutação)
+Beast Claw (Transmutação)
 Nível: Drd 2, Rgr 2
 Alcance: Visão do Conjurador
 Duração: 3 rodadas + 1 rodada / nível
@@ -2610,7 +2663,7 @@ Vantagens:
 * 11º nível: Todo o dano de fogo, frio, eletricidade, ácido e magia causado pelas magias e habilidades do paladino é aumentado em 20%. Isso se acumula com talentos como Espírito da Chama e Mestre da Força Mágica.~
 @55815=~Armadilha Não Desarmada - O personagem deve ter pelo menos <EXTDLVL> níveis de ladino para desarmar uma armadilha desta complexidade.~
 @36351 = ~Aljava da Abundância
-(Conjuração)
+Quiver of Plenty (Conjuração)
 Nível: Rgr 3
 Alcance: Conjurador
 Duração: 30 rodadas
@@ -2624,7 +2677,7 @@ Embora os rangers normalmente lancem magias com metade do seu nível de conjurado
 
 Nota: O ranger deve ter um espaço de munição vazio para que a aljava seja criada. Caso contrário, a magia falhará.
 ~@1673 = ~Animar Zumbi
-(Necromancia)
+Animate Zombie (Necromancia)
 Nível: Clr 3, Fet/Mag 5, Tempus 3
 Alcance: Visão do Conjurador
 Duração: Instantânea
@@ -2636,7 +2689,7 @@ Esta magia traz à tona um zumbi morto há muito tempo das profundezas da terra e 
 
 AVISO: Em níveis mais altos, os Senhores Zumbis e os Mortos-Vivos Afogados em Putrefação invocados por esta magia possuem auras sobrenaturais poderosas. Os efeitos de suas auras podem prejudicar os membros do seu grupo se eles estiverem dentro da área de efeito.~
 @1675 = ~Animar Esqueleto
-(Necromancia)
+Animate Skeleton (Necromancia)
 Nível: Clr 3, Fet/Mag 5, Tempus 3
 Alcance: Visão do Conjurador
 Duração: Instantânea
@@ -2646,7 +2699,7 @@ Teste de Resistência: Nenhum
 
 Esta magia traz à tona um esqueleto morto há muito tempo das profundezas da terra e o reanima para servir ao conjurador. Quanto maior o nível do conjurador, mais poderoso será o esqueleto invocado por esta magia. Esta magia não pode ser conjurada por clérigos bons, embora feiticeiros e magos possam conjurá-la independentemente do alinhamento.~
 @1019 = ~Escudo de Lathander
-(Conjuração) [Bom]
+Shield of Lathander (Conjuração) [Bom]
 Nível: Clr 4, Pal 4, Lathander 4
 Alcance: Toque
 Duração: 3 rodadas
@@ -2656,7 +2709,7 @@ Teste de Resistência: Nenhum
 
 Esta magia concede ao alvo um bônus de resistência a dano de 15/- contra dano de concussão, corte, perfuração, fogo, frio, ácido e eletricidade durante a duração da magia. Esta magia não pode ser conjurada por personagens malignos.~
 @1850 = ~Escudo Maior de Lathander
-(Conjuração) [Bom]
+Greater Shield of Lathander (Conjuração) [Bom]
 Nível: Clr 8, Pal 6, Lathander 6
 Alcance: Toque
 Duração: 3 rodadas
@@ -2666,7 +2719,7 @@ Teste de Resistência: Nenhum
 
 Esta magia concede redução de dano de 30/- a todas as formas de dano e define a Resistência a Magia para 40, se menor, durante a duração da magia. Esta magia não pode ser conjurada por personagens malignos.~
 @1521 = ~Aura Sagrada
-(Abjuração)
+Holy Aura (Abjuração)
 Nível: Clr 8, Ilmater 8
 Alcance: 6 m
 Duração: 1 rodada/nível
@@ -2681,7 +2734,7 @@ Terceiro, a abjuração protege as criaturas contra magias de encantamento e domin
 Quarto, qualquer criatura de alinhamento maligno que atacar (apenas em combate corpo a corpo) aqueles protegidos pela Aura Sagrada deve fazer um teste de Fortitude ou ficará cega por 3 rodadas.
 Aura Sagrada não pode ser conjurada por personagens malignos.~
 @36853 = ~Aura Profana
-(Abjuração)
+Unholy Aura (Abjuração)
 Nível: Clr 8
 Alcance: 6 m
 Duração: 1 rodada/nível
@@ -2696,7 +2749,7 @@ Terceiro, a abjuração protege as criaturas contra magias de encantamento e domin
 
 A Aura Profana só pode ser conjurada por personagens malignos.~
 @1914 = ~Égide
-(Abjuração)
+Aegis (Abjuração)
 Nível: Fet/Mag 9, Helm 9
 Alcance: Conjurador
 Duração: 20 rodadas
@@ -2985,7 +3038,7 @@ Vantagens:
 @210 = ~Bênção de Talos
 
 Por 1 rodada por nível de clérigo, todo o dano elétrico causado pelas magias e habilidades do clérigo é aumentado em 30%.~
-@541 = ~LADRÃO:
+@541 = ~LADINO:
 
 Para alcançar seus objetivos, para o bem ou para o mal, o ladino é um ladrão habilidoso. Astúcia, agilidade e furtividade são suas marcas registradas. Se ele usará seu talento contra transeuntes inocentes e mercadores ricos ou opressores e monstros, é uma escolha que cabe ao ladino fazer.
 
@@ -2993,13 +3046,21 @@ Pontos de Vida por Nível: 1-6
 
 Vantagens:
 * Proficiente com todas as armas simples, arcos e armaduras leves.
+
 * Ladinos recebem um número maior de pontos de perícia por nível do que qualquer outra classe de personagem. Eles podem usar esses pontos de habilidade extras para comprar habilidades de classe como Desativar Mecanismo para remover armadilhas, Esconder-se, Furtar e Usar Dispositivo Mágico.
-* Ataque Furtivo: Ladinos podem realizar ataques furtivos em inimigos para causar 1d6 de dano adicional, mais 1d6 a cada 2 níveis após o nível 1. Um ataque conta como um ataque furtivo se atingir um inimigo pelas costas, se ocorrer dentro de 2 segundos após sair do modo furtivo ou invisível, ou se o alvo estiver paralisado, imobilizado, atordoado, dormindo, confuso, debilitado mentalmente, agarrado ou sob efeito de finta. Espadas curtas, adagas de arremesso, dardos, arcos curtos, arcos curtos compostos, bestas leves, fundas, clavas e ataques desarmados causam um dado extra de dano de ataque furtivo. Adagas de combate corpo a corpo causam dois dados extras de dano de ataque furtivo.
-* 2º nível: Evasão. Quando um ladino atinge o 2º nível, ele ou ela ganha a habilidade de evadir dano de magias de área de efeito. Sempre que um ladino obtiver sucesso em um teste de Reflexos contra uma magia de área que permite um teste de Reflexos para reduzir o dano à metade, ele não sofre dano.
-* 3º nível: Esquiva Sobrenatural. Ladinos mantêm seu bônus de Destreza na Classe de Armadura se forem atacados por inimigos invisíveis.
-* 6º nível: Esquiva Sobrenatural Aprimorada. Ladinos não podem ser atacados furtivamente por outro ladino, a menos que o atacante seja de nível superior.
-* 8º nível: Desarmar Armadilhas Complexas. Ladinos deste nível ou superior são os únicos personagens que podem desarmar armadilhas com CD 20 ou superior.
+
+* Ataque Furtivo (Sneak Attack): Ladinos podem realizar ataques furtivos em inimigos para causar 1d6 de dano adicional, mais 1d6 a cada 2 níveis após o nível 1. Um ataque conta como um ataque furtivo se atingir um inimigo pelas costas, se ocorrer dentro de 2 segundos após sair do modo furtivo ou invisível, ou se o alvo estiver paralisado, imobilizado, atordoado, dormindo, confuso, debilitado mentalmente, agarrado ou sob efeito de finta. Espadas curtas, adagas de arremesso, dardos, arcos curtos, arcos curtos compostos, bestas leves, fundas, porretes e ataques desarmados causam um dado extra de dano de ataque furtivo. Adagas de combate corpo a corpo causam dois dados extras de dano de ataque furtivo.
+
+* 2º nível: Evasão (Evasion): Quando um ladino atinge o 2º nível, ele ou ela ganha a habilidade de evadir dano de magias de área de efeito. Sempre que um ladino obtiver sucesso em um teste de Reflexos contra uma magia de área que permite um teste de Reflexos para reduzir o dano à metade, ele não sofre dano.
+
+* 3º nível: Esquiva Sobrenatural (Uncanny Dodge): Ladinos mantêm seu bônus de Destreza na Classe de Armadura se forem atacados por inimigos invisíveis.
+
+* 6º nível: Esquiva Sobrenatural Aprimorada (Improved Uncanny Dodge): Ladinos não podem ser atacados furtivamente por outro ladino, a menos que o atacante seja de nível superior.
+
+* 8º nível: Desarmar Armadilhas Complexas (Disarm Complex Traps): Ladinos deste nível ou superior são os únicos personagens que podem desarmar armadilhas com CD 20 ou superior.
+
 * 10º nível: Talento Bônus. O ladino ganha um talento bônus e também ganha acesso a uma série de novos talentos disponíveis apenas para ladinos. Estes incluem Ataque Incapacitante, Evasão Aprimorada, Mente Escorregadia, Amortecer Impacto e Oportunista. O ladino ganha outro talento bônus a cada 3 níveis após o nível 10.
+
 * Ladinos ganham +1 em sorte a cada 5 níveis.
 
 Desvantagens:
@@ -3045,15 +3106,24 @@ Pontos de vida por nível: 1-12
 
 Vantagens:
 * Proficiente com todas as armas simples e marciais, armaduras leves, armaduras médias e escudos.
-* Fúria Bárbara: Pode entrar em fúria uma vez por dia a cada 4 níveis (começa no 1º nível com um uso). A fúria concede +4 em Força e Constituição (que se acumulam com outros bônus de Força e Constituição), além de uma penalidade de -2 na CA, +2 nos testes de Vontade e imunidade a medo, atordoamento, sono, encantamento, dominação, confusão, inconsciência, paralisia, debilidade mental e desespero por 3 rodadas. Após entrar em fúria, o bárbaro ficará fatigado por três rodadas, sofrendo uma penalidade de -2 em Força e Destreza.
-* Movimento Rápido: Bárbaros podem se mover 3 metros mais rápido que um personagem padrão, desde que não estejam sobrecarregados ou usando armadura pesada.
-* 2º nível: Redução de Dano. O bárbaro ganha 1 ponto de resistência a dano cortante, perfurante e contundente. Ele ou ela ganha 1 ponto adicional de resistência nos níveis 5, 8, 11 e a cada 3 níveis subsequentes. Se o bárbaro usar armadura média, a redução de dano concedida por esta característica é dobrada.
-* 2º nível: Esquiva Sobrenatural. Os bárbaros mantêm seu bônus de Destreza na Classe de Armadura se forem atacados por inimigos invisíveis.
-* 5º nível: Esquiva Sobrenatural Aprimorada. Os bárbaros não podem ser atacados furtivamente por ladinos, a menos que o atacante seja de nível superior ao do bárbaro. A fúria do bárbaro agora dura um número de rodadas adicionais igual ao bônus de Constituição recém-aprimorado do bárbaro.
-* 11º nível: Fúria Maior. Todas as fúrias do bárbaro se tornam fúrias maiores, que aumentam os bônus de Força e Constituição para +6 e o ??bônus de Vontade para +3. Ele ou ela ainda recebe a penalidade de -2 na CA.
-* 17º nível: Fúria Incansável. O bárbaro não fica mais fatigado após um ataque de fúria.
-* 20º nível: Fúria Poderosa. A habilidade de fúria do bárbaro agora concede +8 em Força e Constituição e +4 em testes de Vontade. A cada 4 níveis após o 20º nível, a fúria do bárbaro concede um adicional de +2 em Força e Constituição e +1 em testes de Vontade.
-* 21º nível: Força Ilimitada. O bárbaro agora pode aumentar sua Força além de 40.
+
+* Fúria Bárbara (Barbarian Rage): Pode entrar em fúria uma vez por dia a cada 4 níveis (começa no 1º nível com um uso). A fúria concede +4 em Força e Constituição (que se acumulam com outros bônus de Força e Constituição), além de uma penalidade de -2 na CA, +2 nos testes de Vontade e imunidade a medo, atordoamento, sono, encantamento, dominação, confusão, inconsciência, paralisia, debilidade mental e desespero por 3 rodadas. Após entrar em fúria, o bárbaro ficará fatigado por três rodadas, sofrendo uma penalidade de -2 em Força e Destreza.
+
+* Movimento Rápido (Fast Movement): Bárbaros podem se mover 3 metros mais rápido que um personagem padrão, desde que não estejam sobrecarregados ou usando armadura pesada.
+
+* 2º nível: Redução de Dano (Damage Reduction): O bárbaro ganha 1 ponto de resistência a dano cortante, perfurante e contundente. Ele ou ela ganha 1 ponto adicional de resistência nos níveis 5, 8, 11 e a cada 3 níveis subsequentes. Se o bárbaro usar armadura média, a redução de dano concedida por esta característica é dobrada.
+
+* 2º nível: Esquiva Sobrenatural (Uncanny Dodge): Os bárbaros mantêm seu bônus de Destreza na Classe de Armadura se forem atacados por inimigos invisíveis.
+
+* 5º nível: Esquiva Sobrenatural Aprimorada (Improved Uncanny Dodge): Os bárbaros não podem ser atacados furtivamente por ladinos, a menos que o atacante seja de nível superior ao do bárbaro. A fúria do bárbaro agora dura um número de rodadas adicionais igual ao bônus de Constituição recém-aprimorado do bárbaro.
+
+* 11º nível: Fúria Maior (Greater Rage): Todas as fúrias do bárbaro se tornam fúrias maiores, que aumentam os bônus de Força e Constituição para +6 e o ??bônus de Vontade para +3. Ele ou ela ainda recebe a penalidade de -2 na CA.
+
+* 17º nível: Fúria Incansável (Tireless Rage): O bárbaro não fica mais fatigado após um ataque de fúria.
+
+* 20º nível: Fúria Poderosa (Mighty Rage): A habilidade de fúria do bárbaro agora concede +8 em Força e Constituição e +4 em testes de Vontade. A cada 4 níveis após o 20º nível, a fúria do bárbaro concede um adicional de +2 em Força e Constituição e +1 em testes de Vontade.
+
+* 21º nível: Força Ilimitada (Limitless Strength). O bárbaro agora pode aumentar sua Força além de 40.
 
 Desvantagens:
 * Bárbaros adquirem talentos em um ritmo mais lento do que guerreiros.
@@ -3066,18 +3136,30 @@ Pontos de Vida por Nível: 1-6
 
 Vantagens:
 * Proficiente com todas as armas simples, armaduras leves, armaduras médias e escudos. O bardo também é proficiente com espadas grandes.
+
 * Ganha um ponto em Arcano Blindado, reduzindo a falha de conjuração arcana em 35%.
-* +1 em Alquimia, Conhecimento (Arcano) e Ofício (Magia).
+
+* +1 em Alquimia, Conhecimento (Arcano) e Conhecimento de Magia.
+
 * 2º nível: Conjuração. Os bardos ganham a habilidade de conjurar magias arcanas.
+
 * Muitas perícias de ladino são perícias de classe do Bardo.
+
 * Canções de Bardo. Os bardos têm a habilidade de cantar melodias que produzem efeitos mágicos em criaturas a até nove metros de distância. Conforme avançam de nível, eles ganham canções adicionais. As canções são descritas em detalhes abaixo.
-* 1º nível: O Conto de Curran Coração Forte. Quando jogada, todos os aliados do bardo recebem +1 de bônus de ataque, +1 de dano e imunidade a medo e desespero. Os bônus de ataque e dano aumentam em 1 no 5º nível e a cada 5 níveis subsequentes.
-* 3º nível: A Canção de Kaudies. Quando jogada, os aliados do bardo ficam imunes a magias e habilidades sonoras prejudiciais, incluindo Comando, Silêncio, Comando Maior, Palavra Sagrada, Blasfêmia, Palavra de Poder: Sono, Explosão Sônica, Grito, Palavra de Poder: Silêncio, Palavra de Poder: Atordoar, Palavra de Poder: Cegar, Grande Grito, Grito da Banshee, Palavra de Poder: Matar, Som do Vazio, lamentos de harpia e os efeitos exclusivos para inimigos de Cântico, Oração e Recitação.
-* 5º nível: Melodia de Tymora. Quando tocada, a Melodia de Tymora concede aos aliados do bardo +1 de sorte e +2 em testes de perícia (além do +1 em testes de perícia concedido pela sorte). No nível 15 e a cada 10 níveis subsequentes, esta canção concede +1 adicional de sorte e +2 em testes de perícia.
+
+* 1º nível: O Conto de Curran Coração Forte (The Tale of Curran Strongheart): Quando jogada, todos os aliados do bardo recebem +1 de bônus de ataque, +1 de dano e imunidade a medo e desespero. Os bônus de ataque e dano aumentam em 1 no 5º nível e a cada 5 níveis subsequentes.
+
+* 3º nível: A Canção de Kaudies (The Song of Kaudies): Quando jogada, os aliados do bardo ficam imunes a magias e habilidades sonoras prejudiciais, incluindo Comando, Silêncio, Comando Maior, Palavra Sagrada, Blasfêmia, Palavra de Poder: Sono, Explosão Sônica, Grito, Palavra de Poder: Silêncio, Palavra de Poder: Atordoar, Palavra de Poder: Cegar, Grande Grito, Grito da Banshee, Palavra de Poder: Matar, Som do Vazio, lamentos de harpia e os efeitos exclusivos para inimigos de Cântico, Oração e Recitação.
+
+* 5º nível: Melodia de Tymora (Tymora's Melody): Quando tocada, a Melodia de Tymora concede aos aliados do bardo +1 de sorte e +2 em testes de perícia (além do +1 em testes de perícia concedido pela sorte). No nível 15 e a cada 10 níveis subsequentes, esta canção concede +1 adicional de sorte e +2 em testes de perícia.
+
 * 7º nível: O bardo pode substituir uma de suas magias conhecidas por outra magia do mesmo nível. Ele pode fazer isso novamente a cada 3 níveis após o nível 7. O bardo só pode substituir magias de pelo menos dois níveis abaixo do nível mais alto que ele pode conjurar (por exemplo, apenas uma magia de 1º nível quando o bardo atinge o 7º nível), embora possa substituir magias de 7º nível a partir do nível 25 e magias de 8º nível a partir do nível 28.
-* 9º nível: O Anseio da Sereia. Quando tocada, cada inimigo que ouvir a canção deve fazer um teste de Vontade ou ficará enfeitiçado, incapaz de agir por uma rodada ou até sofrer dano. A CD do teste de Vontade é igual a 10 + 1/2 do nível do bardo + bônus de Carisma.
-* 13º nível: O Canto de Guerra dos Sith. Quando tocada, os aliados do bardo recebem um bônus genérico de armadura de +2, resistência a dano físico de 3/- e regeneram 3 pontos de dano por rodada em combate. No 18º nível e a cada 10 níveis subsequentes, esta canção concede um bônus adicional de +2 na CA, resistência a dano físico de 3/- e cura de 3 pontos de vida por rodada.
-* 40º nível: A Balada dos Três Heróis. Quando tocada, os aliados do bardo recebem resistência de 10/- a todas as formas de dano mágico, resistência a magia definida para 35 se menor, e os efeitos do Conto de Curran Coração Forte, da Melodia de Tymora e do Canto de Guerra dos Sith. No nível 50, esta canção define a resistência a magia para 40 se for menor e concede mais 10/- de resistência a dano mágico.
+
+* 9º nível: O Anseio da Sereia (The Siren's Yearning): Quando tocada, cada inimigo que ouvir a canção deve fazer um teste de Vontade ou ficará enfeitiçado, incapaz de agir por uma rodada ou até sofrer dano. A CD do teste de Vontade é igual a 10 + 1/2 do nível do bardo + bônus de Carisma.
+
+* 13º nível: O Canto de Guerra dos Sith (The War Chant of Sith): Quando tocada, os aliados do bardo recebem um bônus genérico de armadura de +2, resistência a dano físico de 3/- e regeneram 3 pontos de dano por rodada em combate. No 18º nível e a cada 10 níveis subsequentes, esta canção concede um bônus adicional de +2 na CA, resistência a dano físico de 3/- e cura de 3 pontos de vida por rodada.
+
+* 40º nível: A Balada dos Três Heróis (The Ballad of Three Heroes): Quando tocada, os aliados do bardo recebem resistência de 10/- a todas as formas de dano mágico, resistência a magia definida para 35 se menor, e os efeitos do Conto de Curran Coração Forte, da Melodia de Tymora e do Canto de Guerra dos Sith. No nível 50, esta canção define a resistência a magia para 40 se for menor e concede mais 10/- de resistência a dano mágico.
 
 Um bardo não pode beneficiar o grupo com mais de uma canção simultaneamente. Mas se o grupo tiver vários bardos, os efeitos da canção de cada bardo se acumularão. Criaturas invocadas não se beneficiam das canções de bardo.
 
@@ -3103,7 +3185,7 @@ Nível 7-9: 4 ataques
 Nível 10-12: 5 ataques
 Nível 13-15: 6 ataques. A cada 3 níveis após o 13, o monge ganha um ataque extra por rodada.
 
-* Armas do Monge: O monge pode empunhar bastões, adagas, adagas de arremesso e dardos com poucas penalidades (um ataque a menos por rodada do que com os punhos, mas o monge ainda ganha um ataque extra por rodada a cada 3 níveis).
+* Armas do Monge: O monge pode empunhar cajados, adagas, adagas de arremesso e dardos com poucas penalidades (um ataque a menos por rodada do que com os punhos, mas o monge ainda ganha um ataque extra por rodada a cada 3 níveis).
 
 * À medida que o monge sobe de nível, o dano causado por seus punhos também aumenta:
 
@@ -3115,23 +3197,39 @@ Nível 11-13: 1d8+3
 Nível 14-16: 1d8+4
 Nível 17+: 1d8+5
 
-* Golpe de Ki: No nível 5, o ataque desarmado do monge é potencializado com ki e recebe um encantamento de +1 com bônus correspondentes ao ataque e ao dano. Esse bônus de encantamento aumenta em +1 a cada 3 níveis após o nível 5, até +5 no nível 17.
+* Golpe de Ki (Ki Strike): No nível 5, o ataque desarmado do monge é potencializado com ki e recebe um encantamento de +1 com bônus correspondentes ao ataque e ao dano. Esse bônus de encantamento aumenta em +1 a cada 3 níveis após o nível 5, até +5 no nível 17.
+
 * A classe de armadura natural de um monge começa em 10 e aumenta em +1 no 5º nível e a cada 5 níveis subsequentes.
+
 * Quando não estiver usando armadura (vestes são aceitáveis), um monge adiciona seu bônus de Sabedoria à sua CA da mesma forma que seu bônus de Destreza. Esse bônus não pode exceder o nível de monge do personagem.
-* Ataques Atordoantes: Quando esta habilidade é usada, todos os ataques desarmados do monge na próxima rodada forçam a vítima a fazer um teste de Fortitude (CD 10 + modificador de Sabedoria + metade do nível do monge) ou ficará atordoada por 1 rodada. Um monge pode realizar um ataque atordoante 1 vez por dia por nível.
+
+* Ataques Atordoantes (Stunning Attacks): Quando esta habilidade é usada, todos os ataques desarmados do monge na próxima rodada forçam a vítima a fazer um teste de Fortitude (CD 10 + modificador de Sabedoria + metade do nível do monge) ou ficará atordoada por 1 rodada. Um monge pode realizar um ataque atordoante 1 vez por dia por nível.
+
 * Evasão: Monges têm a habilidade de evadir dano de magias de área de efeito. Sempre que um monge obtiver sucesso em um teste de Reflexos contra uma magia de área de efeito que permita um teste de Reflexos para reduzir o dano à metade, ele não sofre dano.
-* 2º nível: Desviar Objetos. O monge recebe o talento Desviar Flechas, que concede um bônus diverso de +1 contra armas de projétil. Além disso, o monge bloqueia automaticamente o primeiro projétil que o atingiria a cada rodada. O monge deve ter uma mão livre para bloquear projéteis dessa forma.
-* 3º nível: Movimento Rápido. O monge se move 3 metros mais rápido que um personagem normal (a velocidade de movimento normal é de 9 metros), mas apenas enquanto o monge não estiver sobrecarregado ou usando armadura. O monge ganha mais 3 metros de movimento a cada 3 níveis subsequentes.
-* 3º nível: Mente Tranquila. O monge recebe um bônus de +2 em testes de resistência contra magias e efeitos da escola de Encantamento.
-* 5º nível: Pureza do Corpo. O monge ganha controle sobre o sistema imunológico do seu corpo. Ele adquire imunidade a todas as doenças.
-* 7º nível: Plenitude do Corpo. O monge pode recuperar pontos de vida iguais ao seu nível de monge multiplicado pelo seu modificador de Sabedoria uma vez por dia a cada sete níveis.
-* 9º nível: Evasão Aprimorada. O monge recebe o talento Evasão Aprimorada, normalmente disponível apenas para ladinos.
-* 10º nível: Passo Abundante. O monge pode se teletransportar para qualquer local à vista uma vez por dia.
-* 11º nível: Corpo de Diamante. O monge tem tanto controle sobre seu próprio metabolismo que adquire imunidade a todos os tipos de veneno.
-* 13º nível: Alma de Diamante. O monge ganha resistência a magia. Sua resistência a magia é igual ao seu nível + 10. Para afetar o monge com uma magia, um conjurador deve rolar um resultado igual ou superior à resistência a magia do monge em 1d20 + o nível do conjurador.
-* 15º nível: Palma Vibrante. Este ataque aterrador permite ao monge criar vibrações dentro do corpo de outra criatura que podem ser fatais. Na próxima vez que o monge atingir uma criatura com um ataque desarmado, o alvo morre, a menos que faça um teste de resistência de Fortitude (CD 10 + modificador de Sabedoria + metade do nível do monge). Construtos e mortos-vivos não podem ser afetados. O monge ganha um uso adicional de Palma Vibrante a cada seis níveis subsequentes.
-* 19º nível: Corpo Vazio. O monge pode assumir um estado incorpóreo por 5 rodadas, um número de vezes por dia igual ao seu nível dividido por 2. Enquanto incorpóreo, o monge pode se mover através de paredes, e metade dos ataques que o atingem não causam dano físico. Os ataques desarmados do monge ignoram bônus de armadura e escudo.
-* 20º nível: Eu Perfeito. O monge aprimorou seu corpo com habilidade e capacidades quase mágicas a ponto de se tornar uma criatura mágica. Ele passa a ser tratado para sempre como um extraplanar (criatura extraplanar) em vez de um humanoide. Por exemplo, enfeitiçar pessoa não os afeta. Além disso, o monge ganha redução de dano 20/+1. Isso significa que o monge ignora (regenera instantaneamente) os primeiros 20 pontos de dano de qualquer ataque, a menos que o dano seja causado por uma arma com bônus de aprimoramento +1 (ou melhor), por uma magia ou por uma forma de energia (fogo, frio, etc.). Como um extraplanar, um monge de 20º nível está sujeito a magias que repelem criaturas encantadas, como proteção contra a lei.
+
+* 2º nível: Desviar Flechas (Deflect Arrows): O monge recebe o talento Desviar Flechas, que concede um bônus diverso de +1 contra armas de projétil. Além disso, o monge bloqueia automaticamente o primeiro projétil que o atingiria a cada rodada. O monge deve ter uma mão livre para bloquear projéteis dessa forma.
+
+* 3º nível: Movimento Rápido (Fast Movement): O monge se move 3 metros mais rápido que um personagem normal (a velocidade de movimento normal é de 9 metros), mas apenas enquanto o monge não estiver sobrecarregado ou usando armadura. O monge ganha mais 3 metros de movimento a cada 3 níveis subsequentes.
+
+* 3º nível: Mente Tranquila (Still Mind): O monge recebe um bônus de +2 em testes de resistência contra magias e efeitos da escola de Encantamento.
+
+* 5º nível: Pureza Corporal (Purity of Body): O monge ganha controle sobre o sistema imunológico do seu corpo. Ele adquire imunidade a todas as doenças.
+
+* 7º nível: Integridade Corporal (Wholeness of Body). O monge pode recuperar pontos de vida iguais ao seu nível de monge multiplicado pelo seu modificador de Sabedoria uma vez por dia a cada sete níveis.
+
+* 9º nível: Evasão Aprimorada (Improved Evasion): O monge recebe o talento Evasão Aprimorada, normalmente disponível apenas para ladinos.
+
+* 10º nível: Passo Etéreo (Abundant Step): O monge pode se teletransportar para qualquer local à vista uma vez por dia.
+
+* 11º nível: Corpo de Diamante (Diamond Body): O monge tem tanto controle sobre seu próprio metabolismo que adquire imunidade a todos os tipos de veneno.
+
+* 13º nível: Alma de Diamante (Diamond Soul): O monge ganha resistência a magia. Sua resistência a magia é igual ao seu nível + 10. Para afetar o monge com uma magia, um conjurador deve rolar um resultado igual ou superior à resistência a magia do monge em 1d20 + o nível do conjurador.
+
+* 15º nível: Palma Vibrante (Quivering Palm): Este ataque aterrador permite ao monge criar vibrações dentro do corpo de outra criatura que podem ser fatais. Na próxima vez que o monge atingir uma criatura com um ataque desarmado, o alvo morre, a menos que faça um teste de resistência de Fortitude (CD 10 + modificador de Sabedoria + metade do nível do monge). Construtos e mortos-vivos não podem ser afetados. O monge ganha um uso adicional de Palma Vibrante a cada seis níveis subsequentes.
+
+* 19º nível: Corpo Vazio (Empty Body): O monge pode assumir um estado incorpóreo por 5 rodadas, um número de vezes por dia igual ao seu nível dividido por 2. Enquanto incorpóreo, o monge pode se mover através de paredes, e metade dos ataques que o atingem não causam dano físico. Os ataques desarmados do monge ignoram bônus de armadura e escudo.
+
+* 20º nível: Auto-Perfeição (Perfect Self): O monge aprimorou seu corpo com habilidade e capacidades quase mágicas a ponto de se tornar uma criatura mágica. Ele passa a ser tratado para sempre como um extraplanar (criatura extraplanar) em vez de um humanoide. Por exemplo, enfeitiçar pessoa não os afeta. Além disso, o monge ganha redução de dano 20/+1. Isso significa que o monge ignora (regenera instantaneamente) os primeiros 20 pontos de dano de qualquer ataque, a menos que o dano seja causado por uma arma com bônus de aprimoramento +1 (ou melhor), por uma magia ou por uma forma de energia (fogo, frio, etc.). Como um extraplanar, um monge de 20º nível está sujeito a magias que repelem criaturas encantadas, como proteção contra a lei.
 
 Desvantagens:
 * Perde muitos bônus se estiver usando armadura e/ou armas.~

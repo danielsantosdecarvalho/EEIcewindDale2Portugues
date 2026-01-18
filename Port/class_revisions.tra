@@ -257,16 +257,16 @@ Benefício: Você ganha +1 para ataque e dano a cada 3 níveis de guerreiro (mínimo
 
 Especial: Você só pode adquirir este talento no 1º nível.
 (Original: Kensei)~
-@315 = ~Atropelar~
-@316 = ~ATROPELAR:
+@315 = ~Derrubar~
+@316 = ~DERRUBAR:
 
-Você foi treinado para atropelar ou derrubar inimigos no combate corpo a corpo.
+Você foi treinado para derrubar ou dar rasteira nos inimigos no combate corpo a corpo.
 
 Pré-requisito: Bônus de ataque base +6 ou superior
 
-Benefício: Você ganha uma habilidade que permite atropelar ou derrubar uma criatura adjacente. A habilidade pode ser usada uma vez por rodada. Se sua Destreza for maior que sua Força, você tenta derrubar o alvo, que deve fazer um teste de Reflexo (CD 5 + metade do seu bônus de ataque base + seu modificador de Destreza) ou cair por 4 segundos. Caso contrário, você tenta atropelar o alvo, que deve fazer um teste de Fortaleza (CD 5 + metade do seu bônus de ataque base + seu modificador de Força) ou cair por 4 segundos. A CD sofre -4 cada vez que alguém tentou atropelar ou derrubar o alvo nas últimas 10 rodadas. Ela também sofre -4 se o alvo tiver mais de duas pernas ou for de alguma forma mais estável do que um humanoide normal (como um anão). Criaturas maiores que você não podem ser atropeladas ou derrubadas. O tempo gasto para realizar essa habilidade faz com que o personagem tenha um ataque a menos na rodada seguinte.
+Benefício: Você ganha uma habilidade que permite derrubar ou dar rasteira  uma criatura adjacente. A habilidade pode ser usada uma vez por rodada. Se sua Destreza for maior que sua Força, você tenta derrubar o alvo, que deve fazer um teste de Reflexo (CD 5 + metade do seu bônus de ataque base + seu modificador de Destreza) ou cair por 4 segundos. Caso contrário, você tenta atropelar o alvo, que deve fazer um teste de Fortaleza (CD 5 + metade do seu bônus de ataque base + seu modificador de Força) ou cair por 4 segundos. A CD sofre -4 cada vez que alguém tentou atropelar ou derrubar o alvo nas últimas 10 rodadas. Ela também sofre -4 se o alvo tiver mais de duas pernas ou for de alguma forma mais estável do que um humanoide normal (como um anão). Criaturas maiores que você não podem ser derrubados . O tempo gasto para realizar essa habilidade faz com que o personagem tenha um ataque a menos na rodada seguinte.
 
-Este talento pode ser adquirido duas vezes. Ao ser adquirido pela segunda vez, o talento se torna Atropelar Aprimorado, o que adiciona um bônus de +2 na CD e permite que você atropele ou derrube criaturas uma categoria de tamanho maior que você (criaturas cujo círculo tem até o dobro do raio do seu círculo).
+Este talento pode ser adquirido duas vezes. Ao ser adquirido pela segunda vez, o talento se torna Derrubar Aprimorado, o que adiciona um bônus de +2 na CD e permite que você derrube ou der rasteira em criaturas uma categoria de tamanho maior que você (criaturas cujo círculo tem até o dobro do raio do seu círculo).
 (Original: Knockdown)~
 @317 = ~Mestre de Armaduras Leves~
 @318 = ~MESTRE DE ARMADURAS LEVES:
@@ -845,11 +845,17 @@ Pontos de Vida por Nível: 1-10
 
 Vantagens:
 * Proficiente com todas as armas simples e marciais, espadas bastardas, armaduras leves, armaduras médias, armaduras pesadas e escudos.
+
 * Recebe um talento bônus no primeiro nível, no segundo nível e a cada dois níveis após isso. Isso é adicional ao talento normal recebido por todas as classes de personagem a cada três níveis.
+
 * O guerreiro recebe +1 adicional de dano com armas a cada 5 níveis e +1 de alcance crítico (exemplo 19-20 se torna 18-20) a cada 10 níveis.
+
 * Nível 4: O guerreiro pode escolher Especialização em Arma de um tipo de arma, ganhando +2 de dano com ela.
+
 * Nível 8: O guerreiro pode escolher Foco Maior em Arma de um tipo de arma, ganhando +1 de ataque com ela.
+
 * Nível 12: O guerreiro pode escolher Especialização Maior em Arma de um tipo de arma, ganhando +2 de dano com ela.
+
 * Nível 30: O guerreiro recebe +1 no multiplicador de dano crítico (exemplo x2 se torna x3).
 
 Desvantagens:
@@ -889,7 +895,7 @@ Nível 17+: 1d8+5
 * Quando não estiver usando armadura (roupas são aceitáveis), o monge adiciona seu bônus de Sabedoria à sua CA da mesma forma que o bônus de Destreza. Se o monge estiver transformado em Forma Selvagem, ele só ganhará esse benefício se seu nível de monge for maior ou igual ao nível mínimo necessário para se transformar naquela Forma Selvagem.
 * Ataques Atordoantes: Quando essa habilidade for usada, todos os ataques desarmados do monge na rodada seguinte forçarão a vítima a fazer uma jogada de resistência de Fortitude (CD 10 + modificador de Sabedoria + metade do nível do monge) ou ficará atordoada por 1 rodada. Um monge pode fazer um ataque atordoante 1 vez por dia por nível.
 * Evasão: Monges têm a habilidade de evitar danos de magias de área de efeito. Sempre que um monge faz uma jogada de Reflexo bem-sucedida contra uma magia de área que permite uma jogada de Reflexo para metade do dano, ele ou ela não recebe dano algum.
-* Nível 2: Desviar Objetos. O monge ganha o talento Desviar Objetos, concedendo um bônus de +1 em defesa contra armas de projétil. Além disso, o monge automaticamente bloqueia a primeira instância de dano de projétil que o atingiria a cada rodada. O monge deve ter uma mão livre para bloquear projéteis dessa forma.
+* Nível 2: Desviar Flechas. O monge ganha o talento Desviar Flechas, concedendo um bônus de +1 em defesa contra armas de projétil. Além disso, o monge automaticamente bloqueia a primeira instância de dano de projétil que o atingiria a cada rodada. O monge deve ter uma mão livre para bloquear projéteis dessa forma.
 * Nível 3: Movimento Rápido. O monge se move 3 metros (10 pés) mais rápido do que um personagem normal (a velocidade de movimento normal é 10 metros ou 30 pés), mas somente enquanto o monge não estiver sobrecarregado ou usando armadura. O monge ganha mais 3 metros de movimento a cada 3 níveis subsequentes.
 * Nível 3: Mente Tranquila. O monge ganha um bônus de +2 em jogadas de resistência contra magias e efeitos da escola de Encantamento.
 * Nível 5: Pureza Corporal. O monge ganha controle sobre o sistema imunológico do seu corpo. Ele ou ela se torna imune a todas as doenças.
@@ -915,14 +921,22 @@ Pontos de Vida por Nível: 1-10
 
 Vantagens:
 * Proficiente com todas as armas simples e marciais, armaduras leves, armaduras médias, armaduras pesadas e escudos.
-* Paladinos podem usar Cura pelas Mãos 1 vez por dia. O Cura pelas Mãos cura o alvo por um número de pontos de vida igual ao modificador de Carisma do paladino multiplicado pelo seu nível de paladino (mínimo de 1 ponto por nível). Também pode ser usado em uma criatura morta-viva para causar dano a ela, embora isso requeira um ataque bem-sucedido de toque corpo a corpo. Paladinos ganham uma conjuração adicional a cada 5 níveis.
+
+* Paladinos podem usar Cura pelas Mãos (Lay on Hands) 1 vez por dia. O Cura pelas Mãos cura o alvo por um número de pontos de vida igual ao modificador de Carisma do paladino multiplicado pelo seu nível de paladino (mínimo de 1 ponto por nível). Também pode ser usado em uma criatura morta-viva para causar dano a ela, embora isso requeira um ataque bem-sucedido de toque corpo a corpo. Paladinos ganham uma conjuração adicional a cada 5 níveis.
+
 * Paladinos são imunes a todas as formas de doenças.
+
 * Nível 2: Adiciona o modificador de Carisma a todas as jogadas de resistência.
+
 * Nível 2: Conjuração de Magias. Paladinos ganham a habilidade de conjurar magias.
-* Nível 2: Destruir o Mal. Uma vez por dia, o paladino pode tentar golpear o mal com um ataque normal corpo a corpo. Eles adicionam o modificador de Carisma (se for positivo) à sua jogada de ataque e causam um número de d4s extras igual ao seu nível de paladino mais seu modificador de Carisma. Paladinos podem golpear o mal uma vez adicional a cada 10 níveis.
+
+* Nível 2: Destruir o Mal (Smite Evil). Uma vez por dia, o paladino pode tentar golpear o mal com um ataque normal corpo a corpo. Eles adicionam o modificador de Carisma (se for positivo) à sua jogada de ataque e causam um número de d4s extras igual ao seu nível de paladino mais seu modificador de Carisma. Paladinos podem golpear o mal uma vez adicional a cada 10 níveis.
+
 * Nível 2: Aura de Coragem. Paladinos se tornam imunes ao medo, e aliados dentro de 3 metros recebem um bônus de +4 nas jogadas de resistência contra efeitos de medo.
+
 * Nível 3: Remover Doença. O paladino ganha a habilidade de remover doenças de outros personagens um número de vezes por dia igual ao seu nível dividido por 3.
-* Nível 3: Expulsar Mortos-Vivos. Quando esse poder é invocado, o paladino tenta usar o poder de sua divindade patrona para aterrorizar um grupo de mortos-vivos. Quanto maior o nível e o carisma do paladino, maior sua chance de sucesso. Embora essa habilidade seja semelhante à habilidade de Expulsar Mortos-Vivos do clérigo, a habilidade do paladino funciona como se ele estivesse dois níveis abaixo de um clérigo.
+
+* Nível 3: Expulsar Mortos-Vivos (Turn Undead). Quando esse poder é invocado, o paladino tenta usar o poder de sua divindade patrona para aterrorizar um grupo de mortos-vivos. Quanto maior o nível e o carisma do paladino, maior sua chance de sucesso. Embora essa habilidade seja semelhante à habilidade de Expulsar Mortos-Vivos do clérigo, a habilidade do paladino funciona como se ele estivesse dois níveis abaixo de um clérigo.
 
 Desvantagens
 * O paladino deve ser ordeiro e bom ou neutro bom em alinhamento e deve escolher uma ordem divina. Essa escolha de ordem restringe as possibilidades de multiclasse do paladino.
@@ -1537,7 +1551,7 @@ Pré-requisito: Proficiência com lâmina pequena/desarmado, bônus de ataque base +
 
 Benefício: Com adagas, espadas curtas, ataques desarmados e armas naturais, você pode usar seu modificador de Destreza no lugar de seu modificador de Força nas rolagens de ataque. Além disso, você pode aplicar metade do seu modificador de Destreza ao dano de tais armas (desde que o número dividido ainda seja maior que seu modificador de Força). Como você precisa da sua segunda mão para equilíbrio, se carregar um escudo, aplique a penalidade de verificação de armadura do escudo às suas rolagens de ataque.
 (Original: Weapon Finesse)~
-@708 = ~DESVIAR OBJETOS:
+@708 = ~DESVIAR FLECHAS:
 
 Você pode desviar flechas que chegam, bem como virotes de besta, lanças e outras armas de projétil ou arremesso.
 
@@ -1547,7 +1561,7 @@ Benefício: O personagem ganha um bônus de +1 contra armas de projétil.
 
 Além disso, se o personagem for um monge ou tiver pelo menos 19 de Destreza, ele bloqueará automaticamente a primeira parte de dano de projétil que o atingiria a cada rodada. Qualquer outro dano que o projétil causaria (como dano de fogo de Flechas de Fogo) ainda passará. O personagem deve ter uma mão livre para obter esse benefício.
 
-Especial: Monges ganham automaticamente a habilidade Desviar Objetos no nível 2.
+Especial: Monges ganham automaticamente a habilidade Desviar Flechas no nível 2.
 (Original: Deflect Arrows)~
 @709 = ~AMBIDESTRIA:
 
@@ -1597,7 +1611,7 @@ Quando adquirido pela segunda vez, a habilidade impede que você provoque qualque
 
 Você é admirado pela sua determinação focada e clareza de propósito. Você é difícil de ser distraído por magias ou golpes.
 
-Benefício: Você ganha um bônus de +1 em testes de Vontade e um bônus de +2 em testes de Concentração. Você também é mais resistente a fintas, agarrões e ataques de derrubada/desarme, que têm -6 de CD contra você.
+Benefício: Você ganha um bônus de +1 em testes de Vontade e um bônus de +2 em testes de Concentração. Você também é mais resistente a fintas, agarrões e ataques de derrubada/rasteira, que têm -6 de CD contra você.
 (Original: Discipline)~
 @715 = ~CORRIDA:
 
@@ -1962,7 +1976,7 @@ Vantagens:
 * Ligação com Pedras: +2 bônus racial em testes de Procurar para notar trabalhos de pedra incomuns, como paredes deslizantes, portas secretas, armadilhas de pedra e construções novas.
 * +2 bônus racial em testes de resistência contra venenos.
 * +2 bônus racial em testes de resistência contra magias e efeitos mágicos.
-* Tentativas de derrubar/atropelar anões têm a CD reduzida em 4, já que os anões são especialmente estáveis.
+* Tentativas de derrubar/dar rasteira em anões têm a CD reduzida em 4, já que os anões são especialmente estáveis.
 * +4 bônus de esquiva contra gigantes.
 * +1 bônus racial em ataques contra orcs e goblinoides (goblins, hobgoblins e bugbears).
 * Perícia com machados e martelos.
@@ -1983,7 +1997,7 @@ Vantagens:
 * Ligação com Pedras: +2 bônus racial em testes de Procurar para notar trabalhos de pedra incomuns, como paredes deslizantes, portas secretas, armadilhas de pedra e construções novas.
 * +2 bônus racial em testes de resistência contra venenos.
 * +2 bônus racial em testes de resistência contra magias e efeitos mágicos.
-* Tentativas de derrubar/atropelar anões têm a CD reduzida em 4, já que os anões são especialmente estáveis.
+* Tentativas de derrubar/rasteria em anões têm a CD reduzida em 4, já que os anões são especialmente estáveis.
 * +4 bônus de esquiva contra gigantes.
 * +1 bônus racial em ataques contra aberrações, as criaturas bizarras que habitam o Subterrâneo.
 * Perícia com machados e martelos.
@@ -2360,7 +2374,7 @@ Peso: 0,5 Kg (1 lb)~
 @912 = ~Ataque Furtivo com Ataque Incapacitante (-8 Força)~
 @913 = ~Ataque Furtivo com Ataque Incapacitante (-9 Força)~
 @914 = ~Ataque Furtivo com Ataque Incapacitante (-10 Força)~
-@915 = ~Tenta Ataque de Derrapagem~
+@915 = ~Tenta Ataque de Rasteira~
 @916 = ~Tenta Agarrar~
 @917 = ~Você não pode agarrar a menos que tenha pelo menos uma mão livre.~
 @918 = ~Finta~
@@ -2403,8 +2417,8 @@ Essa habilidade pode ser usada uma vez por rodada. Se sua Destreza for maior que
 @945 = ~Finta
 
 Essa habilidade pode ser usada uma vez por rodada. O alvo deve fazer uma jogada de Vontade (CD 10 + sua habilidade de Blefe). O CD recebe -4 a cada vez que alguém tentou fintar o alvo nas últimas 10 rodadas. Em caso de falha, por 4 segundos, o alvo perde seu bônus de Destreza para a CA e sofre penalidades adicionais na Classe de Armadura e nas jogadas de ataque iguais a um terço de sua habilidade de Blefe, arredondado para baixo.~
-@946 = ~Derrubada Aprimorada~
-@947 = ~Derrubada Aprimorada
+@946 = ~Derrubar Aprimorado~
+@947 = ~Derrubar Aprimorado
 
 Essa habilidade pode ser usada uma vez por rodada. Se sua Destreza for maior que sua Força, você tenta derrapar o alvo, que deve fazer uma jogada de Reflexo (CD 7 + metade do seu bônus base de ataque + seu modificador de Destreza) ou cair por 4 segundos. Caso contrário, você tenta derrubar seu alvo, que deve fazer uma jogada de Fortitude (CD 7 + metade do seu bônus base de ataque + seu modificador de Força) ou cair por 4 segundos. O CD recebe -4 a cada vez que alguém tentou derrubar ou derrapar o alvo nas últimas 10 rodadas. Ele também recebe -4 se o alvo tiver mais de duas pernas ou for de alguma forma mais estável que um humanoide normal (como um anão). Criaturas que sejam mais de uma categoria de tamanho maior que você (cujo círculo seja mais do que o dobro do seu círculo) não podem ser derrubadas ou derrapadas. O tempo gasto para realizar essa habilidade faz com que você tenha um ataque a menos na rodada seguinte.~
 @948 = ~Finta Aprimorada~
