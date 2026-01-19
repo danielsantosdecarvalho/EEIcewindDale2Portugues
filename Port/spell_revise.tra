@@ -2061,7 +2061,7 @@ Nível: Brd 7, Fet/Mag 7, Selune 9
 Alcance: Conjurador
 Duração: Instantânea
 Tempo de Conjuração: 7
-Área de Efeito: Jato de 23 metros (70 pés) por 4,5 metros (15 pés)
+Área de Efeito: Jato de 21 metros (70 pés) por 4,5 metros (15 pés)
 Teste de Resistência: Especial
 
 Esta magia faz com que raios brilhantes de luz saiam da mão do mago, em um cone de 21 metros de comprimento e 4,5 metros de largura na extremidade. Qualquer criatura tocada pelos raios pode receber um efeito aleatório dependendo da cor (veja abaixo), mas qualquer criatura com 8 dados de vida ou menos fica cega por 2 a 8 rodadas, independentemente de qualquer efeito adicional. As cores da Rajada Prismática fazem o seguinte: vermelho (inflige 10d6 pontos de vida de dano de fogo, Reflexos pela metade), laranja (10d6 pontos de vida de dano de ácido, Reflexos pela metade), amarelo (10d6 pontos de vida de dano elétrico, Reflexos pela metade), verde (Fortitude ou morre - os sobreviventes ainda recebem 20 pontos de vida de dano de veneno), azul (Fortitude ou transformam em pedra), índigo (Vontade ou enlouquecem) ou violeta (Vontade ou são teletransportados para outro plano e retornam instantaneamente com os efeitos duradouros de terem 5 níveis drenados). Há também a mesma chance de qualquer criatura dentro da área de efeito do feitiço ser atingida por dois dos raios. Este feitiço ignora a resistência à magia.
@@ -4343,8 +4343,8 @@ Tempo de Conjuração: 1
 Teste de Resistência: Nenhum
 
 O feitiço Ataque Certeiro dá ao conjurador percepções incríveis sobre as fraquezas de seus inimigos, mas por uma duração extremamente curta. Durante 1 rodada, o conjurador ganha um bônus de +20 no ataque.~
-@37152 = ~Refletir de Ataque~
-@38152 = ~Refletir de Ataque
+@37152 = ~Refletir Ataque~
+@38152 = ~Refletir Ataque
 Reflect Attack (Abjuração)
 Nível: Brd 1, Pal 1, Fet/Mag 1, Helm 1
 Alcance: Conjurador
@@ -4612,8 +4612,8 @@ Tempo de Conjuração: 4
 Teste de Resistência: Especial
 
 Este feitiço permite ao conjurador invocar mortos-vivos ao matar outras criaturas. Durante a duração deste feitiço, sempre que o conjurador matar uma criatura, um Carniçal surgirá para se alimentar dos restos. Esse Carniçal servirá ao conjurador por 8 horas. O Carniçal só será invocado se o conjurador tiver causado o dano fatal à criatura; se o conjurador causou dano à criatura, mas outro membro do grupo a matou, o conjurador não receberá um Carniçal. O toque paralisante dos Carniçais usa a CD deste feitiço, conforme lançado pelo conjurador. Banquete de Carniçal não pode ser lançado por personagens bons.~
-@37454     = ~Feitiço Copiado~
-@38454     = ~Feitiço Copiado
+@37454     = ~Copiar Feitiço~
+@38454     = ~Copiar Feitiço
 Copy Spell (Universal)
 Nível: Brd 4
 Alcance: Visão do Conjurador

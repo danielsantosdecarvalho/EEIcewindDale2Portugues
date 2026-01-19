@@ -292,7 +292,7 @@
 @55580=~Falha ao copiar magia: <EXCPNAM1> não está conjurando uma magia~
 @55581=~Falha ao copiar magia: <EXCPVAL1> tem um nível muito alto para você copiar~
 @55582=~Falha ao copiar magia: <EXCPVAL1> não pode ser copiado~
-@55583=~<EXCPVAL1> copiado com Copiar Magia~
+@55583=~<EXCPVAL1> copiado com Copiar Feitiço~
 @55584=~<EXACVAL1> tem um nível muito alto para ser armazenado em um Cajado Mágico~
 @55585=~Habilidades inatas não podem ser armazenadas em um Cajado Mágico~
 @55586=~<EXACVAL1> só pode ter como alvo o conjurador e, portanto, não pode ser armazenado em um Cajado Mágico~

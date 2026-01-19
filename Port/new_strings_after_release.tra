@@ -19,7 +19,7 @@ Vantagens:
 
 * Nível 6: O ranger pode escolher o talento Ataque Giratório (Whirlwind Attack), desde que cumpra o requisito de Destreza, ignorando todos os outros requisitos.
 
-* Nível 6: Armadilha Natural (Set Natural Snare): Esta habilidade monta uma armadilha que, ao ser acionada por um inimigo, prende todos os inimigos num raio de 6 metros (20 pés) por 5 rodadas, se falharem num teste de Reflexos. A CD do teste é 6 mais a perícia do ranger em Conhecimento da Natureza. O ranger ganha uma utilização adicional da Armadilha Natural a cada 6 níveis após o 6º.
+* Nível 6: Armadilha Natural (Set Natural Snare): Esta habilidade monta uma armadilha que, ao ser acionada por um inimigo, emaranha todos os inimigos num raio de 6 metros (20 pés) por 5 rodadas, se falharem num teste de Reflexos. A CD do teste é 6 mais a perícia do ranger em Conhecimento da Natureza. O ranger ganha uma utilização adicional da Armadilha Natural a cada 6 níveis após o 6º.
 
 * Nível 7: Caminho da Floresta (Woodland Stride): O ranger fica imune a Emaranhar, Teia e Crescer Espinho.
 
@@ -288,8 +288,11 @@ Pontos de Vida por Nível: 1-4
 
 Vantagens:
 * Proficiente com todas as armas simples, exceto armas de projétil simples.
+
 * Recebe um talento bônus a cada cinco níveis, além dos talentos normais concedidos a todas as classes de personagem a cada três níveis.
+
 * Se o personagem não se especializar em uma escola de magia, ele ganha um bônus de +1 na CD de todas as suas magias.
+
 * Aprende duas novas magias cada vez que sobe de nível e também pode aprender magias de pergaminhos.
 
 Desvantagens:
@@ -1762,7 +1765,7 @@ Tempo de Conjuração: 1
 Área de Efeito: Conjurador
 Teste de Resistência: Nenhum
 
-Uma versão mais fraca da magia Divine Shell de 6º nível, esta magia cria um campo mágico ao redor do conjurador que tem 20% de chance de desviar ataques de mísseis direcionados a ele. Isso inclui não apenas ataques com armas de longo alcance, mas também certas magias, incluindo Orbe Cromática, Míssil Mágico, Flecha Ácida de Melf, Flecha de Chamas, Lança de Alicórnio, Lança de Gelo, Lança da Ruptura, Mísseis de Força de Mordenkainen, Esfera Vitriólica, Esfera Gélida de Otiluke e Orbe Ardente de Sol. ~
+Uma versão mais fraca da magia Concha Divina de 6º nível, esta magia cria um campo mágico ao redor do conjurador que tem 20% de chance de desviar ataques de mísseis direcionados a ele. Isso inclui não apenas ataques com armas de longo alcance, mas também certas magias, incluindo Orbe Cromática, Míssil Mágico, Flecha Ácida de Melf, Flecha de Chamas, Lança de Alicórnio, Lança de Gelo, Lança da Ruptura, Mísseis de Força de Mordenkainen, Esfera Vitriólica, Esfera Gélida de Otiluke e Orbe Ardente de Sol. ~
 @37867 = ~Parede Prismática~
 @38867 = ~Parede Prismática
 Prismatic Wall (Abjuração)
@@ -3049,7 +3052,7 @@ Vantagens:
 
 * Ladinos recebem um número maior de pontos de perícia por nível do que qualquer outra classe de personagem. Eles podem usar esses pontos de habilidade extras para comprar habilidades de classe como Desativar Mecanismo para remover armadilhas, Esconder-se, Furtar e Usar Dispositivo Mágico.
 
-* Ataque Furtivo (Sneak Attack): Ladinos podem realizar ataques furtivos em inimigos para causar 1d6 de dano adicional, mais 1d6 a cada 2 níveis após o nível 1. Um ataque conta como um ataque furtivo se atingir um inimigo pelas costas, se ocorrer dentro de 2 segundos após sair do modo furtivo ou invisível, ou se o alvo estiver paralisado, imobilizado, atordoado, dormindo, confuso, debilitado mentalmente, agarrado ou sob efeito de finta. Espadas curtas, adagas de arremesso, dardos, arcos curtos, arcos curtos compostos, bestas leves, fundas, porretes e ataques desarmados causam um dado extra de dano de ataque furtivo. Adagas de combate corpo a corpo causam dois dados extras de dano de ataque furtivo.
+* Ataque Furtivo (Sneak Attack): Ladinos podem realizar ataques furtivos em inimigos para causar 1d6 de dano adicional, mais 1d6 a cada 2 níveis após o nível 1. Um ataque conta como um ataque furtivo se atingir um inimigo pelas costas, se ocorrer dentro de 2 segundos após sair do modo furtivo ou invisível, ou se o alvo estiver paralisado, imobilizado, atordoado, dormindo, confuso, imbecilidade, agarrado ou sob efeito de finta. Espadas curtas, adagas de arremesso, dardos, arcos curtos, arcos curtos compostos, bestas leves, fundas, porretes e ataques desarmados causam um dado extra de dano de ataque furtivo. Adagas de combate corpo a corpo causam dois dados extras de dano de ataque furtivo.
 
 * 2º nível: Evasão (Evasion): Quando um ladino atinge o 2º nível, ele ou ela ganha a habilidade de evadir dano de magias de área de efeito. Sempre que um ladino obtiver sucesso em um teste de Reflexos contra uma magia de área que permite um teste de Reflexos para reduzir o dano à metade, ele não sofre dano.
 

@@ -105,7 +105,7 @@ Nível 17+: 1d8+5
 * 5º nível: Pureza do Corpo. O monge adquire controle sobre o sistema imunológico do seu corpo, tornando-se imune a todas as doenças.
 * 7º nível: Plenitude Corporal. O monge pode recuperar pontos de vida iguais ao seu nível de monge multiplicado pelo seu modificador de Sabedoria uma vez por dia a cada sete níveis.
 * 9º nível: Esquiva Aprimorada. O monge recebe o talento Evasão Aprimorada, normalmente disponível apenas para ladinos.
-* 10º nível: Passo Abundante. O monge pode se teletransportar para qualquer local à vista uma vez por dia.
+* 10º nível: Passo Etéreo. O monge pode se teletransportar para qualquer local à vista uma vez por dia.
 * 11º nível: Corpo de Diamante. O monge possui tal controle sobre seu próprio metabolismo que adquire imunidade a todos os tipos de veneno.
 * 13º nível: Alma de Diamante. O monge ganha resistência a magia. Sua resistência a magia é igual ao seu nível + 10. Para afetar o monge com uma magia, um conjurador deve rolar um resultado igual ou 'superior à resistência a magia do monge em 1d20 + o nível do conjurador.
 * 15º nível: Palma Vibrante. Este ataque aterrador permite ao monge criar vibrações no corpo de outra criatura que podem ser fatais. Na próxima vez que o monge acertar uma criatura com um ataque desarmado, o alvo morre, a menos que seja bem-sucedido em um teste de resistência de Fortitude (CD 10 + modificador de Sabedoria + metade do nível do monge). Construtos e mortos-vivos não são 'afetados. O monge ganha um uso adicional de Palma Vibrante a cada seis níveis subsequentes.
@@ -397,7 +397,7 @@ Esta magia concede ao conjurador uma redução de dano de 10/- contra dano de conc
 @100272=~Ah, é mesmo! É assim que você se sente em relação a um entretenimento clássico e de qualidade???? Suma daqui, infiel!~
 @100273=~Ei, você não acha que está levando isso um pouco a sério demais?~
 @100274=~Tudo bem.~
-@100275=~Mostramos o pergaminho de enxofre carbonizado que pegamos dos sapadores goblins para Lady Elytharra, e ela nos disse que era um de um par de pergaminhos. Contanto que o usuário tenha algum conhecimento de magia, ele pode teletransportar o portador do segundo pergaminho (e os aliados do portador, presumivelmente) para a localização do primeiro. O que significa que alguém na cidade teletransportou os goblins para as cavernas sob o armazém. Devemos ver se conseguimos encontrar esse traidor e então contar a Elytharra.~
+@100275=~Mostramos o pergaminho de enxofre carbonizado que pegamos dos escavadores goblins para Lady Elytharra, e ela nos disse que era um de um par de pergaminhos. Contanto que o usuário tenha algum conhecimento de magia, ele pode teletransportar o portador do segundo pergaminho (e os aliados do portador, presumivelmente) para a localização do primeiro. O que significa que alguém na cidade teletransportou os goblins para as cavernas sob o armazém. Devemos ver se conseguimos encontrar esse traidor e então contar a Elytharra.~
 @100276=~Mostramos a garrafa tocada por fantasmas de Cahl-Hyred à Senhora Elytharra, e ela nos disse que a garrafa poderia ser usada para armazenar parte da substância do plano etéreo. Se conseguíssemos obter um pouco desse material do plano etéreo e colocá-lo dentro da garrafa, ele poderia ser usado para encantar um item ou uma arma. Vale a pena investigar.~
 @100277=~Durante nossa conversa com Elytharra, nos ocorreu que poderíamos colocar algumas das lágrimas do espírito da Viúva Chorona na garrafa tocada pelo fantasma.~
 @100278=~Eu insultei Testocles~
@@ -557,7 +557,7 @@ Esta magia concede ao conjurador uma redução de dano de 10/- contra dano de conc
 @100432=~Prazer em conhecê-lo(a), forasteiro(a). Sou Lady Elytharra, esposa de Lorde Ulbrec. Você é um dos recém-chegados de Luskan?~
 @100433=~Sim, somos, mas estamos procurando por Lorde Ulbrec. Há goblins atacando os cais e precisamos reunir a Guarda de Targos para repeli-los.~
 @100434=~De fato. Viemos oferecer nossos serviços ao senhor de Targos.~
-@100435=~Tenho um pergaminho aqui que peguei de um dos sapadores goblins. Você poderia identificá-lo para mim?~
+@100435=~Tenho um pergaminho aqui que peguei de um dos escavadores goblins. Você poderia identificá-lo para mim?~
 @100436=~Você pode me dizer para que este pergaminho de enxofre poderia ter sido usado?~
 @100437=~Quando Phaen viu o pergaminho de enxofre em nossa posse, ele nos atacou. Parece que ele estava por trás do ataque aos Docks.~
 @100438=~Conseguimos ajudar Valin. Ele foi curado e recuperou a consciência.~
@@ -846,7 +846,7 @@ Tipo: Duas Mãos
 ~
 @100616=~Cartas de Denham~
 @100617=~Cartas de Denham~
-@100618=~Estas cartas estão escritas em pergaminho semelhante ao de Garradun, com selos de cera parecidos. Uma é endereçada ao comandante das forças de socorro de Luska e a outra ao Capitão Mariner, das forças de socorro de Neverwinter. Denham disse que, se o Capitão Mariner não respeitasse os desejos do falso Garradun de entregar a carta à sua amada, ele teria uma "surpresa ardente".
+@100618=~Estas cartas estão escritas em pergaminho semelhante ao de Garradun, com selos de cera parecidos. Uma é endereçada ao comandante das forças de socorro de Luskan e a outra ao Capitão Mariner, das forças de socorro de Neverwinter. Denham disse que, se o Capitão Mariner não respeitasse os desejos do falso Garradun de entregar a carta à sua amada, ele teria uma "surpresa ardente".
 Peso: 0 lb.
 ~
 @100619=~Carta de Garradun~
@@ -1020,7 +1020,7 @@ Esta magia causa uma doença grave e fraqueza em uma criatura. O indivíduo afetad
 @100743=~O Cão Salgado~
 @100744=~"Vejam?! Aqui estão os intrusos. Matem-nos e deem uma recompensa a Pondmuk!"~
 @100745=~Perguntamos a Gohar se ele conhecia o marido de Viera, Donovan, e ele disse que o homem havia falecido anos atrás. Ele ainda tinha um pedaço do barco de Donovan que foi parar na praia, e nos deu. Podemos levá-lo para Viera e trazer paz ao seu coração.~
-@100746=~Olá, querida; meu nome é Gohar - bem-vinda ao Salty Dog. O que vai querer?~
+@100746=~Olá, querida; meu nome é Gohar - bem-vinda ao Lobo do Mar. O que vai querer?~
 @100747=~Você resgatou Sabrina Fairwynd dos sacerdotes Malaritas.~
 @100748=~Você encontrou o caminho que leva a Shaengarne Ford.~
 @100749=~Você encontrou uma maneira de liberar o bloqueio de toras.~
@@ -2403,15 +2403,15 @@ Tipo: Duas mãos
 @101502=~Encontramos uma "companhia de aventureiros" chamada Bando da Coleira de Ferro, um bando maltrapilho de mercenários bêbados. Eles estavam no Lobo do Mar, tão beligerantes e embriagados que nem sequer ouviram o alarme. Se esses são os tipos de soldados que atenderam ao chamado de Targos, então a cidade está em apuros tanto internos quanto externos.~
 @101503=~Conversamos com o Bando da Coleira de Ferro e dissemos que eles eram necessários no armazém, mas eles riram de nós e mandaram a gente embora antes que nos dessem uma lição. Parece que Brogan vai ter que se virar sem as espadas deles.~
 @101504=~~
-@101505=~Os mercenários da Coleira de Ferro mencionaram que havia mais dois em sua banda - um sacerdote chamado Koluhm Cortador de Ossos, que, segundo eles, podia falar com os mortos, e um mago vestido com trapos chamado Phaen.~
+@101505=~Os mercenários da Coleira de Ferro mencionaram que havia mais dois em seu bando - um sacerdote chamado Koluhm Cortador de Ossos, que, segundo eles, podia falar com os mortos, e um mago vestido com trapos chamado Phaen.~
 @101506=~Mantendo a calma, conseguimos convencer os mercenários da Coleira de Ferro a se apresentarem na Paliçada para o serviço.~
-@101507=~Você convenceu a banda mercenária da Coleira de Ferro a se apresentar na Paliçada.~
+@101507=~Você convenceu o bando mercenário da Coleira de Ferro a se apresentar na Paliçada.~
 @101508=~Fica ainda melhor... então a garota atrevida pensa que vai me atacar, é? Então ela agarra a garrafa e, com toda a força que ela...~
 @101509=~[HUSAM 13] ~
 @101510=~~
 @101511=~Eh - do que você está falando - hein? O que diabos *você* quer?~
-@101512=~Você é da banda mercenária Coleira de Ferro? Shawford Crale quer que você se apresente imediatamente na Paliçada.~
-@101513=~Você é da banda mercenária Coleira de Ferro? Eles prenderam alguns saqueadores goblins dentro de um dos armazéns ao longo das docas e precisam da sua ajuda para expulsá-los.~
+@101512=~Você é do bando mercenário Coleira de Ferro? Shawford Crale quer que você se apresente imediatamente na Paliçada.~
+@101513=~Você é da bando mercenário Coleira de Ferro? Eles prenderam alguns saqueadores goblins dentro de um dos armazéns ao longo das docas e precisam da sua ajuda para expulsá-los.~
 @101514=~Você já ouviu falar dos saqueadores goblins? Dizem que há um grupo deles dentro da cidade.~
 @101515=~Você ouviu falar dos saqueadores goblins? Havia um bando deles solto pela cidade.~
 @101516=~Nada - preciso ir. Adeus.~
@@ -4296,7 +4296,7 @@ Tipo: Uma mão
 @102605=~["Está tudo bem."]É um lugar razoável. Com certeza haverá alguns mercenários por lá que podem te dizer para onde ir e com quem falar se você estiver procurando por um pouco de ouro. [Aviso ao jogador]Talvez eles até te desencorajem dessa besteira em que você está se metendo.~
 @102606=~Onde fica a Taverna Lobo do Mar?~
 @102607=~Então você vai embora?~
-@102608=~[Dando instruções] Fica logo perto do cais - dê um ou dois passos para a esquerda e você estará na porta do Dog. [Acabou de perceber que está mandando um cordeiro para a toca dos lobos] Só tome cuidado lá dentro; pode ficar um pouco difícil.~
+@102608=~[Dando instruções] Fica logo perto do cais - dê um ou dois passos para a esquerda e você estará na porta da estalagem. [Acabou de perceber que está mandando um cordeiro para a toca dos lobos] Só tome cuidado lá dentro; pode ficar um pouco difícil.~
 @102609=~Não agora. Temos carga para descarregar, então você pode não me ver pela última vez. [Em tom de brincadeira] Além disso, você ainda pode mudar de ideia quando subir o penhasco e vir [Tar-gohs]Targos por si mesmo.~
 @102610=~Carga?~
 @102611=~[Em tom de brincadeira, brincando] Sim, a carga que está aqui falando comigo agora. Some daqui! Se você está procurando fortuna, não a encontrará nos conveses da A malvada.~
@@ -4315,7 +4315,7 @@ Tipo: Uma mão
 @102624=~Infligir Ferimentos Graves~
 @102625=~[Pensando]Bem, você gostaria de ver o senhor deste lugar, [Uhl-brek]Ulbrec é o nome dele. [Não se importa muito com a realeza]Um bom sujeito... para um senhor.~
 @102626=~Onde posso encontrar Lorde Ulbrec?~
-@102627=~Escale os penhascos até a cidade principal - ele certamente estará em uma das mansões lá em cima. Agarre um dos moradores locais, eles podem guiá-lo melhor do que eu.~
+@102627=~Escale os penhascos até a cidade principal - ele certamente estará em uma das mansões lá em cima. Converse com um dos moradores locais, eles podem guiá-lo melhor do que eu.~
 @102628=~Desintegrar~
 @102629=~Tudo bem. Obrigado pela sua ajuda, Hedron.~
 @102630=~[Sinto muito em ver os jogadores partirem, acena para eles]Pah, vocês podem me agradecer não seguindo ordens tolas e voltando inteiros. Como hóspedes, vocês foram santos a bordo do meu navio - tenho um lugar para vocês se precisarem.~
@@ -5304,7 +5304,7 @@ Peso: 7 kg (14 lb).
 Requisito de Talento: Arma Marcial, Arma de Haste
 Tipo: Duas mãos
 ~
-@103110=~Este desabamento parece ter ocorrido recentemente. Esta pode ter sido a passagem por onde vieram os sapadores goblins.~
+@103110=~Este desabamento parece ter ocorrido recentemente. Esta pode ter sido a passagem por onde vieram os escavadores goblins.~
 @103111=~Névoa Vampírica~
 @103112=~Névoa Vampírica~
 @103113=~Guepardo~
@@ -7420,7 +7420,7 @@ Tipo: Uma mão
 @104655=~Espectador~
 @104656=~Espectador~
 @104657=~Eh? Um ataque nas *docas?!* O quê? Eles vieram de navio? Não houve nenhum aviso da Paliçada!~
-@104658=~Acreditamos que os sapadores goblins cavaram túneis em algumas cavernas nos penhascos e emergiram atrás da muralha de Targos.~
+@104658=~Acreditamos que os escavadores goblins cavaram túneis em algumas cavernas nos penhascos e emergiram atrás da muralha de Targos.~
 @104659=~Não temos certeza, mas eles precisam de ajuda nas docas.~
 @104660=~Não posso deixar meu posto. Você deve notificar Lorde Ulbrec imediatamente! Vou enviar um chamado aos soldados na Paliçada, caso os goblins estejam planejando atacar a muralha também. Vá! Agora!~
 @104661=~Onde posso encontrar Ulbrec?~
@@ -9986,7 +9986,7 @@ Tipo: Uma mão
 @106219=~Emerson~
 @106220=~[Um pouco apologético, mas não demais] Peço desculpas pela minha grosseria quando você chegou. Esses ataques de goblins têm testado minha paciência, e não poderiam ter vindo em pior hora.~
 @106221=~Preciso saber como esses goblins conseguiram chegar aos cais sem serem detectados. Não houve nenhum aviso das Paliçadas, e eles não foram vistos passando pela cidade principal.~
-@106222=~Encontramos um ninho deles em um labirinto de cavernas nos penhascos de Targos. Parece que os sapadores goblins conseguiram cavar um túnel até um dos armazéns e realizar um ataque surpresa.~
+@106222=~Encontramos um ninho deles em um labirinto de cavernas nos penhascos de Targos. Parece que os escavadores goblins conseguiram cavar um túnel até um dos armazéns e realizar um ataque surpresa.~
 @106223=~Nalin~
 @106224=~[Irritado por ter deixado isso passar]Droga... Eu ordenei que aquelas cavernas fossem seladas logo depois de expulsarmos os contrabandistas de [Mare Dwahl-don]Maer Dualdon, mas parece que aqueles goblins os encontraram mesmo assim.~
 @106225=~Brage~
@@ -12750,12 +12750,12 @@ Esta magia cura todas as criaturas amigáveis ??dentro da área de efeito em 1d8 +
 ~
 @107470=~A cidade tem comprado madeira aos montes - eu mesmo trouxe um pouco rio abaixo de Lonelywood. É para a nova paliçada - corre o boato de que mais goblinoides estão se reunindo na natureza, e o pequeno lorde de Targos está sendo cauteloso... prudente para um cidadão da cidade, eu diria.~
 @107471=~O que mais você ouviu?~
-@107472=~A cidade está em alerta por causa dos sapadores goblins nos cais e por causa de Bremen - você viu o que sobrou depois do ataque dos goblins, não viu? Heh... e eu estava planejando ir lá buscar alguns tecidos para vender em Lonelywood. Parece que vou ficar mais um tempo em Targos agora, né? Ha!~
+@107472=~A cidade está em alerta por causa dos escavadores goblins nos cais e por causa de Bremen - você viu o que sobrou depois do ataque dos goblins, não viu? Heh... e eu estava planejando ir lá buscar alguns tecidos para vender em Lonelywood. Parece que vou ficar mais um tempo em Targos agora, né? Ha!~
 @107473=~Hum... é... sim, isso mesmo, capitão.~
 @107474=~~
 @107475=~Fale com o Capitão Mariner - ele pode responder a todas as suas perguntas.~
 @107476=~Adeus, então.~
-@107477=~O Sargento Rahm Dammel pretende liderar suas tropas de Luska para o norte, do Passo Ocidental até Targos, enquanto o Capitão Ingrath Mariner retornará a Neverwinter para buscar reforços urgentemente necessários. Ingrath disse que se encontraria conosco mais tarde nos Lagos de Gelo, a caminho do Passo Oriental.~
+@107477=~O Sargento Rahm Dammel pretende liderar suas tropas de Luskan para o norte, do Passo Ocidental até Targos, enquanto o Capitão Ingrath Mariner retornará a Neverwinter para buscar reforços urgentemente necessários. Ingrath disse que se encontraria conosco mais tarde nos Lagos de Gelo, a caminho do Passo Oriental.~
 @107478=~Prazer em conhecê-lo. Com a partida do Capitão Yurst, estou liderando as lanças de Luska. Tentamos romper essa maldita geleira, mas o gelo continuava crescendo. Imagino que devemos a todos vocês por nos impedirem, não é?~
 @107479=~Sim, as sacerdotisas Aurilitas estão mortas e seu altar destruído. Sem o poder deles, a geleira acabará derretendo completamente.~
 @107480=~Palavra de Poder: Sono~
@@ -14170,7 +14170,7 @@ Esta magia fortalece a mente do conjurador contra qualquer influência externa. E
 ~
 @108102=~Bad Bessie~
 @108103=~Bad Bessie~
-@108104=~Protegido por Escudo Divino~
+@108104=~Protegido por Concha Divina~
 @108105=~Flechas Alvo~
 @108106=~Estas são flechas de excelente qualidade. Fabricadas pelos melhores artesãos para competição em torneios. Flechas deste tipo são projetadas para voos mais longos e maior precisão. Infelizmente, elas não possuem nenhuma capacidade de penetrar armaduras ou peles grossas.
 ESTATÍSTICAS:
@@ -14789,7 +14789,7 @@ Tipo: Duas mãos
 @108558=~Maul~
 @108559=~Maul~
 @108560=~Você encontrou a chave da saída e contou para Gareth. ~
-@108561=~"Três. Acabamos de enviar uma para o Salty Dog."~
+@108561=~"Três. Acabamos de enviar uma para o Lobo do Mar."~
 @108562=~Você se revelou para Joril. ~
 @108563=~Você enganou Joril para que ele entregasse seu distintivo. ~
 @108564=~Esta poderosa arma consiste em um cabo de vários metros de comprimento, com uma lâmina pesada na ponta. O machado pode ter duas lâminas, em ambos os lados do cabo, ou apenas uma. É uma arma difícil de manejar, mas um guerreiro habilidoso pode desferir golpes de tremenda força com ela.~
@@ -15073,9 +15073,9 @@ Peso: 5 kg (10 lb).
 Talento Necessário: Arma Marcial, Machado
 Tipo: Duas mãos
 ~
-@108744=~Armadilha Natural Ativada~
+@108744=~Colocar Armadilha Natural~
 @108745=~[sem texto]~
-@108746=~Armadilha Natural Ativada
+@108746=~Colocar Armadilha Natural
 Set Natural Snare (Transmutação)
 Nível: 1
 Alcance: Visão do Conjurador
@@ -16445,8 +16445,8 @@ Vantagens:
 * Os rangers podem lutar com duas armas como se tivessem os talentos Ambidestria e Combate com Duas Armas, se estiverem usando apenas armadura leve ou nenhuma armadura.
 * 2º nível: Conjuração. Os rangers ganham a habilidade de conjurar magias.
 * 6º nível: O ranger pode escolher o talento Ataque Giratório, desde que atenda ao requisito de Destreza, ignorando todos os outros requisitos.
-* 6º nível: Armar Armadilha Natural. Esta habilidade arma uma armadilha que, quando acionada por um inimigo, aprisiona todos os inimigos em um raio de 6 metros por 5 rodadas, caso o teste de Reflexos falhe. A CD do teste é 6 mais a perícia Conhecimento da Natureza do ranger. O ranger ganha um uso adicional de Armar Armadilha Natural a cada 6 níveis após o 6º.
-* 7º nível: Passos na Floresta. O ranger torna-se imune a Enredar, Teia e Crescimento de Espinhos.
+* 6º nível: Armar Armadilha Natural. Esta habilidade arma uma armadilha que, quando acionada por um inimigo, emaranha todos os inimigos em um raio de 6 metros por 5 rodadas, caso o teste de Reflexos falhe. A CD do teste é 6 mais a perícia Conhecimento da Natureza do ranger. O ranger ganha um uso adicional de Armar Armadilha Natural a cada 6 níveis após o 6º.
+* 7º nível: Passos na Floresta. O ranger torna-se imune a Emaranhar, Teia e Crescer Espinho.
 * 9º nível: O ranger pode escolher os talentos Combate com Duas Armas Aprimorado e Tiro Múltiplo, mesmo que não atenda aos pré-requisitos.
 * 15º nível: O ranger pode escolher os talentos Combate com Duas Armas Aprimorado e Tiro Múltiplo uma segunda vez, algo que nenhuma outra classe pode fazer.
 
@@ -16515,7 +16515,7 @@ Pontos de Vida por Nível: 1-8
 Vantagens:
 * Proficiente com todas as armas simples, exceto a besta, as armas marciais espada grande e alabarda, além de armaduras leves, armaduras médias e escudos.
 * Druidas podem conjurar poderosas magias ofensivas e de cura.
-* 2º nível: Passos da Floresta. O druida torna-se imune a Enredar, Teia e Crescimento de Espinhos.
+* 2º nível: Passos da Floresta. O druida torna-se imune a Emaranhar, Teia e Crescer Espinho.
 * No 5º nível, os Druidas começam a adquirir habilidades de Forma Selvagem, que lhes permitem se transformar em animais, bestas mágicas, elementais e outras formas. Em níveis mais altos, os Druidas ganham opções adicionais de formas e podem usar a Forma Selvagem mais vezes por dia.
 * 5º nível: Forma Selvagem: Lobo Invernal. O druida adquire a habilidade de se transformar em um lobo invernal. Enquanto estiver na forma de lobo invernal, o druida é imune ao frio e pode atacar uma vez por rodada com o hálito gélido do lobo invernal, que causa 4d4 de dano de frio (Reflexos CD 10 para metade). A cada 5 níveis subsequentes, o dano do hálito aumenta em 2d4 e a CD do teste de resistência aumenta em 5.
 * 5º nível: O Druida tem nível suficiente para escolher dois talentos especiais: Forma Selvagem: Cão Teleportador (Blink Dog) e Forma Selvagem: Destruição Rastejante (Creeping Doom).
@@ -16776,21 +16776,21 @@ A Inteligência afeta a potência das magias de um mago (quão difícil é para alvos
 
 Pontuação: CD da Magia do Mago & Pontos de Perícia & Modificador de Perícia*, Nível Máximo de Magia do Mago.
 
-1:       -5   
+1:         -5   
 2-3:     -4 
 4-5:     -3 
 6-7:     -2  
 8-9:     -1   
 10:       0  
-11:       0   1 Nível
-12:       +1   2 Nível
-13:       +1   3 Nível
-14:       +2   4 Nível
-15:       +2   5 Nível
-16:       +3   6 Nível
-17:       +3   7 Nível
-18:       +4   8 Nível
-19:       +4   9 Nível
+11:       0       1 Nível
+12:       +1      2 Nível
+13:       +1      3 Nível
+14:       +2      4 Nível
+15:       +2      5 Nível
+16:       +3      6 Nível
+17:       +3      7 Nível
+18:       +4      8 Nível
+19:       +4      9 Nível
 20-21:     +5   9 Nível
 22-23:     +6   9 Nível
 24-25:     +7   9 Nível
@@ -16810,7 +16810,7 @@ Pontuação: Magias Arcanas Bônus do Mago (1º/2º/3º/etc.)
 24-25:     2/2/2/1/1/1/1/0/0
 26-27:     2/2/2/2/1/1/1/1/0
 28-29:     3/2/2/2/2/1/1/1/1
-30:       3/3/2/2/2/2/1/1/1
+30:           3/3/2/2/2/2/1/1/1
 
 * Aplica-se a Alquimia, Avaliação, Concentração, Desativar Dispositivo, Conhecimento (Arcano), Procurar e Conhecimento de Magia.
 ~
@@ -16822,27 +16822,27 @@ A Sabedoria afeta a potência das magias divinas de um clérigo, druida, paladino 
 
 Pontuação: CD da Magia Divina & Teste de Vontade & CA do Monge & Modificador de Conhecimento da Natureza, Nível Máximo da Magia Divina.
 
-1:       -5   
+1:        -5   
 2-3:     -4 
 4-5:     -3 
 6-7:     -2  
 8-9:     -1   
 10:       0  
-11:       0   1 Nível
-12:       +1   2 Nível
-13:       +1   3 Nível
-14:       +2   4 Nível
-15:       +2   5 Nível
-16:       +3   6 Nível
-17:       +3   7 Nível
-18:       +4   8 Nível
-19:       +4   9 Nível
+11:       0        1 Nível
+12:       +1      2 Nível
+13:       +1      3 Nível
+14:       +2      4 Nível
+15:       +2      5 Nível
+16:       +3      6 Nível
+17:       +3      7 Nível
+18:       +4      8 Nível
+19:       +4      9 Nível
 20-21:     +5   9 Nível
 22-23:     +6   9 Nível
 24-25:     +7   9 Nível
 26-27:     +8   9 Nível
 28-29:     +9   9 Nível
-30:       +10   9 Nível
+30:          +10   9 Nível
 
 Pontuação: Magias Divinas Bônus (1º/2º/3º/etc.)
 
@@ -16856,9 +16856,9 @@ Pontuação: Magias Divinas Bônus (1º/2º/3º/etc.)
 24-25:     2/2/2/1/1/1/1/0/0
 26-27:     2/2/2/2/1/1/1/1/0
 28-29:     3/2/2/2/2/1/1/1/1
-30:       3/3/2/2/2/2/1/1/1
+30:           3/3/2/2/2/2/1/1/1
 ~
-@109587=~CARISMA (Car):
+@109587=~CARISMA (Cha):
 
 Carisma mede a força da personalidade de um personagem, sua capacidade de persuasão, magnetismo pessoal e habilidade de liderança. Carisma é mais importante para paladinos, feiticeiros e bardos, embora também ajude clérigos a expulsar mortos-vivos.
 
@@ -16872,21 +16872,21 @@ Carisma Pontuação: CD e Modificador de Perícia* de Magia de Bardo e Feiticeiro, 
 6-7:     -2   +6%  
 8-9:     -1   +3%   
 10:       0   +0%  
-11:       0   +0%   1 Nível
-12:       +1   -3%   2 Nível
-13:       +1   -3%   3 Nível
-14:       +2   -6%   4 Nível
-15:       +2   -6%   5 Nível
-16:       +3   -9%   6 Nível
-17:       +3   -9%   7 Nível
-18:       +4   -12%   8 Nível
-19:       +4   -12%   9 Nível
+11:       0   +0%        1 Nível
+12:       +1   -3%      2 Nível
+13:       +1   -3%      3 Nível
+14:       +2   -6%      4 Nível
+15:       +2   -6%      5 Nível
+16:       +3   -9%      6 Nível
+17:       +3   -9%      7 Nível
+18:       +4   -12%     8 Nível
+19:       +4   -12%      9 Nível
 20-21:     +5   -15%   9 Nível
 22-23:     +6   -18%   9 Nível
 24-25:     +7   -21%   9 Nível
 26-27:     +8   -24%   9 Nível
 28-29:     +9   -27%   9 Nível
-30:       +10   -30%   9 Nível
+30:          +10   -30%   9 Nível
 
 Pontuação: Magias Bônus de Bardo e Feiticeiro (1ª/2ª/3ª/etc.)
 
@@ -16900,7 +16900,7 @@ Pontuação: Magias Bônus de Bardo e Feiticeiro (1ª/2ª/3ª/etc.)
 24-25:     2/2/2/1/1/1/1/0/0
 26-27:     2/2/2/2/1/1/1/1/0
 28-29:     3/2/2/2/2/1/1/1/1
-30:       3/3/2/2/2/2/1/1/1
+30:           3/3/2/2/2/2/1/1/1
 * Aplica-se a Empatia Animal, Blefe, Diplomacia, Intimidação e Usar Instrumento Mágico.
 ~
 @109588=~Você recebeu <number> proficiências iniciais para o seu personagem. Escolha, na lista acima, qualquer uma das proficiências destacadas. Se o seu personagem for um guerreiro, ele poderá escolher a mesma proficiência duas vezes. Isso lhe concederá especialização com as armas listadas. Lembre-se de que um personagem pode usar qualquer arma disponível para sua raça e classe, independentemente de ter proficiência com ela ou não. No entanto, se ele atacar usando uma arma com a qual não possui proficiência, sofrerá uma penalidade na sua jogada de ataque.~
@@ -17198,7 +17198,7 @@ Peso: 12,5 kg (25 lb).
 @109810=~Cahl-Hyred, o estalajadeiro, disse que você saiu da estalagem sem pagar.~
 @109811=~Você pode nos dizer qual é a poção que deu a Cahl-Hyred?~
 @109812=~Você pode nos dizer algo sobre o espírito que assombra a Estalagem da Viúva Chorona?~
-@109813=~A banda mercenária Coleira de Ferro disse que você estava hospedado na Estalagem da Viúva Chorona... por que você está? Aqui?~
+@109813=~O bando mercenário Coleira de Ferro disse que você estava hospedado na Estalagem da Viúva Chorona... por que você está? Aqui?~
 @109814=~Quem são esses mercenários da Coleira de Ferro de que você fala?~
 @109815=~Então você disse que viajou para cá com o bando de mercenários da Coleira de Ferro?~
 @109816=~Você conhece alguém chamado Phaen?~
@@ -18452,8 +18452,8 @@ Peso: 1 kg (2 lb).
 @110780=~Retornamos a Shawford e contamos a ele que havíamos conseguido as flechas que Isherwood precisava. Ele nos agradeceu e nos enviou para nossa próxima missão. Ele quer que falemos com Koluhm na cidade e descubramos o que o Sacerdote de Myrkul descobriu interrogando o cadáver de um goblin.~
 @110781=~Dissemos a Shawford que não podíamos falar com Koluhm porque ele havia morrido acidentalmente em uma briga conosco. Não dissemos exatamente assim - afinal, Shawford já tem com o que se preocupar sem nos colocar na forca. Ele aceitou bem e nos enviou para nossa próxima missão: ir até a Taverna Lobo do Mar e arrastar aqueles bêbados que se autodenominam Bando Mercenário de Coleira de Ferro até a Paliçada.~
 @110782=~Retornamos a Shawford depois de falar com Koluhm, e ele nos enviou para nossa próxima missão: ir à Taverna Lobo do Mar e arrastar aqueles bêbados que se autodenominam Bando Mercenário de Coleira de Ferro até a Paliçada.~
-@110783=~Contamos a Shawford que a banda Coleira de Ferro havia sofrido um infeliz... acidente enquanto tentávamos convencê-los a se apresentar para o serviço, e ele aceitou tudo com naturalidade, como se fosse o que esperava ouvir. Estranho. Mal tínhamos lhe contado o destino da banda Coleira de Ferro, quando ouvimos uma explosão do lado de fora, e a Paliçada estava sob ataque!~
-@110784=~Contamos a Shawford que havíamos pressionado a gangue Coleira de Ferro para que levassem suas peles inúteis para a Paliçada, e ele pareceu surpreso e grato pelos nossos esforços. Mal ele terminou de nos parabenizar quando ouvimos uma explosão do lado de fora, e a Paliçada estava sob ataque!~
+@110783=~Contamos a Shawford que o bando Coleira de Ferro havia sofrido um infeliz... acidente enquanto tentávamos convencê-los a se apresentar para o serviço, e ele aceitou tudo com naturalidade, como se fosse o que esperava ouvir. Estranho. Mal tínhamos lhe contado o destino da banda Coleira de Ferro, quando ouvimos uma explosão do lado de fora, e a Paliçada estava sob ataque!~
+@110784=~Contamos a Shawford que havíamos pressionado o Bando da Coleira de Ferro para que levassem suas peles inúteis para a Paliçada, e ele pareceu surpreso e grato pelos nossos esforços. Mal ele terminou de nos parabenizar quando ouvimos uma explosão do lado de fora, e a Paliçada estava sob ataque!~
 @110785=~Você cumpriu as ordens de Shawford.~
 @110786=~Você cumpriu as ordens de Shawford.~
 @110787=~Você cumpriu as ordens de Shawford da melhor maneira possível.~
@@ -19218,7 +19218,7 @@ Esta magia imbuí as mãos do conjurador com energia negativa destrutiva que será 
 
 ~
 @111203=~O Velho Lorde Skull *sempre* chega mais cedo do que se pensa, sim - você é sábio em dizer isso, e eu lhe pediria que me perdoasse pelas minhas palavras, sim?~
-@111204=~A banda Coleira de Ferro, sim, somos de Cormyr. Tivemos que sair, sim, duas vezes.~
+@111204=~O bando Coleira de Ferro, sim, somos de Cormyr. Tivemos que sair, sim, duas vezes.~
 @111205=~Dano~
 @111206=~Cajado do Cone Glacial~
 @111207=~Por quê?~
@@ -19486,7 +19486,7 @@ Peso: 0,5 kg (1 lb).
 @111445=~Excelente; então vamos esperar e ver se algum dos anões consegue entender alguma coisa. Agora, sua próxima missão pode ser mais difícil. Você conhece o bando de Koluhm? Os mercenários da Coleira de Ferro?~
 @111446=~Ele está morto? Mas... hmmm. O ataque as Docas de Targos deve ter atingido áreas mais distantes da cidade do que eu imaginava. Mesmo assim, Koluhm era leal ao ouro, não a Targos, então talvez não seja uma grande perda. Muito bem... você conhece o bando de Koluhm? Os mercenários da Coleira de Ferro?~
 @111447=~Bem, considere-se com sorte. Em uma luta, eles são capazes, eu acho... se estivessem encurralados ou se alguém tentasse tirar o barril de cerveja deles, mas na maioria das vezes eles desperdiçam o dinheiro do Targos.~
-@111448=~Quero que você traga a Banda Mercenária Coleira de Ferro aqui para a Paliçada. Fui informado de que eles não compareceram ao seu turno na muralha, e providências precisam ser tomadas. No mínimo, é preciso dar um exemplo para manter a disciplina.~
+@111448=~Quero que você traga o Bando Mercenário Coleira de Ferro aqui para a Paliçada. Fui informado de que eles não compareceram ao seu turno na muralha, e providências precisam ser tomadas. No mínimo, é preciso dar um exemplo para manter a disciplina.~
 @111449=~Será um prazer; estou ansioso para quebrar alguns crânios desde que cheguei.~
 @111450=~E se as coisas ficarem violentas?~
 @111451=~Eu preferiria que eles trabalhassem nas muralhas com as outras companhias, mas se eles se mostrarem problemáticos, você pode lidar com eles como achar melhor. Na verdade, eles são sanguessugas de Targos, e talvez seja melhor ficarmos sem eles.~
@@ -19642,7 +19642,7 @@ Tipo: Uma mão
 @111504=~Meus ouvidos estão cansados e meu caneco está quase vazio, Geoffrey - é melhor você pagar a próxima rodada quando terminar sua história. O que aconteceu depois?~
 @111505=~~
 @111506=~Ah, que droga! Você de novo não. Vá para a corte de bobos da corte de onde você saiu.~
-@111507=~Estranho, talvez você não saiba com quem está falando, mas nós somos a *Banda da Gola de Ferro*, uma companhia de aventureiros - diretamente de Cormyr.~
+@111507=~Estranho, talvez você não saiba com quem está falando, mas nós somos o *Bando da Coleira de Ferro*, uma companhia de aventureiros - diretamente de Cormyr.~
 @111508=~Agora suma da nossa vista - volte para o cão sarnento que te pariu, ou você vai encontrar mais problemas do que meros goblins.~
 @111509=~Embora eu nunca vá saber como viemos parar aqui. Este é o pior contrato que já aceitamos - a cerveja aqui é tão aguada que poderiam muito bem estar servindo em barris de água da chuva.~
 @111510=~E aquele mago que encontramos em Luskan - Phaen, embora o tribunal ainda esteja deliberando sobre ele. Ele se juntou a nós, sugeriu que viéssemos para cá para encher nossos bolsos com ouro fácil - o pior erro que já cometemos.~
@@ -25264,7 +25264,7 @@ Os monges do Corvo Negro ainda vivem na cordilheira, seus números oscilando ao l
 À medida que as planícies davam lugar às colinas, o vento se transformava em um vendaval. Meu tio já tinha visto tempestades surgirem rapidamente, mas aquela que desceu da Espinha do Mundo era como um raio de um deus furioso. Ele conseguiu escapar do que acreditava ser a pior das tempestades enquanto sobrevoava as colinas e avisava os aventureiros para se abrigarem. Quando os olhos do meu tio se ergueram por entre a neve derretida que corria pelo convés, ele avistou uma parede de gelo no cânion de pedra que era a Passagem Ocidental. Mulheres selvagens chicoteavam as mãos em padrões mágicos sobre a barreira congelada, seus mantos brancos como a neve mal cobrindo a pele coberta de gelo. Meu tio engasgou ao ouvir o balão estourar e rasgar acima dele. Ele não falou sobre isso por anos depois, mas eventualmente me contou o que mais o assustou antes do navio se chocar contra as colinas. Foi o silêncio, disse ele. Quando o navio caiu, as mulheres selvagens relaxaram e congelaram na parede, a tempestade se dissipou num instante. Não havia som, nem movimento, apenas o rosto de Faerûn se erguendo para recebê-lo.
 ~
 @114453=~Lembro-me de quando Iselore me levou para ver os javalis no rio Shaengarne, vinte anos após o fim da guerra. Não havia sinal dos Malaritas, nem da floresta devastada, o campo de tocos em veios lamacentos que se estendia por quilômetros. Era um cemitério para a placidez que os madeireiros da região conheceram. Em vez de manter a terra marcada como uma lembrança dos tempos horríveis, os aldeões a restauraram com afinco. Ainda bem que nunca vi o que ela se tornou durante aqueles dias sombrios. Tio Oswald a viu do céu, e os mercenários de Targos a viram do próprio rio congelado. Saturado de madeira e gelo de Lonelywood, o Shaengarne estava completamente paralisado. Os danos não eram aparentes na tundra, nem as feras selvagens que se escondiam sob os galhos pesados dos pinheiros.~
-@114454=~Tio Oswald disse que Maer Dualdon estava repleto de pores do sol naquele dia. Tantos navios subindo o Shaengarne foram incendiados pelas hordas de goblins que queimaram até a linha dágua em fila, como um bando de gansos em chamas. Alguns saltaram ao mar e tentaram nadar até a costa, apenas para serem abatidos por orcs quando chegaram. Outros se agarraram aos enormes infernos e foram inevitavelmente consumidos pelas chamas. O resto caiu nas profundezas geladas, flocos de neve que caíam dos ombros da morte enquanto ela dava de ombros sobre o vale. Tantos já haviam morrido nos ataques que a ausência das forças de Luska foi apenas um suspiro, uma vírgula no que seria uma longa história.
+@114454=~Tio Oswald disse que Maer Dualdon estava repleto de pores do sol naquele dia. Tantos navios subindo o Shaengarne foram incendiados pelas hordas de goblins que queimaram até a linha dágua em fila, como um bando de gansos em chamas. Alguns saltaram ao mar e tentaram nadar até a costa, apenas para serem abatidos por orcs quando chegaram. Outros se agarraram aos enormes infernos e foram inevitavelmente consumidos pelas chamas. O resto caiu nas profundezas geladas, flocos de neve que caíam dos ombros da morte enquanto ela dava de ombros sobre o vale. Tantos já haviam morrido nos ataques que a ausência das forças de Luskan foi apenas um suspiro, uma vírgula no que seria uma longa história.
 Apenas alguns pequenos navios conseguiram chegar a Targos, onde meu tio observava das partes mais altas da cidade. Muitos aldeões estavam ocupados demais repelindo os inimigos na paliçada para notar alguns poucos retardatários que conseguiam entrar no porto. O sol queimava atrás da horda, lançando um manto de sombras sobre o coração de Targos e tudo o que ali se encontrava. Foi nessa sombra que mercenários incomuns foram lançados do navio do Capitão Hedron, a Criatura Perversa. Como muitos outros mercenários na cidade, esses poucos vieram de Luskan. Diferentemente dos outros, suas jornadas os levariam muito além das rudes paliçadas e dos campos sangrentos que se estendiam à sua frente...
 
 ~
@@ -26435,9 +26435,9 @@ Fator de velocidade: 9
 Tipo de proficiência: Machado
 Tipo: Duas mãos
 ~
-@114838=~<EXRRINFO>Estas são as estatísticas básicas que compõem seu personagem. Os valores mínimos e máximos variam um pouco, de acordo com os pré-requisitos de classe e raça. ~
+@114838=~Estas são as estatísticas básicas que compõem seu personagem. Os valores mínimos e máximos variam um pouco, de acordo com os pré-requisitos de classe e raça. ~
 @114839=~Você convenceu Caulder de que ele precisa da sua ajuda.~
-@114840=~<EXRRINFO>Estas são as estatísticas básicas que compõem seu personagem. Os valores mínimos e máximos variam um pouco, de acordo com os pré-requisitos de classe e raça. ~
+@114840=~Estas são as estatísticas básicas que compõem seu personagem. Os valores mínimos e máximos variam um pouco, de acordo com os pré-requisitos de classe e raça. ~
 @114841=~Você não pode aumentar mais essa habilidade.~
 @114842=~Você não pode diminuir mais essa habilidade.~
 @114843=~Grande Machado de Fogo +1~
@@ -27131,7 +27131,7 @@ Tipo: Uma mão
 @115151=~Dalok~
 @115152=~Preciso continuar treinando... aqueles goblins podem atacar a qualquer momento.~
 @115153=~A maioria dos soldados de Targos é treinada com a lança... mas carregam uma adaga ou um porrete no cinto por precaução.~
-@115154=~Conversamos com um anão idoso chamado Jorun Tamewater. Ele nos disse que suspeita que goblins sapadores tenham escavado túneis em algumas das antigas cavernas nos penhascos de Targos e emergido nas docas. Se for esse o caso, significa que há uma entrada para os túneis deles em algum lugar perto das docas - só precisamos encontrá-la. Jorun também nos disse que, se fôssemos cercados por goblins, deveríamos atraí-los de volta para perto dele, e ele nos ajudaria a derrotá-los.~
+@115154=~Conversamos com um anão idoso chamado Jorun Tamewater. Ele nos disse que suspeita que goblins escavadores tenham escavado túneis em algumas das antigas cavernas nos penhascos de Targos e emergido nas docas. Se for esse o caso, significa que há uma entrada para os túneis deles em algum lugar perto das docas - só precisamos encontrá-la. Jorun também nos disse que, se fôssemos cercados por goblins, deveríamos atraí-los de volta para perto dele, e ele nos ajudaria a derrotá-los.~
 @115155=~Deixe-me ir atrás deles!~
 @115156=~[DRIZZT DO'URDEN 11]~
 @115157=~[DRIZZT DO'URDEN 12]~
@@ -27397,7 +27397,7 @@ Esta magia permite ao conjurador invocar um elemental com 16 Dados de Vida do Pl
 @115397=~Não dá para saber ao certo, mas não ouvi nenhuma sirene de alerta vinda da paliçada. O que me preocupa é que eles *não* pularam o muro da cidade.~
 @115398=~Parece que eles escavaram túneis em antigas cavernas nos penhascos de Targos e os usaram para chegar aos cais.~
 @115399=~O que você quer dizer?~
-@115400=~Esses goblins carregavam picaretas - isso me diz que eram sapadores. Aqueles mordedores de tornozelo devem ter invadido algumas das antigas cavernas sob Targos e as usado para chegar aos cais. Isso não é nada bom.~
+@115400=~Esses goblins carregavam picaretas - isso me diz que eram escavadores. Aqueles mordedores de tornozelo devem ter invadido algumas das antigas cavernas sob Targos e as usado para chegar aos cais. Isso não é nada bom.~
 @115401=~Que cavernas antigas?~
 @115402=~Alguma ideia de onde fica o túnel deles?~
 @115403=~~
@@ -27517,7 +27517,7 @@ Peso: 0,5 kg (1 lb).
 @115463=~A maioria desses túneis era usada por contrabandistas ao longo do Dualdon anos atrás... parece que os goblins encontraram um deles que levava aos cais vindo de fora da Paliçada.~
 @115464=~Se ainda não o fez, deve contar a Ulbrec o que descobriu - ele é o porta-voz de Targos e deve saber que esses goblins não são apenas saqueadores.~
 @115465=~Raio Rubi da Reversão~
-@115466=~Esses goblins carregavam picaretas e martelos - o que significa que eram sapadores, e sapar significa tempo e planejamento. Alguém pensou nisso... há algum tempo.~
+@115466=~Esses goblins carregavam picaretas e martelos - o que significa que eram escavadores, e sapar significa tempo e planejamento. Alguém pensou nisso... há algum tempo.~
 @115467=~Gelo~
 @115468=~Hum. Boa observação. Vamos ver o que conseguimos descobrir - fique atento.~
 @115469=~Hum. Bom ponto. Adeus, Jorun.~
@@ -27594,7 +27594,7 @@ Peso: 0,5 kg (1 lb).
 @115540=~Não, pegue as armas e use-as para matar goblins, e isso já me basta. É para isso que elas foram feitas. Só tome cuidado com a armadilha no baú - ela não vai te matar, só vai te fazer desejar que tivesse matado.~
 @115541=~A armadilha será acionada se alguém arrombar a fechadura?~
 @115542=~Você tem alguma ideia de como os goblins entraram na cidade?~
-@115543=~Não deveria, contanto que você tente desarmar a armadilha antes de arrombar a fechadura. Um daqueles famosos ladrões de Luska deve ser capaz de fazer isso. E, ei, certifique-se de que todos os outros fiquem bem longe, caso estraguem o serviço, certo?~
+@115543=~Não deveria, contanto que você tente desarmar a armadilha antes de arrombar a fechadura. Um daqueles famosos ladrões de Luskan deve ser capaz de fazer isso. E, ei, certifique-se de que todos os outros fiquem bem longe, caso estraguem o serviço, certo?~
 @115544=~Resistências~
 @115545=~Fogo~
 @115546=~Frio~
@@ -30880,7 +30880,7 @@ Esta magia delineia uma criatura com um brilho pálido, tornando sua posição e mo
 @116982=~[Com raiva, depois com total desprezo]Não, eles *não* tremem, seu imbecil de raça pura-~
 @116983=~[Raiva frustrada]Cale a boca, [guth-muh]Guthma! Os humanos repeliram seus ataques patéticos. [Desprezo]Eles *não* tremem e agora estão cientes da nossa presença. O tempo para planejar já passou. [Convicção]Você deve liderar este exército até as Dez Cidades e destruí-las.~
 @116984=~[Raiva frustrada]Pare. Não *pense*. Chegou a hora de agir. [ameaçador]Basta saber o que acontecerá se continuar falhando. [mais pensativo]E pode não ser apenas a sua cabeça que estará na estaca da nossa legião... [ih-zair]Isair e [mah-day]Madae podem até me responsabilizar. [forte convicção]E isso eu NÃO permitirei!~
-@116985=~[irritado e desdenhoso] Depois do seu fracasso abissal com os sapadores enviados para Targos, e a vanguarda desperdiçada de tropas que se seguiu, *e* o fracasso total das suas forças na travessia do Vado de Shaengarne, acho extremamente difícil confiar em você.~
+@116985=~[irritado e desdenhoso] Depois do seu fracasso abissal com os escavadores enviados para Targos, e a vanguarda desperdiçada de tropas que se seguiu, *e* o fracasso total das suas forças na travessia do Vado de Shaengarne, acho extremamente difícil confiar em você.~
 @116986=~[Pai frustrado falando com uma criança]Este será seu último aviso, [guth-muh]Guthma. Eu concedo isso a pouquíssimos... Mas tenho assuntos urgentes a tratar com outras forças na minha frente ocidental.~
 @116987=~[desdenhoso]Não tenho mais paciência para discutir isso.~
 @116988=~[Raivoso, mas na defensiva, Share-in-kull] Sherincal, nós não falhamos. Causamos *muito* dano a Targos. Os humanos, eles tremem-~
@@ -31345,7 +31345,7 @@ O alinhamento se tornará oposto.
 Só pode ser removida por um feitiço de 'remover maldição'.
 Peso: 1 kg (2 lb).
 ~
-@117247=~<EXRRINFO>Estas são as estatísticas básicas que compõem seu personagem. Os valores mínimos e máximos variam um pouco, de acordo com os pré-requisitos de classe e raça. ~
+@117247=~Estas são as estatísticas básicas que compõem seu personagem. Os valores mínimos e máximos variam um pouco, de acordo com os pré-requisitos de classe e raça. ~
 @117248=~As habilidades representam uma variedade de capacidades, e você se torna melhor nelas à medida que sobe de nível. Você recebeu pontos de habilidade para distribuir entre suas habilidades.~
 @117249=~Como o próprio nome sugere, o Elmo de Proteção contra Encantamentos protege seu usuário de quaisquer tentativas mágicas de manipulação emocional. Por precaução, alguns grupos mercenários de alto escalão equipam regularmente seus membros com esses elmos para garantir que possam desempenhar suas funções sem interferência externa.
 ESTATÍSTICAS:
@@ -37256,7 +37256,7 @@ Testes de Resistência: bônus de +5
 @120799=~Você enganou o Capitão Yurst para que ele bebesse uma Poção de Explosões.~
 @120800=~Por favor, me dê mais um pouco de tempo. Ainda estou muito, muito fraco.~
 @120801=~Eles não vão a lugar nenhum.~
-@120802=~Ao percorrer as colinas, encontramos um soldado ferido da milícia de Luska chamado Capitão Yurst. Gigantes o atacavam com pedregulhos à distância, e concordamos em eliminá-los.~
+@120802=~Ao percorrer as colinas, encontramos um soldado ferido da milícia de Luskan chamado Capitão Yurst. Gigantes o atacavam com pedregulhos à distância, e concordamos em eliminá-los.~
 @120803=~Você salvou a vida do Capitão Yurst ao derrotar os gigantes fomorianos que o estavam atacando com pedregulhos.~
 @120804=~Você estancou o sangramento do Capitão Yurst com um Periapto de Fechamento de Feridas.~
 @120805=~Você consolou o Capitão Yurst oferecendo-lhe algo para beber.~
@@ -37978,7 +37978,7 @@ Peso: 1 kg (2 lb).
 @121415=~Favor de Ilmater~
 @121416=~Lâmina da Lua~
 @121417=~Círculo de Ossos~
-@121418=~Crescimento de Espinhos~
+@121418=~Crescer Espinho~
 @121419=~Tempestade de  Chuva~
 @121420=~Toque de Mofo~
 @121421=~Lança de Alicórnio~
@@ -38054,7 +38054,7 @@ Teste de resistência: Reflexos (metade do valor)
 Esta magia, que só pode ser conjurada ao ar livre, invoca uma chuva mágica que satura a área de efeito. Todas as criaturas que usam ou habitam ambientes de frio e fogo sofrem 2d3 pontos de dano mágico por rodada. Além disso, todas as criaturas na área de efeito têm 50% de chance por rodada de serem atingidas por raios que causam 2d6 de dano elétrico, com um teste de Reflexos para reduzir o dano à metade. Magias como Lâmina Flamejante, Manto de Chamas e auras de salamandra também são extintas.
 
 ~
-@121460=~Crescimento de Espinho
+@121460=~Crescer Espinho
 Spike Growth (Transmutação)
 Nível: Drd 3
 Alcance: Visão do Conjurador
@@ -41997,7 +41997,7 @@ Teste de resistência: Reflexos (metade do valor)
 
 Esta magia invoca uma onda de água que se move na direção desejada pelo conjurador, atingindo tudo em seu caminho com força descomunal. A onda causa 1d8 de dano esmagador por nível do conjurador (máximo de 15d8) e, além disso, há 25% de chance de a criatura atingida ficar atordoada por 2 rodadas e 5% de chance de ficar inconsciente. Se a criatura atingida obtiver sucesso em um teste de Reflexos, o dano é reduzido pela metade e a criatura evita ser atordoada ou ficar inconsciente.
 ~
-@124253=~Raspa de Espinhos
+@124253=~Spray de Espinhos
 Thorn Spray (Transmutação)
 Nível: Drd 4
 Alcance: Especial
@@ -42512,7 +42512,7 @@ Peso: 0 kg.
 @124452=~Aviso aos Guardas~
 @124453=~Que horrível, Ennelia. Sinto muito.~
 @124454=~Você é patético.~
-@124455=~Partículas Lunares~
+@124455=~Gotas da Lua~
 @124456=~Não - onde quer que esteja o acampamento, alguém... ou alguma coisa... está vigiando-o, e a Visão como a minha não consegue focar nele.~
 @124457=~~
 @124458=~Assim que deixei minha mente vagar para procurá-lo, senti como se mil lanças estivessem sendo cravadas na minha cabeça... algum tipo de defesa de vidência, mas mais poderosa do que qualquer outra que eu já tivesse encontrado. Eu não imaginava que xamãs goblins pudessem tecer tal magia.~
@@ -43759,7 +43759,7 @@ Desvantagens:
 A deusa da lua, Selune, é popular em todos os Reinos Esquecidos. Seus sacerdotes são defensores da bondade e da liberdade. Eles pregam a tolerância e a aceitação e lutam contra o ódio e a ignorância.
 
 Vantagens:
-* Pode conjurar Partículas Lunares (cone de eletricidade, 4-16 de dano) 1/3 dos níveis por dia.
+* Pode conjurar Gotas da Lua (cone de eletricidade, 4-16 de dano) 1/3 dos níveis por dia.
 * Pode conjurar Lâmina Lunar 1/5 níveis/dia.
 * Pode conjurar Muralha de Luar 1/10 níveis/dia.
 
@@ -43791,7 +43791,7 @@ Desvantagens:
 @125227=~VINGADOR: Membro de uma seita especial dentro de uma ordem druídica, um druida desse tipo se dedica a combater aqueles que profanariam a natureza. Os Vingadores possuem poderes que um druida comum não tem; habilidades adicionais conquistadas por meio de rituais extensivos, um processo fisicamente muito desgastante.
 Vantagens:
 * 3º nível: Garras de Fera 2/Dia.
-* 5º nível: Crescimento de Espinhos 2 vezes ao dia.
+* 5º nível: Crescer Espinho 2 vezes ao dia.
 * 7º nível: Spray de Espinhos 2/Dia.
 
 Desvantagens:
@@ -43837,7 +43837,7 @@ Desvantagens:
 @125264=~Malditos humanos - pelo punho de Clangeddin, alguns deles têm cabeças tão grossas quanto anões. Guindaste quebrado, hein? O maldito volante provavelmente se partiu de novo.~
 @125265=~Ih, rapaz... Estou começando a entender onde *isso* vai dar.~
 @125266=~Buuu~
-@125267=~Murchamento Horrível~
+@125267=~Evaporação~
 @125268=~Boo~
 @125269=~Você não consegue consertar?~
 @125270=~Bem, posso até ser engenheiro, mas não sou carpinteiro, pelo menos não com a habilidade do meu pai. Vá procurar meu pai, Jorun, lá no cais, e veja se ele pode ajudar aquele chorão do Lumbar a consertar o guindaste. E assegure àquele mercador ganancioso e falastrão que ele ainda receberá sua comissão, não se preocupe.~
@@ -43920,7 +43920,7 @@ Desvantagens:
 @125347=~Onda Esmagadora~
 @125348=~Devorador de Almas~
 @125349=~Runas Explosivas~
-@125350=~Crescimento de Espinhos~
+@125350=~Crescer Espinho~
 @125351=~Ira Espiritual~
 @125352=~Cassetéte de Metal Estelar~
 @125353=~Casca Tempestuosa~
@@ -44354,7 +44354,7 @@ Quem sabe o que isso significa?
 @125702=~Você terminou a garrafa *inteira*?~
 @125703=~Com prazer. Cuidado.~
 @125704=~Ataque Atordoante~
-@125705=~Palma trêmula~
+@125705=~Mão Vibrante~
 @125706=~Eu queria te perguntar sobre Dolon Daemba.~
 @125707=~Lógica do Rei~
 @125708=~Anast~
@@ -46737,7 +46737,7 @@ Peso: 0,5 kg (1 lb).
 ~
 @127186=~Pergaminho de Valin~
 @127187=~Pergaminho de Valin~
-@127188=~Agradeço aos deuses que sua banda tenha um batedor de carteiras de Luska. Vejo que você duvida que este bilhete fosse destinado à sua banda - não duvide. Eu pressenti que vocês chegariam navegando na A malvada e viriam até o Pavilhão, e um de vocês revistaria meus bolsos enquanto eu estivesse aqui deitado.
+@127188=~Agradeço aos deuses que seu grupo tenha um batedor de carteiras de Luskan. Vejo que você duvida que este bilhete fosse destinado à sua banda - não duvide. Eu pressenti que vocês chegariam navegando na A malvada e viriam até o Pavilhão, e um de vocês revistaria meus bolsos enquanto eu estivesse aqui deitado.
 Em breve, tentarei usar a Visão para determinar a localização da fortaleza dos goblins, e escrevo esta nota por temer que obter uma visão de tal lugar possa afetar muito meu espírito, impedindo-me de retornar ao mundo dos despertos. Não contei à Senhora Elytharra sobre minha tentativa de adivinhação, pois ela certamente me impediria... e se outros soubessem de minhas intenções, poderiam tentar me envenenar, pois temo que haja traidores na cidade que já agora cogitam minha destruição. Por ora, minha segurança - e a segurança de Targos - reside no silêncio.
 
 Se você está lendo isto e eu ainda respiro, então não é tarde demais para me despertar. Agora que você encontrou este pergaminho, preciso que encontre um frasco de braehg, que você pode comprar de um comerciante fluvial chamado Guthewulfe na Taverna do Lobo do Mar. Ele deve ter trazido algumas armas e outros suprimentos de Shaengarne, mas em seu inventário estará um frasco de braehg que você pode comprar.* Traga-o para mim e coloque uma única gota na minha língua, e em poucos minutos, eu devo despertar do meu torpor.
@@ -47001,7 +47001,7 @@ Destreza: -2
 Especial:
 Pode conjurar Vinculação Planar Menor: Elemental da Água 1 vez por dia.
 Pode conjurar Cone Glacial 1 vez por dia.
-Pode conjurar Murchamento Horrível 1 vez por dia.
+Pode conjurar Evaporação 1 vez por dia.
 Peso: 1,5 Kg (3 lb).
 ~
 @127372=~SkullFlail~
@@ -47889,7 +47889,7 @@ Tipo: Duas mãos
 @127635=~Verbeeg~
 @127636=~Nada hoje. Até logo.~
 @127637=~~
-@127638=~Quê? Ah... não, não, não - seu bando de assassinos que se autodenominam Guarda não vai confiscar mais um pedaço de ferro, madeira ou tecido meu, não vai! Eles já me deixaram quase sem nada, exceto os ratos!~
+@127638=~Quê? Ah... não, não, não - seu bando de assassinos que se autodenominam, a Guarda, não vai confiscar mais um pedaço de ferro, madeira ou tecido meu, não vai! Eles já me deixaram quase sem nada, exceto os ratos!~
 @127639=~Se o Senhor de Targos souber que seus soldados não conseguem obter as armas e armaduras necessárias em sua loja, imagino que ele não receberá a notícia com bons olhos.~
 @127640=~Entendo sua posição, mas sem mais flechas, Targos pode cair na próxima onda de ataques de goblins.~
 @127641=~Senhor de Targos? Ha! Você nem conhece Ulbrec, e mesmo que conhecesse, isso não lhe dá o direito de bancar o bucaneiro na minha loja! Como *ousa*!~
@@ -47914,7 +47914,7 @@ Tipo: Duas mãos
 @127660=~Você perderá mais se os goblins tomarem a cidade - você pode perder a vida junto com os moradores. Ou você fica do lado deles, conquista a confiança e o respeito deles, ou resiste e atrai a ira deles quando este conflito terminar. A escolha é sua.~
 @127661=~Hum... Bem... talvez. Quantas flechas você precisa enviar para a paliçada?~
 @127662=~Quinze pontos.~
-@127663=~Quinze *pontuação?* Quantas são?~
+@127663=~Quinze *vintenas?* Quantas são?~
 @127664=~São trezentos, claro. Você não sabe de nada?~
 @127665=~Trezentas flechas.~
 @127666=~Bem, parece que os ventos trouxeram mais um mercenário para a costa de Targos. Se você quer se aquecer, fique à vontade para se sentar perto da fogueira.~
@@ -47965,11 +47965,11 @@ Tipo: Duas mãos
 @127711=~Se você está esperando pelos mercenários da Coleira de Ferro, eu não apostaria que eles aparecerão tão cedo... pelo menos até os barris do Lobo do Mar estarem vazios.~
 @127712=~Sim, a última notícia era que a companhia de aventureiros Coleira de Ferro estava bebendo na taverna Lobo do Mar - Ulbrec está pagando bem a eles, e precisamos das espadas deles aqui.~
 @127713=~Eles *devem* ter ouvido os alarmes... mas receio que esses bêbados estejam dormindo no fundo de um barril de vinho neste exato momento.~
-@127714=~Houve uma altercação no Lobo do Mar, e os Mercenários da Coleira de Ferro se recusaram a recuar - eles não virão. Podemos dar um jeito nesses goblins para você.~
+@127714=~Houve uma discussão acalorada no Lobo do Mar, e os Mercenários da Coleira de Ferro se recusaram a mudar de idéia - eles não virão. Podemos dar um jeito nesses goblins para você.~
 @127715=~Na verdade, acho que os goblins já os mataram. Talvez seja melhor se você nos deixar entrar e acabar com esses goblins nós mesmos.~
 @127716=~Olha, não tem por que esperar por esses mercenários. Deixa eu entrar e acabar com esses goblins para você.~
 @127717=~Onde fica a Taverna do Lobo do Mar? Eu poderia ir encontrar aqueles mercenários que você está esperando e trazê-los aqui.~
-@127718=~Vou buscar a companhia Coleira de Ferro no Lobo do Mar, e talvez entre nós três grupos consigamos dar um fim nesses goblins.~
+@127718=~Vou buscar a companhia Coleira de Ferro no Lobo do Mar, e talvez entre nós, os três grupos, consigamos dar um fim nesses goblins.~
 @127719=~O Lobo do Mar fica no lado sul das docas, perto da costa - apresse-se!~
 @127720=~Muito bem. Cuidado... Voltarei em breve.~
 @127721=~Você voltou! Trouxe o bando da Coleira de Ferro com você?~
@@ -47985,7 +47985,7 @@ Tipo: Duas mãos
 @127731=~Muito bem, talvez Tymora honre suas lâminas - e o tempo está contra nós. Mas os goblins trancaram a porta por dentro... você precisará arrombá-la.~
 @127732=~Hum. Talvez eu também consiga abrir a fechadura. Afaste-se.~
 @127733=~Você não tem uma chave?~
-@127734=~Não, você vai precisar arrombar a porta com suas armas... a menos que tenha sangue de ladrão de Luska correndo nas veias, nesse caso talvez consiga dar um jeito na fechadura.~
+@127734=~Não, você vai precisar arrombar a porta com suas armas... a menos que tenha sangue de ladrão de Luskan correndo nas veias, nesse caso talvez consiga dar um jeito na fechadura.~
 @127735=~Quantos você acha que tem no armazém?~
 @127736=~Muito bem, então. Afaste-se.~
 @127737=~Você já derrotou aqueles goblins? O tempo está se esgotando.~
@@ -48269,13 +48269,13 @@ o bug de alimentação de linha
 @128012=~Você pode me ajudar de alguma forma?~
 @128013=~Descanse aqui. Faremos o que pudermos.~
 @128014=~Do que você precisa?~
-@128015=~Encontramos uma passagem subterrânea sob o armazém que dava para algumas cavernas no penhasco. Parece que os sapadores goblins cavaram túneis por ali para entrar em Targos.~
+@128015=~Encontramos uma passagem subterrânea sob o armazém que dava para algumas cavernas no penhasco. Parece que os escavadores goblins cavaram túneis por ali para entrar em Targos.~
 @128016=~Encontramos uma passagem subterrânea sob o armazém - encontramos mais goblins lá embaixo, mas ainda não os eliminei todos. Quando terminar com eles, voltarei.~
 @128017=~Bem, que bom que você veio nos ver. No momento, ainda há alguns goblins lá embaixo; voltaremos quando eles estiverem mortos.~
 @128018=~Cavernas no penhasco...? Hum. Podem ser antigas cavernas de piratas - havia muitos bucaneiros assombrando Maer Dualdon nos tempos em que Targos ainda não era... civilizada. Para onde elas levam?~
 @128019=~Bem, havia algumas passagens desmoronadas - pode ser que os goblins tenham se trancado acidentalmente lá dentro.~
 @128020=~Bem, havia algumas passagens desmoronadas - talvez os goblins tenham se trancado nelas sem querer. Encontrei este pergaminho com um dos goblins, e parece mágico... ou pelo menos era.~
-@128021=~Não me surpreenderia se os túneis tivessem desabado sobre eles - goblins não são muito espertos; goblins sapadores são ainda mais burros.~
+@128021=~Não me surpreenderia se os túneis tivessem desabado sobre eles - goblins não são muito espertos; goblins escavadores são ainda mais burros.~
 @128022=~De qualquer forma, respeito sua coragem. Se você contar seus feitos ao Lorde Ulbrec, ele certamente o recompensará.~
 @128023=~Espero que sim. Onde posso encontrá-lo?~
 @128024=~Nenhuma recompensa é necessária... contanto que Targos esteja seguro, isso basta. Eu conversaria com Lorde Ulbrec sobre emprego, no entanto.~
@@ -48284,7 +48284,7 @@ o bug de alimentação de linha
 @128027=~Shawford Crale quer que você se apresente imediatamente no Paliçada.~
 @128028=~Shawford Crale quer que você se apresente imediatamente no Paliçada.~
 @128029=~Meu nome é Magdar Shenlen - Sou o mestre do porto. Quando vi os goblins rondando a cidade, recuei para o armazém aqui e tranquei a porta - alguma notícia da Guarda de Targos? Estão enviando reforços?~
-@128030=~Os cais estão livres - conseguimos deter os sapadores goblins antes que causassem muitos danos.~
+@128030=~Os cais estão livres - conseguimos deter os escavadores goblins antes que causassem muitos danos.~
 @128031=~Piscina Brilhante~
 @128032=~Piscina Brilhante~
 @128033=~Os cais estão livres, mas um dos guardas de Targos, Reig, foi ferido. Ele me pediu para encontrar você e ver se você teria alguma poção de cura sobrando.~
@@ -48414,7 +48414,7 @@ o bug de alimentação de linha
 @128144=~Muito bem, então. Adeus.~
 @128145=~Bem, não foi minha culpa. É uma pena o que aconteceu com o bichinho, mas eu não matei aquele maldito gato - se vocês querem culpar alguém, culpem os ratos e o fato de que os olhos daquele gato eram maiores que a barriga dele.~
 @128146=~Traidor? Aquele idiota maltrapilho? Do que você está falando? ~
-@128147=~Sim, Kickshaw tem razão. A banda Coleira de Ferro não é uma banda de traidores - e eu mesmo matarei quem disser o contrário. ~
+@128147=~Sim, Kickshaw tem razão. O bando Coleira de Ferro não é um bando de traidores - e eu mesmo matarei quem disser o contrário. ~
 @128148=~Humph. Tudo bem - diga àquele velho corvo Shawford que nos reportaremos à Paliçada... Além disso, nosso dinheiro já acabou por aqui mesmo.~
 @128149=~Muito bem. Então diremos a ele para esperar por você. ~
 @128150=~Então eu sugiro que você se apresente imediatamente na Paliçada. Apresentar-se para o serviço ajudará muito a provar sua inocência. ~
@@ -48425,7 +48425,7 @@ o bug de alimentação de linha
 @128155=~Eu não me preocuparia com ouro agora. Assim que a Guarda descobrir sua aliança com aquele traidor, Phaen, vocês serão os expulsos da cidade - se não forem executados antes. ~
 @128156=~Na verdade, isso não importa muito. Assim que a Guarda descobrir sua aliança com aquele traidor, Phaen, vocês serão os expulsos da cidade - se não forem executados antes. ~
 @128157=~Cala a boca, Kickshaw. Esse cachorro de Shawford está tentando nos assustar. Ele está falando besteira. ~
-@128158=~Duvido que Ulbrec veja dessa forma. Aliás, o histórico da sua banda de não se apresentar para o serviço militar pode até ser considerado prova de seus laços com Phaen.~
+@128158=~Duvido que Ulbrec veja dessa forma. Aliás, o histórico da seu bando de não se apresentar para o serviço militar pode até ser considerado prova de seus laços com Phaen.~
 @128159=~Eu tomaria um pouco mais de cuidado com as suas palavras. Assim que a Guarda descobrir a sua aliança com aquele traidor, Phaen, vocês serão os expulsos da cidade - se não forem executados antes. ~
 @128160=~Phaen conspirou para teletransportar um esquadrão de goblins para dentro das muralhas de Targos. Os goblins mataram vários guardas e quase incendiaram os cais. Ele faz parte do seu bando, o que marca todos vocês como traidores. ~
 @128161=~Não, preciso de mais uma coisa: uma de suas lágrimas. Derrame-a dentro desta garrafa e então poderá retornar aos reinos cegos.~
@@ -48492,7 +48492,7 @@ o bug de alimentação de linha
 @128218=~Ação rápida era necessária. Ainda há alguns goblins no armazém. Voltaremos em breve para lidar com eles.~
 @128219=~Ação rápida era necessária. Eliminamos os que estavam no armazém, mas parece haver uma passagem subterrânea que leva para baixo do armazém - parece que foi por ali que eles entraram na cidade.~
 @128220=~Ação rápida era necessária. Encontramos uma passagem subterrânea sob o armazém - havia mais goblins lá embaixo, mas ainda não os eliminamos todos. Assim que os expulsarmos, voltaremos.~
-@128221=~Era preciso agir rápido. Encontramos uma passagem subterrânea que dava para algumas cavernas no penhasco. Parece que os sapadores goblins cavaram um túnel por ali para entrar em Targos.~
+@128221=~Era preciso agir rápido. Encontramos uma passagem subterrânea que dava para algumas cavernas no penhasco. Parece que os escavadores goblins cavaram um túnel por ali para entrar em Targos.~
 @128222=~Respeito sua coragem. Se você contar seus feitos ao Lorde Ulbrec, ele certamente o recompensará.~
 @128223=~Não podíamos esperar pelos mercenários da Coleira de Ferro - além disso, ainda há alguns goblins no armazém. Voltaremos em breve para cuidar deles.~
 @128224=~Não podíamos esperar pelos mercenários da Coleira de Ferro e era preciso agir rapidamente. Eliminamos os goblins no armazém, mas parece haver uma passagem subterrânea que leva para baixo do armazém - parece que foi por ali que eles entraram na cidade.~
@@ -48866,7 +48866,7 @@ Peso: 0,5 Kg (1 lb).
 @128418=~Hmm. Um bom conselho. Mesmo assim, nós, magos, somos muito mais fortes do que parecemos. Vamos ver se conseguimos abrir essa porta.~
 @128419=~Cuidado. Nós, feiticeiros, somos muito mais fortes do que aparentamos, mas talvez sigamos seu conselho desta vez. Vamos ver se conseguimos abrir esta porta, então.~
 @128420=~Muito bem, então - vamos ver se conseguimos abrir esta porta. Afaste-se.~
-@128421=~Não me surpreenderia se os túneis tivessem desabado sobre eles - goblins não são muito espertos; goblins sapadores são ainda mais burros. Mesmo assim, talvez você queira levar esse pergaminho para a esposa de Ulbrec, ela entende de magia e pode ser capaz de identificá-lo.~
+@128421=~Não me surpreenderia se os túneis tivessem desabado sobre eles - goblins não são muito espertos; goblins escavadores são ainda mais burros. Mesmo assim, talvez você queira levar esse pergaminho para a esposa de Ulbrec, ela entende de magia e pode ser capaz de identificá-lo.~
 @128422=~A quem pertencem essas remessas?~
 @128423=~Então é melhor você se apressar. Parece que você vai precisar dessas poções, e quanto antes você encontrar essa remessa, melhor.~
 @128424=~Então vamos começar a procurar no armazém.~
@@ -49615,7 +49615,7 @@ Peso: 0 kg.
 @129116=~~
 @129117=~Você libertou Nathaniel de sua cela.~
 @129118=~~
-@129119=~Gohar, o dono do bar Lobo do Mar, provavelmente saberia o nome - ele tem pedaços de navios suficientes pendurados nas vigas do Dog, não é mesmo?~
+@129119=~Gohar, o dono do bar Lobo do Mar, provavelmente saberia o nome - ele tem pedaços de navios suficientes pendurados nas vigas do Lobo, não é mesmo?~
 @129120=~Você devolveu o equipamento de Nathaniel para ele.~
 @129121=~~
 @129122=~Talvez eu vá visitar Gohar, então. Antes de ir, deixe-me ver quais quartos você tem disponíveis.~
@@ -59369,7 +59369,7 @@ Enquanto usada, esta pedra permite ao druida pedir favores à terra e às pedras s
 ESTATÍSTICAS:
 
 Especial:
-Poder Mágico: Pode conjurar o feitiço Crescimento de Espinhos uma vez por dia.
+Poder Mágico: Pode conjurar o feitiço Crescer Espinho uma vez por dia.
 Poder Mágico: Pode conjurar a magia Pele Rochosa uma vez por dia.
 Poder Mágico: Pode conjurar o feitiço Pedras Espinhosas uma vez por dia.
 Peso: 0,5 kg (1 lb).
@@ -60795,7 +60795,7 @@ Tipo: Uma mão
 @135787=~Corte de Tendão~
 @135788=~Crítico Aprimorado~
 @135789=~Iniciativa Aprimorada~
-@135790=~Curvas Aprimoradas~
+@135790=~Expulsar Morto-Vivo Aprimorado~
 @135791=~Vontade de Ferro~
 @135792=~Reflexos Rápidos~
 @135793=~Canção Persistente~
@@ -61481,7 +61481,7 @@ Pré-requisito: Pelo menos três níveis de ladino.
 Benefício: Permite que um personagem ladino sacrifique 2d6 pontos de dano de ataque furtivo para reduzir o movimento do alvo em 50% por dez rodadas.
 (Original: Hamstring)
 ~
-@136296=~GIRO APRIMORADO:
+@136296=~EXPULSAR MORTO-VIVO APRIMORADO:
 Suas tentativas de transformar mortos-vivos em mortos-vivos são ainda mais poderosas do que o normal.
 
 Pré-requisito: 1 nível de Clérigo ou 3 níveis de Paladino.
@@ -61612,16 +61612,16 @@ Benefício: Este talento concede a habilidade de conjurar magias mesmo estando em
 @136319=~Golpe Mortal~
 @136320=~Desviar Flechas~
 @136321=~Disciplina~
-@136322=~Esquivar~
+@136322=~Esquiva~
 @136323=~Especialização em Combate~
 @136324=~Fortitude Maior~
 @136325=~Corte de Tendão~
 @136326=~Proficiência em Armaduras~
 @136327=~Crítico Aprimorado~
 @136328=~Iniciativa Aprimorada~
-@136329=~Curvas Aprimoradas~
+@136329=~Expulsar Morto-Vivo Aprimorado~
 @136330=~Vontade de Ferro~
-@136331=~Proficiência em Armaduras (leves)~
+@136331=~Proficiência em Armaduras (leve)~
 @136332=~Reflexos Rápidos~
 @136333=~Canção Persistente~
 @136334=~Arma Marcial, Machado~
@@ -63245,7 +63245,7 @@ Use essa habilidade para fazer um valentão recuar ou para fazer um personagem lh
 @137623=~CONHECIMENTO (ALQUIMIA): Use esta habilidade para identificar poções e outros itens químicos.~
 @137624=~CONHECIMENTO (ARMAS E ARMADURAS): Use esta habilidade para identificar armas e armaduras.~
 @137625=~CONHECIMENTO (PERGAMINHOS E VARINHAS): Use esta habilidade para identificar pergaminhos e varinhas.~
-@137626=~MOVER SILENCIOSAMENTE (Destreza; Penalidade de Teste de Armadura):
+@137626=~MOVER-SE SILENCIOSAMENTE (Destreza; Penalidade de Teste de Armadura):
 
 Use essa habilidade para se aproximar sorrateiramente de um inimigo por trás ou para escapar sem ser notado.
 (Original: Move Silently)
@@ -63922,28 +63922,28 @@ Vantagens:
 * 6º nível: Pode conjurar Resistência de Ilmater 1 vez por dia (permite que um aliado não maligno suporte muito mais dor, mas também sofra mais dor, concedendo-lhe um bônus de +20 em Constituição e uma vulnerabilidade de -3 a dano físico por 8 horas)
 
 Magias de Domínio:
-1: Fortaleza do Boi, Escudo Outro
-2: Auxílio, Exaltação
+1: Fortitude do Búfalo, Escudo Outro
+2: Ajuda, Exaltação
 3: Curar Ferimentos Graves, Círculo Mágico Contra o Mal
 4: Emoção: Esperança, a Esfera Resiliente de Otiluke
 5: Imbecilidade, Restauração Maior
-6: Pele Rochosa, Fortaleza Troll
+6: Pele Rochosa, Fortitude Troll
 7: Santidade Impermeável da Mente, Névoa de Eldath
 8: Aura Sagrada, Corpo de Ferro
-9: Murchamento Horrível, Cura Completa em Massa
+9: Evaporação, Cura Completa em Massa
 ~
 @138119=~MORNINGLORD DE LATHANDER:
 Lathander, o Senhor da Manhã, é o deus do amanhecer e da renovação. Seus sacerdotes, que compartilham seu título, podem ser encontrados ao redor do mundo ajudando comunidades a crescer e se reconstruir após tempos difíceis. Os Senhores da Manhã são conhecidos por sua bondade e otimismo.
 
 Vantagens:
 
-* Habilidade de Virar Aprimorada
+* Habilidade de Expulsar Morto-Vivo Aprimorado
 * Renovação de Lathander 1/dia (cura 6 vezes o nível de clérigo em pontos de vida e cura drenagem de energia)
 
 Magias de Domínio:
 1: Fogo das Fadas, Queimadura Solar
-2: Incendiário de Aganazzar, Detenha os Mortos-Vivos
-3: Ala da Morte, Restauração
+2: Chama de Aganazzar, Imobilizar Mortos-Vivos
+3: Proteção Contra a Morte, Restauração
 4: Golpe Sagrado, Escudo de Lathander
 5: Ressuscitar Mortos, Orbe Ardente de Sol
 6: Escudo Maior de Lathander, Cura Completa
@@ -63960,14 +63960,14 @@ Vantagens:
 * Escudo Lunar 1/dia (concede ao destinatário 20/- de Resistência a Dano Mágico por 5 rodadas/nível)
 
 Magias de Domínio:
-1: Fogo das Fadas, Partículas Lunares
-2: Moonblade, a Esfera Resiliente de Otiluke
+1: Fogo das Fadas, Gotas da Lua
+2: Lâmina da Lua, Esfera Resiliente de Otiluke
 3: Invocar Vaca, Muralha da Luz da Lua
 4: Emoção: Raiva, Armadura Fantasmal
 5: Proteção contra Energia Mágica, Muralha de Força
-6: Rolamento de Pedra, Concha Divina
+6: Rocha Rolante, Concha Divina
 7: Campo Antimagia, Teletransporte Local de Lutzaen
-8: Jato Prismático, Gravidade Inversa
+8: Jato Prismático, Inverter Gravidade
 9: Égide, Legião Elemental
 ~
 @138121=~VIGILANTE DO ELMO:
@@ -64018,7 +64018,7 @@ Vantagens:
 
 Magias de Domínio:
 1: Cântico, Ataque Certeiro
-2: Recorra ao poder divino, à oração.
+2: Utilizar Poder Sagrado, Oração.
 3: Recitação, Golpe do Vento de Aço
 4: Duelo, Emoção: Raiva
 5: Força do Campeão, Comandos Caóticos
@@ -64036,7 +64036,7 @@ Vantagens:
 +1 em todas as habilidades de Blefe, Diplomacia e Intimidação.
 
 Magias de Domínio:
-1: Bane, Comando
+1: Maldição Menor (Bane), Comando
 2: Horror, Silêncio
 3: Encanto Macabro, Pensamento Rígido
 4: Manto do Medo, Emoção: Desespero
@@ -64056,12 +64056,12 @@ Vantagens:
 
 Magias de Domínio:
 1: Graça do Gato, Sono
-2: Cegueira, Visão Turva
+2: Cegueira, Nublar (Blur)
 3: Esfera de Invisibilidade, Imagem Espelhada
-4: Piscar, Invisibilidade Aprimorada
+4: Piscar (Blink), Invisibilidade Aprimorada
 5: Teleporte Local de Lutzaen, Roubar Feitiços
 6: Conjuração das Sombras Maior, Roubar Efeitos
-7: Pressa em Massa, Sombras
+7: Velocidade em Massa, Sombras
 8: Invisibilidade em Massa, Simulacro
 9: Lâmina Negra do Desastre, Invisibilidade Perfeita
 ~
@@ -64074,12 +64074,12 @@ Vantagens:
 * Bênção de Talos 1/Dia (por 5 rodadas, todo o dano elétrico causado pelo sacerdote é aumentado em 30%)
 
 Magias de Domínio:
-1: Destino, Domínio Chocante
+1: Perdição (Doom), Toque Chocante
 2: Loop Elétrico de Gedlee, Casca Tempestuosa
-3: Invoque o Relâmpago, Raio
-4: Proteção contra eletricidade e carga estática
-5: Bola de Raios, Relâmpago em Cadeia
-6: Tempestade Ácida, Redemoinho
+3: Invocar Relâmpago, Raio
+4: Proteção contra Eletricidade, Carga Estática
+5: Bola de Raios, Corrente de Relâmpagos
+6: Tempestade Ácida, Ciclone
 7: Tempestade de Fogo, Barragem de Raios
 8: Terremoto, Relâmpago Vivo
 9: Espiral Relâmpago, Tempestade de Vingança
@@ -66068,7 +66068,7 @@ Peso: 0,5 kg (1 lb).
 @139755=~Auto-Perfeição~
 @139756=~Sopro de Fogo~
 @139757=~Sabrina~
-@139758=~Passo Abundante~
+@139758=~Passo Etéreo~
 @139759=~Por acaso você tem alguma coisa para vender?~
 @139760=~Aliado Planar: Elemental da Terra~
 @139761=~Vinculação Planar: Elemental do Fogo~
