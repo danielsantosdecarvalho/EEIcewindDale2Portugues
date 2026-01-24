@@ -887,8 +887,8 @@ Tempo de Conjuração: 2
 Teste de Resistência: Nenhum
 
 Este feitiço concede à criatura alvo um bônus de +4 em Destreza durante a duração do feitiço.~
-@1502    = ~Pele Rochosa~
-@1503    = ~Pele Rochosa
+@1502    = ~Pele de Pedra~
+@1503    = ~Pele de Pedra
 (Abjuração)
 Nível: Drd 4, Rgr 4, Fet/Mag 4, Ilmater 6
 Alcance: Toque
@@ -2249,7 +2249,7 @@ Tempo de Conjuração: 1 rodada
 Área de Efeito: Conjurador
 Teste de Resistência: Nenhum
 
-Este feitiço concede ao conjurador uma redução de dano de 10/- para danos de esmagamento, perfuração e corte. Este bônus de resistência se aplica apenas a um número de ataques igual a 1 ataque para cada 2 níveis do conjurador, até um máximo de 8, após o qual o feitiço se dissipa. Este feitiço não é acumulativo consigo mesmo ou com magias semelhantes (como a magia de nível 4 de mago Pele Rochosa).~
+Este feitiço concede ao conjurador uma redução de dano de 10/- para danos de esmagamento, perfuração e corte. Este bônus de resistência se aplica apenas a um número de ataques igual a 1 ataque para cada 2 níveis do conjurador, até um máximo de 8, após o qual o feitiço se dissipa. Este feitiço não é acumulativo consigo mesmo ou com magias semelhantes (como a magia de nível 4 de mago Pele de Pedra).~
 @1887 = ~Raio de Enfraquecimento~
 @1888 = ~Raio de Enfraquecimento
 (Necromancia)
@@ -2853,7 +2853,7 @@ Esta habilidade pode ser usada como uma ação livre. ~
 @30271=~... Conjuração das Sombras.~
 @30272=~... Criação de Aranhas.~
 @30273=~... Armadura Espiritual.~
-@30274=~... Pele Rochosa.~
+@30274=~... Pele de Pedra.~
 @30275=~... Sufocar.~
 @30276=~... Invocar Monstro IV.~
 @30277=~... Campo de Teletransporte.~
@@ -4941,7 +4941,7 @@ Tempo de Conjuração: 5
 Área de Efeito: 1 criatura
 Teste de Resistência: Vontade nega
 
-Este feitiço rouba os efeitos de feitiços do alvo e os concede ao conjurador. Se o alvo falhar em um teste de Vontade com +5 de CD, todos os efeitos dissipáveis sobre ele (como de Reflexos ou Pele Rochosa) são dissipados, e o conjurador ganha esses efeitos para suas durações restantes. Efeitos de itens e habilidades inatas não podem ser roubados. Se um aliado for o alvo, ele será afetado sem direito a salvamento.~
+Este feitiço rouba os efeitos de feitiços do alvo e os concede ao conjurador. Se o alvo falhar em um teste de Vontade com +5 de CD, todos os efeitos dissipáveis sobre ele (como de Reflexos ou Pele de Pedra) são dissipados, e o conjurador ganha esses efeitos para suas durações restantes. Efeitos de itens e habilidades inatas não podem ser roubados. Se um aliado for o alvo, ele será afetado sem direito a salvamento.~
 @37852 = ~Drenar Energia~
 @38852 = ~Drenar Energia
 (Necromancia)

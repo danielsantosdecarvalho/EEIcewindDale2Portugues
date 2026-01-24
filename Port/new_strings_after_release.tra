@@ -649,7 +649,7 @@ Furtividade: +50
 Resistência: 25/- Resistência ao Frio
 Resistência: 5/- Resistência a Ácido, Eletricidade e Fogo
 Resistência a Expulsar Mortos-Vivos: Conta como 4 níveis a mais para resistir a Expulsar Mortos-Vivos
-Imunidade a fadiga, veneno, doença, feridas sangrentas, atordoamento, teia, emaranhar, intoxicação, náusea, toque vampírico, drenagem de energia, Pele Rochosa, Pele de Ferro, Pele de Árvore, enfraquecimento, Esfera Resiliente de Otiluke, Carapaça de Tartaruga, Evaporação, magia da morte, petrificação, acertos críticos e à maioria das poções.
+Imunidade a fadiga, veneno, doença, feridas sangrentas, atordoamento, teia, emaranhar, intoxicação, náusea, toque vampírico, drenagem de energia, Pele de Pedra, Pele de Ferro, Pele de Árvore, enfraquecimento, Esfera Resiliente de Otiluke, Carapaça de Tartaruga, Evaporação, magia da morte, petrificação, acertos críticos e à maioria das poções.
 Peso: 0 kg.~
 @4805 = ~Este anel é a única parte de Veira que permanece verdadeiramente tangível. Preso à morte e à vida, o anel nunca sai do dedo de Veira.
 
@@ -664,7 +664,7 @@ Furtividade: +50
 Resistência: 50/- Resistência ao Frio
 Resistência: 10/- Resistência a Ácido, Eletricidade e Fogo
 Resistência a Turno: Conta como 4 níveis a mais para resistir a Expulsar Mortos-Vivos
-Imunidade a fadiga, veneno, doença, feridas sangrentas, atordoamento, teia, emaranhar, intoxicação, náusea, toque vampírico, drenagem de energia, Pele Rochosa, Pele de Ferro, Pele de Árvore, enfraquecimento, Esfera Resiliente de Otiluke, Carapaça de Tartaruga, Evaporação, magia da morte, petrificação, acertos críticos e à maioria das poções.
+Imunidade a fadiga, veneno, doença, feridas sangrentas, atordoamento, teia, emaranhar, intoxicação, náusea, toque vampírico, drenagem de energia, Pele de Pedra, Pele de Ferro, Pele de Árvore, enfraquecimento, Esfera Resiliente de Otiluke, Carapaça de Tartaruga, Evaporação, magia da morte, petrificação, acertos críticos e à maioria das poções.
 Peso: 0 kg.~
 @55604=~, +<EXRDVAL1> de dano extra~
 @55605=~, -<EXRDVAL1> de penalidade de dano~
@@ -2142,7 +2142,7 @@ Tempo de Conjuração: 6
 Área de Efeito: 1 criatura
 Teste de Resistência: Reflexos reduz à metade
 
-Ao concluir esta magia, o conjurador lança uma esfera brilhante e flamejante em uma criatura alvo. Quando atinge o alvo, explode em um clarão de luz, cegando a criatura e causando 9d12 pontos de dano de fogo. Um teste de Reflexos bem-sucedido evita a cegueira e reduz o dano à metade. Drows e anões cinzentos devem fazer um teste de Reflexos contra cegueira com CD +4. Criaturas mortas-vivas são particularmente vulneráveis ??a esta magia e sofrem o dobro do dano. Esta magia ignora a resistência a magia de criaturas como drows, que são vulneráveis ??a ela. ~
+Ao concluir esta magia, o conjurador lança uma esfera brilhante e flamejante em uma criatura alvo. Quando atinge o alvo, explode em um clarão de luz, cegando a criatura e causando 9d12 pontos de dano de fogo. Um teste de Reflexos bem-sucedido evita a cegueira e reduz o dano à metade. Drows e anões cinzentos devem fazer um teste de Reflexos contra cegueira com CD +4. Criaturas mortas-vivas são particularmente vulneráveis a esta magia e sofrem o dobro do dano. Esta magia ignora a resistência a magia de criaturas como drows, que são vulneráveis ??a ela. ~
 @1592 = ~Raio de Sol
 (Evocação)
 Nível: Drd 8, Lathander 7
@@ -2296,8 +2296,8 @@ Use esta perícia para identificar magias enquanto são conjuradas ou magias já em
 @55816=~Não pode usar item. (Requer <EXIUVAL1> Usar Intrumento Mágico)~
 @55817=~Você não pode armar armadilhas enquanto houver inimigos por perto.~
 @55818=~Você não pode armar mais armadilhas nesta área.~
-@55819=~Ataque Furtivo com Golpe Incapacitante (-<EXCRPEN1> For)~
-@55820=~Ataque Mortal com Golpe Incapacitante (-<EXCRPEN1> For)~
+@55819=~Ataque Furtivo com Ataque Incapacitante (-<EXCRPEN1> For)~
+@55820=~Ataque Mortal com Ataque Incapacitante (-<EXCRPEN1> For)~
 @56057=~As paredes desta sala são protegidas contra meios convencionais de teletransporte, bem como viagens incorpóreas e etéreas.~
 @56058=~As paredes das Oito Câmaras são protegidas contra meios convencionais de teletransporte, bem como viagens incorpóreas e etéreas.~
 @10390 = ~Este manto foi especialmente encantado para atender às necessidades ecléticas do mago aventureiro. Além de proteger o usuário de várias formas de dano contundente e feitiços que afetam a mente, ele também permite que o usuário proteja seu grupo de aventureiros de suas próprias bolas de fogo.
@@ -2716,7 +2716,7 @@ Peso: 0 kg~
 
 A organização e a forja dos anéis foram patrocinadas por um mercador de Águas Profundas, cujo nome foi apagado dos anais da história pela Torre da Horda. Aparentemente, após ser forçado a se humilhar perante a Torre da Horda durante um acordo comercial em Luskan (e ser obrigado a entregar grande parte de sua carga), o mercador ficou obcecado em apagar a Torre da face de Faerûn. Encomendando a magos em Águas Profundas a confecção de vinte anéis para ele, usou o que lhe restava de riqueza para contratar um bando de caçadores de magos com o objetivo de derrubar a Torre da Horda. Esses vinte caçadores de magos fizeram planos para viajar para o norte por conta própria e se encontrar com o mercador em Luskan.
 
-Havia, porém, um caçador de magos chamado Martek, que ignorou os anéis oferecidos pelo mercador e, conhecendo o perigo e a astúcia da Torre da Horda, encomendou um anel especial a um aliado anão que lhe concederia proteções adicionais contra feitiços e encantamentos. Após os outros membros do Círculo de Gelo começarem a ser assassinados em Luskan, depois que a Torre da Hospedaria descobriu suas identidades, Martek usou o poder de seu anel aprimorado para se proteger da vidência dos magos da Torre da Hospedaria e escapar para o sul. Ele acabou devolvendo o anel ao seu aliado anão, que o vendeu a um mercador a caminho de Bryn Shander.
+Havia, porém, um caçador de magos chamado Martek, que ignorou os anéis oferecidos pelo mercador e, conhecendo o perigo e a astúcia da Torre da Horda, encomendou um anel especial a um aliado anão que lhe concederia proteções adicionais contra feitiços e encantamentos. Após os outros membros do Círculo de Gelo começarem a ser assassinados em Luskan, depois que a Torre da Horda descobriu suas identidades, Martek usou o poder de seu anel aprimorado para se proteger da vidência dos magos da Torre da Horda e escapar para o sul. Ele acabou devolvendo o anel ao seu aliado anão, que o vendeu a um mercador a caminho de Bryn Shander.
 
 Este anel Reflexo de Aço Frio difere dos outros anéis do Círculo de Gelo por parecer ter um anel de aço sob a camada externa de gelo — assim como o próprio Martek.
 
@@ -2984,7 +2984,7 @@ Vantagens:
 * 3º nível: Esquiva Sobrenatural. Ladinos mantêm seu bônus de Destreza na Classe de Armadura se forem atacados por inimigos invisíveis.
 * 6º nível: Esquiva Sobrenatural Aprimorada. Ladinos não podem ser atacados furtivamente por outro ladino, a menos que o atacante seja de nível superior.
 * 8º nível: Desarmar Armadilhas Complexas. Ladinos deste nível ou superior são os únicos personagens que podem desarmar armadilhas com CD 20 ou superior.
-* 10º nível: Talento Bônus. O ladino ganha um talento bônus e também ganha acesso a uma série de novos talentos disponíveis apenas para ladinos. Estes incluem Golpe Incapacitante, Evasão Aprimorada, Mente Escorregadia, Rolagem Defensiva e Oportunista. O ladino ganha outro talento bônus a cada 3 níveis após o nível 10.
+* 10º nível: Talento Bônus. O ladino ganha um talento bônus e também ganha acesso a uma série de novos talentos disponíveis apenas para ladinos. Estes incluem Ataque Incapacitante, Evasão Aprimorada, Mente Escorregadia, Rolagem Defensiva e Oportunista. O ladino ganha outro talento bônus a cada 3 níveis após o nível 10.
 * Ladinos ganham +1 em sorte a cada 5 níveis.
 
 Desvantagens:
@@ -3122,7 +3122,7 @@ Desvantagens:
 
 Seus ataques furtivos continuam causando dano mesmo depois de você atacar.
 
-Pré-requisito: Golpe Incapacitante, 30 níveis de ladino
+Pré-requisito: Ataque Incapacitante, 30 níveis de ladino
 
 Benefício: Se você causar dano com um ataque furtivo, você causa o mesmo dano ao mesmo inimigo novamente uma rodada depois.~
 @358 = ~METAMÁGICA, ACELERAR MAGIA:
@@ -3311,7 +3311,7 @@ Tipo: Duas mãos~
 @76 = ~Inimigos de nivel baixo e medio tem HP reduzido, inimigos de nivel extremamente alto tem HP aumentado (recomendado se voce planeja comecar o HoF com um grupo novo)~
 @77 = ~Inimigos de nivel extremamente alto tem HP aumentado~
 @6409=~Na câmara de lava, encontramos Lorde Pyros, um gigante de fogo, uma salamandra, um homem mestiço yuan-ti chamado Venomin e Izbelah discutindo sobre um feitiço de "Estase Temporal" que Izbelah criou para impedir que uma erupção vulcânica destruísse o Olho do Dragão.~
-@6410=~Iselore nos contou que as forças da Legião da Quimera estão usando o Olho do Dragão como rota para Kuldahar. Ele acredita que na base do vulcão Olho do Dragão, poderemos entrar nos Campos da Carnificina. De lá, poderemos acessar a Mão Decepada. Iselore também nos alertou que alguém dentro do Olho do Dragão está usando magia para manipular o tempo. Seja lá o que estiverem tramando, duvido que sejam boas notícias.~
+@6410=~Iselore nos contou que as forças da Legião da Quimera estão usando o Olho do Dragão como rota para Kuldahar. Ele acredita que na base do vulcão Olho do Dragão, poderemos entrar nos Campos da Matança. De lá, poderemos acessar a Mão Decepada. Iselore também nos alertou que alguém dentro do Olho do Dragão está usando magia para manipular o tempo. Seja lá o que estiverem tramando, duvido que sejam boas notícias.~
 @6411=~De acordo com a pesquisa de Nheero, há aproximadamente trinta anos, este vulcão - Olho do Dragão - entrou em erupção, desintegrando quase toda a vida em seu interior. Pouco depois, as crianças mestiças yuan-ti fugiram de Kuldahar para cá, fizeram amizade com os filhotes sobreviventes de homens-lagarto, escavaram o terceiro nível da rocha vulcânica resfriada e mais uma vez reivindicaram este lugar como seu lar. Ele explicou ainda que o Sumo Sacerdote yuan-ti Thorasskus recebeu recentemente uma visão de seu deus Sseth sobre uma erupção iminente e pediu à Alta Feiticeira Izbelah que criasse um feitiço para reverter o processo.~
 @6412=~De acordo com a pesquisa de Nheero, há aproximadamente trinta anos, este vulcão - Olho do Dragão - entrou em erupção, desintegrando instantaneamente quase todos os seres vivos em seu interior. Pouco depois, as crianças mestiças yuan-ti fugiram de Kuldahar para cá, fizeram amizade com os filhotes sobreviventes de homens-lagarto, escavaram o terceiro nível da rocha vulcânica resfriada e mais uma vez reivindicaram este lugar como seu lar. Ele explicou ainda que o Sumo Sacerdote yuan-ti Thorasskus recebeu recentemente uma visão de seu deus Sseth sobre uma erupção iminente e pediu à Alta Feiticeira Izbelah que criasse um feitiço para reverter o processo.~
 @6413=~De acordo com a pesquisa de Nheero, há aproximadamente trinta anos, este vulcão - Olho do Dragão - entrou em erupção, desintegrando quase toda a vida em seu interior. Pouco depois, as crianças mestiças yuan-ti fugiram de Kuldahar para cá, fizeram amizade com os filhotes sobreviventes de homens-lagarto, escavaram o terceiro nível da rocha vulcânica em processo de resfriamento e mais uma vez reivindicaram este lugar como seu lar. Ele explicou ainda que o Sumo Sacerdote yuan-ti Thorasskus recebeu recentemente uma visão de seu deus Sseth sobre uma erupção iminente. Thorasskus então informou a Alta Feiticeira Izbelah, que rapidamente pesquisou um feitiço para impedi-la, mas ela não foi vista desde então.~

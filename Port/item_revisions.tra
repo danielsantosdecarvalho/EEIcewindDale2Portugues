@@ -93,7 +93,7 @@ A razão para sua vigília era desconhecida, mas os druidas desapareceram misterio
 ESTATÍSTICAS:
 
 Especial:
-  Enquanto sob o efeito da Pele Rochosa (Stoneskin), o portador ganha resistência 5/- contra dano físico
+  Enquanto sob o efeito da Pele de Pedra (Stoneskin), o portador ganha resistência 5/- contra dano físico
 Peso: 0,5 kg (1 lb).
 Sabedoria mínima de 13 necessária~
 //@10042 = ~Pedra do Druida dos Espinhos~
@@ -102,7 +102,7 @@ Sabedoria mínima de 13 necessária~
 ESTATÍSTICAS:
 
 Especial:
-Enquanto sob o efeito da Pele Rochosa (Stoneskin), o portador ganha resistência 10/- contra dano físico, e inimigos que atingirem o portador em combate corpo a corpo recebem 2d4 de dano perfurante.
+Enquanto sob o efeito da Pele de Pedra (Stoneskin), o portador ganha resistência 10/- contra dano físico, e inimigos que atingirem o portador em combate corpo a corpo recebem 2d4 de dano perfurante.
 Peso: 0,5 kg (1 lb).
 Sabedoria mínima de 13 necessária~
 //@10044 = ~Olho da Tempestade~
@@ -379,12 +379,12 @@ ESTATÍSTICAS:
 Carisma: +2
 Poder Mágico: Pode lançar o feitiço Dominação (no nível 15) 1 vez por dia
 Peso: 0 kg.~
-@10110 = ~Anel de Pele Rochosa~
+@10110 = ~Anel de Pele de Pedra~
 @10111 = ~Um anel é uma pequena faixa de metal precioso usada como joia. Alguns anéis raros possuem encantamentos que conferem diversas habilidades mágicas. Esses anéis são muito procurados, especialmente por aventureiros. Sem motivo aparente, este anel é quente ao toque.
 
 ESTATÍSTICAS:
 
-Poder Mágico: Pode lançar o feitiço Pele Rochosa (no nível 10) 1 vez por dia
+Poder Mágico: Pode lançar o feitiço Pele de Pedra (no nível 10) 1 vez por dia
 Peso: 0 kg.~
 //@10112 = ~Anel da Força Resiliente~
 @10113 = ~Alguns anéis parecem ser de construção muito robusta, adequados para aqueles de corpo robusto. Esses anéis raros possuem encantamentos que conferem diversas habilidades mágicas. Esses anéis são muito procurados, especialmente por aqueles da profissão guerreira.
@@ -1195,7 +1195,7 @@ Peso: 1,5 kg (3 lb).~
 //@10334 = ~Abraço de Mystra~
 @10335 = ~Embora os magos possam abrigar magias poderosas, sua principal fraqueza é o fato de não poderem usar qualquer tipo de armadura sem sofrer severas limitações em suas habilidades de conjuração. Embora, com treinamento adequado, os magos possam superar essas restrições, normalmente optam por encantar suas vestes ou um anel com propriedades defletoras, a fim de permanecerem livres de armaduras volumosas. Mas se por acaso um guerreiro talentoso ou um arqueiro habilidoso se conectar com sua arma, o mago não terá a força necessária para durar muito.
 
-Os clérigos de Mystra, ao verem o dilema que caiu sobre os magos da terra, criaram capas abençoadas pela própria Mystra. Essas capas concediam ao mago resistências especiais a danos, onde a maior parte, se não toda, a quantidade de dano causado por uma arma seria anulada. Além disso, os clérigos de Mystra empoderaram as capas com a habilidade de conjurar Pele Rochosa. Não é preciso dizer que os magos que adquiriram essas capas, que eventualmente foram chamadas de Abraço de Mystra, se sentiram ainda mais poderosos, se não invulneráveis.
+Os clérigos de Mystra, ao verem o dilema que caiu sobre os magos da terra, criaram capas abençoadas pela própria Mystra. Essas capas concediam ao mago resistências especiais a danos, onde a maior parte, se não toda, a quantidade de dano causado por uma arma seria anulada. Além disso, os clérigos de Mystra empoderaram as capas com a habilidade de conjurar Pele de Pedra. Não é preciso dizer que os magos que adquiriram essas capas, que eventualmente foram chamadas de Abraço de Mystra, se sentiram ainda mais poderosos, se não invulneráveis.
 
 ESTATÍSTICAS:
 
@@ -1204,7 +1204,7 @@ Especial:
   Redução de Dano: 10/+2
 Peso: 0,5 kg (1 lb).~
 //@10336 = ~Vingança da Natureza~
-@10337 = ~Os vingadores são membros de uma seita especial dentro de uma ordem druídica. Eles se dedicam a combater aqueles que contaminam a natureza, e esses mantos eram às vezes usados por membros de sua seita ao embarcarem em suas cruzadas contra aqueles que infligiram ferimentos graves à terra. Há relatos de que vários desses mantos foram usados por druidas que seguiram o rastro da Horda Negra há muitos anos, durante seu ataque à fortaleza élfica da Mão Cortada. A Horda derrubou muitas árvores e devastou vastas áreas do Norte enquanto construía máquinas de cerco, e os vingadores declararam guerra a eles, tentando usar o poder da natureza contra seus atacantes. Embora os vingadores tenham sido eventualmente mortos por um clã orc ao longo da Espinha do Mundo, seus mantos permanecem e ocasionalmente ressurgem pelo Norte.
+@10337 = ~Os vingadores são membros de uma seita especial dentro de uma ordem druídica. Eles se dedicam a combater aqueles que contaminam a natureza, e esses mantos eram às vezes usados por membros de sua seita ao embarcarem em suas cruzadas contra aqueles que infligiram ferimentos graves à terra. Há relatos de que vários desses mantos foram usados por druidas que seguiram o rastro da Horda Negra há muitos anos, durante seu ataque à fortaleza élfica da Mão Decepada. A Horda derrubou muitas árvores e devastou vastas áreas do Norte enquanto construía máquinas de cerco, e os vingadores declararam guerra a eles, tentando usar o poder da natureza contra seus atacantes. Embora os vingadores tenham sido eventualmente mortos por um clã orc ao longo da Espinha do Mundo, seus mantos permanecem e ocasionalmente ressurgem pelo Norte.
 
 Quando usadas por um druida, essas capas têm a chance de chamar um fogo brilhante sobre qualquer inimigo que ouse cometer violência contra o usuário. Muitas vezes cegaram um inimigo... apenas para vê-lo morrer com a lâmina de um vingador em sua garganta.
 
@@ -7835,8 +7835,8 @@ Especial:
 Peso: 2,5 kg (5 lb)
 Requisito de Talento: Arma Marcial, Mangual
 Tipo: Uma Mão~
-//@11541 = ~Mangual de Pustule~
-@11542 = ~Pústule, o Doente, é metade da dupla que compõe os habilidosos torturadores da Mão Cortada. Ele é um meio-orc tão inteligente quanto uma vela apagada e tão desleixado quanto um goblin sem-teto vivendo em um esgoto superlotado. Aqueles que conheceram Pústule, o Doente, sentem uma vontade insaciável de se banhar imediatamente por causa de seu estado perturbadoramente imundo e coberto de doenças. Até mesmo a arma preferida de Pústule, um mangual grande e grotesco, secreta imundície e doenças.
+//@11541 = ~Mangual de Pústula~
+@11542 = ~Pústule, o Doente, é metade da dupla que compõe os habilidosos torturadores da Mão Decepada. Ele é um meio-orc tão inteligente quanto uma vela apagada e tão desleixado quanto um goblin sem-teto vivendo em um esgoto superlotado. Aqueles que conheceram Pústule, o Doente, sentem uma vontade insaciável de se banhar imediatamente por causa de seu estado perturbadoramente imundo e coberto de doenças. Até mesmo a arma preferida de Pústule, um mangual grande e grotesco, secreta imundície e doenças.
 
 O Mangual de Pústula não tem um único ponto limpo. Cada centímetro quadrado está coberto de feridas purulentas e lama esverdeada. Isso provavelmente explica por que, sempre que Pústula, o Doente, usa seu mangual em batalha, a doença que o cobre e sua arma é transferida para a vítima do impacto do mangual. E, se por alguma razão extraordinária o receptor da fúria do mangual não adoecer, certamente será envenenado. Nunca uma arma combinou tão perfeitamente com seu portador quanto o Mangual de Pústula. É quase como se Pústula, o Doente, tivesse nascido com ela.
 
@@ -7854,8 +7854,8 @@ Especial:
 Peso: 2,5 kg (5 lb)
 Requisito de Talento: Arma Marcial, Mangual
 Tipo: Uma Mão~
-//@11543 = ~Mangual de Furúnculos de Pustule~
-@11544 = ~Pústule, o Doente, é metade da dupla que compõe os habilidosos torturadores da Mão Cortada. Ele é um meio-orc tão inteligente quanto uma vela apagada e tão desleixado quanto um goblin sem-teto vivendo em um esgoto superlotado. Aqueles que conheceram Pústule, o Doente, sentem uma vontade insaciável de se banhar imediatamente por causa de seu estado perturbadoramente imundo e coberto de doenças. Até mesmo a arma preferida de Pústule, um mangual grande e grotesco, secreta imundície e doenças.
+//@11543 = ~Mangual de Furúnculos de Pústula~
+@11544 = ~Pústule, o Doente, é metade da dupla que compõe os habilidosos torturadores da Mão Decepada. Ele é um meio-orc tão inteligente quanto uma vela apagada e tão desleixado quanto um goblin sem-teto vivendo em um esgoto superlotado. Aqueles que conheceram Pústule, o Doente, sentem uma vontade insaciável de se banhar imediatamente por causa de seu estado perturbadoramente imundo e coberto de doenças. Até mesmo a arma preferida de Pústule, um mangual grande e grotesco, secreta imundície e doenças.
 
 O Mangual de Furúnculos de Pústula não tem um ponto limpo em lugar nenhum. Cada centímetro quadrado está coberto de feridas purulentas e lama esverdeada. Isso provavelmente explica por que sempre que Pústula, o Doente, usa seu mangual em batalha, a doença que o cobre e sua arma é transferida para a vítima do impacto do mangual. E, se por alguma razão extraordinária o receptor da fúria do mangual não adoecer, certamente será envenenado. Nunca uma arma combinou tão perfeitamente com seu portador quanto o Mangual de Furúnculos de Pústula. É quase como se Pústula, o Doente, tivesse nascido com ela.
 
@@ -8226,7 +8226,7 @@ Tipo: Uma Mão~
 
 Este martelo ostenta uma haste finamente gravada com imagens de Iyachtu Xvim rechaçando legiões de paladinos. Seu martelo de mitral primorosamente trabalhado é muito maior do que a maioria dos martelos de guerra, mas não parece ser mais pesado. Como muitas armas feitas com os encantamentos profanos de Iyachtu Xvim, o metal do martelo parece absorver a luz em sua escuridão infinita.
 
-Nas poucas ocasiões em que o Tirano Brutai Mar usou sua arma contra seus inimigos, Brutai sentiu aumento de força e precisão. Além disso, alguns dos golpes esmagadores foram acompanhados por rajadas de ácido Xvimiano – o mesmo ácido que flui pelas águas dentro da Mão Cortada.
+Nas poucas ocasiões em que o Tirano Brutai Mar usou sua arma contra seus inimigos, Brutai sentiu aumento de força e precisão. Além disso, alguns dos golpes esmagadores foram acompanhados por rajadas de ácido Xvimiano – o mesmo ácido que flui pelas águas dentro da Mão Decepada.
 
 ESTATÍSTICAS:
 
@@ -8246,7 +8246,7 @@ Tipo: Uma Mão~
 
 Este martelo ostenta uma haste finamente gravada com imagens de Iyachtu Xvim lutando contra legiões de paladinos. Seu martelo de mitral primorosamente trabalhado é muito maior do que a maioria dos martelos de guerra, mas não parece ser mais pesado. Como muitas armas feitas com os encantamentos profanos de Iyachtu Xvim, o metal do martelo parece absorver a luz em sua escuridão insuportável.
 
-Nas poucas ocasiões em que o Tirano Brutai Mar usou sua arma contra seus inimigos, Brutai sentiu aumento de força e precisão. Além disso, alguns dos golpes esmagadores foram acompanhados por rajadas de ácido Xvimiano — o mesmo ácido que flui pelas águas da Mão Cortada.
+Nas poucas ocasiões em que o Tirano Brutai Mar usou sua arma contra seus inimigos, Brutai sentiu aumento de força e precisão. Além disso, alguns dos golpes esmagadores foram acompanhados por rajadas de ácido Xvimiano — o mesmo ácido que flui pelas águas da Mão Decepada.
 
 ESTATÍSTICAS:
 
@@ -9139,15 +9139,15 @@ Peso: 1,5 kg (3 lb)
 Requisito de Talento: Arma Marcial, Arco
 Tipo: Duas Mãos~
 @11793 = ~Arco de Ouro~
-@11794 = ~Pode-se argumentar que a Arca de Ouro e sua irmã, a Arca de Mitral, causaram o fim da aliança anã-élfica no Norte há muitos anos, e levaram à destruição da Mão Cortada e à queda do Abismo de Dorn. Muitas tragédias ocorreram em torno desses dois itens, e muitas são as mortes que causaram, embora nenhuma flecha jamais tenha sido disparada deles.
+@11794 = ~Pode-se argumentar que a Arca de Ouro e sua irmã, a Arca de Mitral, causaram o fim da aliança anã-élfica no Norte há muitos anos, e levaram à destruição da Mão Decepada e à queda do Abismo de Dorn. Muitas tragédias ocorreram em torno desses dois itens, e muitas são as mortes que causaram, embora nenhuma flecha jamais tenha sido disparada deles.
 
 No auge da aliança anã-élfica no Norte, surgiu um desentendimento entre as duas raças sobre a questão do comércio de armas encantadas com os homens do sul, que estavam começando a se estabelecer no Norte. Os anões eram da opinião de que as muitas obras grandiosas construídas pelos esforços conjuntos de anões e elfos deveriam ser oferecidas aos homens e os lucros usados para encher os cofres de ambas as raças. Essa sugestão não foi bem recebida pelos elfos nem por seu líder, o arquimago Larrel, e o assunto foi rapidamente abandonado.
 
 No entanto, quando o Arco de Ouro, um dos itens fabricados em conjunto por armeiros anões e elfos, foi encontrado nas mãos de um grupo de guerra orc pouco depois do debate nos conselhos da aliança, os elfos acusaram os anões de venderem as armas aos goblinoides por ganância. Os anões, insultados, quebraram as hastes de seus martelos no meio do conselho e interromperam as negociações com os elfos, retornando aos seus salões no Abismo de Dorn e nunca mais falando com eles. As duas raças, agora divididas, foram logo engolidas pela Horda Sombria que devorava o Norte sob sua bandeira.
 
-Na época da queda da Mão Cortada, o Arco de Ouro foi erguido nos salões da Mão Cortada como um lembrete da traição e da ganância anãs. Quando a Mão Cortada caiu, o Arco de Ouro observou silenciosamente enquanto os goblinoides dilaceravam os defensores élficos e devastavam torre após torre, até que o arquimago élfico Larrel, em um ato desesperadamente violento, provocou o cataclismo Mythal que selou o destino da Mão Cortada de uma vez por todas.
+Na época da queda da Mão Decepada, o Arco de Ouro foi erguido nos salões da Mão Decepada como um lembrete da traição e da ganância anãs. Quando a Mão Decepada caiu, o Arco de Ouro observou silenciosamente enquanto os goblinoides dilaceravam os defensores élficos e devastavam torre após torre, até que o arquimago élfico Larrel, em um ato desesperadamente violento, provocou o cataclismo Mythal que selou o destino da Mão Decepada de uma vez por todas.
 
-Quando o Mythal foi lançado, o Arco de Ouro desapareceu dos salões da Mão Cortada e não foi mais visto desde então... até agora.
+Quando o Mythal foi lançado, o Arco de Ouro desapareceu dos salões da Mão Decepada e não foi mais visto desde então... até agora.
 
 ESTATÍSTICAS:
 
@@ -9160,11 +9160,11 @@ Requisito de Talento: Arma Marcial, Arco
 Tipo: Duas Mãos
 Destreza Mínima de 18 Necessária~
 @11795 = ~Arco de Mitral~
-@11796 = ~Pode-se argumentar que o Arco de Mitral e seu irmão, o Arco de Ouro, causaram o fim da aliança anã-élfica no Norte há muitos anos, e levaram à destruição da Mão Cortada e à queda do Abismo de Dorn. Muitas tragédias ocorreram em torno desses dois itens, e muitas são as mortes que causaram, embora nenhuma flecha jamais tenha sido disparada deles.
+@11796 = ~Pode-se argumentar que o Arco de Mitral e seu irmão, o Arco de Ouro, causaram o fim da aliança anã-élfica no Norte há muitos anos, e levaram à destruição da Mão Decepada e à queda do Abismo de Dorn. Muitas tragédias ocorreram em torno desses dois itens, e muitas são as mortes que causaram, embora nenhuma flecha jamais tenha sido disparada deles.
 
-O Arco de Mitral foi desenvolvido no auge da aliança anões-élficos e foi um dos muitos itens conjuntos desenvolvidos pelos anões e elfos da Mão Cortada antes da destruição da Mão Cortada e da Queda do Abismo de Dorn. Sua precisão era incomparável, e os anões o presentearam aos elfos como um símbolo de boa vontade entre as raças. Dizia-se que a corda do arco havia sido abençoada pelo próprio arquimago élfico Larrel, com um alcance que parecia rivalizar com o horizonte. Ele foi montado nos salões de Mão Cortada para que todos os visitantes pudessem vê-lo e testemunhar as conquistas que anões e elfos, unidos, poderiam realizar.
+O Arco de Mitral foi desenvolvido no auge da aliança anões-élficos e foi um dos muitos itens conjuntos desenvolvidos pelos anões e elfos da Mão Decepada antes da destruição da Mão Decepada e da Queda do Abismo de Dorn. Sua precisão era incomparável, e os anões o presentearam aos elfos como um símbolo de boa vontade entre as raças. Dizia-se que a corda do arco havia sido abençoada pelo próprio arquimago élfico Larrel, com um alcance que parecia rivalizar com o horizonte. Ele foi montado nos salões de Mão Decepada para que todos os visitantes pudessem vê-lo e testemunhar as conquistas que anões e elfos, unidos, poderiam realizar.
 
-Quando seu irmão, o Arco de Ouro, foi descoberto nas mãos de um bando de orcs que atacavam as florestas ao norte de Mão Cortada, os elfos ficaram furiosos e acusaram os anões de venderem as relíquias que as duas raças haviam criado em conjunto para seus inimigos. Os anões, enfurecidos com o insulto, apreenderam o Arco de Mitral e retornaram ao Abismo de Dorn, cortando todo contato com os elfos.
+Quando seu irmão, o Arco de Ouro, foi descoberto nas mãos de um bando de orcs que atacavam as florestas ao norte de Mão Decepada, os elfos ficaram furiosos e acusaram os anões de venderem as relíquias que as duas raças haviam criado em conjunto para seus inimigos. Os anões, enfurecidos com o insulto, apreenderam o Arco de Mitral e retornaram ao Abismo de Dorn, cortando todo contato com os elfos.
 
 Dizem que, no momento em que a aliança se desfez, a corda do Arco de Mitral se rompeu com um último som metálico, e o arco, inútil, permaneceu nas profundezas do Abismo Inferior de Dorn, observando silenciosamente enquanto os anões eram lentamente empurrados para o fundo do Abismo pelas hordas goblinoides invasoras que começavam a chegar do Norte. Nunca foi visto e jamais tomado pela Horda Negra que marchava pelo Abismo de Dorn, e o Arco de Mitral permaneceu lá por incontáveis anos na escuridão, com os mortos anões empilhados ao redor, ainda segurando suas armas.
 
@@ -10956,9 +10956,9 @@ Peso: 0,5 kg (1 lb).~
 
 Os infortúnios que assolavam o Vale do Vento Gelado levaram à emboscada da expedição de Hrothgar na ventosa Passagem de Kuldahar... e os deixaram como os únicos sobreviventes. Avançando contra os invasores goblinoides que enchiam a Passagem, o pequeno grupo finalmente chegou a Kuldahar, apenas para descobrir que a grande árvore estava sendo ameaçada por um mal desconhecido nas profundezas das montanhas – se esse mal não fosse detido, Kuldahar seria destruída, e o próprio Norte poderia em breve compartilhar o destino da cidade.
 
-O bravo grupo de aventureiros buscou esse mal, e suas viagens os levaram das criptas do Vale das Sombras através das inúmeras ruínas do Norte, incluindo a decadente fortaleza élfica da Mão Cortada e as cavernas cheias de lava do Olho do Dragão. Grande parte de sua jornada se perdeu, mas não há dúvida de que seus esforços levaram à salvação de Kuldahar e das Dez Cidades, e seus feitos ainda são comentados em Porto Leste e Kuldahar até hoje. O próprio Hrothgar foi sepultado em um pequeno vale perto da cidade de Kuldahar, em memória de sua abnegação em ajudar seu vizinho em uma época em que Porto Leste também sofria com seus próprios problemas.
+O bravo grupo de aventureiros buscou esse mal, e suas viagens os levaram das criptas do Vale das Sombras através das inúmeras ruínas do Norte, incluindo a decadente fortaleza élfica da Mão Decepada e as cavernas cheias de lava do Olho do Dragão. Grande parte de sua jornada se perdeu, mas não há dúvida de que seus esforços levaram à salvação de Kuldahar e das Dez Cidades, e seus feitos ainda são comentados em Porto Leste e Kuldahar até hoje. O próprio Hrothgar foi sepultado em um pequeno vale perto da cidade de Kuldahar, em memória de sua abnegação em ajudar seu vizinho em uma época em que Porto Leste também sofria com seus próprios problemas.
 
-Entre seus outros atos de heroísmo, os aventureiros são creditados com a descoberta da localização da tumba de Kresselack, o Lobo Negro, um dos generais mais infames do Norte, a descoberta da Mão Cortada e de vários outros monastérios e ruínas que se acreditava perdidos no tempo e nas neves do Norte.
+Entre seus outros atos de heroísmo, os aventureiros são creditados com a descoberta da localização da tumba de Kresselack, o Lobo Negro, um dos generais mais infames do Norte, a descoberta da Mão Decepada e de vários outros monastérios e ruínas que se acreditava perdidos no tempo e nas neves do Norte.
 
 Após ler o capítulo final do livro acima, você percebe que as letras iniciais de cada capítulo se entrelaçam para formar uma peculiar magia de invocação. Quando uma passagem do livro é recitada, ela invoca os ventos uivantes do Vale do Vento Gélido em auxílio do leitor.
 
@@ -12543,7 +12543,7 @@ Este caldo encantado transforma qualquer um que o ingira em um histachii yuan-ti
 Além disso, mesmo após o término da transformação, a pele do bebedor permanece mais dura do que o normal, tendo retido uma pequena parte da transmutação em escamas. Isso concede um bônus de Classe de Armadura genérico de +1 permanente e não cumulativo.
 Peso: 0,5 kg (1 lb) ~
 @12589 = ~Armadura do Cisne Negro +1~
-@12590 = ~Esta armadura foi feita pelo ferreiro anão Karador e por uma encantadora élfica conhecida como Elameth das Cinco Árvores. Durante a cooperação entre a Mão dos Seldarine e o Abismo de Dorn, muitos itens maravilhosos foram produzidos. Esta armadura foi um deles. Excepcionalmente leve e bela, a armadura foi originalmente usada por uma marechal élfica da Mão Cortada, razão pela qual os orcs não a levaram quando saquearam as torres. A armadura foi posteriormente roubada da Mão pela Donzela Ilmadia.
+@12590 = ~Esta armadura foi feita pelo ferreiro anão Karador e por uma encantadora élfica conhecida como Elameth das Cinco Árvores. Durante a cooperação entre a Mão dos Seldarine e o Abismo de Dorn, muitos itens maravilhosos foram produzidos. Esta armadura foi um deles. Excepcionalmente leve e bela, a armadura foi originalmente usada por uma marechal élfica da Mão Decepada, razão pela qual os orcs não a levaram quando saquearam as torres. A armadura foi posteriormente roubada da Mão pela Donzela Ilmadia.
 
 ESTATÍSTICAS:
 
@@ -12556,7 +12556,7 @@ Especial:
   Habilidades de Conjuração de Magias e Furtividade  podem ser realizadas sem penalidades por usar armadura.
 Peso: 4,5 kg (9 lb).~
 @12591 = ~Armadura requintada do Cisne Negro +5~
-@12592 = ~Esta armadura foi feita pelo ferreiro anão Karador e por uma encantadora élfica conhecida como Elameth das Cinco Árvores. Durante a cooperação entre a Mão dos Seldarine e o Abismo de Dorn, muitos itens maravilhosos foram produzidos. Esta armadura foi um deles. Excepcionalmente leve e bela, a armadura foi originalmente usada por uma marechal élfica da Mão Cortada, razão pela qual os orcs não a levaram quando saquearam as torres. A armadura foi posteriormente roubada da Mão pela Donzela Ilmadia.
+@12592 = ~Esta armadura foi feita pelo ferreiro anão Karador e por uma encantadora élfica conhecida como Elameth das Cinco Árvores. Durante a cooperação entre a Mão dos Seldarine e o Abismo de Dorn, muitos itens maravilhosos foram produzidos. Esta armadura foi um deles. Excepcionalmente leve e bela, a armadura foi originalmente usada por uma marechal élfica da Mão Decepada, razão pela qual os orcs não a levaram quando saquearam as torres. A armadura foi posteriormente roubada da Mão pela Donzela Ilmadia.
 
 ESTATÍSTICAS:
 
@@ -12916,7 +12916,7 @@ ESTATÍSTICAS:
 Esta poção cura 5d8+25 pontos de vida e cura uma criatura de todas as seguintes doenças: drenagem de energia, imbecilidade, qualquer forma de insanidade, como confusão ou estados de frenesi, encantamento, dominação, desesperança, desespero, pânico e sono induzido artificialmente.
 Peso: 0,5 kg (1 lb) ~
 //@12651 = ~Vinho de Cura Élfico~
-@12652 = ~Esta garrafa de vinho élfico também possui as propriedades de uma poção de cura. Durante um dos festivais élficos, os sacerdotes da Mão de Seldarine beberam demais naquele dia e acidentalmente adicionaram um barril de vinho élfico a uma mistura destinada a poções de cura. Devido à interação com os encantamentos que cercam a Mão Cortada, esta garrafa tem efeitos poderosos, porém imprevisíveis.
+@12652 = ~Esta garrafa de vinho élfico também possui as propriedades de uma poção de cura. Durante um dos festivais élficos, os sacerdotes da Mão de Seldarine beberam demais naquele dia e acidentalmente adicionaram um barril de vinho élfico a uma mistura destinada a poções de cura. Devido à interação com os encantamentos que cercam a Mão Decepada, esta garrafa tem efeitos poderosos, porém imprevisíveis.
 
 ESTATÍSTICAS:
 
@@ -13496,7 +13496,7 @@ Peso: 1 kg (2 lb)~
 
 ESTATÍSTICAS:
 
-Especial: Se o portador ficar parado por 6 segundos sem fazer nada, ele ganha uma única pele de Pele Rochosa (absorvendo os próximos 10 pontos de dano físico de uma arma +4 ou inferior) por 8 horas.
+Especial: Se o portador ficar parado por 6 segundos sem fazer nada, ele ganha uma única pele de Pele de Pedra (absorvendo os próximos 10 pontos de dano físico de uma arma +4 ou inferior) por 8 horas.
 Peso: 1,5 kg (3 lb)~
 @12783 = ~Anel da Vida~
 @12784 = ~Um anel é uma pequena faixa de metal precioso usada como joia. Alguns anéis raros possuem encantamentos que conferem diversas habilidades mágicas. Esses anéis são muito procurados, especialmente por aventureiros. Sem motivo aparente, este anel é quente ao toque.

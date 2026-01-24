@@ -1134,7 +1134,7 @@ Magias de Domínio:
 3: Curar Ferimentos Graves, Círculo Mágico Contra o Mal
 4: Emoção: Esperança, Esfera Resiliente de Otiluke
 5: Imbecilidade, Restauração Maior
-6: Pele Rochosa, Força Troll
+6: Pele de Pedra, Força Troll
 7: Santidade Impervious da Mente, Névoa de Eldath
 8: Aura Sagrada, Corpo de Ferro
 9: Evaporação, Cura Completa em Massa~
@@ -1647,14 +1647,14 @@ Normal: Um personagem que usa uma arma sem ser proficiente com ela sofre uma pen
 
 Você sabe como atingir os oponentes em áreas vulneráveis.
 
-Pré-requisitos: Dex 13+, Sab 13+, bônus de ataque base +8 ou superior
+Pré-requisitos: Des 13+, Sab 13+, bônus de ataque base +8 ou superior
 
 Benefício: Ao atacar com Ataque Atordoante, você força um inimigo que foi danificado pelo seu ataque desarmado a fazer um teste de resistência de Fortitude (CD 10 + metade do seu nível + modificador de Sab), além de causar dano normalmente. Se o defensor falhar no teste de resistência, ele fica atordoado por 1 rodada. Um personagem atordoado não pode agir e pode ser atingido automaticamente. Você pode tentar um ataque atordoante uma vez por dia a cada quatro níveis que você tenha alcançado.~
 @730 = ~ESQUIVA:
 
 Você é habilidoso em desviar de golpes.
 
-Pré-requisito: Dex 13+. Para tomar a perícia uma segunda vez, é necessário Dex 25+, Evasão Aprimorada e Amortecer Impacto.
+Pré-requisito: Des 13+. Para tomar a perícia uma segunda vez, é necessário Des 25+, Evasão Aprimorada e Amortecer Impacto.
 
 Benefício: Você recebe um bônus de esquiva de +1 para a Classe de Armadura contra ataques de um oponente.
 
