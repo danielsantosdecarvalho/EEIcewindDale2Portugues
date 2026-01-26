@@ -1,10 +1,16 @@
+
+
+
+
+
+
 //TRA range 6000-7999
 
 @6000=~Ouvi dizer que você fez um acordo com o líder goblin. Não é exatamente para isso que Targos está te pagando, né?~
 @6001=~Somos pagos para proteger Targos, e fizemos isso. Que lugar é este?~
 @6002=~Somos pagos para proteger Targos, e fizemos isso. Que lugar é este mesmo?~
 @6003=~Não questione meus métodos. Arrisquei minha vida ao fazer aquele acordo, e agora preciso de suprimentos.~
-@6004=~Cada companhia serve um rodízio na Palisade. Ultimamente, a maior parte dos nossos esforços tem se concentrado na construção da Palisade, em vez de na sua manutenção. Nesse sentido, temos um problema. Você está a fim de uma missão especial? Ou prefere se ater a um rodízio simples?~
+@6004=~Cada companhia serve um rodízio na Paliçada. Ultimamente, a maior parte dos nossos esforços tem se concentrado na construção da Paliçada, em vez de na sua manutenção. Nesse sentido, temos um problema. Você está a fim de uma missão especial? Ou prefere se ater a um rodízio simples?~
 @6005=~Estamos prontos para ajudar. O que precisa ser feito?~
 @6006=~Não temos interesse em missões especiais. Preferimos tomar nossos postos e esperar até que os goblins ataquem novamente.~
 @6007=~Muito bem. Tomem seus postos e retornem para mim após oito horas.~

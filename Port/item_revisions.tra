@@ -1571,10 +1571,10 @@ Peso: 1,5 kg (3 lb).~
 @10418 = ~A descrição do item pode permanecer a mesma; se uma nova descrição for necessária, coloque-a aqui~
 @10419 = ~Armadura de Couro +2~
 @10420 = ~A descrição do item pode permanecer a mesma; se uma nova descrição for necessária, coloque-a aqui~
-@10421 = ~Armadura de Couro Revestida~
+@10421 = ~Armadura de Couro Batido~
 @10422 = ~A descrição do item pode permanecer a mesma; se uma nova descrição for necessária, coloque-a aqui~
-@10423 = ~Armadura de Couro Revestida +1~
-@10424 = ~A armadura de couro cravejado tem pouco em comum com a armadura de couro comum. Enquanto a armadura de couro é uma casca endurecida, a armadura de couro cravejado é macia e flexível, com centenas de rebites de metal fixados. Os rebites estão tão próximos que formam uma camada flexível de metal duro que repele ataques cortantes e cortantes. O revestimento de couro macio é pouco mais do que um meio de fixar os rebites no lugar. Esta armadura foi magicamente aprimorada para proporcionar maior durabilidade e proteção.
+@10423 = ~Armadura de Couro Batido +1~
+@10424 = ~A armadura de couro batido tem pouco em comum com a armadura de couro comum. Enquanto a armadura de couro é uma casca endurecida, a armadura de couro batido é macia e flexível, com centenas de rebites de metal fixados. Os rebites estão tão próximos que formam uma camada flexível de metal duro que repele ataques cortantes e cortantes. O revestimento de couro macio é pouco mais do que um meio de fixar os rebites no lugar. Esta armadura foi magicamente aprimorada para proporcionar maior durabilidade e proteção.
 
 ESTATÍSTICAS:
 
@@ -1584,8 +1584,8 @@ Bônus Máximo de Destreza: +5
 Penalidade de Teste com Armadura: -1
 Falha de Feitiço Arcano: 15%
 Peso: 7,5 kg (15 lb).~
-@10425 = ~Armadura de Couro Revestido +4: Atrator de Projéteis~
-@10426 = ~Este traje de couro cravejado de aparência estranha não pode ser removido depois de vestido, exceto sob a intervenção de um mago. Embora melhore a proteção contra todas as armas brancas, esta armadura se torna um alvo para armas de projéteis, e consequentemente o mesmo acontece com seu portador. A escolha é simples, flechas mortais ou espadas mortais.
+@10425 = ~Armadura de Couro Batido +4: Atrator de Projéteis~
+@10426 = ~Este traje de couro batido de aparência estranha não pode ser removido depois de vestido, exceto sob a intervenção de um mago. Embora melhore a proteção contra todas as armas brancas, esta armadura se torna um alvo para armas de projéteis, e consequentemente o mesmo acontece com seu portador. A escolha é simples, flechas mortais ou espadas mortais.
 
 ESTATÍSTICAS:
 
@@ -1598,8 +1598,8 @@ Especial:
 Penalidade de Classe de Armadura: -10 contra armas de projétil
 Amaldiçoada: Não pode ser removida sem um feitiço de Remover Maldição
 Peso: 3,5 kg (7 lb).~
-@10427 = ~Armadura de Couro Revestido +2~
-@10428 = ~A armadura de couro cravejado tem pouco em comum com a armadura de couro comum. Enquanto a armadura de couro é uma casca endurecida, a armadura de couro cravejado é macia e flexível, com centenas de rebites de metal fixados. Os rebites estão tão próximos que formam uma camada flexível de metal duro que repele ataques cortantes e cortantes. O revestimento de couro macio é pouco mais do que um meio de fixar os rebites no lugar. Esta armadura foi magicamente aprimorada para proporcionar maior durabilidade e proteção.
+@10427 = ~Armadura de Couro Batido +2~
+@10428 = ~A armadura de couro batido tem pouco em comum com a armadura de couro comum. Enquanto a armadura de couro é uma casca endurecida, a armadura de couro batido é macia e flexível, com centenas de rebites de metal fixados. Os rebites estão tão próximos que formam uma camada flexível de metal duro que repele ataques cortantes e cortantes. O revestimento de couro macio é pouco mais do que um meio de fixar os rebites no lugar. Esta armadura foi magicamente aprimorada para proporcionar maior durabilidade e proteção.
 
 ESTATÍSTICAS:
 
@@ -1634,8 +1634,8 @@ Falha de Feitiço Arcano: 10%
 Especial:
   O bônus de armadura aumenta em 1 para cada 10 pontos de Conhecimento da Selva que o usuário possui.
 Peso: 5 kg (10 lb).~
-@10433 = ~Armadura de Couro Revestida da Sorte +2~
-@10434 = ~A armadura de couro cravejado tem pouco em comum com a armadura de couro comum. Enquanto a armadura de couro é uma casca endurecida, a armadura de couro cravejado é macia e flexível, com centenas de rebites de metal fixados. Os rebites estão tão próximos que formam uma camada flexível de metal duro que repele ataques cortantes e cortantes. O revestimento de couro macio é pouco mais do que um meio de fixar os rebites no lugar. Encantamentos mágicos aumentam as habilidades de proteção desta armadura de couro.
+@10433 = ~Armadura de Couro Batido da Sorte +2~
+@10434 = ~A armadura de couro batido tem pouco em comum com a armadura de couro comum. Enquanto a armadura de couro é uma casca endurecida, a armadura de couro batido é macia e flexível, com centenas de rebites de metal fixados. Os rebites estão tão próximos que formam uma camada flexível de metal duro que repele ataques cortantes e cortantes. O revestimento de couro macio é pouco mais do que um meio de fixar os rebites no lugar. Encantamentos mágicos aumentam as habilidades de proteção desta armadura de couro.
 
 ESTATÍSTICAS:
 
@@ -1660,8 +1660,8 @@ Falha de Feitiço Arcano: 10%
 Especial:
   Resistência: 15/- Resistência ao Fogo
 Peso: 5 kg (10 lb).~
-@10437 = ~Armadura de Couro Revestido Sombreado +1~
-@10438 = ~A armadura de couro cravejado tem pouco em comum com a armadura de couro comum. Enquanto a armadura de couro é uma casca endurecida, a armadura de couro cravejado é macia e flexível, com centenas de rebites de metal fixados. Os rebites estão tão próximos que formam uma camada flexível de metal duro que repele ataques cortantes e cortantes. O revestimento de couro macio é pouco mais do que um meio de fixar os rebites no lugar. Encantamentos mágicos aumentam as habilidades de proteção desta armadura de couro.
+@10437 = ~Armadura de Couro Batido Sombreado +1~
+@10438 = ~A armadura de couro batido tem pouco em comum com a armadura de couro comum. Enquanto a armadura de couro é uma casca endurecida, a armadura de couro batido é macia e flexível, com centenas de rebites de metal fixados. Os rebites estão tão próximos que formam uma camada flexível de metal duro que repele ataques cortantes e cortantes. O revestimento de couro macio é pouco mais do que um meio de fixar os rebites no lugar. Encantamentos mágicos aumentam as habilidades de proteção desta armadura de couro.
 
 ESTATÍSTICAS:
 
@@ -1674,8 +1674,8 @@ Especial:
   Sombrio: +5 em Habilidade de Esconder-se
   Bônus de Armadura Genérico: +1
 Peso: 7,5 kg (15 lb).~
-@10439 = ~Armadura de Couro Revestido das Imagens +1~
-@10440 = ~A armadura de couro cravejado tem pouco em comum com a armadura de couro comum. Enquanto a armadura de couro é uma casca endurecida, a armadura de couro cravejado é macia e flexível, com centenas de rebites de metal fixados. Os rebites estão tão próximos que formam uma camada flexível de metal duro que repele ataques cortantes e cortantes. O revestimento de couro macio é pouco mais do que um meio de fixar os rebites no lugar. Encantamentos mágicos aumentam as habilidades de proteção desta armadura de couro.
+@10439 = ~Armadura de Couro Batido das Imagens +1~
+@10440 = ~A armadura de couro batido tem pouco em comum com a armadura de couro comum. Enquanto a armadura de couro é uma casca endurecida, a armadura de couro batido é macia e flexível, com centenas de rebites de metal fixados. Os rebites estão tão próximos que formam uma camada flexível de metal duro que repele ataques cortantes e cortantes. O revestimento de couro macio é pouco mais do que um meio de fixar os rebites no lugar. Encantamentos mágicos aumentam as habilidades de proteção desta armadura de couro.
 
 ESTATÍSTICAS:
 
@@ -1687,8 +1687,8 @@ Falha de Feitiço Arcano: 15%
 Especial:
   Pode criar duas Reflexos por 5 rodadas, 2 vezes/dia
 Peso: 7,5 kg (15 lb).~
-@10441 = ~Armadura de Couro Revestido da Fortitude +1~
-@10442 = ~A armadura de couro cravejado tem pouco em comum com a armadura de couro comum. Enquanto a armadura de couro é uma casca endurecida, a armadura de couro cravejado é macia e flexível, com centenas de rebites de metal fixados. Os rebites estão tão próximos que formam uma camada flexível de metal duro que repele ataques cortantes e cortantes. O revestimento de couro macio é pouco mais do que um meio de fixar os rebites no lugar. Encantamentos mágicos aumentam as habilidades de proteção desta armadura de couro.
+@10441 = ~Armadura de Couro Batido da Fortitude +1~
+@10442 = ~A armadura de couro batido tem pouco em comum com a armadura de couro comum. Enquanto a armadura de couro é uma casca endurecida, a armadura de couro batido é macia e flexível, com centenas de rebites de metal fixados. Os rebites estão tão próximos que formam uma camada flexível de metal duro que repele ataques cortantes e cortantes. O revestimento de couro macio é pouco mais do que um meio de fixar os rebites no lugar. Encantamentos mágicos aumentam as habilidades de proteção desta armadura de couro.
 
 ESTATÍSTICAS:
 
@@ -1701,8 +1701,8 @@ Especial:
   Testes de Resistência de Fortitude: +2 de bônus
   Bônus de Pontos de Vida: +20 para Pontos de Vida Máximos
 Peso: 7,5 kg (15 lb).~
-@10443 = ~Armadura de Couro Revestido da Coragem +1~
-@10444 = ~A armadura de couro cravejado tem pouco em comum com a armadura de couro comum. Enquanto a armadura de couro é uma casca endurecida, a armadura de couro cravejado é macia e flexível, com centenas de rebites de metal fixados. Os rebites estão tão próximos que formam uma camada flexível de metal duro que repele ataques cortantes e cortantes. O revestimento de couro macio é pouco mais do que um meio de fixar os rebites no lugar. Encantamentos mágicos aumentam as habilidades de proteção desta armadura de couro.
+@10443 = ~Armadura de Couro Batido da Coragem +1~
+@10444 = ~A armadura de couro batido tem pouco em comum com a armadura de couro comum. Enquanto a armadura de couro é uma casca endurecida, a armadura de couro batido é macia e flexível, com centenas de rebites de metal fixados. Os rebites estão tão próximos que formam uma camada flexível de metal duro que repele ataques cortantes e cortantes. O revestimento de couro macio é pouco mais do que um meio de fixar os rebites no lugar. Encantamentos mágicos aumentam as habilidades de proteção desta armadura de couro.
 
 ESTATÍSTICAS:
 
@@ -1919,7 +1919,7 @@ Especial:
   O Usuário está sob os efeitos do feitiço *Mente Vazia*
 Peso: 10 kg (20 lb).~
 @10471 = ~Zuvembie +2~
-@10472 = ~Para superar os poderes avassaladores de um necromante, Mizelle Krillor, uma elfa selvagem que residia na região selvagem de Kuldahar, juntamente com a ajuda de um feiticeiro desconhecido, criou a armadura de couro cravejado conhecida como Zuvembie.
+@10472 = ~Para superar os poderes avassaladores de um necromante, Mizelle Krillor, uma elfa selvagem que residia na região selvagem de Kuldahar, juntamente com a ajuda de um feiticeiro desconhecido, criou a armadura de couro batido conhecida como Zuvembie.
 
 Feita da carne encantada de um zumbi, tachada com prata e abençoada pelo feiticeiro, Mizelle vestiu a armadura incomum e imediatamente sentiu um aumento na resistência mágica. Infelizmente, um dos efeitos colaterais da nova armadura de Mizelle foi uma maldição zumbi que a tornava socialmente muito repelente. No entanto, ela estava tão desesperada para destruir o necromante que não se importou. Com a habilidade de resistir aos feitiços de morte do necromante, ela o matou com a ferocidade de um demônio. Logo depois, ela foi até um clérigo de Sune e fez com que a armadura amaldiçoada fosse removida, nunca mais sendo usada pela elfa selvagem arqueira.
 
@@ -1936,7 +1936,7 @@ Carisma: penalidade de -2
 O Usuário está sob os efeitos do feitiço Proteção Contra a Morte
 Peso: 10 kg (20 lb)~
 @10473 = ~Imunidade de Zuvembie +4~
-@10474 = ~Para superar os poderes avassaladores de um necromante, Mizelle Krillor, uma elfa selvagem que residia na região selvagem de Kuldahar, juntamente com a ajuda de um feiticeiro desconhecido, criou a armadura de couro cravejado conhecida como Impunidade de Zuvembie.
+@10474 = ~Para superar os poderes avassaladores de um necromante, Mizelle Krillor, uma elfa selvagem que residia na região selvagem de Kuldahar, juntamente com a ajuda de um feiticeiro desconhecido, criou a armadura de couro batido conhecida como Impunidade de Zuvembie.
 
 Feita da carne encantada de um zumbi, tachada com prata e abençoada pelo feiticeiro, Mizelle vestiu a armadura incomum e imediatamente sentiu um aumento na resistência mágica. Infelizmente, um dos efeitos colaterais da nova armadura de Mizelle foi uma maldição zumbi que a tornava socialmente muito repelente. No entanto, ela estava tão desesperada para destruir o necromante que não se importou. Com a habilidade de resistir aos feitiços de morte do necromante, ela o matou com a ferocidade de um demônio. Logo depois, ela foi até um clérigo de Sune e fez com que a armadura amaldiçoada fosse removida, nunca mais sendo usada pela elfa selvagem arqueira.
 
@@ -2008,7 +2008,7 @@ Especial:
   Resistência: 2/- Resistência a Ácido
 Peso: 10 kg (20 lb)~
 //@10481 = ~Armadura de Pele de Tubarão e Coral~
-@10482 = ~A armadura de pele de tubarão e coral é usada quase exclusivamente pelos sahuagin. É feita de pele de tubarão com tachas de coral duro em locais estratégicos. É o equivalente a uma armadura de couro cravejado em termos de proteção. No entanto, também adiciona um bônus de 3/- às resistências a fogo e ácido.
+@10482 = ~A armadura de pele de tubarão e coral é usada quase exclusivamente pelos sahuagin. É feita de pele de tubarão com tachas de coral duro em locais estratégicos. É o equivalente a uma armadura de couro batido em termos de proteção. No entanto, também adiciona um bônus de 3/- às resistências a fogo e ácido.
 
 ESTATÍSTICAS:
 
@@ -2073,7 +2073,7 @@ Resistência:
   20/- Resistência a Ácido
 Peso: 5 kg (10 lb).~
 //@10491 = ~Armadura de Pele~
-@10492 = ~A armadura de couro é feita de múltiplas camadas de couro. Embora rígida e difícil de mover, é relativamente simples de fazer e fornece uma boa barreira contra o frio. É mais comumente vista em guerreiros e caçadores de tribos bárbaras do norte.
+@10492 = ~A armadura de peles é feita de múltiplas camadas de couro. Embora rígida e difícil de mover, é relativamente simples de fazer e fornece uma boa barreira contra o frio. É mais comumente vista em guerreiros e caçadores de tribos bárbaras do norte.
 
 ESTATÍSTICAS:
 
@@ -2166,9 +2166,9 @@ Bônus Máximo de Destreza: +2
 Penalidade de Teste com Armadura: -5
 Falha de Feitiço Arcano: 30%
 Peso: 17,5 kg (35 lb) ~
-//@10507 = ~Cota de Malha de Splint~
+//@10507 = ~Cota de Talas~
 //@10508 = ~A descrição do item pode permanecer a mesma; se uma nova descrição for necessária, coloque-a aqui~
-//@10509 = ~Cota de Malha de Splint +1~
+//@10509 = ~Cota de Talas +1~
 //@10510 = ~A descrição do item pode permanecer a mesma; se uma nova descrição for necessária, coloque-a aqui~
 @10511 = ~Cota de Malha Maléfica +2~
 @10512 = ~Esta armadura foi criada em 1221 CV por um ferreiro duergar que trabalhava para um sacerdote vingativo de Bane chamado Alerri de Águas Profundas Ocidentais. Durante os primeiros dias de Alerri no sacerdócio, ele frequentemente provocava e atacava agentes de Sune. Infelizmente para Alerri, os seguidores da Senhora Cabelo de Fogo empregaram magia de encantamento para cessar as travessuras dos Banitas. Uma vez enfeitiçado, Alerri foi ordenado a realizar todos os tipos de ações embaraçosas nas ruas de Águas Profundas. Depois de muitos anos, Alerri decidiu honrar seu deus do ódio criando uma armadura que o protegeria da magia de encantamento. Ele comungou com os asseclas espirituais de Bane para descobrir os materiais e rituais necessários para a criação da armadura. Seguindo as instruções de seu mestre, ele assassinou treze casais e fez com que suas alianças fossem tecidas na bainha da cota de malha. Ele então matou treze elfos e se banhou em seu sangue, proferindo orações por treze horas. Quando terminou, sua armadura o protegeu da magia dos sunitas e o encheu de um ódio irreprimível. Alerri embarcou em uma cruzada contra os agentes de Sune, Llira e Hanali Celanil por três anos. Sua matança terminou quando arqueiros élficos e sacerdotes de Corellon Larethian armaram uma armadilha para ele em uma estrada que ia para o norte, a partir de Águas Profundas.
@@ -2453,7 +2453,7 @@ Bônus Máximo de Destreza: +0
 Penalidade de Teste com Armadura: -7
 Falha de Feitiço Arcano: 40%
 Peso: 20 kg (40 lb).~
-@10549 = ~Armadura de Placa de Campo Mithral +3~
+@10549 = ~Armadura de Placa de Campo de Mithral +3~
 @10550 = ~A armadura de campo é, na verdade, uma forma mais comum de armadura completa. Consiste em placas de metal moldadas e ajustadas, rebitadas e interligadas para cobrir todo o corpo. Esta armadura é feita de mitral e foi magicamente aprimorada para maior proteção e durabilidade.
 
 ESTATÍSTICAS:
@@ -2464,7 +2464,7 @@ Bônus Máximo de Destreza: +2
 Penalidade de Teste com Armadura: -5
 Falha de Feitiço Arcano: 30%
 Peso: 12,5 kg (25 lb).~
-@10551 = ~Cota de Placa Completa +1~
+@10551 = ~Armadura Completa +1~
 @10552 = ~A armadura de placas completa é a melhor armadura que um guerreiro pode comprar, tanto em aparência quanto em proteção. As placas perfeitamente encaixadas e interligadas são especialmente anguladas para desviar flechas e golpes, e todo o traje é cuidadosamente adornado com ricas gravuras e detalhes em relevo. Com seus encantamentos mágicos, esta armadura de placas completa é ideal para guerreiros.
 
 ESTATÍSTICAS:
@@ -2475,7 +2475,7 @@ Bônus Máximo de Destreza: +1
 Penalidade de Teste com Armadura: -6
 Falha de Feitiço Arcano: 35%
 Peso: 22,5 kg (45 lb). ~
-//@10553 = ~Meia Placa de 1/4 de Peso~
+//@10553 = ~Armadura de Meia Placa de 1/4 de Peso~
 @10554 = ~Esta armadura de meia placa é feita de tiras de casca de Besouro Boring curada. É extremamente leve.
 
 ESTATÍSTICAS:
@@ -2488,7 +2488,7 @@ Falha de Feitiço Arcano: 40%
 Peso: 6 kg (12 lb).~
 //@10555 = ~Placa de Campo de 1/4 de Peso~
 //@10556 = ~A descrição do item pode permanecer a mesma; se uma nova descrição for necessária, coloque-a aqui~
-@10557 = ~Placa Completa de 1/4 de Peso~
+@10557 = ~Armadura Completa de 1/4 de Peso~
 //@10558 = ~A descrição do item pode permanecer a mesma; se uma nova descrição for necessária, coloque-a aqui~
 @10559 = ~Armadura Forjada por Duergar +4~
 @10560 = ~Artesãos mestres Duergar forjaram esta armadura de aço cinza opaco. Runas habilidosamente trabalhadas em sua superfície refletem feitiços e golpes, e a armadura pesa apenas metade de uma armadura de placa típica.
@@ -2531,7 +2531,7 @@ Bônus Máximo de Destreza: +1
 Penalidade de Teste com Armadura: -5
 Falha de Feitiço Arcano: 35%
 Especial:
-  Leve: A armadura pesa metade do peso normal da meia-placa.
+  Leve: A armadura pesa metade do peso normal da armadura de meia-placa.
 Peso: 12,5 kg (25 lb).~
 @10565 = ~Pena de Falcão~
 @10566 = ~Normalmente, a cota de malha é reservada para aqueles fortes o suficiente para usá-la. Não importa que houvesse muitos guerreiros excelentes na terra que pudessem se beneficiar da proteção extra que a cota de malha lhes oferecia. Aqueles azarados o suficiente para serem do lado esbelto (e mais fraco) eram reservados para usar nada mais pesado do que uma cota de malha. Isso até que uma jovem e engenhosa armeira descobriu um encantamento de pena de falcão que a ajudou a criar uma cota de malha que pesava metade da cota de malha comum. Nem é preciso dizer que essa armeira em particular se tornou muito popular entre os guerreiros esbeltos da região.
@@ -2545,7 +2545,7 @@ Bônus Máximo de Destreza: +1
 Penalidade de Teste com Armadura: -5
 Falha de Feitiço Arcano: 35%
 Especial:
-  Leve: A armadura pesa um quinto do peso normal de uma meia-placa
+  Leve: A armadura pesa um quinto do peso normal de uma armadura de meia-placa
   Força: +5
 Peso: 5 kg (10 lb).~
 @10567 = ~Armadura dos Clérigos de Myrkul~
@@ -3699,7 +3699,7 @@ Tipo: Uma Mão~
 
 //@10765 = ~Espada Curta~
 //@10766 = ~A descrição do item pode permanecer a mesma; se uma nova descrição for necessária, coloque-a aqui~
-//@10767 = ~Espada Curta de Obra-Prima~
+//@10767 = ~Espada Curta Obra-Prima~
 //@10768 = ~A descrição do item pode permanecer a mesma; se uma nova descrição for necessária, coloque-a aqui~
 //@10769 = ~Espada Curta +1~
 //@10770 = ~A descrição do item pode permanecer a mesma; se uma nova descrição for necessária, coloque-a aqui~
@@ -3963,7 +3963,7 @@ Tipo:  Uma mão~
 @10817 = ~Cicatriz de Letto +1~
 @10818 = ~Esta espada curta encantada foi esculpida de uma única peça de xisto, sua superfície embebida com veneno retirado da língua de uma serpente do deserto. O veneno nunca seca, dando à espada um brilho doentio.
 
-Esta espada curta é uma arma maligna, dita ter causado muitas mortes lentas ao longo dos anos. Seu nome vem de seu último proprietário conhecido, um infame bucaneiro chamado Letto, que caçava navios que viajavam pelo Mar do Gelo Móvel. Diz-se que ele foi capturado pela Tribo da Grande Baleia à sombra do Iceberg Hehnhold, onde seu navio foi destroçado pelos grandes machados dos bárbaros e a tripulação incendiada com piche queimado. Quando a batalha terminou, apenas madeira à deriva restou. Um dos pedaços do casco de seu navio encontrou seu caminho para o sul e a madeira foi usada na construção de um dos quartos no andar superior da Taverna da Viúva Chorosa. A espada curta esteve enterrada na madeira por quase trinta anos ou mais, esperando que alguém a encontrasse novamente e a usasse em nome de Letto.
+Esta espada curta é uma arma maligna, dita ter causado muitas mortes lentas ao longo dos anos. Seu nome vem de seu último proprietário conhecido, um infame pirata chamado Letto, que caçava navios que viajavam pelo Mar do Gelo Móvel. Diz-se que ele foi capturado pela Tribo da Grande Baleia à sombra do Iceberg Hehnhold, onde seu navio foi destroçado pelos grandes machados dos bárbaros e a tripulação incendiada com piche queimado. Quando a batalha terminou, apenas madeira à deriva restou. Um dos pedaços do casco de seu navio encontrou seu caminho para o sul e a madeira foi usada na construção de um dos quartos no andar superior da Estalagem da Viúva Chorona. A espada curta esteve enterrada na madeira por quase trinta anos ou mais, esperando que alguém a encontrasse novamente e a usasse em nome de Letto.
 
 ESTATÍSTICAS:
 
@@ -3981,7 +3981,7 @@ Tipo:  Uma mão~
 @10819 = ~Fim de Letto +5~
 @10820 = ~Esta espada curta encantada foi esculpida de uma única peça de xisto, sua superfície embebida com veneno retirado da língua de uma serpente do deserto. O veneno nunca seca, dando à espada um brilho doentio.
 
-Esta espada curta é uma arma maligna, dita ter causado muitas mortes lentas ao longo dos anos. Seu nome vem de seu último proprietário conhecido, um infame bucaneiro chamado Letto, que caçava navios que viajavam pelo Mar do Gelo Móvel. Diz-se que ele foi capturado pela Tribo da Grande Baleia à sombra do Iceberg Hehnhold, onde seu navio foi destroçado pelos grandes machados dos bárbaros e a tripulação incendiada com piche queimado. Quando a batalha terminou, apenas madeira à deriva restou. Um dos pedaços do casco de seu navio encontrou seu caminho para o sul e a madeira foi usada na construção de um dos quartos no andar superior da Taverna da Viúva Chorosa. A espada curta esteve enterrada na madeira por quase trinta anos ou mais, esperando que alguém a encontrasse novamente e a usasse em nome de Letto.
+Esta espada curta é uma arma maligna, dita ter causado muitas mortes lentas ao longo dos anos. Seu nome vem de seu último proprietário conhecido, um infame pirata chamado Letto, que caçava navios que viajavam pelo Mar do Gelo Móvel. Diz-se que ele foi capturado pela Tribo da Grande Baleia à sombra do Iceberg Hehnhold, onde seu navio foi destroçado pelos grandes machados dos bárbaros e a tripulação incendiada com piche queimado. Quando a batalha terminou, apenas madeira à deriva restou. Um dos pedaços do casco de seu navio encontrou seu caminho para o sul e a madeira foi usada na construção de um dos quartos no andar superior da Estalagem da Viúva Chorona. A espada curta esteve enterrada na madeira por quase trinta anos ou mais, esperando que alguém a encontrasse novamente e a usasse em nome de Letto.
 
 ESTATÍSTICAS:
 
@@ -5001,7 +5001,7 @@ Encantamento: +2
 Tipo de Dano: Cortante
 Especial:
   Efeito Constante: Sob o efeito da magia Benção
-  Proteção contra Maldição: Proteção contra a magia Maldição Menor e contra os efeitos negativos das magias Cantico, Pregação e Recitação
+  Proteção contra Maldição Menor: Proteção contra a magia Maldição Menor (Bane) e contra os efeitos negativos das magias Cantico, Pregação e Recitação
 Peso: 6 kg (12 lb).
 Requisito de Talento: Arma Marcial, Montante
 Tipo: Duas mãos~
@@ -5418,7 +5418,7 @@ Especial:
 Peso: 2 kg (4 lb).
 Requisito de Talento: Arma Simples, Cajado
 Tipo: Duas mãos~
-//@11069 = ~Bastão de Obra-Prima~
+//@11069 = ~Cajado Obra-Prima~
 //@11070 = ~A descrição do item pode permanecer a mesma; se uma nova descrição for necessária, coloque-a aqui.~
 //@11071 = ~Bastão +5~
 //@11072 = ~A descrição do item pode permanecer a mesma; se uma nova descrição for necessária, coloque-a aqui.~
@@ -5919,7 +5919,7 @@ Especial:
 Peso: 5 kg (10 lb).
 Requisito de Talento: Arma Marcial, Arma de Haste
 Tipo:  Duas mãos~
-@11171    = ~Mão do Bucaneiro +4~
+@11171    = ~Mão do Pirata +4~
 @11172 = ~Esta alabarda tem um núcleo de ferro dentro da haste e parece ter sido projetada para se prender às laterais de navios inimigos e prendê-los no lugar para permitir a abordagem. É bem leve e rápida para uma alabarda, e o gancho na ponta facilita o encaixe em estruturas. Não parece ter sido muito usada em combate, embora seja perfeita para lancetar goblins à distância.
 
 ESTATÍSTICAS:
@@ -6456,7 +6456,7 @@ Tipo: Uma Mão~
 //@11275 = ~Parte-Barris~
 @11276 = ~Este machado de aparência desgastada é um prenúncio do Vau Shaengarne, uma pequena vila madeireira a sudoeste de Targos, às margens do Rio Shaengarne. Embora seja uma arma de aparência assustadora, o machado parece ter sido criado mais para rachar barris e cortar lenha do que para uso em combate real, e parece ter sido bastante usado para derrubar árvores.
 
-Parte-Barris provavelmente foi vendido para o Depósito de Comércio Gallaway em troca de alimentos e suprimentos para garantir que Shaengarne Ford sobrevivesse durante a temporada. Embora o grande tamanho e peso do machado o tornem mais lento que um machado comum, encantamentos de ferimentos menores e sempre afiados foram esculpidos no cabo, permitindo que ele rachasse barris e goblins com facilidade.
+Parte-Barris provavelmente foi vendido para o Depósito Comercial Gallaway em troca de alimentos e suprimentos para garantir que Shaengarne Ford sobrevivesse durante a temporada. Embora o grande tamanho e peso do machado o tornem mais lento que um machado comum, encantamentos de ferimentos menores e sempre afiados foram esculpidos no cabo, permitindo que ele rachasse barris e goblins com facilidade.
 
 ESTATÍSTICAS:
 
@@ -6466,10 +6466,10 @@ Tipo de Dano: Cortante
 Peso: 4,5 kg (9 lb).
 Requisito de Talento: Arma Marcial, Machado
 Tipo: Uma Mão~
-//@11277 = ~Corta-Tambores de Shaengarne Ford~
+//@11277 = ~Corta-Tambores da Vau de Shaengarne~
 @11278 = ~Este machado de aparência desgastada é um prenúncio do Vau Shaengarne, uma pequena vila madeireira a sudoeste de Targos, às margens do Rio Shaengarne. Embora seja uma arma de aparência assustadora, o machado parece ter sido criado mais para rachar barris e cortar lenha do que para uso em combate real, e parece ter sido bastante usado para derrubar árvores.
 
-O Corta-Tambores de Shaengarne Ford foi provavelmente vendido para o Depósito de Comércio Gallaway em troca de alimentos e suprimentos para garantir que Shaengarne Ford sobrevivesse durante a temporada. Embora o grande tamanho e peso do machado o tornem mais lento que um machado comum, encantamentos de ferimentos menores e sempre afiados foram esculpidos no cabo, permitindo que ele rachasse barris e goblins com facilidade.
+O Corta-Tambores da Vau de Shaengarne foi provavelmente vendido para o Depósito Comercial Gallaway em troca de alimentos e suprimentos para garantir que Shaengarne Ford sobrevivesse durante a temporada. Embora o grande tamanho e peso do machado o tornem mais lento que um machado comum, encantamentos de ferimentos menores e sempre afiados foram esculpidos no cabo, permitindo que ele rachasse barris e goblins com facilidade.
 
 ESTATÍSTICAS:
 
@@ -7720,7 +7720,7 @@ Tipo: Uma Mão~
 
 Roa, com menos de dezesseis verões, foi amarrada com uma bola e corrente e lançada nas infames masmorras do duque para aguardar a conclusão do terrível plano de seu marido e irmã. Ela soluçava e gemia dia e noite, sua voz ecoando pelos corredores da fortaleza. O duque logo se indignou com seus lamentos constantes e enviou um de seus guardas ducais para silenciar a pequena Roa. Quando o homem chegou à cela, a golpeou no rosto, jogou-a no chão e fez menção de chutar sua barriga – mas, rápida como isso, Roa se levantou e estrangulou o homem com suas correntes.
 
-Momentos depois, a jovem esbelta irrompeu na corte do duque e o atacou selvagemente. Seus guardas a bombardearam com dardos de suas bestas, mas ela continuou a atacar. Ao chegar ao Trono Ducal, jogou o campeão de Sorim para o lado como se fosse uma boneca quebrada, balançando a bola de ferro de suas algemas com tanta força que ela perfurou a couraça de ferro meteórico, três vezes encantada, do duque em choque, cravando cacos de costelas despedaçadas em seus pulmões e coração, matando-o instantaneamente.
+Momentos depois, a jovem esbelta irrompeu na corte do duque e o atacou selvagemente. Seus guardas a bombardearam com dardos de suas bestas, mas ela continuou a atacar. Ao chegar ao Trono Ducal, jogou o campeão de Sorim para o lado como se fosse uma boneca quebrada, balançando a bola de ferro de suas algemas com tanta força que ela perfurou a placa de peito de ferro meteórico, três vezes encantada, do duque em choque, cravando cacos de costelas despedaçadas em seus pulmões e coração, matando-o instantaneamente.
 
 Ninguém sabe ao certo como a história termina – alguns dizem que Roa morreu no local, com o peito e as costas cheios de flechas, enquanto outros descrevem como sua irmã Rana saltou e a matou com uma adaga... alguns otimistas chegam a afirmar que Roa viveu e passou o resto de seus dias em paz e êxtase. Seja como for, seus grilhões permanecem como um testemunho de sua história.
 
@@ -7742,7 +7742,7 @@ Tipo: Uma Mão~
 
 Roa, com menos de dezesseis verões, foi amarrada com uma bola e corrente e lançada nas infames masmorras do duque para aguardar a conclusão do terrível plano de seu marido e irmã. Ela soluçava e gemia dia e noite, sua voz ecoando pelos corredores da fortaleza. O duque logo se indignou com seus lamentos constantes e enviou um de seus guardas ducais para silenciar a pequena Roa. Quando o homem chegou à cela, a golpeou no rosto, jogou-a no chão e fez menção de chutar sua barriga – mas, rápida como isso, Roa se levantou e estrangulou o homem com suas correntes.
 
-Momentos depois, a jovem esbelta irrompeu na corte do duque e o atacou selvagemente. Seus guardas a bombardearam com dardos de suas bestas, mas ela continuou a atacar. Ao chegar ao Trono Ducal, jogou o campeão de Sorim para o lado como se fosse uma boneca quebrada, balançando a bola de ferro de suas algemas com tanta força que ela perfurou a couraça de ferro meteórico, três vezes encantada, do duque em choque, cravando cacos de costelas despedaçadas em seus pulmões e coração, matando-o instantaneamente.
+Momentos depois, a jovem esbelta irrompeu na corte do duque e o atacou selvagemente. Seus guardas a bombardearam com dardos de suas bestas, mas ela continuou a atacar. Ao chegar ao Trono Ducal, jogou o campeão de Sorim para o lado como se fosse uma boneca quebrada, balançando a bola de ferro de suas algemas com tanta força que ela perfurou a placa de peito de ferro meteórico, três vezes encantada, do duque em choque, cravando cacos de costelas despedaçadas em seus pulmões e coração, matando-o instantaneamente.
 
 Ninguém sabe ao certo como a história termina – alguns dizem que Roa morreu no local, com o peito e as costas cheios de flechas, enquanto outros descrevem como sua irmã Rana saltou e a matou com uma adaga... alguns otimistas chegam a afirmar que Roa viveu e passou o resto de seus dias em paz e bem-aventurança. Seja como for, seus grilhões permanecem como um testemunho de sua história.
 
@@ -10941,7 +10941,7 @@ Peso: 0,5 kg (1 lb).~
 //@12201 = ~Coração do Inverno~ //HoF
 @12202 = ~O Coração do Inverno é frequentemente confundido com a lendária Gema de Pedra-Coração, um poderoso artefato de adivinhação que serve como o coração da grande comunidade arbórea de Kuldahar. O Coração do Inverno não é um objeto, mas uma expressão frequentemente usada pelas tribos Uthgart do norte para se referir a um guerreiro ou criatura que se livrou de tudo, exceto de um foco motivador - geralmente vingança ou ódio. A expressão é frequentemente usada para descrever o senhor bárbaro, Wylfdene, que retornou para liderar as tribos bárbaras em uma campanha contra as Dez-Burgos no Ano da Alma Fria (1281, Acerto de Contas dos Vales). Segundo a lenda, Wylfdene afirmava ser a reencarnação do xamã Jerrod, um dos maiores heróis bárbaros e aquele que se sacrificou na batalha final contra o arquimago Arakon, centenas de anos atrás. Alegando que seu corpo havia se tornado o lar do espírito de Jerrod, Wylfdene convocou as tribos do Norte para a guerra a fim de retomar as terras que, segundo ele, haviam sido tomadas pelos sulistas das Dez-Burgos. Estabelecendo um grande acampamento de guerra em Bremen's Run, um estreito cânion sob a sombra do Cairn de Kelvin, ele travou várias batalhas rápidas contra os anões e os habitantes da região até que um pequeno grupo de aventureiros chegou à cidade de Lonelywood para tentar estabelecer a paz entre as Dez-Burgos e os bárbaros. Diz-se que seus esforços diplomáticos falharam, mas eles conseguiram derrotar Wylfdene e salvar as Dez-Burgos da destruição. Acredita-se que esses aventureiros sejam a única razão pela qual as Dez-Burgos existem (e prosperam) até hoje.
 
-O que aconteceu com esses bravos aventureiros é desconhecido. O último registro conhecido deles é de um avistamento na Estalagem da Forca Assobiante em Bosque Solitário, onde conversaram com um viajante halfling que alegou conhecer um lugar onde grandes riquezas poderiam ser encontradas. Pouco depois disso, os aventureiros e o halfling desapareceram e nunca mais se ouviu falar deles.
+O que aconteceu com esses bravos aventureiros é desconhecido. O último registro conhecido deles é de um avistamento na Estalagem da Forca Assobiadora em Bosque Solitário, onde conversaram com um viajante halfling que alegou conhecer um lugar onde grandes riquezas poderiam ser encontradas. Pouco depois disso, os aventureiros e o halfling desapareceram e nunca mais se ouviu falar deles.
 
 Após ler o capítulo final do livro acima, você percebe que as letras iniciais de cada capítulo se entrelaçam para formar um feitiço de invocação peculiar. Quando uma passagem do livro é recitada, ela permite ao leitor infligir a maldição do Coração do Inverno aos inimigos, cegando-os com seu poder ou até mesmo congelando-os onde estiverem.
 
@@ -11176,7 +11176,7 @@ Alcance: 30 metros (100 pés)
 Área: 10 metros de raio (30 pés)
 
 Habilidade 2:
-Efeito: Queimador de Agannazar
+Efeito: Chamar de Agannazar
 Dano: 6d6 (sem resistência)
 Alcance: 27 metros (90 pés)
 Área: 1 criatura
@@ -11690,7 +11690,7 @@ Penalidade de Teste com Armadura: -5
 Falha de Feitiço Arcano: 30%
 Peso: 12,5 kg (25 lb).~
 @12445 = ~Malha de Tala +3~
-@12446 = ~A cota de malha é uma variante da cota de malha em que as tiras de metal são aplicadas verticalmente ao suporte de corrente, couro ou tecido, em vez de horizontalmente como na cota de malha. Como o corpo humano não gira no meio do tronco tanto quanto se flexiona de trás para frente, a cota de malha é mais restritiva em batalha. Esta armadura em particular foi magicamente encantada para maior durabilidade e proteção.
+@12446 = ~A cota de tala é uma variante da cota de malha em que as tiras de metal são aplicadas verticalmente ao suporte de corrente, couro ou tecido, em vez de horizontalmente como na cota de malha. Como o corpo humano não gira no meio do tronco tanto quanto se flexiona de trás para frente, a cota de malha é mais restritiva em batalha. Esta armadura em particular foi magicamente encantada para maior durabilidade e proteção.
 
 ESTATÍSTICAS:
 
@@ -11714,7 +11714,7 @@ Especial:
   Efeito Constante: O portador está sob os efeitos da magia Globo Menor de Invulnerabilidade
 Peso: 12,5 kg (25 lb). ~
 @12449 = ~Malha de Tala de Vitalidade +5~
-@12450 = ~A cota de malha é uma variante da cota de malha em que as tiras de metal são aplicadas verticalmente ao suporte de corrente, couro ou tecido, em vez de horizontalmente como na cota de malha. Como o corpo humano não gira no meio do tronco tanto quanto se flexiona de trás para frente, a cota de malha é mais restritiva em batalha. Esta armadura em particular foi magicamente encantada para maior durabilidade e proteção.
+@12450 = ~A cota de tala é uma variante da cota de malha em que as tiras de metal são aplicadas verticalmente ao suporte de corrente, couro ou tecido, em vez de horizontalmente como na cota de malha. Como o corpo humano não gira no meio do tronco tanto quanto se flexiona de trás para frente, a cota de malha é mais restritiva em batalha. Esta armadura em particular foi magicamente encantada para maior durabilidade e proteção.
 
 ESTATÍSTICAS:
 
@@ -11727,7 +11727,7 @@ Especial:
   Constituição: bônus de +4
 Peso: 16 kg (32 lb)~
 @12451 = ~Malha de Tala de Saúde Perfeita +7~
-@12452 = ~A cota de malha é uma variante da cota de malha em que as tiras de metal são aplicadas verticalmente ao suporte de corrente, couro ou tecido, em vez de horizontalmente como na cota de malha. Como o corpo humano não gira no meio do tronco tanto quanto se flexiona de trás para frente, a cota de malha é mais restritiva em batalha. Esta armadura em particular foi magicamente encantada para maior durabilidade e proteção.
+@12452 = ~A cota de tala é uma variante da cota de malha em que as tiras de metal são aplicadas verticalmente ao suporte de corrente, couro ou tecido, em vez de horizontalmente como na cota de malha. Como o corpo humano não gira no meio do tronco tanto quanto se flexiona de trás para frente, a cota de malha é mais restritiva em batalha. Esta armadura em particular foi magicamente encantada para maior durabilidade e proteção.
 
 ESTATÍSTICAS:
 
@@ -11905,8 +11905,8 @@ Falha de Feitiço Arcano: 10%
 Resistência:
   50/- Resistência a Ácido
 Peso: 5 kg (10 lb).~
-@12483 = ~Armadura de Couro da Fúria +3~
-@12484 = ~A armadura de couro é feita de múltiplas camadas de couro. Embora rígida e difícil de mover, é relativamente simples de fazer e fornece uma boa barreira contra o frio. É mais comumente vista em guerreiros e caçadores de tribos bárbaras do norte.
+@12483 = ~Armadura de Pele da Fúria +3~
+@12484 = ~A armadura de pele é feita de múltiplas camadas de couro. Embora rígida e difícil de mover, é relativamente simples de fazer e fornece uma boa barreira contra o frio. É mais comumente vista em guerreiros e caçadores de tribos bárbaras do norte.
 
 ESTATÍSTICAS:
 
@@ -11918,8 +11918,8 @@ Falha de Feitiço Arcano: 20%
 Especial:
   Efeito Constante: O portador está sob efeitos semelhantes à magia Emoção: Fúria (+2 de ataque, +4 de dano, +2 de resistência de Vontade, -2 de penalidade de Classe de Armadura)
 Peso: 5 kg (10 lb).~
-@12485 = ~Armadura de Couro de Grande Vitalidade +5 ~
-@12486 = ~A armadura de couro é feita de múltiplas camadas de couro. Embora rígida e difícil de mover, é relativamente simples de fazer e fornece uma boa barreira contra o frio. É mais comumente vista em guerreiros e caçadores de tribos bárbaras do norte.
+@12485 = ~Armadura de Pele de Grande Vitalidade +5 ~
+@12486 = ~A armadura de pele é feita de múltiplas camadas de couro. Embora rígida e difícil de mover, é relativamente simples de fazer e fornece uma boa barreira contra o frio. É mais comumente vista em guerreiros e caçadores de tribos bárbaras do norte.
 
 ESTATÍSTICAS:
 
@@ -11958,8 +11958,8 @@ Falha de Feitiço Arcano: 10%
 Especial:
   Quando o usuário sofre dano, ele ou ela tem 50% de chance de ficar invisível por 7 rodadas.
 Peso: 1,5 kg (3 lb) ~
-@12491 = ~Armadura de Couro Cravejado da Rapidez +5~
-@12492 = ~A armadura de couro cravejado tem pouco em comum com a armadura de couro comum. Enquanto a armadura de couro é uma casca endurecida, a armadura de couro cravejado é macia e flexível, com centenas de rebites de metal fixados. Os rebites estão tão próximos que formam uma camada flexível de metal duro que repele ataques cortantes e cortantes. O revestimento de couro macio é pouco mais do que um meio de fixar os rebites no lugar. Encantamentos mágicos aumentam as habilidades de proteção desta armadura de couro.
+@12491 = ~Armadura de Couro Batido da Rapidez +5~
+@12492 = ~A armadura de couro batido tem pouco em comum com a armadura de couro comum. Enquanto a armadura de couro é uma casca endurecida, a armadura de couro batido é macia e flexível, com centenas de rebites de metal fixados. Os rebites estão tão próximos que formam uma camada flexível de metal duro que repele ataques cortantes e cortantes. O revestimento de couro macio é pouco mais do que um meio de fixar os rebites no lugar. Encantamentos mágicos aumentam as habilidades de proteção desta armadura de couro.
 
 ESTATÍSTICAS:
 
@@ -11971,8 +11971,8 @@ Falha de Feitiço Arcano: 15%
 Especial:
   Taxa de Movimento dobrada
 Peso: 2 kg (4 lb)~
-@12493 = ~Armadura de Couro Cravejado com Velocidade Ilimitada +6~
-@12494 = ~A armadura de couro cravejado tem pouco em comum com a armadura de couro comum. Enquanto a armadura de couro é uma casca endurecida, a armadura de couro cravejado é macia e flexível, com centenas de rebites de metal fixados. Os rebites estão tão próximos que formam uma camada flexível de metal duro que repele ataques cortantes e cortantes. O revestimento de couro macio é pouco mais do que um meio de fixar os rebites no lugar. Encantamentos mágicos aumentam as habilidades de proteção desta armadura de couro.
+@12493 = ~Armadura de Couro Batido com Velocidade Ilimitada +6~
+@12494 = ~A armadura de couro batido tem pouco em comum com a armadura de couro comum. Enquanto a armadura de couro é uma casca endurecida, a armadura de couro batido é macia e flexível, com centenas de rebites de metal fixados. Os rebites estão tão próximos que formam uma camada flexível de metal duro que repele ataques cortantes e cortantes. O revestimento de couro macio é pouco mais do que um meio de fixar os rebites no lugar. Encantamentos mágicos aumentam as habilidades de proteção desta armadura de couro.
 
 ESTATÍSTICAS:
 
@@ -11997,7 +11997,7 @@ Falha de Feitiço Arcano: 10%
 Especial:
   Esquiva Épica: O usuário tem 50% de chance de se esquivar automaticamente de qualquer dano que não seja veneno. Se este dano for proveniente de um ataque com arma, todos os efeitos de contato desse ataque também serão evitados.
 Peso: 1 kg (2 lb) ~
-@12497 = ~Couraça Heroica Completa +1 ~
+@12497 = ~Armadura Completa Heroica +1 ~
 @12498 = ~A armadura de placas completa é a melhor armadura que um guerreiro pode comprar, tanto em aparência quanto em proteção. As placas perfeitamente encaixadas e interligadas são especialmente anguladas para desviar flechas e golpes, e todo o traje é cuidadosamente adornado com ricas gravuras e detalhes em relevo. Com seus encantamentos mágicos, esta armadura de placas completa é ideal para guerreiros.
 
 ESTATÍSTICAS:
@@ -12010,7 +12010,7 @@ Falha de Feitiço Arcano: 35%
 Especial:
   Quando o PV estiver abaixo de 50%, o usuário ganha os efeitos da Inspiração Heroica, como se possuísse o talento.
 Peso: 22,5 kg (45 lb). ~
-@12499 = ~Meia-Placa de Especialização +4~
+@12499 = ~Armadura de Meia-Placa de Especialização +4~
 @12500 = ~Esta armadura é uma combinação de cota de malha com placas de metal cobrindo áreas vitais. Fivelas e tiras mantêm todo o traje unido e distribuem o peso, mas a armadura ainda é mais solta do que a armadura completa. Além disso, esta armadura de meia cota de malha é encantada e concede bônus adicionais à classe de armadura do usuário.
 
 ESTATÍSTICAS:
@@ -12024,7 +12024,7 @@ Especial:
   Bônus de Armadura Genérica: +5
   Penalidade de Ataque: -5
 Peso: 20 kg (40 lb) ~
-@12501 = ~Meia Cota de Malhas do Poder Sagrado +3~
+@12501 = ~Armadura de Meia Placa do Poder Sagrado +3~
 @12502 = ~Esta armadura é uma combinação de cota de malha com placas de metal cobrindo áreas vitais. Fivelas e tiras mantêm todo o traje unido e distribuem o peso, mas a armadura ainda é mais solta do que a armadura completa. Além disso, esta armadura de meia cota de malha é encantada e concede bônus adicionais à classe de armadura do usuário.
 
 ESTATÍSTICAS:
@@ -12037,7 +12037,7 @@ Falha de Feitiço Arcano: 40%
 Especial:
   Efeito Constante: O usuário está sob os efeitos da magia Poder Sagrado
 Peso: 20 kg (40 lb) ~
-@12503 = ~Couraça Completa +5~
+@12503 = ~Armadura Completa +5~
 @12504 = ~A armadura de placas completa é a melhor armadura que um guerreiro pode comprar, tanto em aparência quanto em proteção. As placas perfeitamente encaixadas e interligadas são especialmente anguladas para desviar flechas e golpes, e todo o traje é cuidadosamente adornado com ricas gravuras e detalhes em relevo. Com seus encantamentos mágicos, esta armadura de placas completa é ideal para guerreiros.
 
 ESTATÍSTICAS:
@@ -12048,7 +12048,7 @@ Bônus Máximo de Destreza: +1
 Penalidade de Teste com Armadura: -6
 Falha de Feitiço Arcano: 35%
 Peso: 15 kg (30 lb).~
-@12505 = ~Placa Completa Impenetrável +6 ~
+@12505 = ~Armadura Completa Impenetrável +6 ~
 @12506 = ~A armadura de placas completa é a melhor armadura que um guerreiro pode comprar, tanto em aparência quanto em proteção. As placas perfeitamente encaixadas e interligadas são especialmente anguladas para desviar flechas e golpes, e todo o traje é cuidadosamente adornado com ricas gravuras e detalhes em relevo. Com seus encantamentos mágicos, esta armadura de placas completa é ideal para guerreiros.
 
 ESTATÍSTICAS:
@@ -12061,7 +12061,7 @@ Falha de Feitiço Arcano: 35%
 Especial:
   Redução de Dano 15/+3
 Peso: 17,5 kg (35 lb) ~
-@12507 = ~Couraça Completa +10~
+@12507 = ~Armadura Completa +10~
 @12508 = ~A armadura de placas completa é a melhor armadura que um guerreiro pode comprar, tanto em aparência quanto em proteção. As placas perfeitamente encaixadas e interligadas são especialmente anguladas para desviar flechas e golpes, e todo o traje é cuidadosamente adornado com ricas gravuras e detalhes em relevo. Com seus encantamentos mágicos, esta armadura de placas completa é ideal para guerreiros.
 
 ESTATÍSTICAS:
@@ -12619,7 +12619,7 @@ Penalidade de Teste com Armadura: -10
 Falha de Feitiço Arcano: 50%
 Peso: 5 kg (10 lb).~
 @12601 = ~Armadura Mortal +3~
-@12602 = ~A cota de malha é uma variante da cota de malha em que as tiras de metal são aplicadas verticalmente ao suporte de corrente, couro ou tecido, em vez de horizontalmente como na cota de malha. Como o corpo humano não gira no meio do tronco tanto quanto se flexiona de trás para frente, a cota de malha é mais restritiva em batalha. Esta armadura em particular foi magicamente encantada para maior durabilidade e proteção.
+@12602 = ~A cota de tala é uma variante da cota de malha em que as tiras de metal são aplicadas verticalmente ao suporte de corrente, couro ou tecido, em vez de horizontalmente como na cota de malha. Como o corpo humano não gira no meio do tronco tanto quanto se flexiona de trás para frente, a cota de malha é mais restritiva em batalha. Esta armadura em particular foi magicamente encantada para maior durabilidade e proteção.
 
 ESTATÍSTICAS:
 
@@ -12672,8 +12672,8 @@ ESTATÍSTICAS:
 
 O usuário é imune a danos por ácido
 Peso: 1,5 kg (3 lb).~
-@12613 = ~Armadura de Couro com Resistência Elemental +5~
-@12614 = ~A armadura de couro é feita de múltiplas camadas de couro. Embora rígida e difícil de mover, é relativamente simples de fazer e fornece uma boa barreira contra o frio. É mais comumente vista em guerreiros e caçadores de tribos bárbaras do norte.
+@12613 = ~Armadura de Pele com Resistência Elemental +5~
+@12614 = ~A armadura de pele é feita de múltiplas camadas de couro. Embora rígida e difícil de mover, é relativamente simples de fazer e fornece uma boa barreira contra o frio. É mais comumente vista em guerreiros e caçadores de tribos bárbaras do norte.
 
 ESTATÍSTICAS:
 
@@ -12702,7 +12702,7 @@ ESTATÍSTICAS:
 
 Os feitiços divinos do portador duram 40% mais
 Peso: 0 kg~
-@12619 = ~Imunidade à Placa de Campo da Força +8~
+@12619 = ~Armadura de Campo da Imunidade da Força +8~
 @12620 = ~A armadura de campo é, na verdade, uma forma mais comum de armadura completa. Consiste em placas de metal moldadas e ajustadas, rebitadas e interligadas para cobrir todo o corpo. Esta armadura é feita de adamantite e foi magicamente aprimorada para maior proteção e durabilidade.
 
 ESTATÍSTICAS:
@@ -13247,8 +13247,8 @@ Especial:
 Peso: 2,5 kg (5 lb).
 Requisito de Talento: Arma Marcial, Arma de Haste
 Tipo: Duas Mãos~
-@12725 = ~Couro Cravejado da Furtividade Segura +5~
-@12726 = ~A armadura de couro cravejado tem pouco em comum com a armadura de couro comum. Enquanto a armadura de couro é uma casca endurecida, a armadura de couro cravejado é macia e flexível, com centenas de rebites de metal fixados. Os rebites estão tão próximos que formam uma camada flexível de metal duro que repele ataques cortantes e cortantes. O revestimento de couro macio é pouco mais do que um meio de fixar os rebites no lugar. Encantamentos mágicos aumentam as habilidades de proteção desta armadura de couro.
+@12725 = ~Couro Batido da Furtividade Segura +5~
+@12726 = ~A armadura de couro batido tem pouco em comum com a armadura de couro comum. Enquanto a armadura de couro é uma casca endurecida, a armadura de couro batido é macia e flexível, com centenas de rebites de metal fixados. Os rebites estão tão próximos que formam uma camada flexível de metal duro que repele ataques cortantes e cortantes. O revestimento de couro macio é pouco mais do que um meio de fixar os rebites no lugar. Encantamentos mágicos aumentam as habilidades de proteção desta armadura de couro.
 
 ESTATÍSTICAS:
 
@@ -13726,8 +13726,8 @@ ESTATÍSTICAS:
 
 Bônus de Armadura Genérico: +1
 Peso: 0,5 kg (1 lb)~
-@12833 = ~Armadura de Couro +1~
-@12834 = ~A armadura de couro é feita de múltiplas camadas de couro. Embora rígida e difícil de mover, é relativamente simples de fazer e fornece uma boa barreira contra o frio. É mais comumente vista em guerreiros e caçadores de tribos bárbaras do norte.
+@12833 = ~Armadura de Pele +1~
+@12834 = ~A armadura de pele é feita de múltiplas camadas de couro. Embora rígida e difícil de mover, é relativamente simples de fazer e fornece uma boa barreira contra o frio. É mais comumente vista em guerreiros e caçadores de tribos bárbaras do norte.
 
 ESTATÍSTICAS:
 
@@ -14033,7 +14033,7 @@ Especial:
   Em um acerto bem-sucedido, um goblin é invocado próximo ao alvo por 10 rodadas
 Peso: 0 kg
 Lançador: Arco~
-@12891 = ~Cota de Malha Completa~
+@12891 = ~Armadura Completa~
 @12892 = ~A armadura completa é a melhor armadura que um guerreiro pode comprar, tanto em aparência quanto em proteção. As placas perfeitamente encaixadas e interligadas são especialmente anguladas para desviar flechas e golpes, e todo o traje é cuidadosamente adornado com ricas gravuras e detalhes em relevo.
 
 ESTATÍSTICAS:

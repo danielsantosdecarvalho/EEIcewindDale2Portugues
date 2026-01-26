@@ -1530,7 +1530,7 @@ Tempo de Conjuração: 1
 Área de Efeito: 1 criatura
 Teste de Resistência: Nenhum
 
-Este feitiço imbuí as mãos do conjurador com uma poderosa carga elétrica que será liberada quando um toque bem-sucedido for realizado. O ataque causa 1d10 pontos de dano elétrico por nível do conjurador (máximo de 5d10). Se o alvo estiver usando armadura metálica (cota de malha, cota de anéis, meia armadura, armadura de campo ou armadura completa), o teste de ataque é feito com um bônus de +3. Este feitiço não provoca um ataque de oportunidade.~
+Este feitiço imbuí as mãos do conjurador com uma poderosa carga elétrica que será liberada quando um toque bem-sucedido for realizado. O ataque causa 1d10 pontos de dano elétrico por nível do conjurador (máximo de 5d10). Se o alvo estiver usando armadura metálica (cota de malha, cota de talas, meia armadura, armadura de campo ou armadura completa), o teste de ataque é feito com um bônus de +3. Este feitiço não provoca um ataque de oportunidade.~
 @1690 = ~Mordida de Cobra~
 @1691 = ~Mordida de Cobra
 Snakebite (Transmutação)
@@ -1718,7 +1718,7 @@ Tempo de Conjuração: 0
 Área de Efeito: 1 criatura
 Teste de Resistência: Nenhum
 
-Ao lançar este feitiço, o conjurador cria uma imagem do alvo que o seguirá. A imagem realizará todas as ações que o alvo fizer, forçando os oponentes a adivinhar qual imagem atacar. A imagem desaparecerá com um Dispel Magic bem-sucedido, quando for atacada ou quando a duração do feitiço acabar.~
+Ao lançar este feitiço, o conjurador cria uma imagem do alvo que o seguirá. A imagem realizará todas as ações que o alvo fizer, forçando os oponentes a adivinhar qual imagem atacar. A imagem desaparecerá com um Dissipar Magia bem-sucedido, quando for atacada ou quando a duração do feitiço acabar.~
 @1734 = ~Armadura Fantasmal~
 @1735 = ~Armadura Fantasmal
 Ghost Armor (Conjuração)
@@ -2701,7 +2701,7 @@ Esta gema possui uma alma aprisionada por magia negra. Alguém habilidoso com tal
 
 Esta gema possui uma alma aprisionada por magia negra. Alguém habilidoso com tal magia pode consumir a alma completamente para se tornar mais forte ou recarregar um item mágico. Fazer isso destrói a gema.~
 @30138=~Pedra Ladina - Com Alma~
-@30139=~Uma pequena pedra preciosa iridescente, mutável e com as cores do arco-íris. Os tons fluidos da cor parecem quase líquidos sob a luz solar normal; é realmente uma bela vista. Pedras errantes são extremamente raras e usadas para o feitiço salto de gema, sendo, portanto, uma das gemas mais procuradas nos Reinos.
+@30139=~Uma pequena pedra preciosa iridescente, mutável e com as cores do arco-íris. Os tons fluidos da cor parecem quase líquidos sob a luz solar normal; é realmente uma bela vista. Pedras Ladina são extremamente raras e usadas para o feitiço salto de gema, sendo, portanto, uma das gemas mais procuradas nos Reinos.
 
 Esta gema possui uma alma aprisionada por magia negra. Alguém habilidoso com tal magia poderia consumir a alma completamente para se tornar mais forte ou recarregar um item mágico. Fazer isso destrói a gema.~
 @30140=~Bônus de Ataque - Momento de Presciência~
@@ -3885,7 +3885,7 @@ Tempo de Conjuração: 6
 Área de Efeito: Raio de 6 metros (20 pés)
 Teste de Resistência: Nenhum
 
-Este feitiço torna todo o metal na área de efeito extremamente quente. Criaturas sofrem 2d6 de dano de fogo para cada mão que estiver segurando uma arma ou escudo de metal. Além disso, elas sofrem 4d6 de dano de fogo se estiverem usando cota de malha, armadura de lâminas ou armadura de placas (meia ou total).
+Este feitiço torna todo o metal na área de efeito extremamente quente. Criaturas sofrem 2d6 de dano de fogo para cada mão que estiver segurando uma arma ou escudo de metal. Além disso, elas sofrem 4d6 de dano de fogo se estiverem usando cota de malha, cota de talas ou armadura de placas (meia ou completa).
 
 Uma criatura também sofre 10d6 de dano de fogo se estiver sob o efeito de Pele de Ferro, e 20d6 de dano de fogo se estiver sob o efeito de Corpo de Ferro ou for feita de metal (embora golems de ferro sejam imunes ao fogo).~
 @35258 = ~Tornar Inteiro~
@@ -3915,8 +3915,8 @@ Este feitiço aquece todo o equipamento de metal que a criatura alvo estiver usan
 
 Tem arma ou escudo de metal de uma mão: 2d6 por item
 Tem arma de metal de duas mãos equipada: 4d6
-Usando cota de malha ou armadura de lâminas: 6d6
-Usando meia placa, armadura de campo ou armadura completa: 8d6
+Usando cota de malha ou cota de talas: 6d6
+Usando armadura de meia placa, armadura de campo ou armadura completa: 8d6
 Tem Pele de Ferro ativa: 10d6
 Tem Corpo de Ferro ativo ou é um criatura feita de metal: 15d6
 
