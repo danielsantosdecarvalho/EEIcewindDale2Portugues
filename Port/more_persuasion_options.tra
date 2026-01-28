@@ -4,7 +4,7 @@
 @6001=~Somos pagos para proteger Targos, e fizemos isso. Que lugar é este?~
 @6002=~Somos pagos para proteger Targos, e fizemos isso. Que lugar é este mesmo?~
 @6003=~Não questione meus métodos. Arrisquei minha vida ao fazer aquele acordo, e agora preciso de suprimentos.~
-@6004=~Cada companhia serve um rodízio na Palisade. Ultimamente, a maior parte dos nossos esforços tem se concentrado na construção da Palisade, em vez de na sua manutenção. Nesse sentido, temos um problema. Você está a fim de uma missão especial? Ou prefere se ater a um rodízio simples?~
+@6004=~Cada companhia serve um rodízio na Paliçada. Ultimamente, a maior parte dos nossos esforços tem se concentrado na construção da Paliçada, em vez de na sua manutenção. Nesse sentido, temos um problema. Você está a fim de uma missão especial? Ou prefere se ater a um rodízio simples?~
 @6005=~Estamos prontos para ajudar. O que precisa ser feito?~
 @6006=~Não temos interesse em missões especiais. Preferimos tomar nossos postos e esperar até que os goblins ataquem novamente.~
 @6007=~Muito bem. Tomem seus postos e retornem para mim após oito horas.~
@@ -20,14 +20,14 @@
 @6017=~Boa escolha.~
 @6018=~Você voltou. Como vai a batalha?~
 @6019=~Estranhamente, conseguimos fazer um acordo com Guthma, o líder da horda.~
-@6020=~Aparentemente, Guthma estava descontente com a lealdade de seu clã à Legião — ou, pelo menos, à sua aparente superior, uma mulher meio-dragão chamada Sherincal. Parece que a Legião tem contado com Guthma para fazer a maior parte do trabalho de atacar Targos, e ele se ressente de ter seu clã arcando com a maior parte dos riscos enquanto a Legião contribui pouco.~
+@6020=~Aparentemente, Guthma estava descontente com a lealdade de seu clã à Legião - ou, pelo menos, à sua aparente superior, uma mulher meio-dragão chamada Sherincal. Parece que a Legião tem contado com Guthma para fazer a maior parte do trabalho de atacar Targos, e ele se ressente de ter seu clã arcando com a maior parte dos riscos enquanto a Legião contribui pouco.~
 @6021=~Suponho que isso seja uma boa notícia, se nossos inimigos estão divididos.~
 @6022=~Convencemos Guthma a evitar atacar Targos até que a Legião decida intervir e contribuir com suas próprias forças. Quando a Legião estiver enfraquecida pela luta contra Targos, Guthma os atacará. Ele ainda tem a intenção de destruir Targos, mas não veremos outro ataque por semanas, se não meses. Isso nos dá bastante tempo.~
 @6023=~Não é uma solução perfeita, mas fiquei surpreso que fosse possível. Não vejo sinal do meu companheiro, Braston. Você sabe o que aconteceu com ele?~
 @6024=~Receio que ele esteja preso na fortaleza. Tentamos convencer Guthma a soltá-lo, mas ele recusou. Provavelmente ficará lá por muito tempo, Ennelia.~
 @6025=~Receio que ele esteja morto.~
-@6026=~Oh... entendo. Pelo menos... pelo menos ele não está morto. Vou esperar por ele. Volte para a cidade. Eu—eu encontrarei meu caminho até lá em breve.~
-@6027=~Oh... isso é uma notícia terrível. Volte para a cidade. Eu—eu encontrarei meu caminho até lá em breve... *snif*~
+@6026=~Oh... entendo. Pelo menos... pelo menos ele não está morto. Vou esperar por ele. Volte para a cidade. Eu-eu encontrarei meu caminho até lá em breve.~
+@6027=~Oh... isso é uma notícia terrível. Volte para a cidade. Eu-eu encontrarei meu caminho até lá em breve... *snif*~
 @6028=~Um acordo? Com a horda?~
 @6029=~E a Legião da Quimera é a próxima, certo?~
 @6030=~O QUÊ? O que você ouviu?~
@@ -56,7 +56,7 @@
 @6053=~Receio que eu insista em trazê-lo para casa. A esposa dele está esperando por ele.~
 @6054=~Isso não é aceitável. Não posso sair sem ele.~
 @6055=~Então você não está aqui pelo ouro! Está aqui para recuperar um espião, e EU NÃO VOU PERMITIR!~
-@6056=~Eu sei quem eles são! São os que destruíram o castelo de gelo! E mataram meu irmão, então eu fui procurá-los, me perdi, vi a fumaça e achei a vila, e foi quando eu vi você e então—~
+@6056=~Eu sei quem eles são! São os que destruíram o castelo de gelo! E mataram meu irmão, então eu fui procurá-los, me perdi, vi a fumaça e achei a vila, e foi quando eu vi você e então-~
 @6057=~Eu sei quem eles são! São os que destruíram o castelo de gelo! Eles, eles—~
 @6058=~Eles estão mentindo, são, são... mentirosos mentirosos! Eles fizeram isso, eu vi com meus próprios olhos!~
 @6059=~Espere! Não a deixe—ack! Urk... *gargarejo*...~
@@ -119,7 +119,7 @@
 @6116=~Oh. Isso é surpreendente. Vou apenas me livrar desta praga, então. *Hm-hm-hm!*~
 @6117=~Ajudar a aldeia? Não, não, não; não estou aqui para salvar vilarejos. Só estou de passagem. Tenho lugares para ir e coisas a fazer.~
 @6118=~Espere, nós tínhamos um acordo—ajudaríamos você a encontrar as crianças e você nos diria como atravessar a Floresta Sombria.~
-@6119=~Sim... e é por isso que eu queria falar com você. Se pretende continuar viajando para o leste, precisa passar pela assombrada Floresta Caída. A trilha para os Pântanos Frios além da floresta é difícil de encontrar... nesta vila, só eu conheço o caminho.~
+@6119=~Sim... e é por isso que eu queria falar com você. Se pretende continuar viajando para o leste, precisa passar pela assombrada Floresta Devastada. A trilha para os Pântanos Frios além da floresta é difícil de encontrar... nesta vila, só eu conheço o caminho.~
 @6120=~Tenho certeza de que você está aqui para nos ajudar, quer saiba ou não. Perdoe-me, mas ainda não posso lhe dar suas respostas. Preciso pedir que fale com Venla, a Curandeira, primeiro — ela lhe dirá o que deve ser feito. Por favor, ajude-nos, e nós o ajudaremos em troca.~
 @6121=~Acho que você não me entendeu. Não me importo com seus sonhos—não vou correr atrás de tarefas para alguma velha bárbara. Se você sabe como atravessar estas florestas, então *me diga* como atravessá-las.~
 @6122=~Acho que você não me entendeu. Não me importo com suas visões — não vou fazer recados para alguma velha bruxa. Se você sabe como atravessar essa floresta, então vai *me dizer* como atravessar essa floresta.~
@@ -128,7 +128,7 @@
 @6125=~Preciso insistir. Nossa aldeia está em necessidade, e não podemos resolver esses problemas sozinhos.~
 @6126=~Tudo bem. Se você é tão teimosa assim, vou falar com Venla.~
 @6127=~Escute, sua velha bárbara — se não nos mostrar o caminho pela floresta, terá problemas muito maiores do que um balde desaparecido ou um lobo raivoso. Vi seu bando de caçadores magricelas vindo para cá, e não acho que nenhum deles vá nos impedir se sacarmos aço contra esta vila. Você pode nos mostrar o caminho pela floresta agora, ou pode nos avisar quando estivermos retalhando seu povo.~
-@6128=~E... Entendo. Não, vocês não são os andarilhos que eu esperava. Muito bem... se deixarem nossa vila em paz, eu lhes direi. Há um certo tipo de monstro na Floresta Caída, abominações horríveis conhecidas como treants sombrios. É a influência distorcida deles que esconde o verdadeiro caminho até vocês. Destruam-nos e o caminho ficará livre. Vocês podem encontrá-los a sudeste da primeira clareira.~
+@6128=~E... Entendo. Não, vocês não são os andarilhos que eu esperava. Muito bem... se deixarem nossa vila em paz, eu lhes direi. Há um certo tipo de monstro na Floresta Devastada, abominações horríveis conhecidas como treants sombrios. É a influência distorcida deles que esconde o verdadeiro caminho até vocês. Destruam-nos e o caminho ficará livre. Vocês podem encontrá-los a sudeste da primeira clareira.~
 @6129=~É bom que esse seja o caminho certo. Se eu não conseguir atravessar essa floresta com as suas instruções, eu volto.~
 @6130=~Eu entendo, e somos gratos, mas nossos problemas não acabam com as crianças desaparecidas. Também temos um problema com um espectro local. Tahvo, o Mestre da Caça, pode contar mais.~
 @6131=~Suoma, sua aldeia não é minha única prioridade aqui. Sou necessário em outro lugar. Preciso que me diga como atravessar a Floresta Sombria.~
@@ -141,7 +141,7 @@
 @6138=~Não posso mostrar o caminho adiante até que nossas necessidades sejam atendidas. Eu previ que vocês nos ajudariam, e não temos mais ninguém a quem pedir.~
 @6139=~Nós te ajudamos. Nosso trabalho aqui está feito. Agora é hora de seguir em frente. Estamos em uma missão de Targos e não vamos ficar aqui esperando permissão para fazer nosso trabalho. Se você não nos ajudar, encontraremos nosso próprio caminho.~
 @6140=~Desculpe, mas a resposta é não. Se você não disser como atravessar a floresta, vamos encontrar um jeito sem sua ajuda.~
-@6141=~Muito bem. Agradeço o que você fez por nós, então vou lhe dizer como escapar da floresta. Há um certo tipo de monstro na Floresta Caída, abominações horríveis conhecidas como treants sombrios. É a influência distorcida deles que esconde o verdadeiro caminho até você. Destrua-os e o caminho ficará livre. Você pode encontrá-los a sudeste da primeira clareira.~
+@6141=~Muito bem. Agradeço o que você fez por nós, então vou lhe dizer como escapar da floresta. Há um certo tipo de monstro na Floresta Devastada, abominações horríveis conhecidas como treants sombrios. É a influência distorcida deles que esconde o verdadeiro caminho até você. Destrua-os e o caminho ficará livre. Você pode encontrá-los a sudeste da primeira clareira.~
 @6142=~Obrigado, Suoma.~
 @6143=~Você de novo...~
 @6144=~Como faço para atravessar a Floresta Sombria mesmo?~
@@ -250,7 +250,7 @@
 @6247=~Anos de trabalho foram investidos nesta Legião. Expandimos nossas alianças, nossas conexões e nossos cofres muito além das Dez Cidades. Começamos do nada, mas hoje somos a maior força da região. Já conquistamos tudo isso. Quanto à escravização... bem, os escravos já reconstruíram a Mão Decepada, não é mesmo?~
 @6248=~Você superestima a força de suas conexões. Guthma desprezava Sherincal e a Legião — até nossa chegada, ele planejava destruir a Legião assim que terminasse com Targos. Nenhum de seus aliados tem qualquer lealdade real à Legião ou aos seus objetivos. Seus *aliados* não passam de oportunistas se aproveitando do caos que você gera. No momento em que sentirem que seus interesses estão ameaçados, abandonarão a Legião sem pensar duas vezes.~
 @6249=~Quanto tempo você acha que isso vai durar, Isair? Temos todas as Dez Cidades do nosso lado. Seus amigos não vão ficar quando as coisas ficarem difíceis.~
-@6250=~Difíceis? Você não tem ideia do que Madae e eu já passamos, mercenário. Lutamos desde as ruas de Luskan até o Abismo dos Nove Infernos.~
+@6250=~Difíceis? Você não tem ideia do que Madae e eu já passamos, mercenário. Lutamos desde as ruas de Luskan até o Abismo e os Nove Infernos.~
 @6251=~Não é só você e Madae, Isair. Estou falando da fraqueza da própria Legião.~
 @6252=~Vocês, mercenários, estão vagando pela natureza selvagem há semanas. Sua compreensão dos eventos atuais é fraca, para dizer o mínimo. Já estabelecemos novos contatos e novos projetos com todos, desde Thay até a Cabala dos Dragões e o próprio Iyachtu Xvim. A Mão Decepada em si é o resultado de inúmeras organizações trabalhando em conjunto. Será que os "oportunistas" teriam dedicado seus próprios recursos ao sucesso da Legião?~
 @6253=~Por que oportunistas diriam o contrário? É do interesse deles dizer que estão do seu lado. Mas veja do ponto de vista deles: a horda de goblins está destruída. Os Aurilitas estão destruídos. Os driders estão destruídos. O Olho do Dragão está destruído. Até a Mão Decepada está se desintegrando. Seus aliados continuam sendo destruídos... e os sobreviventes notaram. Estamos dançando em volta da Mão Decepada porque nenhum dos seus aliados se importa o suficiente com a sua segurança para monitorar os corredores adequadamente. Por que eles arriscariam o pescoço por você? Você *quer* acreditar que todos estão do seu lado, mas a verdade é que ninguém neste mundo realmente se importa com as aberrações e mestiços deste mundo - nem mesmo as *outras* aberrações e mestiços.~
@@ -352,7 +352,7 @@
 @6349=~Madae... o que foi isso? O que está acontecendo comigo?~
 @6350=~Unificação? Solidariedade? Escravidão? Pelo que vi, a Legião não é forte o suficiente para alcançar nenhuma dessas coisas.~
 @6351=~O que destruir Targos e as Dez Cidades tem a ver com unir os mestiços do mundo?~
-@6352=~Olhe ao seu redor, mercenário. Já controlamos a Mão Decepada. Você está cercado pelas forças mais fortes de toda Icewind Dale, além de aliados fora do Plano Material.~
+@6352=~Olhe ao seu redor, mercenário. Já controlamos a Mão Decepada. Você está cercado pelas forças mais fortes de todo Icewind Dale—além de aliados fora do Plano Material.~
 @6353=~Não haverá paz para a nossa espécie enquanto a sua "civilização" existir. A humanidade subjuga os mestiços de Faerûn desde que a história existe. Aprendemos há muito tempo que a humanidade jamais toleraria "coexistência pacífica" conosco — precisamos derrubá-los de seu poleiro e tomar o trono para nós.~
 @6354=~Mas por que se estabelecer aqui? A humanidade já controla este território. No entanto, existem inúmeros outros lugares onde a Legião e seus semelhantes poderiam se abrigar. Há terras inexploradas em Chult, ilhas do outro lado do mar onde grandes extensões de água formariam um muro contra a humanidade — você poderia até viajar para Zakhara e estabelecer seu lar lá. Este é o pior lugar que você poderia escolher para estabelecer seu povo.~
 @6355=~Em outras palavras, vocês só querem trocar uma injustiça por outra.~
